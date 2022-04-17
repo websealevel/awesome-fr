@@ -43,6 +43,8 @@ Choisissez vos outils préférés et intégrez les à votre workflow pour vous a
     - [Formations](#formations)
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
+  - [Générateur de mots de passe](#générateur-de-mots-de-passe)
+  - [Suivi de projets](#suivi-de-projets)
   - [Banques de ressources](#banques-de-ressources)
 
 
@@ -278,11 +280,19 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [carbon fields](https://carbonfields.net/), alternative gratuite à ACF Pro
 
 
+## Générateur de mots de passe
 
+- [xkpasswd](https://xkpasswd.net/s/), creer des mots de passes sécurisé ET faciles à retenir (si vous devez le faire)
+
+## Suivi de projets
+
+- [clickup](https://clickup.com/), alternative grauite à Figma, plus facile à prendre en main et bourré de toutes les fonctionnalités nécessaires !
 
 ## Banques de ressources
 
 - [webcode.tools](https://webcode.tools/)
 - [omatsuri](https://omatsuri.app/)
+- [Jonas' Resources for Hand-Crafting
+Beautiful and Performant Websites](https://codingheroes.io/resources/)
 
 
