@@ -389,11 +389,12 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
 - [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
 - [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
-- [Same-origin policy: The core of web security @ OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP merveilleusement bien expliquée
+- [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP merveilleusement bien expliquée
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald mais le bougre est intelligent et pertinent
 - [Noise based RNG](https://youtu.be/LWFzPP8ZbdU)
-- [I used Elm in production and it cost me my job – Annaia Berry](https://youtu.be/RFrKffrKCeU)
+- [I used Elm in production and it cost me my job, Annaia Berry](https://youtu.be/RFrKffrKCeU)
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
+- [The Art of Code, Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 
 
 ### La vérité par l'humour
