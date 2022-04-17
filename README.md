@@ -144,7 +144,7 @@ Expérimenter et créer des animations CSS
 
 ### Gradients
 
-- [ui gradients](uigradients. com/)
+- [ui gradients](uigradients.com)
 
 ### Layouts
 
