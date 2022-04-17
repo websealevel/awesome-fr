@@ -6,7 +6,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 *No time to loose !*
 
-- [Ressources pour les développeuses et les développeurs, et les intéressé·es de la tech](#ressources-pour-les-développeuses-et-les-développeurs-et-les-intéressées-de-la-tech)
+## Table des matières
+
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
