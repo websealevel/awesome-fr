@@ -445,7 +445,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Rich Hickey
 
-Et oui, Rich Hickey a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
+Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
 
 ## Banques de ressources
 
