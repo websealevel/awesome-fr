@@ -22,19 +22,19 @@ Choisissez vos outils préférés et intégrez les à votre workflow pour vous a
     - [Backgrounds](#backgrounds)
     - [Pixel art](#pixel-art)
     - [Design aggregators](#design-aggregators)
-  - [Page builders](#page-builders)
-  - [Documentation et articles de référence](#documentation-et-articles-de-référence)
+    - [DOM](#dom)
+    - [Documentation et articles de référence](#documentation-et-articles-de-référence)
   - [Check, check, check](#check-check-check)
     - [Code](#code)
     - [Est ce que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
     - [Contraste](#contraste)
-    - [DOM](#dom)
     - [SEO](#seo)
+  - [Page builders](#page-builders)
   - [Analytics](#analytics)
   - [Browser extensions](#browser-extensions)
-  - [Inclassables](#inclassables)
   - [API](#api)
   - [Fake data generators](#fake-data-generators)
+  - [Inclassables](#inclassables)
   - [Wordpress](#wordpress)
     - [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
     - [Articles](#articles)
@@ -44,8 +44,8 @@ Choisissez vos outils préférés et intégrez les à votre workflow pour vous a
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
   - [Générateur de mots de passe](#générateur-de-mots-de-passe)
-  - [Langages](#langages)
-    - [PHP](#php)
+  - [Languages specific](#languages-specific)
+    - [php ressources](#php-ressources)
   - [Suivi de projets](#suivi-de-projets)
   - [Bons articles](#bons-articles)
   - [Banques de ressources](#banques-de-ressources)
@@ -163,16 +163,17 @@ Expérimenter et créer des animations CSS
 - [ui garage](https://uigarage.net/)
 - [collect ui](https://collectui.com/)
 
-## Page builders
+### DOM
 
-- [swipepages](https://swipepages.com/)
+- [testing playground][https://testing-playground.com/)
 
-## Documentation et articles de référence
+### Documentation et articles de référence
 
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 - [how to draw an svg in Inscape](https://www.youtube.com/watch?v=PSl1c6kYfHs)
+
 
 ## Check, check, check
 
@@ -191,14 +192,16 @@ Expérimenter et créer des animations CSS
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 
-### DOM
-
-- [testing playground][https://testing-playground.com/)
 
 ### SEO
 
 - [siteliner](https://siteliner.com/), find duplicate content on your site
 
+
+
+## Page builders
+
+- [swipepages](https://swipepages.com/)
 
 ## Analytics
 
@@ -207,9 +210,9 @@ Expérimenter et créer des animations CSS
 
 ## Browser extensions
 
-## Inclassables
+A venir
 
-- [readme](https://readme.so/fr), créer un readme de manière simple
+
 
 
 ## API
@@ -222,6 +225,11 @@ Expérimenter et créer des animations CSS
 ## Fake data generators
 
 - [random users](https://xsgames.co/randomusers/)
+
+
+## Inclassables
+
+- [readme](https://readme.so/fr), créer un readme de manière simple
 
 ## Wordpress
 
@@ -288,9 +296,9 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [xkpasswd](https://xkpasswd.net/s/), creer des mots de passes sécurisé ET faciles à retenir (si vous devez le faire)
 
 
-## Langages
+## Languages specific
 
-### PHP
+### php ressources
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [PHP: The Right Way](https://phptherightway.com/) is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
