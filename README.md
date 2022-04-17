@@ -2,7 +2,7 @@
 
 Une liste d'outils **gratuits** pour les développeurs.
 
-Choisissez vos outils préférés et intégrez les à votre workflow pour vous aider à produire du design de qualité et plus efficacement. 
+Choisissez vos outils préférés et intégrez les à votre workflow pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
 *No time to loose !*
 
