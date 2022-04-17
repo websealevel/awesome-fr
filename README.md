@@ -32,7 +32,6 @@
   - [Wordpress](#wordpress)
     - [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
     - [Articles](#articles)
-      - [Taxonomies](#taxonomies)
     - [Livres](#livres)
     - [Podcasts](#podcasts)
     - [Formations](#formations)
@@ -232,8 +231,6 @@ Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrou
 
 
 ### Articles
-
-#### Taxonomies
 
 - [WordPress Taxonomies: The Ultimate Guide](https://ithemes.com/blog/wordpress-taxonomies)
 - [WordPress Permalinks: The Essential Guide](https://ithemes.com/blog/wordpress-permalinks)
