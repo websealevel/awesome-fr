@@ -61,10 +61,10 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Conférences](#conférences)
     - [La vérité par l'humour](#la-vérité-par-lhumour)
     - [Génération procédurale](#génération-procédurale)
-  - [GDC](#gdc)
-  - [Computer graphics](#computer-graphics)
-  - [Functional programming](#functional-programming)
-  - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
+    - [GDC](#gdc)
+    - [Computer graphics](#computer-graphics)
+    - [Functional programming](#functional-programming)
+    - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
     - [Chaînes](#chaînes)
     - [Playlists](#playlists)
   - [Rich Hickey](#rich-hickey)
@@ -408,20 +408,20 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://youtu.be/S9pc8li4fuQ)
 - [End-to-End Procedural Generation in Caves of Qud](https://youtu.be/jV-DZqdKlnE)
 
-## GDC
+### GDC
 
 - [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
 - [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
 
-## Computer graphics
+### Computer graphics
 
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
 
-## Functional programming
+### Functional programming
 
 - [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
 
-## Créativité, modèles mentaux
+### Créativité, modèles mentaux
 
 - [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
