@@ -78,6 +78,11 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 - [typescale](https://type-scale.com/), creer facilement un système de tailles de font à suivre
 - [typography principles](https://typographyprinciples.obys.agency/alignments/), un guide pour apprendre les principes de la typo
+- [fontjoy](https://fontjoy.com/), trouver facilement des combinaisons de fonts qui fonctionnent
+- [google-type](https://femmebot.github.io/google-type/), trouver facilement des combinaisons de fonts qui fonctionnent
+- [fontsquirrel](https://www.fontsquirrel.com/), bibliothèque de fonts libres pour usage commercial
+- [fontsinuse](https://fontsinuse.com/), bilbiothèque de typos
+- [fontfabric](https://www.fontfabric.com/font-tester/), tester rapidement ses fonts
 
 ### Palettes de couleurs
 
