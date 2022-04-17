@@ -39,7 +39,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
     - [Articles](#articles)
     - [Livres](#livres)
-    - [Podcasts[podcasts-php]](#podcastspodcasts-php)
+    - [Podcasts {#podcasts-php}](#podcasts-podcasts-php)
     - [Formations](#formations)
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
@@ -261,7 +261,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - *[Professional WordPress Plugin Development](https://www.pdfdrive.com/professional-wordpress-plugin-developmen-4074kb-jun-27-2012-120000-am-e42772568.html)* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
 - *[Modern PHP: new features and good practices](https://www.pdfdrive.com/modern-php-e34337192.html)*, Josh Lochart, Edition O'REILLY, 2015
 
-### Podcasts[podcasts-php]
+### Podcasts {#podcasts-php}
 
 - https://phproundtable.com/episode/all-things-wordpress
 - https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/
@@ -323,7 +323,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Podcasts
 
-- [podcasts php](#podcastspodcasts-php)
+- [podcasts php](#podcasts-podcasts-php)
 - [syntax](https://syntax.fm/)
 - [html all the things](https://www.htmlallthethings.com/), web development, web design and small business
 
