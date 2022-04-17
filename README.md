@@ -107,14 +107,14 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 - [drawkit](https://drawkit.com/)
 - [undraw](https://undraw.co/)
 - [compresseur](https://squoosh.app/)
-- [noun project](https://thenounproject.com/), free icons and stock photos 
+- [noun project](https://thenounproject.com/)
 - [fake images please?](https://fakeimg.pl/)
 - [freepik](https://www.freepik.com/)
 
 ### CSS generators
 
 - [neumorphism](https://neumorphism.io/#e0e0e0), generer de l'UI en pure CSS
-- [glassmorphism](https://hype4.academy/tools/glassmorphism-generator), glass effect
+- [glassmorphism](https://hype4.academy/tools/glassmorphism-generator), effet verre
 - [gloweffect](https://codersblock.com/blog/creating-glow-effects-with-css/), generer des glow effects
 - [underline generator](https://underline-generator.netlify.app/)
 - [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), creez vos rubans
@@ -122,7 +122,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 ### SVG/Shapes generators
 
 - [getwaves](https://getwaves.io/), faites des vagues
-- [blobmakers], creer des formes uniques et organiques en svg rapidement
+- [blobmakers](https://www.blobmaker.app/), creer des formes uniques et organiques en svg rapidement
 - [clip path maker](https://bennettfeely.com/clippy/), creer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 
@@ -157,7 +157,7 @@ Expérimenter et créer des animations CSS
 
 - [waterpipes generator](http://dragdropsite.github.io/waterpipe.js/)
 - [magic grid](https://github.com/e-oj/Magic-Grid)
-- [scroll reavel](https://scrollrevealjs.org/), scrolling animations and flow
+- [scroll reavel](https://scrollrevealjs.org/), animer le scrolling de vos pages webs
 
 
 ### Backgrounds
@@ -200,10 +200,10 @@ Expérimenter et créer des animations CSS
 
 ### Code
 
-- [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de la page web
+- [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de vos pages web
 - [can i use...](https://caniuse.com/)
 
-### Est ce que j'oublie un truc ?
+### Est-ce-que j'oublie un truc ?
 
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html), des ressources pour votre landing page et s'assurez de n'avoir rien oublié d'important
 - [Front-end checklist](https://frontendchecklist.io/)
@@ -216,8 +216,7 @@ Expérimenter et créer des animations CSS
 
 ### SEO
 
-- [siteliner](https://siteliner.com/), find duplicate content on your site
-
+- [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 
 
 ## Page builders
@@ -314,7 +313,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Générateur de mots de passe
 
-- [xkpasswd](https://xkpasswd.net/s/), creer des mots de passes sécurisé ET faciles à retenir (si vous devez le faire)
+- [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisé ET faciles à retenir (si vous devez le faire)
 
 
 ## Languages specific
@@ -327,11 +326,11 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Suivi de projets
 
-- [clickup](https://clickup.com/), alternative grauite à Figma, plus facile à prendre en main et bourré de toutes les fonctionnalités nécessaires !
+- [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
 
 ## Ebooks
 
-  Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez !
+  Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez 
 
 ### General
 
@@ -391,7 +390,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
 - [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
 - [Same-origin policy: The core of web security @ OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP merveilleusement bien expliquée
-- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald mais qu'il est bon
+- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald mais le bougre est intelligent et pertinent
 - [Noise based RNG](https://youtu.be/LWFzPP8ZbdU)
 - [I used Elm in production and it cost me my job – Annaia Berry](https://youtu.be/RFrKffrKCeU)
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
@@ -428,7 +427,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ### Chaînes
 
-- [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde. Regardez juste toutes leurs vidéos
+- [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
 - [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
 - [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ),conférences sous-titrées en français (Physique, tech)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
@@ -436,7 +435,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 ### Playlists
 
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
-- [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes.
+- [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 
 ## Rich Hickey
 
