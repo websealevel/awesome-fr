@@ -9,6 +9,7 @@ Choisissez vos outils préférés et intégrez les à votre workflow pour vous a
 ### Typographies/Fonts
 
 - [typescale](https://type-scale.com/), creer facilement un système de tailles de font à suivre
+- [typography principles](https://typographyprinciples.obys.agency/alignments/), un guide pour apprendre les principes de la typo
 
 ### Palettes de couleurs
 
@@ -102,6 +103,19 @@ Expérimenter et créer des animations CSS
 - [pixel art to css](https://t.co/6eyHLm8PUE)
 
 
+### Design aggregators
+
+- le web !
+- [land-book](https://land-book.com/)
+- [onepagelove](https://onepagelove.com/)
+- [awwwards](https://www.awwwards.com/)
+- [screenlane](https://screenlane.com/)
+- [webdesign inspiration](https://www.webdesign-inspiration.com/fr/)
+- [dribble](https://dribbble.com/)
+- [landingfolio](https://landingfolio.com/?offset=1), designs de landing pages
+- [ui garage](https://uigarage.net/)
+- [collect ui](https://collectui.com/)
+
 ## Page builders
 
 - [swipepages](https://swipepages.com/)
@@ -130,10 +144,13 @@ Expérimenter et créer des animations CSS
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 
+### DOM
 
+- [testing playground][https://testing-playground.com/)
 
+### SEO
 
-
+- [siteliner](https://siteliner.com/), find duplicate content on your site
 
 
 ## Analytics
@@ -154,6 +171,10 @@ Expérimenter et créer des animations CSS
 - [fakerapi](https://fakerapi.it/en/)
 - [wordsapi](https://www.wordsapi.com/)
 - [catfacts](https://alexwohlbruck.github.io/cat-facts/)
+
+## Fake data generators
+
+- [random users](https://xsgames.co/randomusers/)
 
 ## Banques de ressources
 
