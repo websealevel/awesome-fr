@@ -315,7 +315,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Ebooks
 
-- [pdfdrive](https://www.pdfdrive.com/), site incroyable. Vous trouverez certainement ici le bouquin que vous cherchez !
+  Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez !
 
 ### Software design
 
