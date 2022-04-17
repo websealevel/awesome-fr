@@ -1,6 +1,6 @@
 # Ressources pour les devs (freelance)
 
-Une liste d'outils **gratuits** pour les développeurs, soigneusement sélectionés. Cette liste ne se veut pas exhaustive (il y'en a tellement de toute façon), elle liste un ensemble d'outils approuvés.
+Une liste d'outils et de ressources culturelles (podcasts, vidéos, conférences...) **gratuites** pour les développeurs, sélectionés avec du nez et de l'amour. Cette liste ne se veut pas exhaustive (il y'en a tellement de toute façon) !
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
