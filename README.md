@@ -38,8 +38,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Wordpress](#wordpress)
     - [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
     - [Articles](#articles)
-    - [Livres](#livres)
-    - [Podcasts {#podcasts-php}](#podcasts-podcasts-php)
+    - [Livres de développement wordpress](#livres-de-développement-wordpress)
+    - [Podcasts sur wordpress](#podcasts-sur-wordpress)
     - [Formations](#formations)
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
@@ -48,6 +48,9 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [php ressources](#php-ressources)
   - [Suivi de projets](#suivi-de-projets)
   - [Ebooks](#ebooks)
+    - [Software design](#software-design)
+    - [Wordpress](#wordpress-1)
+    - [Web application security](#web-application-security)
   - [Bons articles](#bons-articles)
   - [Podcasts](#podcasts)
   - [Banques de ressources](#banques-de-ressources)
@@ -253,7 +256,7 @@ Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrou
 - [WordPress Taxonomies: The Ultimate Guide](https://ithemes.com/blog/wordpress-taxonomies)
 - [WordPress Permalinks: The Essential Guide](https://ithemes.com/blog/wordpress-permalinks)
 
-### Livres
+### Livres de développement wordpress
 
 A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
@@ -261,7 +264,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - *[Professional WordPress Plugin Development](https://www.pdfdrive.com/professional-wordpress-plugin-developmen-4074kb-jun-27-2012-120000-am-e42772568.html)* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
 - *[Modern PHP: new features and good practices](https://www.pdfdrive.com/modern-php-e34337192.html)*, Josh Lochart, Edition O'REILLY, 2015
 
-### Podcasts {#podcasts-php}
+### Podcasts sur wordpress
 
 - https://phproundtable.com/episode/all-things-wordpress
 - https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/
@@ -315,6 +318,22 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [pdfdrive](https://www.pdfdrive.com/), site incroyable. Vous trouverez certainement ici le bouquin que vous cherchez !
 
+### Software design
+
+- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html
+- [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
+
+
+### Wordpress
+
+- [voir ici](#livres-de-développement-wordpress)
+
+
+### Web application security
+
+- [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
+
+
 ## Bons articles
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/)
@@ -323,9 +342,10 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Podcasts
 
-- [podcasts php](#podcasts-podcasts-php)
+- [podcasts sur wordpress](#podcasts-sur-wordpress)
 - [syntax](https://syntax.fm/)
 - [html all the things](https://www.htmlallthethings.com/), web development, web design and small business
+- [phproundtable](https://phproundtable.com/)
 
 
 ## Banques de ressources
