@@ -307,8 +307,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [PHP: The Right Way](https://phptherightway.com/) is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
-
--[packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
+- [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
 
 ## Suivi de projets
 
