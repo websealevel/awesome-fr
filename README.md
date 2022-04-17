@@ -25,11 +25,11 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Design aggregators](#design-aggregators)
     - [DOM](#dom)
     - [Documentation et articles de référence](#documentation-et-articles-de-référence)
-  - [Check, check, check](#check-check-check)
-    - [Code](#code)
-    - [Est ce que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
-    - [Contraste](#contraste)
-    - [SEO](#seo)
+    - [Check, check, check](#check-check-check)
+      - [Code](#code)
+      - [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
+      - [Contraste](#contraste)
+  - [SEO](#seo)
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
   - [Browser extensions](#browser-extensions)
@@ -70,8 +70,6 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Playlists](#playlists)
   - [Rich Hickey](#rich-hickey)
   - [Banques de ressources](#banques-de-ressources)
-
-
 ## Frontend
 
 ### Typographies/Fonts
