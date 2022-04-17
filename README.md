@@ -54,6 +54,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Architecture de l'information](#architecture-de-linformation)
     - [Wordpress](#wordpress-1)
     - [Web application security](#web-application-security)
+    - [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
   - [Bons articles](#bons-articles)
   - [Podcasts](#podcasts)
   - [Youtube](#youtube)
@@ -61,6 +62,9 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [La vérité par l'humour](#la-vérité-par-lhumour)
     - [Génération procédurale](#génération-procédurale)
   - [GDC](#gdc)
+  - [Computer graphics](#computer-graphics)
+  - [Functional programming](#functional-programming)
+  - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
     - [Chaînes](#chaînes)
     - [Playlists](#playlists)
   - [Rich Hickey](#rich-hickey)
@@ -357,6 +361,11 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
 
 
+### Freelance, conseils pour bien gérer son business depuis chez soi
+
+- [Start and Run A Business From Home: How to turn your hobby or interest into a business (Small Business Start-Ups)](https://www.pdfdrive.com/start-and-run-a-business-from-home-how-to-turn-your-hobby-or-interest-into-a-business-small-business-start-ups-d185035411.html)
+- [The Small Business Owner's Manual: Everything You Need To Know To Start Up And Run Your Business](https://www.pdfdrive.com/the-small-business-owners-manual-everything-you-need-to-know-to-start-up-and-run-your-business-d184086729.html)
+
 ## Bons articles
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/)
@@ -378,11 +387,18 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
 - [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
-- [Same-origin policy: The core of web security @ OWASP Wellington](https://youtu.be/zul8TtVS-64), merveilleusement bien expliquée
+- [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
+- [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
+- [Same-origin policy: The core of web security @ OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP merveilleusement bien expliquée
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald mais qu'il est bon
+- [Noise based RNG](https://youtu.be/LWFzPP8ZbdU)
+- [I used Elm in production and it cost me my job – Annaia Berry](https://youtu.be/RFrKffrKCeU)
+- [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
+
 
 ### La vérité par l'humour
 
+- [The Hustle](https://youtu.be/_o7qjN3KF8U)
 - [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ)
 - [Interview with Senior JS Developer in 2022](https://youtu.be/Uo3cL4nrGOk)
 
@@ -390,22 +406,36 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [Procedural Generation: Programming The Universe](https://youtu.be/ZZY9YE7rZJw)
 - [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://youtu.be/S9pc8li4fuQ)
+- [End-to-End Procedural Generation in Caves of Qud](https://youtu.be/jV-DZqdKlnE)
 
 ## GDC
 
 - [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
 - [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
 
+## Computer graphics
+
+- [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
+
+## Functional programming
+
+- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
+
+## Créativité, modèles mentaux
+
+- [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
+
 ### Chaînes
 
-- [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
+- [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde. Regardez juste toutes leurs vidéos
 - [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
 - [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ),conférences sous-titrées en français (Physique, tech)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
 
 ### Playlists
 
-- [MIT Course : Structure and Interpration of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
+- [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
+- [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes.
 
 ## Rich Hickey
 
