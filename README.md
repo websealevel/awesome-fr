@@ -332,6 +332,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html)
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
+- [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
 
 ### Architecture de l'information
 
