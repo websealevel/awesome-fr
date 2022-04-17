@@ -1,5 +1,11 @@
 # Ressources pour les devs (freelance)
 
+Une liste d'outils **gratuits** pour les développeurs.
+
+Choisissez vos outils préférés et intégrez les à votre workflow pour vous aider à produire du design de qualité et plus efficacement. 
+
+*No time to loose !*
+
 - [Ressources pour les devs (freelance)](#ressources-pour-les-devs-freelance)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
@@ -39,9 +45,6 @@
     - [Plugins recommandés](#plugins-recommandés)
   - [Banques de ressources](#banques-de-ressources)
 
-Une liste d'outils gratuits pour les développeurs.
-
-Choisissez vos outils préférés et intégrez les à votre workflow pour vous aider à produire du design de qualité et plus efficacement. *No time to loose !*
 
 ## Frontend
 
