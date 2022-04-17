@@ -44,7 +44,10 @@ Choisissez vos outils préférés et intégrez les à votre workflow pour vous a
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
   - [Générateur de mots de passe](#générateur-de-mots-de-passe)
+  - [Langages](#langages)
+    - [PHP](#php)
   - [Suivi de projets](#suivi-de-projets)
+  - [Bons articles](#bons-articles)
   - [Banques de ressources](#banques-de-ressources)
 
 
@@ -284,9 +287,25 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [xkpasswd](https://xkpasswd.net/s/), creer des mots de passes sécurisé ET faciles à retenir (si vous devez le faire)
 
+
+## Langages
+
+### PHP
+
+- [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
+- [PHP: The Right Way](https://phptherightway.com/) is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
+
+-[packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
+
 ## Suivi de projets
 
 - [clickup](https://clickup.com/), alternative grauite à Figma, plus facile à prendre en main et bourré de toutes les fonctionnalités nécessaires !
+
+## Bons articles
+
+- [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/)
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/)
 
 ## Banques de ressources
 
