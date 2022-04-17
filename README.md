@@ -56,6 +56,14 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Web application security](#web-application-security)
   - [Bons articles](#bons-articles)
   - [Podcasts](#podcasts)
+  - [Youtube](#youtube)
+    - [Conférences](#conférences)
+    - [La vérité par l'humour](#la-vérité-par-lhumour)
+    - [Génération procédurale](#génération-procédurale)
+  - [GDC](#gdc)
+    - [Chaînes](#chaînes)
+    - [Playlists](#playlists)
+  - [Rich Hickey](#rich-hickey)
   - [Banques de ressources](#banques-de-ressources)
 
 
@@ -362,6 +370,46 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [html all the things](https://www.htmlallthethings.com/), web development, web design and small business
 - [phproundtable](https://phproundtable.com/)
 
+
+## Youtube
+
+### Conférences
+
+- [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
+- [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
+- [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
+- [Same-origin policy: The core of web security @ OWASP Wellington](https://youtu.be/zul8TtVS-64), merveilleusement bien expliquée
+- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald mais qu'il est bon
+
+### La vérité par l'humour
+
+- [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ)
+- [Interview with Senior JS Developer in 2022](https://youtu.be/Uo3cL4nrGOk)
+
+### Génération procédurale
+
+- [Procedural Generation: Programming The Universe](https://youtu.be/ZZY9YE7rZJw)
+- [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://youtu.be/S9pc8li4fuQ)
+
+## GDC
+
+- [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
+- [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
+
+### Chaînes
+
+- [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
+- [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
+- [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ),conférences sous-titrées en français (Physique, tech)
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
+
+### Playlists
+
+- [MIT Course : Structure and Interpration of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
+
+## Rich Hickey
+
+Et oui, Rich Hickey a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
 
 ## Banques de ressources
 
