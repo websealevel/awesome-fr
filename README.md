@@ -1,4 +1,4 @@
-# Ressources pour les devs (freelance)
+# Ressources pour les développeuses et les développeurs, et les intéressé·es de la tech
 
 Une liste d'outils et de ressources culturelles (podcasts, vidéos, conférences...) **gratuites** pour les développeurs, *sélectionés avec du nez et de l'amour*. Cette liste n'est pas exhaustive et justement, c'est le but.
 
@@ -6,7 +6,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 *No time to loose !*
 
-- [Ressources pour les devs (freelance)](#ressources-pour-les-devs-freelance)
+- [Ressources pour les développeuses et les développeurs, et les intéressé·es de la tech](#ressources-pour-les-développeuses-et-les-développeurs-et-les-intéressées-de-la-tech)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
