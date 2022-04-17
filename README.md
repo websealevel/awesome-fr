@@ -48,7 +48,10 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [php ressources](#php-ressources)
   - [Suivi de projets](#suivi-de-projets)
   - [Ebooks](#ebooks)
+    - [General](#general)
+    - [Refactoring, working in exisiting code](#refactoring-working-in-exisiting-code)
     - [Software design](#software-design)
+    - [Architecture de l'information](#architecture-de-linformation)
     - [Wordpress](#wordpress-1)
     - [Web application security](#web-application-security)
   - [Bons articles](#bons-articles)
@@ -317,11 +320,23 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
   Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez !
 
+### General
+
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-e157846585.html)
+
+### Refactoring, working in exisiting code
+
+- [Refactoring: Improving the Design of Existing Code](https://www.pdfdrive.com/refactoring-improving-the-design-of-existing-code-e185896299.html)
+
 ### Software design
 
 - [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html)
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
 
+### Architecture de l'information
+
+- [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.pdfdrive.com/information-architecture-for-the-world-wide-web-designing-large-scale-web-sites-e184621172.html)
+- [Information Architecture: For the Web and Beyond](https://www.pdfdrive.com/information-architecture-for-the-web-and-beyond-e158738770.html)
 
 ### Wordpress
 
