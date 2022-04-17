@@ -201,25 +201,25 @@ Expérimenter et créer des animations CSS
 - [how to draw an svg in Inscape](https://www.youtube.com/watch?v=PSl1c6kYfHs)
 
 
-## Check, check, check
+### Check, check, check
 
-### Code
+#### Code
 
 - [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de vos pages web
 - [can i use...](https://caniuse.com/)
 
-### Est-ce-que j'oublie un truc ?
+#### Est-ce-que j'oublie un truc ?
 
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html), des ressources pour votre landing page et s'assurez de n'avoir rien oublié d'important
 - [Front-end checklist](https://frontendchecklist.io/)
 
 
-### Contraste
+#### Contraste
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 
 
-### SEO
+## SEO
 
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 
