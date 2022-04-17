@@ -1,4 +1,4 @@
-# Ressources pour les développeuses et les développeurs, et les intéressé·es de la tech
+# Ressources pour les développeuses et les développeurs, et autres intéressé·es
 
 Une liste d'outils et de ressources culturelles (ebooks, podcasts, vidéos, conférences...) **gratuites** pour les développeur·euse·s, *sélectionés avec du nez et de l'amour*. Cette liste n'est pas exhaustive et justement, c'est le but.
 
