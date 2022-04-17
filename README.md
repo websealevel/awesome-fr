@@ -176,6 +176,70 @@ Expérimenter et créer des animations CSS
 
 - [random users](https://xsgames.co/randomusers/)
 
+## Wordpress
+
+### Doc officielle wordpress.org
+
+Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrouver 
+
+- [Codex](https://codex.wordpress.org/)
+- [Wordpress hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+- [Wordpress coding standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/)
+- [Template tags](https://codex.wordpress.org/Template_Tags)
+- [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
+- [Data Sanitization/Escaping](https://developer.wordpress.org/themes/theme-security/data-sanitization-escaping/#escaping-with-localization)
+- [Localization](https://developer.wordpress.org/apis/handbook/internationalization/localization/)
+
+
+### Articles
+
+#### Taxonomies
+
+- [WordPress Taxonomies: The Ultimate Guide](https://ithemes.com/blog/wordpress-taxonomies)
+- [WordPress Permalinks: The Essential Guide](https://ithemes.com/blog/wordpress-permalinks)
+
+### Livres
+
+A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
+
+- *[Professional WordPress: Design and Development](https://www.pdfdrive.com/wrox-press-professional-wordpress-design-and-development-3rd-e30698942.html)* de Brad Williams et David Damstra, Edition Wrox, 3rd Edition, 2015
+- *[Professional WordPress Plugin Development](https://www.pdfdrive.com/professional-wordpress-plugin-developmen-4074kb-jun-27-2012-120000-am-e42772568.html)* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
+- *[Modern PHP: new features and good practices](https://www.pdfdrive.com/modern-php-e34337192.html)*, Josh Lochart, Edition O'REILLY, 2015
+
+### Podcasts
+
+- https://phproundtable.com/episode/all-things-wordpress
+- https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/
+
+### Formations
+
+- [Cours wordpress.org](https://learn.wordpress.org/courses)
+- [Building websites with WordPress](https://nmiletic.gumroad.com/l/kSrqD) 
+- [Learn Wordpress](https://kinsta.com/learn/)
+- [Wordpress for beginners training](https://yoast.com/academy/free-training-wordpress-for-beginners/)
+- [How to Learn WordPress for Free in a Week (or Less)](https://twitter.com/natmiletic/status/1511711827398258695)
+- [Wordpress tutorials](https://www.siteground.com/tutorials/wordpress/)
+- [How to](https://wordpress.tv/category/how-to/), video
+- [Our wordpress library](https://wpapprentice.com/courses/)
+- [Wordpress freecodecamp](https://www.freecodecamp.org/news/tag/wordpress/)
+- [Building PHP MVC Framework from Scratch](https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1), The Codeholic. Pas sur Wordpress mais montre les fonctionnalités de base d'un framework à implémenter
+
+### Starter themes
+
+- [underscores](https://underscores.me/)
+- [astra](https://fr.wordpress.org/themes/astra/)
+- [generate press](https://generatepress.com/)
+- [tail press](https://tailpress.io/)
+
+### Plugins recommandés
+
+- [ewww image optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
+- [defender security](https://wordpress.org/plugins/defender-security/)
+- [carbon fields](https://carbonfields.net/), alternative gratuite à ACF Pro
+
+
+
+
 ## Banques de ressources
 
 - [webcode.tools](https://webcode.tools/)
