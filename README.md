@@ -79,6 +79,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Rich Hickey](#rich-hickey)
   - [Environement de développement](#environement-de-développement)
   - [Inclassables](#inclassables)
+  - [Convertisseurs de documents](#convertisseurs-de-documents)
+  - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
   - [Banques de ressources](#banques-de-ressources)
 
 
@@ -498,6 +500,15 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 ## Inclassables
 
 - [readme](https://readme.so/fr), créer un readme de manière simple
+
+## Convertisseurs de documents
+
+- [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
+
+## Automatisation de tâches sous linux
+
+- [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
+- [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
 ## Banques de ressources
 
