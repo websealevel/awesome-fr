@@ -456,6 +456,11 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
 
+
+## Environement de développement
+
+- [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
+
 ## Banques de ressources
 
 - [webcode.tools](https://webcode.tools/)
