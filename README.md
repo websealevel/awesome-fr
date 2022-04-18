@@ -417,11 +417,17 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
 
 
-## Bons articles
+## Bon posts
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/)
 - [Semantic Versioning 2.0.0](https://semver.org/)
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/)
+
+## Papiers
+
+- [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur la complexité dans la construction de système d'information
+- [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
+
 
 ## Podcasts
 
