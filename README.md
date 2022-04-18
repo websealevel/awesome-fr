@@ -98,7 +98,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 - [pattern background](http://www.patternify.com/)
 - [palettes](https://flatuicolors.com/)
 
-### Icons
+### Pack d'icones
 
 - [favicon generator](https://favicon.io/)
 - [icomoon](https://icomoon.io/)
@@ -119,7 +119,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 - [fake images please?](https://fakeimg.pl/)
 - [freepik](https://www.freepik.com/)
 
-### CSS generators
+### Générateurs CSS
 
 - [neumorphism](https://neumorphism.io/#e0e0e0), generer de l'UI en pure CSS
 - [glassmorphism](https://hype4.academy/tools/glassmorphism-generator), effet verre
@@ -127,14 +127,14 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 - [underline generator](https://underline-generator.netlify.app/)
 - [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), creez vos rubans
 
-### SVG/Shapes generators
+### Générateur de formes au format SVG
 
 - [getwaves](https://getwaves.io/), faites des vagues
 - [blobmakers](https://www.blobmaker.app/), creer des formes uniques et organiques en svg rapidement
 - [clip path maker](https://bennettfeely.com/clippy/), creer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 
-### CSS animations (keyframes API)
+### Animations CSS (keyframes API)
 
 Expérimenter et créer des animations CSS
 
@@ -143,11 +143,11 @@ Expérimenter et créer des animations CSS
 - [keyframes animate](https://keyframes.app/animate/)
 - [wait !](https://waitanimate.wstone.uk/)
 
-### CSS Frameworks
+### Frameworks CSS
 
 - [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
 
-### Components
+### Composants
 
 - [accordion slider generator](https://accordionslider.com/)
 - [navbar generator](http://www.menucool.com/css-menu)
@@ -158,7 +158,7 @@ Expérimenter et créer des animations CSS
 
 - [ui gradients](uigradients.com)
 
-### Layouts
+### Générateur de mise en page / layouts
 
 - [css grid generator](https://css-generator.netlify.app/)
 - [layout generator](https://grid.layoutit.com/)
