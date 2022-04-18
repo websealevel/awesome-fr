@@ -10,6 +10,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
+- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
+  - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
@@ -79,6 +81,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Environement de développement](#environement-de-développement)
   - [Inclassables](#inclassables)
   - [Banques de ressources](#banques-de-ressources)
+
+
 ## Frontend
 
 ### Typographies/Fonts
@@ -363,8 +367,12 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ### Architecture de l'information
 
+Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un pionnier de l'architecture informationnelle. Bibliothécaire de formation, il s'est ensuite intéressé au web. Hyper intéressant
+
 - [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.pdfdrive.com/information-architecture-for-the-world-wide-web-designing-large-scale-web-sites-e184621172.html)
 - [Information Architecture: For the Web and Beyond](https://www.pdfdrive.com/information-architecture-for-the-web-and-beyond-e158738770.html)
+- [Search Patterns: Design for Discovery](https://www.pdfdrive.com/search-patterns-design-for-discovery-e159084430.html)
+
 
 ### Wordpress
 
