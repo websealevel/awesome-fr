@@ -347,12 +347,13 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des structures de données robustes et échangeables. Contrairement aux idées reçues il n'est pas à mettre au placard et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. *JSON est un excellent format pour... Javascript*. 
 
-XML est un format universel pouvant être lu facilement par des humaines et par des machines. Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme par exemple
+XML est un format universel pouvant être lu facilement par des humains et par des machines. Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme par exemple
 
 - [XPath](http://www.xmlfacile.com/guide_xml/xpath_1.php5), un standard qui permet de requêter la structure XML pour naviguer dans la structure de données et la manipuler
-- [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un langage déclaratif comme le SQL
+- [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un *langage déclaratif* (le pied) comme le SQL
 - [XSLT](https://www.w3schools.com/xml/xml_xslt.asp), standard plus avancé que le CSS pour styliser les données XML et les présenter. Permet également de modifier l'affichage d'éléments, de les réorganiser etc...
 - [DTD](https://www.w3schools.com/xml/xml_dtd.asp), pour la validation des données par un schéma
+- et d'autres encore...
 
 Tous ces standards rendent font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*.
 
