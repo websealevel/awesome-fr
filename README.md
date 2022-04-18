@@ -323,7 +323,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Languages specific
 
-### php ressources
+### PHP
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [PHP: The Right Way](https://phptherightway.com/) is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
@@ -366,6 +366,10 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
 
+
+### Génération procédurale et game design
+
+- [Procedural generation in game design](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
 
 ### Freelance, conseils pour bien gérer son business depuis chez soi
 
