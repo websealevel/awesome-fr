@@ -341,10 +341,11 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
   Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
-### Général
+### Classiques
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-e157846585.html)
 - [Structure and interpretation of computer programs, 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf)
+- [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf)
 
 ### Refactoring, travailler sur du code legacy
 
@@ -370,6 +371,23 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 - [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
 
+
+### HTTP
+
+- [HTTP: The Definitive Guide](https://www.pdfdrive.com/http-the-definitive-guide-e156760262.html)
+
+### Perl
+
+- [Intermediate Perl, 2nd Edition: Beyond The Basics of Learning Perl](https://www.pdfdrive.com/intermediate-perl-2nd-edition-beyond-the-basics-of-learning-perl-e166970357.html)
+- [Programming Perl, 4th Edition](https://www.pdfdrive.com/programming-perl-4e-e33432156.html)
+
+### Test driven development
+
+- [Test-Driven Development By Example, Kent Beck](https://www.pdfdrive.com/test-driven-development-by-example-e50686597.html)
+
+### Programmation CGI
+
+- [CGI programming with Perl](https://www.pdfdrive.com/cgi-programming-with-perl-2nd-ed-e187832058.html)
 
 ### Génération procédurale et game design
 
