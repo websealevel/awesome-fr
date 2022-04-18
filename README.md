@@ -1,6 +1,8 @@
 # Ressources pour les développeuses et les développeurs, et autres intéressé·es
 
-Une liste d'outils et de ressources culturelles (ebooks, podcasts, vidéos, conférences...) **gratuites** pour les développeur·euse·s, *sélectionés avec du nez et de l'amour*. Cette liste n'est pas exhaustive et justement, c'est le but.
+Une liste d'outils et de ressources culturelles (ebooks, podcasts, vidéos, conférences...) **gratuites** pour les développeur·euse·s, *sélectionés avec nez et amour*. Cette liste ne se veut pas exhaustive par choix.
+
+La liste est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais.
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
@@ -335,11 +337,12 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
   Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez 
 
-### General
+### Général
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-e157846585.html)
+- [Structure and interpretation of computer programs](https://www.pdfdrive.com/structure-and-interpretation-of-computer-programs-2nd-edition-mit-electrical-engineering-and-computer-science-e158608409.html)
 
-### Refactoring, working in exisiting code
+### Refactoring, travailler sur du code legacy
 
 - [Refactoring: Improving the Design of Existing Code](https://www.pdfdrive.com/refactoring-improving-the-design-of-existing-code-e185896299.html)
 
@@ -359,7 +362,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [voir ici](#livres-de-développement-wordpress)
 
 
-### Web application security
+### Sécurité des applications webs
 
 - [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
 
