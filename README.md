@@ -455,9 +455,10 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### La vérité par l'humour
 
-- [The Hustle](https://youtu.be/_o7qjN3KF8U)
-- [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ)
-- [Interview with Senior JS Developer in 2022](https://youtu.be/Uo3cL4nrGOk)
+- [*The Hustle*, Krazam](https://youtu.be/_o7qjN3KF8U)
+- [*Microservices*, Krazam](https://www.youtube.com/watch?v=y8OnoxKotPQ)
+- [*Interview with Senior JS Developer in 2022*,  Programmers are also human
+](https://youtu.be/Uo3cL4nrGOk)
 
 ### Génération procédurale
 
