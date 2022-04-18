@@ -63,6 +63,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Programmation CGI](#programmation-cgi)
     - [Génération procédurale et game design](#génération-procédurale-et-game-design)
     - [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
+  - [O'Reilly Open Books](#oreilly-open-books)
   - [Bons articles](#bons-articles)
   - [Podcasts](#podcasts)
   - [Youtube](#youtube)
@@ -407,6 +408,12 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 
 - [Start and Run A Business From Home: How to turn your hobby or interest into a business (Small Business Start-Ups)](https://www.pdfdrive.com/start-and-run-a-business-from-home-how-to-turn-your-hobby-or-interest-into-a-business-small-business-start-ups-d185035411.html)
 - [The Small Business Owner's Manual: Everything You Need To Know To Start Up And Run Your Business](https://www.pdfdrive.com/the-small-business-owners-manual-everything-you-need-to-know-to-start-up-and-run-your-business-d184086729.html)
+
+
+## O'Reilly Open Books
+
+L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
+
 
 ## Bons articles
 
