@@ -19,13 +19,14 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
     - [Animations CSS (keyframes API)](#animations-css-keyframes-api)
     - [Frameworks CSS](#frameworks-css)
-    - [Composants](#composants)
     - [Gradients](#gradients)
     - [Générateur de mise en page / layouts](#générateur-de-mise-en-page--layouts)
     - [JS](#js)
     - [Backgrounds](#backgrounds)
     - [Pixel art](#pixel-art)
     - [Design aggregators](#design-aggregators)
+    - [Composants](#composants)
+  - [UI/UX](#uiux)
     - [DOM](#dom)
     - [Documentation et articles de référence](#documentation-et-articles-de-référence)
     - [Check, check, check](#check-check-check)
@@ -36,7 +37,6 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
   - [Browser extensions](#browser-extensions)
-  - [UI/UX](#uiux)
   - [API](#api)
   - [Fake data generators](#fake-data-generators)
   - [Wordpress](#wordpress)
@@ -162,12 +162,7 @@ Expérimenter et créer des animations CSS
 
 - [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
 
-### Composants
 
-- [accordion slider generator](https://accordionslider.com/)
-- [navbar generator](http://www.menucool.com/css-menu)
-- [button](https://www.bestcssbuttongenerator.com/)
-- [loader](https://loading.io/)
 
 ### Gradients
 
@@ -210,6 +205,23 @@ Expérimenter et créer des animations CSS
 - [landingfolio](https://landingfolio.com/?offset=1), designs de landing pages
 - [ui garage](https://uigarage.net/)
 - [collect ui](https://collectui.com/)
+
+
+### Composants
+
+- [accordion slider generator](https://accordionslider.com/)
+- [navbar generator](http://www.menucool.com/css-menu)
+- [button](https://www.bestcssbuttongenerator.com/)
+- [loader](https://loading.io/)
+- [Froala Design Blocks](https://froala.com/design-blocks/), une banque de composants prêt à l'emploi
+
+## UI/UX
+
+- [checklistdesing](https://www.checklist.design/), une collection des meilleures pratiques de design web
+- [laws of UX](https://lawsofux.com/), une autre collection des meilleures pratiques en design web, très bien faite, avec un résumé de ce qu'il faut retenir sur chaque post
+- [design principles](https://principles.design/)
+- [uiplaybook](https://uiplaybook.dev/), un dictionnaire des composants webs (fonction, bonnes pratiques, implémentation etc..)
+- [UX challenges](https://uxtools.co/challenges), exercices d'UX
 
 ### DOM
 
@@ -260,13 +272,6 @@ Expérimenter et créer des animations CSS
 A venir
 
 
-## UI/UX
-
-- [checklistdesing](https://www.checklist.design/), une collection des meilleures pratiques de design web
-- [laws of UX](https://lawsofux.com/), une autre collection des meilleures pratiques en design web, très bien faite, avec un résumé de ce qu'il faut retenir sur chaque post
-- [design principles](https://principles.design/)
-- [uiplaybook](https://uiplaybook.dev/), un dictionnaire des composants webs (fonction, bonnes pratiques, implémentation etc..)
-- [Froala Design Blocks](https://froala.com/design-blocks/), une banque de composants prêt à l'emploi
 
 ## API
 
