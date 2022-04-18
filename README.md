@@ -36,6 +36,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
   - [Browser extensions](#browser-extensions)
+  - [UI/UX](#uiux)
   - [API](#api)
   - [Fake data generators](#fake-data-generators)
   - [Wordpress](#wordpress)
@@ -259,7 +260,13 @@ Expérimenter et créer des animations CSS
 A venir
 
 
+## UI/UX
 
+- [checklistdesing](https://www.checklist.design/), une collection des meilleures pratiques de design web
+- [laws of UX](https://lawsofux.com/), une autre collection des meilleures pratiques en design web, très bien faite, avec un résumé de ce qu'il faut retenir sur chaque post
+- [design principles](https://principles.design/)
+- [uiplaybook](https://uiplaybook.dev/), un dictionnaire des composants webs (fonction, bonnes pratiques, implémentation etc..)
+- [Froala Design Blocks](https://froala.com/design-blocks/), une banque de composants prêt à l'emploi
 
 ## API
 
