@@ -256,10 +256,6 @@ A venir
 - [random users](https://xsgames.co/randomusers/)
 
 
-## Inclassables
-
-- [readme](https://readme.so/fr), créer un readme de manière simple
-
 ## Wordpress
 
 ### Doc officielle wordpress.org
@@ -460,6 +456,10 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 ## Environement de développement
 
 - [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
+
+## Inclassables
+
+- [readme](https://readme.so/fr), créer un readme de manière simple
 
 ## Banques de ressources
 
