@@ -10,8 +10,6 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
-- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
-  - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
