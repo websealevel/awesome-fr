@@ -355,7 +355,7 @@ XML est un format universel pouvant être lu facilement par des humains et par d
 - [DTD](https://www.w3schools.com/xml/xml_dtd.asp), pour la validation des données par un schéma
 - et d'autres encore...
 
-Tous ces standards rendent font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*.
+Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*.
 
 ### Apprendre le XML et ses standards associés
 
