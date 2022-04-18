@@ -47,7 +47,11 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
   - [Générateur de mots de passe](#générateur-de-mots-de-passe)
-  - [Languages specific](#languages-specific)
+  - [Standards](#standards)
+  - [XML](#xml)
+    - [Un mot sur le XML](#un-mot-sur-le-xml)
+    - [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
+  - [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
     - [PHP](#php)
   - [Suivi de projets](#suivi-de-projets)
   - [Ebooks](#ebooks)
@@ -335,7 +339,31 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
 
 
-## Languages specific
+## Standards
+
+## XML
+
+### Un mot sur le XML
+
+Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des structures de données robustes et échangeables. Contrairement aux idées reçues il n'est pas à mettre au placard et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. *JSON est un excellent format pour... Javascript*. 
+
+XML est un format universel pouvant être lu facilement par des humaines et par des machines. Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme par exemple
+
+- [XPath](http://www.xmlfacile.com/guide_xml/xpath_1.php5), un standard qui permet de requêter la structure XML pour naviguer dans la structure de données et la manipuler
+- [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un langage déclaratif comme le SQL
+- [XSLT](https://www.w3schools.com/xml/xml_xslt.asp), standard plus avancé que le CSS pour styliser les données XML et les présenter. Permet également de modifier l'affichage d'éléments, de les réorganiser etc...
+- [DTD](https://www.w3schools.com/xml/xml_dtd.asp), pour la validation des données par un schéma
+
+Tous ces standards rendent font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*.
+
+### Apprendre le XML et ses standards associés
+
+- [XML Tutorial, W3C Schools](https://www.w3schools.com/xml/)
+- [XML Facile !](http://www.xmlfacile.com/)
+- [XML in a nutshell, A Desktop Quick Reference](https://www.pdfdrive.com/xml-in-a-nutshell-e54427253.html)
+
+
+## Spécifiques à un langage/écosystème
 
 ### PHP
 
@@ -420,7 +448,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## Billets
 
-- [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/), *starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
+- [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
 
