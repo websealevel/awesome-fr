@@ -140,6 +140,10 @@ Expérimenter et créer des animations CSS
 - [keyframes animate](https://keyframes.app/animate/)
 - [wait !](https://waitanimate.wstone.uk/)
 
+### CSS Frameworks
+
+- [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
+
 ### Components
 
 - [accordion slider generator](https://accordionslider.com/)
@@ -314,11 +318,12 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [ewww image optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
 - [defender security](https://wordpress.org/plugins/defender-security/)
 - [carbon fields](https://carbonfields.net/), alternative gratuite à ACF Pro
+- [fakerpress](http://fakerpress.com/r/github), générateur de faux contenu pour tester son thème
 
 
 ## Générateur de mots de passe
 
-- [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisé ET faciles à retenir (si vous devez le faire)
+- [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
 
 
 ## Languages specific
@@ -326,7 +331,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 ### PHP
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
-- [PHP: The Right Way](https://phptherightway.com/) is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.
+- [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
 
 ## Suivi de projets
@@ -335,12 +340,12 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ## Ebooks
 
-  Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez 
+  Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
 ### Général
 
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-e157846585.html)
-- [Structure and interpretation of computer programs](https://www.pdfdrive.com/structure-and-interpretation-of-computer-programs-2nd-edition-mit-electrical-engineering-and-computer-science-e158608409.html)
+- [Structure and interpretation of computer programs, 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf)
 
 ### Refactoring, travailler sur du code legacy
 
@@ -389,7 +394,6 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [html all the things](https://www.htmlallthethings.com/), web development, web design and small business
 - [phproundtable](https://phproundtable.com/)
 
-
 ## Youtube
 
 ### Conférences
@@ -400,7 +404,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
 - [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
 - [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP merveilleusement bien expliquée
-- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald mais le bougre est intelligent et pertinent
+- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald (le type est insupportable) mais faut avouer qu'il est vraiment intéressant
 - [Noise based RNG](https://youtu.be/LWFzPP8ZbdU)
 - [I used Elm in production and it cost me my job, Annaia Berry](https://youtu.be/RFrKffrKCeU)
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
