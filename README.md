@@ -64,7 +64,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Génération procédurale et game design](#génération-procédurale-et-game-design)
     - [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
   - [O'Reilly Open Books](#oreilly-open-books)
-  - [Bon posts](#bon-posts)
+  - [Billets](#billets)
   - [Papiers](#papiers)
   - [Podcasts](#podcasts)
   - [Youtube](#youtube)
@@ -418,7 +418,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
 
 
-## Bon posts
+## Billets
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/)
 - [Semantic Versioning 2.0.0](https://semver.org/)
