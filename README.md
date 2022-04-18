@@ -88,6 +88,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Convertisseurs de documents](#convertisseurs-de-documents)
   - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
   - [Banques de ressources](#banques-de-ressources)
+  - [Twitter(s)](#twitters)
 
 
 ## Frontend
@@ -567,3 +568,16 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 Beautiful and Performant Websites](https://codingheroes.io/resources/)
 
 
+## Twitter(s)
+
+Une grande partie des ressources présentées ici ont été partagées par d'autres personnes, notamment sur Twitter. Vous pouvez les suivre directement, elles proposent souvent des *threads* d'outils à explorer
+
+- [@code_rams](https://twitter.com/code_rams?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
+- [@_georgemolle](https://twitter.com/_georgemoller?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
+- [@adarsh____gupta](https://twitter.com/adarsh____gupta?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
+- [@Prathkum](https://twitter.com/Prathkum?s=20&t=ld8NhKzunXZuebfP4vVMtw)
+- [@Insharamin](https://twitter.com/Insharamin?s=20&t=En9NKc7qJD5d1_OUae5Yyw)
+- [@Amit_T18](https://twitter.com/Amit_T18?s=20&t=Vy0BKNzmB3NMVVv7XK0iqw)
+- [@natmiletic](https://twitter.com/natmiletic?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
+- [@csaba_kissi](https://twitter.com/csaba_kissi?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
+- [@parik36](https://twitter.com/parik36?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
