@@ -420,9 +420,9 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## Billets
 
-- [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/)
-- [Semantic Versioning 2.0.0](https://semver.org/)
-- [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/)
+- [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/), *starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
+- [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
+- [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
 
 ## Papiers
 
