@@ -87,7 +87,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 ### Palettes de couleurs
 
 - [open color](https://yeun.github.io/open-color/), une reference
-- [coloors](https://coolors.co/)
+- [coloors](https://coolors.co/), fouiller ce site il vous offre toute une palette d'outils incroyables autre que les palettes de couleurs
 - [colorspace](https://mycolor.space/), generateur de palettes de couleurs stylé
 - [css duotones](https://cssduotone.com/)
 - [duotones](https://medialoot.com/duotones/), palettes duotones (deux couleurs)
