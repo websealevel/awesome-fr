@@ -10,6 +10,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
+- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
+  - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
@@ -100,6 +102,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Rich Hickey](#rich-hickey)
   - [Environement de développement](#environement-de-développement)
   - [Challenges](#challenges)
+  - [Markdown](#markdown)
     - [Éditeurs de texte](#éditeurs-de-texte)
     - [Boîte à outils](#boîte-à-outils)
     - [Sed](#sed)
@@ -643,6 +646,19 @@ Apprenez à coder des trucs via des challenges
 - [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
 
 
+## Markdown
+
+<img src="img/markdown.jpg" alt="Markdown, Markdown everywhere !" width="300"/>
+
+Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
+
+Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, Latex...). 
+
+C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *hyperliens* tout simplement. Markdown refait apprécier le goût du *web 1.0*: les liens hypertextes et un processus de publication simple et facile. 
+
+Si vous voulez me voir m'étaler encore davantage sur les qualités du Markdown et trouvez des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
+
+  
 ### Éditeurs de texte
 
 - [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
