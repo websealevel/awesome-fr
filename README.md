@@ -811,6 +811,9 @@ Des conseils à la volée
 
 - coder c'est cool mais y'a autre chose dans la vie
 - quand on bloque sur un bug on s'arrête, on fait autre chose, et on revient avec la solution
+- quand on est fatigués on s'arrête (au moins un moment)
+- quand on voit qu'on arrive plus à rien on arrête. Si on peut pas arrêter tout de suite alors on fait des petites choses qui trainent et qui restent à faire. Au moins on avance et c'est satisfaisant
+- on peut tenir un journal (en Markdown bien sûr !) où on note chaque jour tout ce qu'on a fait dans la journée (on peut limiter au taff mais on peut l'étendre à tout ce qu'on veut en fonction des besoins). On fait des listes avec des entrées courtes, pas besoin de détails. Ça sert à quoi ? A se dire "ah ouais quand même j'ai fait des trucs aujourd'hui même si j'arrête ma journée sur un bug que j'ai pas résolu et que j'ai l'impression d'être un gros looser"
 - quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film etc...] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrai résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Dites "j'arrive dans 5 minutes"
 
 ## Inclassables
