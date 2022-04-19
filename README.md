@@ -565,6 +565,8 @@ C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer 
 
 Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
+Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien.
+
 
 ## Présentations / Slides
 
@@ -711,6 +713,10 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [The Small Business Owner's Manual: Everything You Need To Know To Start Up And Run Your Business](https://www.pdfdrive.com/the-small-business-owners-manual-everything-you-need-to-know-to-start-up-and-run-your-business-d184086729.html)
 
 ### Algorithmes
+
+Soyons honnêtes, vous n'aurez jamais à coder un *binary tree* à la main dans la vraie vie, voir même en utiliser un durant votre carrière. Cette mode de connaître ces algorithmes par coeur, cette maladie, on la doit aux recruteurs qui pensent bêtement que ces méthodes de recrutement *c'est normal*. Vous pouvez avoir 5 ans d'expérience, maintenir du code legacy, refactorer, modeliser de la logique métier, écrire de la documentation de qualité, si vous savez pas inverser une chaine de caractères sur place de tête vous n'êtes pas compétent.
+
+Cela dit, si on oublie cette tendance déletère, les algorithmes c'est hyper intéressant. C'est même passionant. La différence c'est que vous pouvez vous y intéressez, les comprendre sans les apprendre par coeur. Tout le monde travaille avec un onglet(mille) ouvert, un bouquin sur la table.
 
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 
