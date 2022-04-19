@@ -354,8 +354,8 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ### Épisodes de podcasts sur wordpress
 
-- https://phproundtable.com/episode/all-things-wordpress
-- https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/
+- [070: All things WordPress](https://phproundtable.com/episode/all-things-wordpress), [Tessa Kriesel](https://twitter.com/tessak22?s=20&t=L4nTJJGyh2w5UbPY7aDo9g) présente ici l'état et le futur de Wordpress ainsi que l'histoire de son développement
+- [The thing about Wordpress](https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/), Matt y discute des avantages et inconvénients de Wordpress en tant que développeur. Tout ce qui est discuté ici est pertinent
 
 ### Podcasts dédiés à Wordpress
 
