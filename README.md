@@ -568,7 +568,11 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 - Est ce que *X* est mort ? 
 - Apprendre *X* en 2022 ?
 
-On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en fout, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur Linkedin aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. Tomber dans l'oubli ne signifie pas nécessairement devenir obselète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures du début du web 2.0. Souvent même, c'est juste que le *monde n'était pas encore prêt*. Le passé est rempli d'idées, de concepts, de technos révolutionnaires et longuement débatues collectivement par des personnes intelligentes.
+On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en fout, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur Linkedin aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
+
+Tomber dans l'oubli ne signifie pas nécessairement devenir obselète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures du début du web 2.0. Souvent même, c'est juste que le *monde n'était pas encore prêt*. 
+
+Le passé est rempli d'idées, de concepts, de technos révolutionnaires et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la hype, sont en fait des vieilles idées des années 80.
 
 ### Rust
 
