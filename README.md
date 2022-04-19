@@ -84,6 +84,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Convertisseurs de documents](#convertisseurs-de-documents)
   - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
   - [Langages/technos à découvrir](#langagestechnos-à-découvrir)
+    - [Un mot](#un-mot)
     - [Rust](#rust)
     - [Smalltalk](#smalltalk)
     - [Assembleur](#assembleur)
@@ -570,6 +571,8 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 - [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
 ## Langages/technos à découvrir
+
+### Un mot
 
 - Est ce que *X* est mort ? 
 - Apprendre *X* en 2022 ?
