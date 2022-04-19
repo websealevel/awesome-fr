@@ -530,7 +530,9 @@ Apprenez à coder des trucs via des challenges
 
 Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
 
-Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, Latex...). 
+Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, Latex...).
+
+*Le Markdown est à l'édition web ce que [Latex](https://www.latex-project.org/) est à l'édition papier*. Le web et le papier sont deux media différents, avec des contraintes différentes. Les chercheurs le savent bien et sont souvent embêtés car ils utilisent Latex pour leurs articles mais ils doivent aussi communiquer sur le web.
 
 C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *hyperliens* tout simplement. Markdown refait apprécier le goût du *web 1.0*: les liens hypertextes et un processus de publication simple et facile. 
 
