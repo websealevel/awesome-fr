@@ -46,7 +46,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Articles](#articles)
     - [Livres de développement wordpress](#livres-de-développement-wordpress)
     - [Épisodes de podcasts sur wordpress](#épisodes-de-podcasts-sur-wordpress)
-  - [Podcasts dédiés à Wordpress](#podcasts-dédiés-à-wordpress)
+    - [Podcasts dédiés à Wordpress](#podcasts-dédiés-à-wordpress)
     - [Formations](#formations)
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
@@ -345,7 +345,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - https://phproundtable.com/episode/all-things-wordpress
 - https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/
 
-## Podcasts dédiés à Wordpress
+### Podcasts dédiés à Wordpress
 
 - [dradcast](http://dradcast.com/)
 - [wp watercooler](https://wpwatercooler.com/)
