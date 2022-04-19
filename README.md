@@ -310,9 +310,17 @@ A venir
 
 ## Wordpress
 
+Il y avait en 2021 [environ 455 000 000 de sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 40% du web*. 
+
+C'est toujours un phénomène curieux et intéressant de constater que sur les internets (Twitter, plateformes de blogging) on entend si peu parler des outils qui font tourner le web. Pourquoi n'entend on jamais parler de Wordpress ou de JQuery mais plutôt des 30 derniers frameworks JS à la mode alors que ces outils font littéralement tourner l'immense majorité du web ? Les modes passent. Wordpress, lui, reste.
+
+Wordpress est un framework parfaitement adapté pour publier du contenu sur Internet. Wordpress se met très bien à l'échelle et est très polyvalent. Oui, si Wordpress peut être utilisé pour tout faire, il n'est pas toujours la solution la plus adaptée ! 
+
+Wordpress existe depuis 2004, dans le monde du logiciel libre c'est une éternité. Pensez à vos propres dépôts, projets que vous n'arrivez pas à maintenir plus d'un an, tout seul. 
+
+Wordpress c'est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non techniciennes connaissent bien, utilisent quotidiennement. C'est donc un énorme avantage de capitaliser dessus pour vos utilisateurs.
 
 - [Make Wordpress](https://make.wordpress.org/), un hub centralisés de ressources pour les développeurs Wordpress
-- 
 
 ### Doc officielle wordpress.org
 
