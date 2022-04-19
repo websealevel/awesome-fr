@@ -6,6 +6,12 @@ La liste est francophone, cependant bon nombre de ressources listées ici ne son
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
+## Contribuez
+
+Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et vous voulez la partager ? 
+
+Proposez votre contribution via une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html).
+
 *No time to lose !*
 
 <img src="img/./no%20time%20to%20loose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
@@ -13,6 +19,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 ## Table des matières
 
 - [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
+  - [Contribuez](#contribuez)
   - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
@@ -37,6 +44,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
       - [Code](#code)
       - [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
       - [Contraste](#contraste)
+  - [Évaluer la maintenabilité d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?](#évaluer-la-maintenabilité-dun-dépôt-dune-bibliothèque-avant-den-faire-dépendre-son-projet-à-ses-risques-et-périls-)
   - [SEO](#seo)
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
@@ -289,6 +297,17 @@ Expérimenter et créer des animations CSS
 #### Contraste
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
+
+## Évaluer la maintenabilité d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?
+
+Quelques conseils pour *se faire une idée* de l'hygiène d'un dépôt ou d'une bibliothèque, à savoir est ce que ce dépôt est maintenu ou abandoné ? Est ce qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance va casser dans 6 mois ? Aller sur le dépôt puis
+- regarder la date du dernier commit
+- regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes
+- regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
+- regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
+- regarder le nombre de contributeurs
+- regarder le nombre de pull requests en attente
+- Trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
 
 
 ## SEO
@@ -587,7 +606,7 @@ Que je sois bien compris, *je n'ai rien contre les modes et la nouveauté*. Les 
 
 Ce que je veux dire c'est qu'il faut apprendre à filtrer le signal, les modes c'est du *bruit* qu'il faut souvent filtrer pour en extraire la *vraie valeur*. Les chercheurs sont mieux armés pour cela car ils pratiquent la bibliographie de manière assidue le vendredi matin, ils connaissent les références, les idées qui sont là depuis 50 ans dans leur domaine. 
 
-Ils se font (en général) moins avoir qu'un jeune de 20 ans qui débarque dans l'industrie du développement web à qui on *push* par tous les ports, via tous les canaux possibles les derniers outils à la mode, dont la plupart seront morts dans quelques années pour laisser leur place à d'autres. Ceci est d'autant plus important lorsqu'on se lance dans un gros projet. Il faut préférer ce qui est stable, à ce qui est nouveau. Il faut aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
+Ils se font (en général) moins avoir qu'un·e jeune de 20 ans qui débarque dans l'industrie du développement web à qui on *push* par tous les ports, via tous les canaux possibles, les derniers outils à la mode, dont la plupart seront morts dans quelques années pour laisser leur place à d'autres. Ceci est d'autant plus important lorsqu'on se lance dans un gros projet. Il faut préférer ce qui est stable, à ce qui est nouveau. Il faut aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
 
 ### Rust
 
