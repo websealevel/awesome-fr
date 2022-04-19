@@ -83,6 +83,11 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Sed](#sed)
   - [Convertisseurs de documents](#convertisseurs-de-documents)
   - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
+  - [Langages/technos à découvrir](#langagestechnos-à-découvrir)
+    - [Rust](#rust)
+    - [Smalltalk](#smalltalk)
+    - [Assembleur](#assembleur)
+    - [Prolog](#prolog)
   - [Ebooks](#ebooks)
     - [Classiques](#classiques)
     - [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -557,6 +562,25 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 
 - [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
 - [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
+
+## Langages/technos à découvrir
+
+- Est ce que *X* est mort ? 
+- Apprendre *X* en 2022 ?
+
+On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en fout, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur Linkedin aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. Tomber dans l'oubli ne signifie pas nécessairement devenir obselète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures du début du web 2.0. Souvent même, c'est juste que le *monde n'était pas encore prêt*. Le passé est rempli d'idées, de concepts, de technos révolutionnaires et longuement débatues collectivement par des personnes intelligentes.
+
+### Rust
+
+### Smalltalk
+
+- [squeak](https://squeak.org/)
+
+### Assembleur
+
+### Prolog
+
+- [swi-prolog](https://www.swi-prolog.org/)
 
 ## Ebooks
 
