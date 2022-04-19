@@ -127,7 +127,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [Conférences](#conférences)
     - [La vérité par l'humour](#la-vérité-par-lhumour)
     - [Génération procédurale](#génération-procédurale)
-    - [GDC](#gdc)
+    - [Game Developers Conference](#game-developers-conference)
     - [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
     - [Programmation fonctionnelle](#programmation-fonctionnelle-1)
       - [Haskell](#haskell-1)
@@ -766,7 +766,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [End-to-End Procedural Generation in Caves of Qud](https://youtu.be/jV-DZqdKlnE)
 - [Dwarf fotress](http://bay12games.com/dwarves/), un projet fou [de générateur de monde de fantasy interactif](http://bay12games.com/dwarves/features.html), qui dure depuis plus de 20ans, fabriqué avec passion par deux frangins. Pour l'anectode, [dwarf fortress est rentré au MoMa](https://www.moma.org/collection/works/164920). Le jeu sert également de base pour [écrire des histoires](http://bay12games.com/dwarves/dev_story.html).
 
-### GDC
+### [Game Developers Conference](https://gdconf.com/)
 
 - [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
 - [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
