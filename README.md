@@ -322,6 +322,7 @@ Aller sur le dépôt puis
 - regarder le nombre de pull requests en attente
 - trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
 - essayer de trouver où se cache la communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
+- est-ce que le projet est versionné ? C'est important pour exactement de quelle version dépend notre projet, tracker les changements rétrocompatibles ou non etc..
 
 
 ## Comment apprendre à apprendre le développement ?
