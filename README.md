@@ -10,6 +10,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
+- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
+  - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
@@ -67,6 +69,16 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Elm](#elm)
     - [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
   - [Conception de bases de données](#conception-de-bases-de-données)
+  - [Rich Hickey](#rich-hickey)
+  - [Environement de développement](#environement-de-développement)
+  - [Challenges](#challenges)
+  - [Markdown](#markdown)
+  - [Présentations / Slides](#présentations--slides)
+  - [Éditeurs de texte](#éditeurs-de-texte)
+  - [Boîte à outils](#boîte-à-outils)
+    - [Sed](#sed)
+  - [Convertisseurs de documents](#convertisseurs-de-documents)
+  - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
   - [Ebooks](#ebooks)
     - [Classiques](#classiques)
     - [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -97,16 +109,6 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
     - [Chaînes](#chaînes)
     - [Playlists](#playlists)
-  - [Rich Hickey](#rich-hickey)
-  - [Environement de développement](#environement-de-développement)
-  - [Challenges](#challenges)
-  - [Markdown](#markdown)
-  - [Présentations / Slides](#présentations--slides)
-  - [Éditeurs de texte](#éditeurs-de-texte)
-  - [Boîte à outils](#boîte-à-outils)
-    - [Sed](#sed)
-  - [Convertisseurs de documents](#convertisseurs-de-documents)
-  - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
   - [Inclassables](#inclassables)
   - [Banques de ressources](#banques-de-ressources)
   - [Twitter(s)](#twitters)
@@ -463,6 +465,69 @@ Voir ce [bouquin de référence](#haskell-1).
 
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 
+
+## Rich Hickey
+
+Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
+
+
+## Environement de développement
+
+- [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
+- [replit](https://replit.com/), un IDE collaboratif dans le navigateur pour travailler sur des projets à plusieurs dans plus de 50 langagues sans passer une seconde à configurer son environnement de dev
+
+## Challenges
+
+Apprenez à coder des trucs via des challenges
+
+- [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
+- [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
+- [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
+
+
+## Markdown
+
+<img src="img/markdown.jpg" alt="Markdown, Markdown everywhere !" width="300"/>
+
+Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
+
+Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, Latex...). 
+
+C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *hyperliens* tout simplement. Markdown refait apprécier le goût du *web 1.0*: les liens hypertextes et un processus de publication simple et facile. 
+
+Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
+
+
+## Présentations / Slides
+
+Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos présentations.
+
+- [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
+- [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
+- [https://github.com/websealevel/presentations], un dépôt qui reprend l'article précédent.
+- [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
+
+
+## Éditeurs de texte
+
+- [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
+- [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
+
+## Boîte à outils
+
+### Sed
+
+- [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
+
+## Convertisseurs de documents
+
+- [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
+
+## Automatisation de tâches sous linux
+
+- [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
+- [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
+
 ## Ebooks
 
   Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
@@ -626,68 +691,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 
-## Rich Hickey
 
-Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
-
-
-## Environement de développement
-
-- [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
-- [replit](https://replit.com/), un IDE collaboratif dans le navigateur pour travailler sur des projets à plusieurs dans plus de 50 langagues sans passer une seconde à configurer son environnement de dev
-
-## Challenges
-
-Apprenez à coder des trucs via des challenges
-
-- [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
-- [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
-- [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
-
-
-## Markdown
-
-<img src="img/markdown.jpg" alt="Markdown, Markdown everywhere !" width="300"/>
-
-Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
-
-Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, Latex...). 
-
-C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *hyperliens* tout simplement. Markdown refait apprécier le goût du *web 1.0*: les liens hypertextes et un processus de publication simple et facile. 
-
-Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
-
-  
-
-## Présentations / Slides
-
-Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos présentations.
-
-- [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
-- [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
-- [https://github.com/websealevel/presentations], un dépôt qui reprend l'article précédent.
-- [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
-
-
-## Éditeurs de texte
-
-- [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
-- [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
-
-## Boîte à outils
-
-### Sed
-
-- [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0)
-
-## Convertisseurs de documents
-
-- [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
-
-## Automatisation de tâches sous linux
-
-- [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
-- [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
 ## Inclassables
 
