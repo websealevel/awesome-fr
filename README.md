@@ -8,7 +8,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 *No time to loose !*
 
-<img src="img/./no%20time%20to%20loose.jpeg" alt="No time to loose ! (Monty Python Flying Circus)" width="300"/>
+<img src="img/./no%20time%20to%20loose.jpeg" alt="No time to loose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
 
@@ -517,7 +517,7 @@ Apprenez à coder des trucs via des challenges
 
 ## Markdown
 
-<img src="img/markdown.jpg" alt="Markdown, Markdown everywhere !" width="300"/>
+<img src="img/markdown.jpg" alt="Markdown, Markdown everywhere !" width="600"/>
 
 Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
 
