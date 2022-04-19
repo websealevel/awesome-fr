@@ -313,7 +313,7 @@ A venir
 
 ### Un mot sur Wordpress
 
-Il y avait en 2021 [environ 455 000 000 de sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 40% du web*. 
+Il y avait en 2021 [environ 455 000 000 sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais plutôt *40%* (estimation haute). 
 
 C'est toujours un phénomène curieux et intéressant de constater que sur les internets (Twitter, plateformes de blogging) on entend si peu parler des outils qui font tourner le web. Pourquoi n'entend on jamais parler de Wordpress ou de JQuery mais plutôt des 30 derniers frameworks JS à la mode alors que ces outils font littéralement tourner l'immense majorité du web ? Les modes passent. Wordpress, lui, reste.
 
