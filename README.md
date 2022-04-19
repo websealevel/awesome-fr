@@ -318,13 +318,12 @@ Wordpress est un framework parfaitement adapté pour publier du contenu sur Inte
 
 Wordpress existe depuis 2004, dans le monde du logiciel libre c'est une éternité. Pensez à vos propres dépôts, projets que vous n'arrivez pas à maintenir plus d'un an, tout seul. 
 
-Wordpress c'est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non techniciennes connaissent bien, utilisent quotidiennement. C'est donc un énorme avantage de capitaliser dessus pour vos utilisateurs.
+Wordpress c'est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non techniciennes connaissent bien, utilisent quotidiennement. C'est donc un énorme avantage de capitaliser dessus pour vos les futurs utilisateurs de votre application web.
 
-- [Make Wordpress](https://make.wordpress.org/), un hub centralisés de ressources pour les développeurs Wordpress
 
 ### Doc officielle wordpress.org
 
-Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrouver 
+Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrouver. Ne pas oublier que de documenter un immense framework qui évolue sans cesse est un immense challenge en soi.
 
 - [Codex](https://codex.wordpress.org/)
 - [Wordpress hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
@@ -333,6 +332,8 @@ Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrou
 - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
 - [Data Sanitization/Escaping](https://developer.wordpress.org/themes/theme-security/data-sanitization-escaping/#escaping-with-localization)
 - [Localization](https://developer.wordpress.org/apis/handbook/internationalization/localization/)
+- [Make Wordpress](https://make.wordpress.org/), un hub centralisés de ressources pour les développeurs Wordpress
+
 
 
 ### Articles
