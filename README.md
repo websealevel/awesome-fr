@@ -10,7 +10,6 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
-- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
   - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
@@ -61,6 +60,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [JavaScript](#javascript)
   - [Suivi de projets](#suivi-de-projets)
   - [Bases de données](#bases-de-données)
+  - [Perl](#perl)
   - [Programmation fonctionnelle](#programmation-fonctionnelle)
     - [Général](#général)
     - [Haskell](#haskell)
@@ -76,7 +76,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Wordpress](#wordpress-1)
     - [Sécurité des applications webs](#sécurité-des-applications-webs)
     - [HTTP](#http)
-    - [Perl](#perl)
+    - [Perl](#perl-1)
     - [Test driven development](#test-driven-development)
     - [Programmation CGI](#programmation-cgi)
     - [Génération procédurale et game design](#génération-procédurale-et-game-design)
@@ -425,6 +425,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 
+
+## Perl
+
+A venir...
 
 ## Programmation fonctionnelle
 
