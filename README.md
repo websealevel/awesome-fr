@@ -638,7 +638,6 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [Webmaster in a Nutshell](https://www.pdfdrive.com/webmaster-in-a-nutshell-a-desktop-quick-reference-e106392581.html)
 - [Linux en concentré](https://www.pdfdrive.com/linux-in-a-nutshell-6th-editionpdf-e18844861.html)
-- [Apache, Installation et mise en oeuvre]()
 
 ### HTTP
 
