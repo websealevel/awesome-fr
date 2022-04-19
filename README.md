@@ -307,7 +307,8 @@ Quelques conseils pour *se faire une idée* de l'hygiène d'un dépôt ou d'une 
 - regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
 - regarder le nombre de contributeurs
 - regarder le nombre de pull requests en attente
-- Trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
+- trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
+- essayer de trouver où se cache la communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
 
 
 ## SEO
