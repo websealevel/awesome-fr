@@ -12,6 +12,10 @@ Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et
 
 Proposez votre contribution via une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html).
 
+## Partagez
+
+N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager : )
+
 *No time to lose !*
 
 <img src="img/./no%20time%20to%20loose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
@@ -20,6 +24,7 @@ Proposez votre contribution via une [Pull Request](http://thelia-school.com/fair
 
 - [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
   - [Contribuez](#contribuez)
+  - [Partagez](#partagez)
   - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
