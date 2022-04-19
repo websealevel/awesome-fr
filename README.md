@@ -774,6 +774,7 @@ A venir...
 - [syntax](https://syntax.fm/)
 - [html all the things](https://www.htmlallthethings.com/), web development, web design and small business
 - [phproundtable](https://phproundtable.com/)
+- [Web: et 1, et 2, et 3.0](https://www.franceculture.fr/emissions/la-methode-scientifique/web-et-1-et-2-et-3-0), on apprécie toujours les titres idiots de la méthode scientifique sur france culture. Podcast très intéressant sur l'histoire du web jusqu'au web 3.0. L'invité [Benjamin Bayart](https://fr.wikipedia.org/wiki/Benjamin_Bayart), cofondateur de la Quadrature du Net, en plus d'être hyper intéressant a un sens de l'humour qu'on appréciera.
 
 ## Youtube
 
@@ -863,6 +864,7 @@ Des conseils à la volée
 
 - [readme](https://readme.so/fr), créer un readme de manière simple
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+- [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et à coup de bate. Mais la question de fond est plus que légitime et pertinente
 
 ## Banques de ressources
 
