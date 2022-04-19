@@ -61,6 +61,12 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [JavaScript](#javascript)
   - [Suivi de projets](#suivi-de-projets)
   - [Bases de données](#bases-de-données)
+  - [Programmation fonctionnelle](#programmation-fonctionnelle)
+    - [Général](#général)
+    - [Haskell](#haskell)
+    - [Clojure](#clojure)
+    - [Elm](#elm)
+    - [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
   - [Conception de bases de données](#conception-de-bases-de-données)
   - [Ebooks](#ebooks)
     - [Classiques](#classiques)
@@ -75,6 +81,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Programmation CGI](#programmation-cgi)
     - [Génération procédurale et game design](#génération-procédurale-et-game-design)
     - [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
+    - [Algorithmes](#algorithmes)
   - [O'Reilly Open Books](#oreilly-open-books)
   - [Billets](#billets)
   - [Papiers](#papiers)
@@ -85,8 +92,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Génération procédurale](#génération-procédurale)
     - [GDC](#gdc)
     - [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
-    - [Programmation fonctionnelle](#programmation-fonctionnelle)
-      - [Clojure](#clojure)
+    - [Programmation fonctionnelle](#programmation-fonctionnelle-1)
+      - [Haskell](#haskell-1)
       - [PHP](#php-1)
     - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
     - [Chaînes](#chaînes)
@@ -418,6 +425,35 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 
+
+## Programmation fonctionnelle
+
+### Général
+
+- [ericnormand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet.
+- [Mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+
+### Haskell
+
+- [Le Guide (fr)](https://github.com/bitemyapp/learnhaskell/blob/master/guide-fr.md)
+- [Haskell basics](https://www.seas.upenn.edu/~cis194/spring13/lectures/01-intro.html)
+
+Voir ce [bouquin de référence](#haskell-1).
+
+### Clojure
+
+- [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
+- [clojuredocs](https://clojuredocs.org/), un dépôt regroupant documentation et exemples pour Clojure
+- [How to earn your Clojure white belt](https://www.notamonadtutorial.com/how-to-earn-your-clojure-white-belt/)
+
+### Elm
+
+[Elm](https://elm-lang.org/) est un langage/ecosystème fonctionnel pour développer des applications web. Il compile vers Javascript. Elm possède peut être le compilateur le plus *human-friendly* au monde
+
+### Racket, le *langage-oriented programming language*
+
+- [Racket, the Programming Language](https://racket-lang.org/), un *language orienté language*
+
 ## Conception de bases de données
 
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
@@ -487,6 +523,9 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 - [Start and Run A Business From Home: How to turn your hobby or interest into a business (Small Business Start-Ups)](https://www.pdfdrive.com/start-and-run-a-business-from-home-how-to-turn-your-hobby-or-interest-into-a-business-small-business-start-ups-d185035411.html)
 - [The Small Business Owner's Manual: Everything You Need To Know To Start Up And Run Your Business](https://www.pdfdrive.com/the-small-business-owners-manual-everything-you-need-to-know-to-start-up-and-run-your-business-d184086729.html)
 
+### Algorithmes
+
+- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 
 ## O'Reilly Open Books
 
@@ -500,6 +539,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
 - [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
 - [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
+- [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/amp/)
 
 ## Papiers
 
@@ -557,13 +597,9 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Programmation fonctionnelle
 
-- [ericnormand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet
+#### Haskell
 
-#### Clojure
-
-- [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
-- [clojuredocs](https://clojuredocs.org/), un dépôt regroupant documentation et exemples pour Clojure
-- [How to earn your Clojure white belt](https://www.notamonadtutorial.com/how-to-earn-your-clojure-white-belt/)
+- [Haskell, The Craft of Functional Programming](https://www.pdfdrive.com/haskell-the-craft-of-functional-programming-e158848677.html)
 
 #### PHP
 
