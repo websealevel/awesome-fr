@@ -49,7 +49,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
       - [Code](#code)
       - [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
       - [Contraste](#contraste)
-  - [Évaluer la maintenabilité d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?](#évaluer-la-maintenabilité-dun-dépôt-dune-bibliothèque-avant-den-faire-dépendre-son-projet-à-ses-risques-et-périls-)
+  - [Évaluer la santé d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?](#évaluer-la-santé-dun-dépôt-dune-bibliothèque-avant-den-faire-dépendre-son-projet-à-ses-risques-et-périls-)
   - [SEO](#seo)
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
@@ -303,9 +303,9 @@ Expérimenter et créer des animations CSS
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 
-## Évaluer la maintenabilité d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?
+## Évaluer la santé d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?
 
-Quelques conseils pour *se faire une idée* de l'hygiène d'un dépôt ou d'une bibliothèque, à savoir est ce que ce dépôt est maintenu ou abandoné ? Est ce qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance va casser dans 6 mois ? Aller sur le dépôt puis
+Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce-que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce-que ce dépôt est maintenu ou abandoné ? Est-ce-qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance de mon projet va casser dans 6 mois ? Aller sur le dépôt puis
 - regarder la date du dernier commit
 - regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes
 - regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
