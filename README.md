@@ -88,6 +88,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Smalltalk](#smalltalk)
     - [Assembleur](#assembleur)
     - [Prolog](#prolog)
+    - [Scheme (List dialect)](#scheme-list-dialect)
+    - [Arduino](#arduino)
   - [Ebooks](#ebooks)
     - [Classiques](#classiques)
     - [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -95,6 +97,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Architecture de l'information](#architecture-de-linformation)
     - [Wordpress](#wordpress-1)
     - [Sécurité des applications webs](#sécurité-des-applications-webs)
+    - [Webmaster](#webmaster)
     - [HTTP](#http)
     - [Perl](#perl-1)
     - [Test driven development](#test-driven-development)
@@ -586,6 +589,10 @@ Le passé est rempli d'idées, de concepts, de technos révolutionnaires et long
 
 - [swi-prolog](https://www.swi-prolog.org/)
 
+### Scheme (List dialect)
+
+### Arduino
+
 ## Ebooks
 
   Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
@@ -624,6 +631,14 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 
 - [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
 
+
+### Webmaster
+
+Pour apprendre les bases du web, mettre en prod, configurer un serveur, la programmation CGI
+
+- [Webmaster in a Nutshell](https://www.pdfdrive.com/webmaster-in-a-nutshell-a-desktop-quick-reference-e106392581.html)
+- [Linux en concentré](https://www.pdfdrive.com/linux-in-a-nutshell-6th-editionpdf-e18844861.html)
+- [Apache, Installation et mise en oeuvre]()
 
 ### HTTP
 
