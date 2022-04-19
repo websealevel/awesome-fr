@@ -135,6 +135,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
     - [Chaînes](#chaînes)
     - [Playlists](#playlists)
+  - [Prendre soin de soi](#prendre-soin-de-soi)
   - [Inclassables](#inclassables)
   - [Banques de ressources](#banques-de-ressources)
   - [Twitter(s)](#twitters)
@@ -804,7 +805,13 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 
+## Prendre soin de soi
 
+Des conseils à la volée
+
+- coder c'est cool mais y'a autre chose dans la vie
+- quand on bloque sur un bug on s'arrête, on fait autre chose, et on revient avec la solution
+- quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film etc...] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrai résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Dites "j'arrive dans 5 minutes"
 
 ## Inclassables
 
