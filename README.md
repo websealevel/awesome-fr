@@ -50,6 +50,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
       - [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
       - [Contraste](#contraste)
   - [Évaluer la santé d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?](#évaluer-la-santé-dun-dépôt-dune-bibliothèque-avant-den-faire-dépendre-son-projet-à-ses-risques-et-périls-)
+  - [Comment apprendre à apprendre le développement ?](#comment-apprendre-à-apprendre-le-développement-)
+    - [Quand on débute](#quand-on-débute)
+    - [Quoand on débute moins](#quoand-on-débute-moins)
   - [SEO](#seo)
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
@@ -307,6 +310,8 @@ Expérimenter et créer des animations CSS
 ## Évaluer la santé d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?
 
 Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce-que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce-que ce dépôt est maintenu ou abandoné ? Est-ce-qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance de mon projet va casser dans 6 mois ? Aller sur le dépôt puis
+- regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
+- regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir
 - regarder la date du dernier commit
 - regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
 - regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
@@ -316,6 +321,14 @@ Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une
 - trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
 - essayer de trouver où se cache la communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
 
+
+## Comment apprendre à apprendre le développement ?
+
+A venir...
+
+### Quand on débute
+
+### Quoand on débute moins
 
 ## SEO
 
