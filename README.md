@@ -10,7 +10,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et vous voulez la partager ? 
 
-Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html).
+Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soummettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
 
 ## Partagez
 
