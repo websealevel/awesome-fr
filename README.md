@@ -6,9 +6,9 @@ La liste est francophone, cependant bon nombre de ressources listées ici ne son
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
-*No time to loose !*
+*No time to lose !*
 
-<img src="img/./no%20time%20to%20loose.jpeg" alt="No time to loose ! (Monty Python Flying Circus)" width="600"/>
+<img src="img/./no%20time%20to%20loose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
 
