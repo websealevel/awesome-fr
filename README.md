@@ -18,7 +18,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 
 *No time to lose !*
 
-<img src="img/./no%20time%20to%20loose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
+<img src="img/./no%20time%20to%20lose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
 
@@ -552,7 +552,7 @@ Apprenez à coder des trucs via des challenges
 
 ## Markdown
 
-<img src="img/markdown.jpg" alt="Markdown, Markdown everywhere !" width="600"/>
+<img src="img/markdown%20everywhere.jpg" alt="Markdown, Markdown everywhere !" width="600"/>
 
 Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
 
