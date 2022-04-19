@@ -276,7 +276,7 @@ Expérimenter et créer des animations CSS
 
 ### DOM
 
-- [testing playground][https://testing-playground.com/)
+- [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
 
 ### Documentation et articles de référence
 
@@ -307,7 +307,7 @@ Expérimenter et créer des animations CSS
 
 Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce-que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce-que ce dépôt est maintenu ou abandoné ? Est-ce-qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance de mon projet va casser dans 6 mois ? Aller sur le dépôt puis
 - regarder la date du dernier commit
-- regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes
+- regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
 - regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
 - regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
 - regarder le nombre de contributeurs
