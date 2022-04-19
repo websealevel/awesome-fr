@@ -10,8 +10,6 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
-- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
-  - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
@@ -103,6 +101,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Environement de développement](#environement-de-développement)
   - [Challenges](#challenges)
   - [Markdown](#markdown)
+  - [Présentations / Slides](#présentations--slides)
     - [Éditeurs de texte](#éditeurs-de-texte)
     - [Boîte à outils](#boîte-à-outils)
     - [Sed](#sed)
@@ -659,6 +658,17 @@ C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer 
 Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
   
+
+## Présentations / Slides
+
+Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos présentations.
+
+- [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
+- [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
+- [https://github.com/websealevel/presentations], un dépôt qui reprend l'article précédent.
+- [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
+
+
 ### Éditeurs de texte
 
 - [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
