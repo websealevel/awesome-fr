@@ -10,6 +10,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 ## Table des matières
 
+- [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
+  - [Table des matières](#table-des-matières)
   - [Frontend](#frontend)
     - [Typographies/Fonts](#typographiesfonts)
     - [Palettes de couleurs](#palettes-de-couleurs)
@@ -26,7 +28,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Pixel art](#pixel-art)
     - [Design aggregators](#design-aggregators)
     - [Composants](#composants)
-  - [UI/UX](#uiux)
+    - [UI/UX](#uiux)
     - [DOM](#dom)
     - [Documentation et articles de référence](#documentation-et-articles-de-référence)
     - [Check, check, check](#check-check-check)
@@ -52,6 +54,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [XML](#xml)
     - [Un mot sur le XML](#un-mot-sur-le-xml)
     - [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
+  - [Protocoles](#protocoles)
+    - [SSH](#ssh)
   - [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
     - [PHP](#php)
   - [Suivi de projets](#suivi-de-projets)
@@ -84,6 +88,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Playlists](#playlists)
   - [Rich Hickey](#rich-hickey)
   - [Environement de développement](#environement-de-développement)
+  - [Challenges](#challenges)
   - [Inclassables](#inclassables)
   - [Convertisseurs de documents](#convertisseurs-de-documents)
   - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
@@ -216,7 +221,7 @@ Expérimenter et créer des animations CSS
 - [loader](https://loading.io/)
 - [Froala Design Blocks](https://froala.com/design-blocks/), une banque de composants prêt à l'emploi
 
-## UI/UX
+### UI/UX
 
 - [checklistdesing](https://www.checklist.design/), une collection des meilleures pratiques de design web
 - [laws of UX](https://lawsofux.com/), une autre collection des meilleures pratiques en design web, très bien faite, avec un résumé de ce qu'il faut retenir sur chaque post
@@ -377,6 +382,13 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [XML in a nutshell, A Desktop Quick Reference](https://www.pdfdrive.com/xml-in-a-nutshell-e54427253.html)
 
 
+## Protocoles
+
+### SSH
+
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
+- [The Ultimate Guide to SSH - Setting Up SSH Keys](https://www.freecodecamp.org/news/the-ultimate-guide-to-ssh-setting-up-ssh-keys/)
+
 ## Spécifiques à un langage/écosystème
 
 ### PHP
@@ -465,6 +477,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
+- [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
 
 ## Papiers
 
@@ -547,9 +560,18 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 
 - [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
 
+## Challenges
+
+Apprenez à coder des trucs via des challenges
+
+- [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
+- [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
+- [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
+
 ## Inclassables
 
 - [readme](https://readme.so/fr), créer un readme de manière simple
+- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
 ## Convertisseurs de documents
 
@@ -564,8 +586,11 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 
 - [webcode.tools](https://webcode.tools/)
 - [omatsuri](https://omatsuri.app/)
-- [Jonas' Resources for Hand-Crafting
-Beautiful and Performant Websites](https://codingheroes.io/resources/)
+- [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
+- [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
+- [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
+- [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
+
 
 
 ## Twitter(s)
