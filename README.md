@@ -849,7 +849,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 Des conseils à la volée
 
-- **la reconnaissance ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites vous payer convenablement. C'est plus facile à dire qu'à faire, mais tout s'apprend, notamment à se respecter
+- **la reconnaissance ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites vous payer convenablement. C'est plus facile à dire qu'à faire, mais tout s'apprend, notamment à se (faire) respecter
 - coder c'est cool mais y'a autre chose dans la vie (par exemple commencer un nouveau *side project* alors qu'on en a déjà dix inachevés)
 - quand on bloque sur un bug on s'arrête, on fait autre chose, et on revient avec la solution
 - quand on est fatigués on s'arrête (au moins un moment)
