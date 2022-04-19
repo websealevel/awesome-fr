@@ -42,6 +42,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [API](#api)
   - [Fake data generators](#fake-data-generators)
   - [Wordpress](#wordpress)
+    - [Un mot sur Wordpress](#un-mot-sur-wordpress)
     - [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
     - [Articles](#articles)
     - [Livres de développement wordpress](#livres-de-développement-wordpress)
@@ -309,6 +310,8 @@ A venir
 
 
 ## Wordpress
+
+### Un mot sur Wordpress
 
 Il y avait en 2021 [environ 455 000 000 de sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 40% du web*. 
 
