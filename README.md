@@ -580,6 +580,12 @@ Tomber dans l'oubli ne signifie pas nécessairement devenir obselète. C'est bie
 
 Le passé est rempli d'idées, de concepts, de technos révolutionnaires et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la hype, sont en fait des vieilles idées des années 80.
 
+Que je sois bien compris, *je n'ai rien contre les modes et la nouveauté*. Les modes sont toujours là et aucune personne n'y échappe, aussi condenscendante soit-elle. Les frameworks JS sont des outils formidables, allez donc les apprendre (aussi). 
+
+Ce que je veux dire c'est qu'il faut apprendre à filtrer le signal, les modes c'est du *bruit* qu'il faut souvent filtrer pour en extraire la *vraie valeur*. Les chercheurs sont mieux armés pour cela car ils pratiquent la bibliographie de manière assidue le vendredi matin, ils connaissent les références, les idées qui sont là depuis 50 ans dans leur domaine. 
+
+Ils se font (en général) moins avoir qu'un jeune de 20 ans qui débarque dans l'industrie du développement web à qui on *push* par tous les ports, via tous les canaux possibles les derniers outils à la mode, dont la plupart seront morts dans quelques années pour laisser leur place à d'autres. Ceci est d'autant plus important lorsqu'on se lance dans un gros projet. Il faut préférer ce qui est stable, à ce qui est nouveau. Il faut aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
+
 ### Rust
 
 ### Smalltalk
