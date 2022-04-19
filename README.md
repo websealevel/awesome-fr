@@ -571,7 +571,7 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 
 - [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
 - [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
-- [https://github.com/websealevel/presentations], un dépôt qui reprend l'article précédent.
+- [un workflow complet à suivre pas à pas](https://github.com/websealevel/presentations), un dépôt qui reprend l'article précédent.
 - [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
 
@@ -696,6 +696,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ### Génération procédurale et game design
 
 - [Procedural generation in game design](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
+- [Curating Simulated Storyworlds](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), Thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, l'interaction entre l'intelligence artificielle et l'experience ludique. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
 
 ### Freelance, conseils pour bien gérer son business depuis chez soi
 
@@ -763,6 +764,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Procedural Generation: Programming The Universe](https://youtu.be/ZZY9YE7rZJw)
 - [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://youtu.be/S9pc8li4fuQ)
 - [End-to-End Procedural Generation in Caves of Qud](https://youtu.be/jV-DZqdKlnE)
+- [Dwarf fotress](http://bay12games.com/dwarves/), un projet fou [de générateur de monde de fantasy interactif](http://bay12games.com/dwarves/features.html), qui dure depuis plus de 20ans, fabriqué avec passion par deux frangins. Pour l'anectode, [dwarf fortress est rentré au MoMa](https://www.moma.org/collection/works/164920). Le jeu sert également de base pour [écrire des histoires](http://bay12games.com/dwarves/dev_story.html).
 
 ### GDC
 
