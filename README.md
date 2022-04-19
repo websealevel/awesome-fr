@@ -58,7 +58,10 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [SSH](#ssh)
   - [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
     - [PHP](#php)
+    - [JavaScript](#javascript)
   - [Suivi de projets](#suivi-de-projets)
+  - [Bases de données](#bases-de-données)
+  - [Conception de bases de données](#conception-de-bases-de-données)
   - [Ebooks](#ebooks)
     - [Classiques](#classiques)
     - [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -81,17 +84,22 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [La vérité par l'humour](#la-vérité-par-lhumour)
     - [Génération procédurale](#génération-procédurale)
     - [GDC](#gdc)
-    - [Computer graphics](#computer-graphics)
-    - [Functional programming](#functional-programming)
+    - [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
+    - [Programmation fonctionnelle](#programmation-fonctionnelle)
+      - [Clojure](#clojure)
+      - [PHP](#php-1)
     - [Créativité, modèles mentaux](#créativité-modèles-mentaux)
     - [Chaînes](#chaînes)
     - [Playlists](#playlists)
   - [Rich Hickey](#rich-hickey)
   - [Environement de développement](#environement-de-développement)
   - [Challenges](#challenges)
-  - [Inclassables](#inclassables)
+    - [Éditeurs de texte](#éditeurs-de-texte)
+    - [Boîte à outils](#boîte-à-outils)
+    - [Sed](#sed)
   - [Convertisseurs de documents](#convertisseurs-de-documents)
   - [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
+  - [Inclassables](#inclassables)
   - [Banques de ressources](#banques-de-ressources)
   - [Twitter(s)](#twitters)
 
@@ -277,8 +285,6 @@ Expérimenter et créer des animations CSS
 
 A venir
 
-
-
 ## API
 
 - [weatherstack](https://weatherstack.com/)
@@ -397,9 +403,24 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
 
+### JavaScript
+
+- [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
+- [leaflet](https://leafletjs.com/SlavaUkraini/index.html), **le** projet open-source pour développer des cartes interactives et *mobile-friendly*.
+
 ## Suivi de projets
 
 - [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
+
+## Bases de données
+
+- [PostegreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
+- [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
+- [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
+
+## Conception de bases de données
+
+- [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 
 ## Ebooks
 
@@ -410,6 +431,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-e157846585.html)
 - [Structure and interpretation of computer programs, 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf)
+- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html), une référence absolue
 
 ### Refactoring, travailler sur du code legacy
 
@@ -417,7 +439,6 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ### Software design
 
-- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html)
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
 
@@ -478,6 +499,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
 - [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
+- [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
 
 ## Papiers
 
@@ -515,6 +537,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [*Microservices*, Krazam](https://www.youtube.com/watch?v=y8OnoxKotPQ)
 - [*Interview with Senior JS Developer in 2022*,  Programmers are also human
 ](https://youtu.be/Uo3cL4nrGOk)
+- [Wat, Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat), exploration des arcanes de l'implémentation de différents langages
 
 ### Génération procédurale
 
@@ -527,11 +550,22 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
 - [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
 
-### Computer graphics
+### Computer graphics et art génératif
 
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
+- [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
 
-### Functional programming
+### Programmation fonctionnelle
+
+- [ericnormand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet
+
+#### Clojure
+
+- [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
+- [clojuredocs](https://clojuredocs.org/), un dépôt regroupant documentation et exemples pour Clojure
+- [How to earn your Clojure white belt](https://www.notamonadtutorial.com/how-to-earn-your-clojure-white-belt/)
+
+#### PHP
 
 - [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
 
@@ -559,6 +593,7 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 ## Environement de développement
 
 - [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
+- [replit](https://replit.com/), un IDE collaboratif dans le navigateur pour travailler sur des projets à plusieurs dans plus de 50 langagues sans passer une seconde à configurer son environnement de dev
 
 ## Challenges
 
@@ -568,10 +603,17 @@ Apprenez à coder des trucs via des challenges
 - [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
 - [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
 
-## Inclassables
 
-- [readme](https://readme.so/fr), créer un readme de manière simple
-- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+### Éditeurs de texte
+
+- [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
+- [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
+
+### Boîte à outils
+
+### Sed
+
+- [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0)
 
 ## Convertisseurs de documents
 
@@ -582,6 +624,11 @@ Apprenez à coder des trucs via des challenges
 - [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
 - [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
+## Inclassables
+
+- [readme](https://readme.so/fr), créer un readme de manière simple
+- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+
 ## Banques de ressources
 
 - [webcode.tools](https://webcode.tools/)
@@ -590,7 +637,8 @@ Apprenez à coder des trucs via des challenges
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
 - [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
-
+- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
+- [filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
 
 
 ## Twitter(s)
