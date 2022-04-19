@@ -124,6 +124,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
   - [Inclassables](#inclassables)
   - [Banques de ressources](#banques-de-ressources)
   - [Twitter(s)](#twitters)
+  - [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
 
 ## Frontend
@@ -796,3 +797,14 @@ Une grande partie des ressources présentées ici ont été partagées par d'aut
 - [@csaba_kissi](https://twitter.com/csaba_kissi?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
 - [@parik36](https://twitter.com/parik36?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
 - [@htmleverything](https://twitter.com/htmleverything?s=20&t=tQ_gJCWyNfWPHVkHahh_IA)
+
+
+## Trouver des livres techniques d'occasion pas cher
+
+Les livres ça coute cher. Heureusement on en trouve plein en ligne gratuitement. Mais certain·e·s aiment bien le papier, vivre parmi les livres et en devenir familier pour retrouver facilement un chapitre dans un bouquin au pied levé, entourer, surligner, mettre des marque pages partout etc...
+
+Pour cela on peut trouver pas mal de vieux livres mais qui restent toujours pertinent sur [recyclelivre.com](https://www.recyclivre.com/shop/11600-), une recyclerie de livres en ligne. On peut facilement repartir avec des livres de qualité pour quelques euro. En plus recyclelivre fait de la réinsertion sociale et verse une partie de ses bénéfices à des associations écolos.
+
+Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly. 
+
+Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement...
