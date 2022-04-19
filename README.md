@@ -49,7 +49,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
       - [Code](#code)
       - [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
       - [Contraste](#contraste)
-  - [Évaluer la santé d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?](#évaluer-la-santé-dun-dépôt-dune-bibliothèque-avant-den-faire-dépendre-son-projet-à-ses-risques-et-périls-)
+  - [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
   - [Comment apprendre à apprendre le développement ?](#comment-apprendre-à-apprendre-le-développement-)
     - [Quand on débute](#quand-on-débute)
     - [Quoand on débute moins](#quoand-on-débute-moins)
@@ -307,9 +307,11 @@ Expérimenter et créer des animations CSS
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 
-## Évaluer la santé d'un dépôt, d'une bibliothèque avant d'en faire dépendre son projet à ses risques et périls ?
+## Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?
 
-Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce-que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce-que ce dépôt est maintenu ou abandoné ? Est-ce-qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance de mon projet va casser dans 6 mois ? Aller sur le dépôt puis
+Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce-que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce-que ce dépôt est maintenu ou abandoné ? Est-ce-qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance de mon projet va casser dans 6 mois ? 
+
+Aller sur le dépôt puis
 - regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
 - regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir
 - regarder la date du dernier commit
