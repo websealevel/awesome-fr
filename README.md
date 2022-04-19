@@ -534,7 +534,7 @@ Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, 
 
 *Le Markdown est à l'édition web ce que [Latex](https://www.latex-project.org/) est à l'édition papier*. Le web et le papier sont deux media différents, avec des contraintes différentes. Les chercheurs le savent bien et sont souvent embêtés car ils utilisent Latex pour leurs articles mais ils doivent aussi communiquer sur le web.
 
-C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *hyperliens* tout simplement. Markdown refait apprécier le goût du *web 1.0*: les liens hypertextes et un processus de publication simple et facile. 
+C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web 1.0* : les liens hypertextes et un processus de publication simple et facile. 
 
 Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
