@@ -45,7 +45,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
     - [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
     - [Articles](#articles)
     - [Livres de développement wordpress](#livres-de-développement-wordpress)
-    - [Podcasts sur wordpress](#podcasts-sur-wordpress)
+    - [Épisodes de podcasts sur wordpress](#épisodes-de-podcasts-sur-wordpress)
+  - [Podcasts dédiés à Wordpress](#podcasts-dédiés-à-wordpress)
     - [Formations](#formations)
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
@@ -309,6 +310,10 @@ A venir
 
 ## Wordpress
 
+
+- [Make Wordpress](https://make.wordpress.org/), un hub centralisés de ressources pour les développeurs Wordpress
+- 
+
 ### Doc officielle wordpress.org
 
 Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrouver 
@@ -335,10 +340,15 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - *[Professional WordPress Plugin Development](https://www.pdfdrive.com/professional-wordpress-plugin-developmen-4074kb-jun-27-2012-120000-am-e42772568.html)* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
 - *[Modern PHP: new features and good practices](https://www.pdfdrive.com/modern-php-e34337192.html)*, Josh Lochart, Edition O'REILLY, 2015
 
-### Podcasts sur wordpress
+### Épisodes de podcasts sur wordpress
 
 - https://phproundtable.com/episode/all-things-wordpress
 - https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/
+
+## Podcasts dédiés à Wordpress
+
+- [dradcast](http://dradcast.com/)
+- [wp watercooler](https://wpwatercooler.com/)
 
 ### Formations
 
@@ -362,10 +372,16 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 ### Plugins recommandés
 
+Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèmes*. Cela dit certains plugins stables et bien maintenus sont souvent de la partie pour des sites en production
+
 - [ewww image optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
-- [defender security](https://wordpress.org/plugins/defender-security/)
+- [bulletProof Security](https://wordpress.org/plugins/bulletproof-security/), bonne alternative à WordFence
 - [carbon fields](https://carbonfields.net/), alternative gratuite à ACF Pro
 - [fakerpress](http://fakerpress.com/r/github), générateur de faux contenu pour tester son thème
+- [RankMath](https://rankmath.com/fr/), plugin SEO, bonne alternative à [Yoast](https://yoast.com/)
+- [BuddyPress](https://wordpress.org/plugins/buddypress/), plugin pour ajouter une couche réseau social à votre site
+- [bbPress](https://wordpress.org/plugins/bbpress/), gestionnaire de forums/fils de discussion
+- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
 
 ## Générateur de mots de passe
