@@ -821,6 +821,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
 - [filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
+- [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
 
 
 ## Twitter(s)
