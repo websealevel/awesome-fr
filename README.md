@@ -8,6 +8,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 *No time to loose !*
 
+<img src="img/./no%20time%20to%20loose.jpeg" alt="No time to loose ! (Monty Python Flying Circus)" width="300"/>
+
 ## Table des matières
 
 - [Ressources pour les développeuses et les développeurs, et autres intéressé·es](#ressources-pour-les-développeuses-et-les-développeurs-et-autres-intéressées)
