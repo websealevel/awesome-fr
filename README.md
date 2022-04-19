@@ -52,7 +52,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
   - [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
   - [Comment apprendre à apprendre le développement ?](#comment-apprendre-à-apprendre-le-développement-)
     - [Quand on débute](#quand-on-débute)
-    - [Quoand on débute moins](#quoand-on-débute-moins)
+    - [Quand on débute moins](#quand-on-débute-moins)
   - [SEO](#seo)
   - [Page builders](#page-builders)
   - [Analytics](#analytics)
@@ -331,7 +331,7 @@ A venir...
 
 ### Quand on débute
 
-### Quoand on débute moins
+### Quand on débute moins
 
 ## SEO
 
