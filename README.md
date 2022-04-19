@@ -749,6 +749,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
 - [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
 - [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/amp/)
+- [Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/) [securité]
 
 ## Papiers
 
