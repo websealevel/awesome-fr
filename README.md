@@ -656,7 +656,7 @@ Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, 
 
 C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *hyperliens* tout simplement. Markdown refait apprécier le goût du *web 1.0*: les liens hypertextes et un processus de publication simple et facile. 
 
-Si vous voulez me voir m'étaler encore davantage sur les qualités du Markdown et trouvez des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
+Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
   
 ### Éditeurs de texte
