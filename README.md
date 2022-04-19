@@ -123,6 +123,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
     - [Algorithmes](#algorithmes)
   - [O'Reilly Open Books](#oreilly-open-books)
+  - [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
+    - [Public enfant](#public-enfant)
+    - [Public adulte](#public-adulte)
   - [Billets](#billets)
   - [Papiers](#papiers)
   - [Podcasts](#podcasts)
@@ -740,6 +743,14 @@ Cela dit, si on oublie cette tendance déletère, les algorithmes c'est hyper in
 
 L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
 
+
+## Éducation, outils/langages pour initier à la programmation
+
+A venir...
+
+### Public enfant
+
+### Public adulte
 
 ## Billets
 
