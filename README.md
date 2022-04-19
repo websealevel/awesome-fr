@@ -716,7 +716,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 Soyons honnêtes, vous n'aurez jamais à coder un *binary tree* à la main dans la vraie vie, voir même en utiliser un durant votre carrière. Cette mode de connaître ces algorithmes par coeur, cette maladie, on la doit aux recruteurs qui pensent bêtement que ces méthodes de recrutement *c'est normal*. Vous pouvez avoir 5 ans d'expérience, maintenir du code legacy, refactorer, modeliser de la logique métier, écrire de la documentation de qualité, si vous savez pas inverser une chaine de caractères sur place de tête vous n'êtes pas compétent. C'est d'ailleurs un très bon premier avertissement que vous ne devriez peut être pas travailler là et passer votre chemin. 
 
-Cela dit, si on oublie cette tendance déletère, les algorithmes c'est hyper intéressant. C'est même passionant. La différence c'est que vous pouvez vous y intéressez, les comprendre sans les apprendre par coeur. Tout le monde travaille avec un onglet ouvert(mille), un bouquin sur la table ouvert à l'index.
+Cela dit, si on oublie cette tendance déletère, les algorithmes c'est hyper intéressant. C'est même passionant et ça peut vous permettre d'ouvrir de nouveaux horizons pour créer des systèmes intéressants. La différence c'est que vous pouvez vous y intéressez, les comprendre sans les apprendre par coeur. Tout le monde travaille avec un onglet ouvert(mille) ou un bouquin sur la table.
 
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 
