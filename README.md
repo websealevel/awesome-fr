@@ -54,9 +54,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [Quand on débute](#quand-on-débute)
     - [Quand on débute moins](#quand-on-débute-moins)
   - [SEO](#seo)
-  - [Page builders](#page-builders)
+  - [Page/Site builders](#pagesite-builders)
   - [Analytics](#analytics)
-  - [Browser extensions](#browser-extensions)
   - [API](#api)
   - [Fake data generators](#fake-data-generators)
   - [Wordpress](#wordpress)
@@ -69,7 +68,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [Formations](#formations)
     - [Starter themes](#starter-themes)
     - [Plugins recommandés](#plugins-recommandés)
-  - [Générateur de mots de passe](#générateur-de-mots-de-passe)
+    - [Mots de passe](#mots-de-passe)
+    - [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
+    - [Générateur de mots de passe](#générateur-de-mots-de-passe)
   - [Standards](#standards)
   - [XML](#xml)
     - [Un mot sur le XML](#un-mot-sur-le-xml)
@@ -80,7 +81,11 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [PHP](#php)
     - [JavaScript](#javascript)
   - [Suivi de projets](#suivi-de-projets)
+  - [Diagrames](#diagrames)
+  - [Formulaires](#formulaires)
+  - [Monétiser son travail](#monétiser-son-travail)
   - [Bases de données](#bases-de-données)
+  - [Conception de bases de données](#conception-de-bases-de-données)
   - [Perl](#perl)
   - [Programmation fonctionnelle](#programmation-fonctionnelle)
     - [Général](#général)
@@ -88,7 +93,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
     - [Clojure](#clojure)
     - [Elm](#elm)
     - [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
-  - [Conception de bases de données](#conception-de-bases-de-données)
   - [Rich Hickey](#rich-hickey)
   - [Environement de développement](#environement-de-développement)
   - [Challenges](#challenges)
@@ -191,6 +195,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 - [noun project](https://thenounproject.com/)
 - [fake images please?](https://fakeimg.pl/)
 - [freepik](https://www.freepik.com/)
+- [profile pic Maker](https://pfpmaker.com/), faire une photo de profil classe à partir de "n'importe quelle photo"
 
 ### Générateurs CSS
 
@@ -290,7 +295,7 @@ Expérimenter et créer des animations CSS
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
-- [how to draw an svg in Inscape](https://www.youtube.com/watch?v=PSl1c6kYfHs)
+- [how to draw an svg in Inscape](https://www.youtube.com/watch?v=PSl1c6kYfHs), un tutoriel qui explique bien comment faire un svg à partir d'une image bitmap
 
 
 ### Check, check, check
@@ -322,10 +327,10 @@ Aller sur le dépôt puis
 - regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
 - regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
 - regarder le nombre de contributeurs
-- regarder le nombre de pull requests en attente
+- regarder le nombre de pull requests en attente, idem que pour les issues
 - trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
-- essayer de trouver où se cache la communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
-- est-ce que le projet est versionné ? C'est important pour exactement de quelle version dépend notre projet, tracker les changements rétrocompatibles ou non etc..
+- essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
+- est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, tracker les changements rétrocompatibles ou non etc..
 
 
 ## Comment apprendre à apprendre le développement ?
@@ -341,18 +346,17 @@ A venir...
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 
 
-## Page builders
+## Page/Site builders
 
 - [swipepages](https://swipepages.com/)
+- [Carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
+
 
 ## Analytics
 
 - [splitbee](https://splitbee.io/)
 - [clearbit](https://clearbit.com/resources/tools/visitor-report)
 
-## Browser extensions
-
-A venir
 
 ## API
 
@@ -452,11 +456,15 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [bbPress](https://wordpress.org/plugins/bbpress/), gestionnaire de forums/fils de discussion
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
+### Mots de passe
 
-## Générateur de mots de passe
+### Gestionnaire de mots de passe
+
+- [KeePassXC](https://keepassxc.org/), les navigateurs proposent de sauvegarder vos mots de passe. Mais ils ne sont pas conçus pour ça et ce n'est pas l'idéal d'un point de vue sécurité. Mieux vaut utiliser un gestionnaire de mots de passe sur votre machine pour les accès sensibles. KeePassXC est un gestionnaire de mots de passe multiplateforme et open-source. Il stocke vos mots de passe dans une base de données cryptée et respecte les standards. Il offre également tout un tas d'autres fonctionnalités. Il vient même [avec une extension pour votre navigateur favori](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_configure_keepassxc_browser) qui se connecte à votre base de données de mots de passe et (essaie) de remplir automatiquement les formulaires de login.
+
+### Générateur de mots de passe
 
 - [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
-
 
 ## Standards
 
@@ -507,12 +515,28 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
 
+## Diagrames
+
+- [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
+
+## Formulaires
+
+- [tally](https://tally.so/), créer des formulaires via un éditeur similaire à Google Docs, et intégrez les à votre site ou envoyez directement le lien du formulaire pour commencer à collecter les réponses. Le moyen gratuit le plus simple pour faire et se servir de formulaires en ligne
+
+## Monétiser son travail
+
+- [gumroad](https://gumroad.com/), un site très stylé pour vendre son travail digital (post, tutos, cours, livre, plans, artwork...)
+
+
 ## Bases de données
 
 - [PostegreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 
+## Conception de bases de données
+
+- [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 
 ## Perl
 
@@ -545,11 +569,6 @@ Voir ce [bouquin de référence](#haskell-1).
 ### Racket, le *langage-oriented programming language*
 
 - [Racket, the Programming Language](https://racket-lang.org/), un *language orienté language*
-
-## Conception de bases de données
-
-- [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
-
 
 ## Rich Hickey
 
