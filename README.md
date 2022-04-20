@@ -857,8 +857,8 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 - [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
 - [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
-- [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
+- [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech)
 
 ### Playlists
 
