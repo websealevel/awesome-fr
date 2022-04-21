@@ -475,8 +475,8 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose
 
-- [swipepages](https://swipepages.com/)
-- [Carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
+- [swipepages](https://swipepages.com/), construisez une home page hébergée rapidement
+- [carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
 - [loom](https://www.loom.com/),enregistrer rapidement des vidéos via la webcam et partagez le lien facilement
 - [zapier](https://zapier.com/), automatiser ses tâches sur toutes les web apps
 
