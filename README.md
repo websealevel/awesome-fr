@@ -56,7 +56,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Quand on débute](#quand-on-débute)
 		- [Quand on débute moins](#quand-on-débute-moins)
 	- [SEO](#seo)
-	- [Page/Site builders](#pagesite-builders)
 	- [Analytics](#analytics)
 	- [API](#api)
 	- [Fake data generators](#fake-data-generators)
@@ -69,10 +68,12 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Podcasts dédiés à Wordpress](#podcasts-dédiés-à-wordpress)
 		- [Formations](#formations)
 		- [Starter themes](#starter-themes)
+		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
 		- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
+	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
 	- [Standards](#standards)
 	- [XML](#xml)
 		- [Un mot sur le XML](#un-mot-sur-le-xml)
@@ -271,6 +272,7 @@ Expérimenter et créer des animations CSS
 - [landingfolio](https://landingfolio.com/?offset=1), designs de landing pages
 - [ui garage](https://uigarage.net/)
 - [collect ui](https://collectui.com/)
+- [behance](https://www.behance.net/), explorez le monde de la création
 
 
 ### Composants
@@ -348,17 +350,12 @@ A venir...
 
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 
-
-## Page/Site builders
-
-- [swipepages](https://swipepages.com/)
-- [Carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
-
-
 ## Analytics
 
 - [splitbee](https://splitbee.io/)
 - [clearbit](https://clearbit.com/resources/tools/visitor-report)
+- [fathom](https://usefathom.com/), analytique de site web simple, privacy-first, sans cookie et respecant la GDPR, bonne alternative à Google Analytics
+- [calendly](https://calendly.com/fr/), planification de rendez-vous et réunions
 
 
 ## API
@@ -446,6 +443,11 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - [generate press](https://generatepress.com/)
 - [tail press](https://tailpress.io/)
 
+### Banque de thèmes
+
+- [colorlib](https://colorlib.com/)
+- [themeforest](https://themeforest.net/), des themes wordpress mais pas que
+
 ### Plugins recommandés
 
 Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèmes*. Cela dit certains plugins stables et bien maintenus sont souvent de la partie pour des sites en production
@@ -468,6 +470,15 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 ### Générateur de mots de passe
 
 - [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
+
+## Outils *no-code ou low-code*
+
+Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose
+
+- [swipepages](https://swipepages.com/)
+- [Carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
+- [loom](https://www.loom.com/),enregistrer rapidement des vidéos via la webcam et partagez le lien facilement
+- [zapier](https://zapier.com/), automatiser ses tâches sur toutes les web apps
 
 ## Standards
 
