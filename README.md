@@ -105,9 +105,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Boîte à outils](#boîte-à-outils)
 		- [Sed](#sed)
-	- [Conversion/Manipulation de documents](#conversionmanipulation-de-documents)
-	- [Convertir des documents](#convertir-des-documents)
-	- [Compresser, optimisez des documents (images, pdf etc..)](#compresser-optimisez-des-documents-images-pdf-etc)
+	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
+		- [Convertir des documents](#convertir-des-documents)
+		- [Compresser, optimisez des documents (images, pdf etc..)](#compresser-optimisez-des-documents-images-pdf-etc)
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot)
@@ -668,15 +668,15 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 
 - [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
 
-## Conversion/Manipulation de documents
+## Manipulation de fichiers, documents
 
 Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.
 
-## Convertir des documents
+### Convertir des documents
 
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
 
-## Compresser, optimisez des documents (images, pdf etc..)
+### Compresser, optimisez des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
 
