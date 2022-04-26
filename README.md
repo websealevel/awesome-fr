@@ -107,7 +107,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Sed](#sed)
 	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 		- [Convertir des documents](#convertir-des-documents)
-		- [Compresser, optimisez des documents (images, pdf etc..)](#compresser-optimisez-des-documents-images-pdf-etc)
+		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot)
@@ -676,7 +676,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
 
-### Compresser, optimisez des documents (images, pdf etc..)
+### Compresser, optimiser des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
 
