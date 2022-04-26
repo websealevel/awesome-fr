@@ -548,6 +548,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), **le** projet open-source pour développer des cartes interactives et *mobile-friendly*.
+- [jquery](https://learn.jquery.com/using-jquery-core/), jquery est tellement une bibliothèque indispensable. Tout le monde dit qu'elle est *morte*. On peut bien rigoler en entendant ceci. Jquery n'est pas mort, jquery est partout. Idéalement, dans un monde parfait, jquery *devrait* disparaître lorsque le standard de JS sera suffisament acceptable et mature pour manipuler le DOM facilement et que tous les navigateurs l'implémentera. En attendant, c'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles après, (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne.
 
 ## Suivi de projets
 
