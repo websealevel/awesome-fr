@@ -76,9 +76,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
 	- [Standards](#standards)
-	- [XML](#xml)
-		- [Un mot sur le XML](#un-mot-sur-le-xml)
-		- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
+		- [XML](#xml)
+			- [Un mot sur le XML](#un-mot-sur-le-xml)
+			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
 	- [Protocoles](#protocoles)
 		- [SSH](#ssh)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
@@ -506,9 +506,9 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 
 ## Standards
 
-## XML
+### XML
 
-### Un mot sur le XML
+#### Un mot sur le XML
 
 Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des structures de données robustes et échangeables. Contrairement aux idées reçues il n'est pas à mettre au placard et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. *JSON est un excellent format pour... Javascript*. 
 
@@ -522,7 +522,7 @@ XML est un format universel pouvant être lu facilement par des humains et par d
 
 Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*.
 
-### Apprendre le XML et ses standards associés
+#### Apprendre le XML et ses standards associés
 
 - [XML Tutorial, W3C Schools](https://www.w3schools.com/xml/)
 - [XML Facile !](http://www.xmlfacile.com/)
@@ -935,7 +935,8 @@ Des conseils à la volée
 ### Général
 - [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
 - [webcode.tools](https://webcode.tools/)
-- [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement we
+- [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
+- [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
   
 
 ### Frontend
@@ -962,9 +963,6 @@ Des conseils à la volée
 ### Bouquins
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
-- [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
-
-
 
 
 ## Twitter(s)
