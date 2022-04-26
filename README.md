@@ -70,7 +70,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Starter themes](#starter-themes)
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
-		- [Mots de passe](#mots-de-passe)
+		- [Hébergements gratuits](#hébergements-gratuits)
+	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
@@ -148,9 +149,17 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 		- [Chaînes](#chaînes)
 		- [Playlists](#playlists)
+	- [Restez informé](#restez-informé)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Inclassables](#inclassables)
-	- [Banques de ressources](#banques-de-ressources)
+	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
+		- [Général](#général-1)
+		- [Frontend](#frontend-1)
+		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
+		- [Blogs](#blogs)
+		- [Conférences](#conférences-1)
+		- [Inclassables](#inclassables-1)
+		- [Bouquins](#bouquins)
 	- [Twitter(s)](#twitters)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
@@ -461,7 +470,22 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [bbPress](https://wordpress.org/plugins/bbpress/), gestionnaire de forums/fils de discussion
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
-### Mots de passe
+### Hébergements gratuits
+
+Plus fait pour le dev, le test ou le staging et non pour une mise en prod officielle.
+
+- https://pantheon.io
+- https://accuwebhosting.com
+- https://awardspace.com
+- https://x10hosting.com
+- https://freehosting.com
+- https://infinityfree.net
+- https://freehostia.com
+- https://100webspace.com
+- https://tastewp.com
+- https://instawp.com
+
+## Mots de passe
 
 ### Gestionnaire de mots de passe
 
@@ -879,6 +903,13 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 
+
+## Restez informé
+
+Une liste de sites pour se tenir informé et faire de la veille techno
+
+- [hacker news](https://news.ycombinator.com/)
+
 ## Prendre soin de soi
 
 Des conseils à la volée
@@ -899,20 +930,41 @@ Des conseils à la volée
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente
 
-## Banques de ressources
+## Banques de ressources et dépôts
 
+### Général
+- [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
 - [webcode.tools](https://webcode.tools/)
-- [omatsuri](https://omatsuri.app/)
+- [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement we
+  
+
+### Frontend
 - [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
+- [omatsuri](https://omatsuri.app/)
+- [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks), une liste de ressources de qualité pour les développeurs frontend
+- [css-protips](https://github.com/AllThingsSmitty/css-protips), un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui
+- [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist), liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
+
+### Développement de jeux vidéos
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
-- [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
-- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
+  
+### Blogs
 - [filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
-- [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
+### Conférences
+
+- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
+
+### Inclassables
+- [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
+- [developer roadmap](https://github.com/kamranahmedse/developer-roadmap), un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
+  
+### Bouquins
+
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
-- [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
+
+
 
 
 ## Twitter(s)
