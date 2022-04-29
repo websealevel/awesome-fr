@@ -157,7 +157,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
 			- [PHP](#php-1)
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
-		- [Chaînes/PLaylists](#chaînesplaylists)
+		- [Chaînes](#chaînes)
 		- [Playlists](#playlists)
 	- [Restez informé](#restez-informé)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
@@ -930,7 +930,7 @@ A venir...
 
 - [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
-### Chaînes/PLaylists
+### Chaînes
 
 - [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
 - [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
