@@ -6,7 +6,7 @@ La liste est francophone, cependant bon nombre de ressources listées ici ne son
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
-*Spoiler alert* : vous n'aurez pas assez d'une vie pour apprendre, lire, maîtrisez tout ce qui est exposé ici. Nagiguez la conscience tranquille vers ce qui vous parait utile ou vous attire.
+*Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous parait utile ou vous attire. Ce dépot donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
 
 ## Contribuez
 
@@ -114,6 +114,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot)
+		- [Du bruit au bruit](#du-bruit-au-bruit)
 		- [Rust](#rust)
 		- [Smalltalk](#smalltalk)
 		- [Assembleur](#assembleur)
@@ -723,6 +724,8 @@ Ce que je veux dire c'est qu'il faut apprendre à filtrer le signal, les modes c
 Ils se font (en général) moins avoir qu'un·e jeune de 20 ans qui débarque dans l'industrie du développement web à qui on *push* par tous les ports, via tous les canaux possibles, les derniers outils à la mode, dont la plupart seront morts dans quelques années pour laisser leur place à d'autres. Il faut avoir un biais pour ce qui est stable et éprouvé, et non pour ce qui est nouveau. Cela veut dire accueillir la nouveauté, la tester, mais toujours rester *soupçonneux*. Si demain je me lance dans un gros projet sur plusieurs années, est-ce que je prends cet outil qui est sorti le mois dernier ? (La réponse est non) .
 
 Il vaut mieux comprendre les principes du web, qui fait quoi, dans les grandes lignes, que le dernier framework `whatever.js` à la mode. `whatever.js` va disparaître, alors qu'une architecture client-serveur non. Il faut d'abord aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
+
+### Du bruit au bruit
 
 Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela représente un paradoxe assez connu de celles et ceux qui veulent apprendre le web et se retrouvent confronté·e·s à un flow de ressources complètement impossible à digérer. Ces questions sont d'ailleurs discutées dans ce podcast, consacré au sujet [Comment apprendre à devenir développeur web ?](https://www.htmlallthethings.com/podcasts/how-to-learn-web-development-skills)
 
