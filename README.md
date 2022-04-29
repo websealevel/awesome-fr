@@ -244,7 +244,7 @@ Expérimenter et créer des animations CSS
 
 ### Code snippets
 
-Marre de réinventer la pelouse ? Besoin d'être productif ?
+Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [codepad](https://codepad.co/), code snippets dans tout un tas de langages et composants pour le front (html,css,js)
 - [snipplr](https://snipplr.com/)
