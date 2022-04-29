@@ -137,6 +137,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Perl](#perl-1)
 		- [Test driven development](#test-driven-development)
 		- [Programmation CGI](#programmation-cgi)
+		- [Haskell](#haskell-1)
 		- [Génération procédurale et game design](#génération-procédurale-et-game-design)
 		- [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
 		- [Algorithmes](#algorithmes)
@@ -154,7 +155,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
 		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
 		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
-			- [Haskell](#haskell-1)
 			- [PHP](#php-1)
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 		- [Chaînes/PLaylists](#chaînesplaylists)
@@ -814,6 +814,11 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [CGI programming with Perl](https://www.pdfdrive.com/cgi-programming-with-perl-2nd-ed-e187832058.html)
 
+
+### Haskell
+
+- [Haskell, The Craft of Functional Programming](https://www.pdfdrive.com/haskell-the-craft-of-functional-programming-e158848677.html)
+
 ### Génération procédurale et game design
 
 - [Procedural generation in game design](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
@@ -915,9 +920,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 ### Programmation fonctionnelle
 
-#### Haskell
-
-- [Haskell, The Craft of Functional Programming](https://www.pdfdrive.com/haskell-the-craft-of-functional-programming-e158848677.html)
+A venir...
 
 #### PHP
 
