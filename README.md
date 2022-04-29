@@ -37,6 +37,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
 		- [Animations CSS (keyframes API)](#animations-css-keyframes-api)
 		- [Frameworks CSS](#frameworks-css)
+			- [Code snippets](#code-snippets)
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / layouts](#générateur-de-mise-en-page--layouts)
 		- [JS](#js)
@@ -241,6 +242,15 @@ Expérimenter et créer des animations CSS
 - [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
 
 
+#### Code snippets
+
+Marre de réinventer la pelouse ? Besoin d'être productif ?
+
+- [codepad](https://codepad.co/), code snippets dans tout un tas de langages et composants pour le front (html,css,js)
+- [snipplr](https://snipplr.com/)
+- [web code tools](https://webcode.tools/), des outils clés en mains pour le développement web
+- [code my ui](https://codemyui.com/), inspirations et code snippets pour le web design/ui
+
 
 ### Gradients
 
@@ -301,6 +311,10 @@ Expérimenter et créer des animations CSS
 - [design principles](https://principles.design/)
 - [uiplaybook](https://uiplaybook.dev/), un dictionnaire des composants webs (fonction, bonnes pratiques, implémentation etc..)
 - [UX challenges](https://uxtools.co/challenges), exercices d'UX
+- [future learn](https://www.futurelearn.com/courses/digital-skills-user-experience), apprendre l'ux, maintenu par Accenture
+- [baselinehq](https://baselinehq.com/), un bootcamp gratuit produit par des professionnels
+- [springboard](https://www.springboard.com/resources/learning-paths/user-experience-design/), apprendre l'ux/ui
+- [UXMTYHS](https://uxmyths.com/), collection des erreurs de conception en UX avec des explications sur le pourquoi
 
 ### DOM
 
