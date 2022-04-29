@@ -37,7 +37,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
 		- [Animations CSS (keyframes API)](#animations-css-keyframes-api)
 		- [Frameworks CSS](#frameworks-css)
-			- [Code snippets](#code-snippets)
+		- [Code snippets](#code-snippets)
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / layouts](#générateur-de-mise-en-page--layouts)
 		- [JS](#js)
@@ -242,7 +242,7 @@ Expérimenter et créer des animations CSS
 - [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
 
 
-#### Code snippets
+### Code snippets
 
 Marre de réinventer la pelouse ? Besoin d'être productif ?
 
