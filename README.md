@@ -2,7 +2,9 @@
 
 Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** pour les développeur·euse·s, *sélectioné·es avec nez et amour*, plutôt orientés web (en tout cas initialement). 
 
-Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinente) et contient **évidemment des opinions** sur certains sujets.
+Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
+
+Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à vous d'y adhérer ou non.
 
 La liste est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais.
 
