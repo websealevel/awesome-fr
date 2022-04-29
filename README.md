@@ -283,6 +283,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Design aggregators
 
+- le monde en général !
+- les affiches dans la rue
 - le web !
 - [land-book](https://land-book.com/)
 - [onepagelove](https://onepagelove.com/)
