@@ -6,6 +6,8 @@ La liste est francophone, cependant bon nombre de ressources listées ici ne son
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
+*Spoiler alert* : vous n'aurez pas assez d'une vie pour apprendre, lire, maîtrisez tout ce qui est exposé ici. Nagiguez la conscience tranquille vers ce qui vous parait utile ou vous attire.
+
 ## Contribuez
 
 Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et vous voulez la partager ? 
