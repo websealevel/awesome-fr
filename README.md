@@ -43,6 +43,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
 		- [Animations CSS (keyframes API)](#animations-css-keyframes-api)
 		- [Frameworks CSS](#frameworks-css)
+			- [Tailwind CSS](#tailwind-css)
 		- [Code snippets](#code-snippets)
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / layouts](#générateur-de-mise-en-page--layouts)
@@ -159,6 +160,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 		- [Chaînes](#chaînes)
 		- [Playlists](#playlists)
+	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Restez informé](#restez-informé)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Inclassables](#inclassables)
@@ -249,6 +251,15 @@ Expérimenter et créer des animations CSS
 - [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
 
 
+#### Tailwind CSS
+
+- [site officiel](https://tailwindcss.com/), on commence toujours pas le site officiel pour la doc
+- [tailblocks](https://tailblocks.cc/), des composants prêts à l'emploi
+- [Meraki UI](https://merakiui.com/), des composants responsives prêts à l'emploi
+- [tailwind UI](https://tailwindui.com/)
+- [tailwindcomponents](https://tailwindcomponents.com/)
+- [Tailwind Toolbox](https://tailwindtoolbox.com/), css templates, composants et ressources
+
 ### Code snippets
 
 Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
@@ -275,7 +286,11 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [waterpipes generator](http://dragdropsite.github.io/waterpipe.js/)
 - [magic grid](https://github.com/e-oj/Magic-Grid)
 - [scroll reavel](https://scrollrevealjs.org/), animer le scrolling de vos pages webs
-
+- [three.js](https://threejs.org/), animation 3D dans le navigateur, basé sur WebGL
+- [anime.js](https://animejs.com/)
+- [greensock](https://greensock.com/), créer de l'animation engageante pour votre site
+- [mo.js](https://mojs.github.io/)
+- [velocity.js](https://velocity.org)
 
 ### Backgrounds
 
@@ -943,6 +958,12 @@ A venir...
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie.
 
+
+## Contribuer à des projets open-source
+
+Par où commencer ? Comment faire ?
+
+- [first timers only](https://www.firsttimersonly.com/), un guide pour rentrer dans la contribution à l'open-source
 
 ## Restez informé
 
