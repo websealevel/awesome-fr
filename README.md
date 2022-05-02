@@ -193,7 +193,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
   
 ### Typographies/Fonts
 
-Les designers se moqueront de vous si vous utilisez le mot typographie ou *typeface* au lien de *font* et inversement. Ne restez pas insensible à ce mépris de classe affiché. 
+Les designers se moqueront de vous si vous utilisez le mot typographie ou *typeface* au lien de police de caractères ou *font*, et inversement. C'est du pur mépris de classe, comme lorsqu'on on vous corrige sur la différence entre URI et URL. Ne vous laissez pas faire. 
 
 Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Font* c'est l'implémentation de ce design en informatique. Pour faire une analogie, la *Typeface* c'est le plan d'architecte de la maison, la *Font* c'est la maison.
 
