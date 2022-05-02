@@ -326,7 +326,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - votre vie
 - les affiches dans la rue
 - le web !
-- [brutal](https://www.brutalist.design/), des templates html inspirés du mouvement [brutaliste](https://fr.wikipedia.org/wiki/Brutalisme)
+- [brutalistwebsites](https://brutalistwebsites.com/), des templates html inspirés du mouvement [brutaliste](https://fr.wikipedia.org/wiki/Brutalisme)
 - [land-book](https://land-book.com/)
 - [onepagelove](https://onepagelove.com/)
 - [awwwards](https://www.awwwards.com/)
