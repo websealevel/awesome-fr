@@ -276,6 +276,7 @@ Expérimenter et créer des animations CSS
 - [tailwind UI](https://tailwindui.com/)
 - [tailwindcomponents](https://tailwindcomponents.com/)
 - [Tailwind Toolbox](https://tailwindtoolbox.com/), css templates, composants et ressources
+- [lofi UI](https://lofiui.co/), des composants de base tailwind css qui servent de point de départ
 
 ### Code snippets
 
