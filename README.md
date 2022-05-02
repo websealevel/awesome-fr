@@ -188,7 +188,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 
 ### Templates
 
--[htmlrev](https://htmlrev.com/), des templates de page html
+- [htmlrev](https://htmlrev.com/), des templates de page html
 - [dopeui](https://dopeui.co/), télécharger des templates UI de grande qualité pour Figma
   
 ### Typographies/Fonts
