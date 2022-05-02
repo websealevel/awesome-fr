@@ -35,6 +35,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 	- [Partagez](#partagez)
 	- [Table des matières](#table-des-matières)
 	- [Frontend](#frontend)
+		- [All-in-one, aggrégateur de ressources pour le front](#all-in-one-aggrégateur-de-ressources-pour-le-front)
+		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
 		- [Pack d'icones](#pack-dicones)
@@ -57,6 +59,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Documentation et articles de référence](#documentation-et-articles-de-référence)
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
+		- [Édition image/vidéo](#édition-imagevidéo)
 			- [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
 			- [Contraste](#contraste)
 	- [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
@@ -179,6 +182,15 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 
 ## Frontend
 
+### All-in-one, aggrégateur de ressources pour le front
+
+- [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
+
+### Templates
+
+-[htmlrev](https://htmlrev.com/), des templates de page html
+- [dopeui](https://dopeui.co/), télécharger des templates UI de grande qualité pour Figma
+  
 ### Typographies/Fonts
 
 - [typescale](https://type-scale.com/), creer facilement un système de tailles de font à suivre
@@ -191,7 +203,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 
 ### Palettes de couleurs
 
-- [open color](https://yeun.github.io/open-color/), une reference
+- [open color](https://yeun.github.io/open-color/), le dictionnaire larousse des couleurs
 - [coloors](https://coolors.co/), fouiller ce site il vous offre toute une palette d'outils incroyables autre que les palettes de couleurs
 - [colorspace](https://mycolor.space/), generateur de palettes de couleurs stylé
 - [css duotones](https://cssduotone.com/)
@@ -209,6 +221,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 - [heroicons](https://heroicons.com/)
 - [iconshock](https://www.iconshock.com/)
 - [phosphor icons](https://phosphoricons.com/)
+- [tabler icons](https://tabler-icons.io/)
 
 ### Images: photos, illustrations, svg
 
@@ -325,11 +338,13 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [accordion slider generator](https://accordionslider.com/)
 - [navbar generator](http://www.menucool.com/css-menu)
 - [button](https://www.bestcssbuttongenerator.com/)
-- [loader](https://loading.io/)
+- [loader](https://loading.io/), des loaders
+- [uiball.com/loaders](https://uiball.com/loaders/), des loaders
 - [Froala Design Blocks](https://froala.com/design-blocks/), une banque de composants prêt à l'emploi
 
 ### UI/UX
 
+- [figma](https://www.figma.com/), actuellement le meilleur éditeur de design (webapp/desktop) gratuit
 - [checklistdesing](https://www.checklist.design/), une collection des meilleures pratiques de design web
 - [laws of UX](https://lawsofux.com/), une autre collection des meilleures pratiques en design web, très bien faite, avec un résumé de ce qu'il faut retenir sur chaque post
 - [design principles](https://principles.design/)
@@ -339,6 +354,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [baselinehq](https://baselinehq.com/), un bootcamp gratuit produit par des professionnels
 - [springboard](https://www.springboard.com/resources/learning-paths/user-experience-design/), apprendre l'ux/ui
 - [UXMTYHS](https://uxmyths.com/), collection des erreurs de conception en UX avec des explications sur le pourquoi
+- [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design#courses=)
+
 
 ### DOM
 
@@ -358,6 +375,11 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de vos pages web
 - [can i use...](https://caniuse.com/)
+
+### Édition image/vidéo
+
+- [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
+- [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
 
 #### Est-ce-que j'oublie un truc ?
 
