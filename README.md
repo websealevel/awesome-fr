@@ -1062,6 +1062,7 @@ Des conseils à la volée
 - [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
 - [awesome-json](https://github.com/burningtree/awesome-json), la même sur des lib et ressources pour le json
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js), la même sur la programmation fonctionnelle
+- [awesome-jquery](https://github.com/petk/awesome-jquery), la même sur Jquery
 
 #### Typescript
 
