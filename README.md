@@ -173,6 +173,13 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Blogs](#blogs)
 		- [Conférences](#conférences-1)
+		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
+			- [PHP](#php-2)
+			- [JS](#js-1)
+			- [Typescript](#typescript)
+			- [Vue.js](#vuejs)
+			- [Node.js](#nodejs)
+			- [Open source projects](#open-source-projects)
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
 	- [Twitter(s)](#twitters)
@@ -1044,6 +1051,33 @@ Des conseils à la volée
 ### Conférences
 
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
+
+### Spécifique à une techno/un language
+
+#### PHP
+
+- [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
+  
+#### JS
+- [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
+- [awesome-json](https://github.com/burningtree/awesome-json), la même sur des lib et ressources pour le json
+- [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js), la même sur la programmation fonctionnelle
+
+#### Typescript
+
+- [awesome-typescript](https://github.com/dzharii/awesome-typescript), la même pour Typescript
+
+#### Vue.js
+
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
+
+#### Node.js
+
+- [wesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security), la même sur des ressources pour sécuriser ses projets node.js
+
+#### Open source projects
+
+- [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
 ### Inclassables
 - [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
