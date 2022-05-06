@@ -18,7 +18,7 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 *Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous parait utile ou vous attire. Ce dépot donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
 
-Par soucis de simplicité et d'accessibilité, ce dépôt va continuer à grandir, grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières).
+Par soucis de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clefs et des hypers-liens pour faciliter la navigation.
 
 ## Contribuez
 
@@ -28,7 +28,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 
 ## Partagez
 
-N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager : )
+N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partager : )
 
 *No time to lose !*
 
