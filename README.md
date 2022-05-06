@@ -195,7 +195,14 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 
 ### Templates
 
-- [htmlrev](https://htmlrev.com/), des templates de page html
+Templates HTML5/CSS3 à télécharger, utiliser, modifier
+
+- [htmlrev](https://htmlrev.com/)
+- [html5up](https://html5up.net/)
+- [templated](https://templated.live/)
+- [templatemo](https://templatemo.com/)
+- [zerotheme.com](https://www.zerotheme.com/)
+- [html5xcss3](https://www.html5xcss3.com/megakit-free-bootstrap-template.html)
 - [dopeui](https://dopeui.co/), télécharger des templates UI de grande qualité pour Figma
   
 ### Typographies/Fonts
