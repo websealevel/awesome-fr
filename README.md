@@ -18,6 +18,8 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *
 
 *Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous parait utile ou vous attire. Ce dépot donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
 
+Par soucis de simplicité et d'accessibilité, ce dépôt va continuer à grandir, grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières).
+
 ## Contribuez
 
 Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et vous voulez la partager ? 
