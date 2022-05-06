@@ -1,4 +1,4 @@
-# Ressources *gratuites* pour les développeur·euses, web-designers, freelancers et autres intéressé·es
+# Ressources *gratuites* pour les développeur·euses, web designer·euses, indépendant·es et autres intéressé·es
 
 Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** pour les développeur·euse·s, *sélectioné·es avec nez et amour*, plutôt orientés web (en tout cas initialement). 
 
@@ -30,7 +30,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 
 <!-- vim-markdown-toc GFM -->
 
-- [Ressources *gratuites* pour les développeur·euses, web-designers, freelancers et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-web-designers-freelancers-et-autres-intéressées)
+- [Ressources *gratuites* pour les développeur·euses, web designer·euses, indépendant·es et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-web-designereuses-indépendantes-et-autres-intéressées)
 	- [Contribuez](#contribuez)
 	- [Partagez](#partagez)
 	- [Table des matières](#table-des-matières)
