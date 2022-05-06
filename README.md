@@ -1,12 +1,18 @@
 # Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es et autres intéressé·es
 
-Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** pour les développeur·euse·s, *sélectioné·es avec nez et amour*, plutôt orientés web (en tout cas initialement). 
+
+## En quelques mots
+Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** plutôt orientés web (en tout cas initialement). 
 
 Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
 
 Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à vous d'y adhérer ou non.
 
-La liste est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais.
+## Les limites de la francophonie
+
+La liste en elle même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionnier que des outils ayant l'amabilité de nous fournir des traductions fr.
+
+## Conseils d'utilisation
 
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
@@ -31,6 +37,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite), à le partager 
 <!-- vim-markdown-toc GFM -->
 
 - [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-et-autres-intéressées)
+	- [En quelques mots](#en-quelques-mots)
+	- [Les limites de la francophonie](#les-limites-de-la-francophonie)
+	- [Conseils d'utilisation](#conseils-dutilisation)
 	- [Contribuez](#contribuez)
 	- [Partagez](#partagez)
 	- [Table des matières](#table-des-matières)
