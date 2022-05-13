@@ -215,6 +215,10 @@ Templates HTML5/CSS3 à télécharger, utiliser, modifier
 - [zerotheme.com](https://www.zerotheme.com/)
 - [html5xcss3](https://www.html5xcss3.com/megakit-free-bootstrap-template.html)
 - [dopeui](https://dopeui.co/), télécharger des templates UI de grande qualité pour Figma
+- [uideck](https://uideck.com/)
+- [toolplate](https://www.tooplate.com/)
+- [colorlib](https://colorlib.com/wp/templates/)
+- [cruip](https://cruip.com/free-templates/)
   
 ### Typographies/Fonts
 
@@ -271,6 +275,8 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [gloweffect](https://codersblock.com/blog/creating-glow-effects-with-css/), generer des glow effects
 - [underline generator](https://underline-generator.netlify.app/)
 - [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), creez vos rubans
+- [3dbookcovergenerator](https://3dbookcovergenerator.netlify.app/), creez des visuels 3D de livres à partir d'une image
+- [button generator](https://markodenic.com/tools/buttons-generator/)
 
 ### Générateur de formes au format SVG
 
