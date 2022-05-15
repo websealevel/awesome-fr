@@ -35,9 +35,6 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 <img src="img/./no%20time%20to%20lose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
-
-<!-- vim-markdown-toc GFM -->
-
 - [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-et-autres-intéressées)
 	- [En quelques mots](#en-quelques-mots)
 	- [Les limites de la francophonie](#les-limites-de-la-francophonie)
@@ -79,7 +76,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Quand on débute moins](#quand-on-débute-moins)
 	- [SEO](#seo)
 	- [Analytics](#analytics)
-	- [API](#api)
+	- [API publiques](#api-publiques)
 	- [Fake data generators](#fake-data-generators)
 	- [Wordpress](#wordpress)
 		- [Un mot sur Wordpress](#un-mot-sur-wordpress)
@@ -194,9 +191,9 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
 	- [Twitter(s)](#twitters)
+		- [En vrac](#en-vrac)
+		- [Wordpress](#wordpress-2)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
-
-<!-- vim-markdown-toc -->
 
 ## Frontend
 
