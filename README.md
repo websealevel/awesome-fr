@@ -219,6 +219,8 @@ Templates HTML5/CSS3 à télécharger, utiliser, modifier
 - [toolplate](https://www.tooplate.com/)
 - [colorlib](https://colorlib.com/wp/templates/)
 - [cruip](https://cruip.com/free-templates/)
+- [templateMO](https://templatemo.com/)
+- [styleshout](https://www.styleshout.com/free-templates/)
   
 ### Typographies/Fonts
 
@@ -267,7 +269,9 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [fake images please?](https://fakeimg.pl/)
 - [freepik](https://www.freepik.com/)
 - [profile pic Maker](https://pfpmaker.com/), faire une photo de profil classe à partir de "n'importe quelle photo"
-
+- [blush.design](https://blush.design/fr)
+- [story-set](https://storyset.com/), customization/animation d'illusatrations
+-
 ### Générateurs CSS
 
 - [neumorphism](https://neumorphism.io/#e0e0e0), generer de l'UI en pure CSS
@@ -466,12 +470,17 @@ A venir...
 - [calendly](https://calendly.com/fr/), planification de rendez-vous et réunions
 
 
-## API
+## API publiques
 
 - [weatherstack](https://weatherstack.com/)
 - [fakerapi](https://fakerapi.it/en/)
 - [wordsapi](https://www.wordsapi.com/)
 - [catfacts](https://alexwohlbruck.github.io/cat-facts/)
+- [openweather](https://t.co/pi4UPqQfMx),
+- [nasa api](https://api.nasa.gov/)
+- [movieDB api](https://www.themoviedb.org/documentation/api), api pour les films, séries, émissions
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/), une api qui sert du JSON pour le test/dev
+- [rapid api](https://rapidapi.com/blog/most-popular-api/), recense et documente tout un tas d'api à utiliser, pour aller en trouver encore d'autres
 
 ## Fake data generators
 
@@ -1117,6 +1126,8 @@ Des conseils à la volée
 
 Une grande partie des ressources présentées ici ont été partagées par d'autres personnes, notamment sur Twitter. Vous pouvez les suivre directement, elles proposent souvent des *threads* d'outils à explorer
 
+### En vrac
+
 - [@code_rams](https://twitter.com/code_rams?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
 - [@_georgemolle](https://twitter.com/_georgemoller?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
 - [@adarsh____gupta](https://twitter.com/adarsh____gupta?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
@@ -1127,6 +1138,11 @@ Une grande partie des ressources présentées ici ont été partagées par d'aut
 - [@csaba_kissi](https://twitter.com/csaba_kissi?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
 - [@parik36](https://twitter.com/parik36?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
 - [@htmleverything](https://twitter.com/htmleverything?s=20&t=tQ_gJCWyNfWPHVkHahh_IA)
+
+
+### Wordpress
+
+- [@wpbeginner](https://twitter.com/wpbeginner)
 
 
 ## Trouver des livres techniques d'occasion pas cher
