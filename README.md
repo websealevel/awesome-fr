@@ -163,7 +163,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Papiers](#papiers)
 	- [Podcasts](#podcasts)
 	- [Youtube](#youtube)
-		- [Conférences](#conférences)
+		- [Conférences/Talks](#conférencestalks)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
@@ -182,7 +182,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Blogs](#blogs)
-		- [Conférences](#conférences-1)
+		- [Conférences](#conférences)
 		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
 			- [PHP](#php-2)
 			- [JS](#js-1)
@@ -969,20 +969,20 @@ A venir...
 
 ## Youtube
 
-### Conférences
+### Conférences/Talks
 
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
 - [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
 - [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
 - [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
-- [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP merveilleusement bien expliquée
+- [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP (Same Origin Policy) merveilleusement bien expliquée. La vidéo de référence sur le sujet. Une spécification implémentée par les navigateurs, à connaître (au moins vaguement) pour tous les développeurs (front ou back)
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald (le type est insupportable) mais faut avouer qu'il est vraiment intéressant
 - [Noise based RNG](https://youtu.be/LWFzPP8ZbdU)
 - [I used Elm in production and it cost me my job, Annaia Berry](https://youtu.be/RFrKffrKCeU)
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
 - [The Art of Code, Dylan Beattie](https://youtu.be/6avJHaC3C2U)
-
+- [Building the ultimate login and signup](https://www.youtube.com/watch?v=E25KxLKwY-M&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=17&t=1270s), vous pensiez que construire un formulaire de connexion/inscription à une appli web est trivial ? Ici vous verrez que non, un décorticage méthodique de toutes les potentielles failles de sécurité à prévoir quand on design un système de login. Donné par Matt Cotterelll, un ingénieur en sécurité basé en Nouvelle Zélande
 
 ### La vérité par l'humour
 
