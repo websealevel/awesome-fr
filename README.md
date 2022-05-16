@@ -163,7 +163,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Papiers](#papiers)
 	- [Podcasts](#podcasts)
 	- [Youtube](#youtube)
-		- [Conférences/Talks](#conférencestalks)
+		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
@@ -969,7 +969,7 @@ A venir...
 
 ## Youtube
 
-### Conférences/Talks
+### Conférences/Talks (en vrac)
 
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
@@ -978,7 +978,7 @@ A venir...
 - [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
 - [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP (Same Origin Policy) merveilleusement bien expliquée. La vidéo de référence sur le sujet. Une spécification implémentée par les navigateurs, à connaître (au moins vaguement) pour tous les développeurs (front ou back)
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald (le type est insupportable) mais faut avouer qu'il est vraiment intéressant
-- [Noise based RNG](https://youtu.be/LWFzPP8ZbdU)
+- [Noise based RNG](https://youtu.be/LWFzPP8ZbdU), une conférence intéressante sur la manière de produire de l'aléatoire de manière satisfaisante
 - [I used Elm in production and it cost me my job, Annaia Berry](https://youtu.be/RFrKffrKCeU)
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
 - [The Art of Code, Dylan Beattie](https://youtu.be/6avJHaC3C2U)
@@ -1000,7 +1000,6 @@ A venir...
 - [End-to-End Procedural Generation in Caves of Qud](https://youtu.be/jV-DZqdKlnE)
 - [Dwarf fotress](http://bay12games.com/dwarves/), un projet fou [de générateur de monde de fantasy interactif](http://bay12games.com/dwarves/features.html), qui dure depuis plus de 20ans, fabriqué avec passion par deux frangins. Pour l'anectode, [dwarf fortress est rentré au MoMa](https://www.moma.org/collection/works/164920). Le jeu sert également de base pour [écrire des histoires](http://bay12games.com/dwarves/dev_story.html).
 - [End-to-End Procedural Generation in Caves of Qud](https://www.youtube.com/watch?v=jV-DZqdKlnE&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=41&t=2320s), une conférence des devs de Caves of Qud, un "rogue-like" ASCII sur leurs techniques de génération procédurale pour générer des cultures, villages, personnages, environnements etc...
-- [Noise based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=43&t=1s), une conférence intéressante sur la manière de produire de l'aléatoire de manière satisfaisante
 
 ### [Game Developers Conference](https://gdconf.com/) (aka GDC)
 
