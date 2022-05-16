@@ -994,10 +994,12 @@ A venir...
 
 ### Génération procédurale
 
-- [Procedural Generation: Programming The Universe](https://youtu.be/ZZY9YE7rZJw)
+- [Procedural Generation: Programming The Universe](https://youtu.be/ZZY9YE7rZJw),[javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) est un programmeur passioné, au flegme quasi britanique, qui vous accompagne avec bienveillance sur des projets de toute sorte, de développent de jeu vidéo et notamment de génération procédurale. Un vrai bijou de savoir-faire et de sympathie
 - [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://youtu.be/S9pc8li4fuQ)
 - [End-to-End Procedural Generation in Caves of Qud](https://youtu.be/jV-DZqdKlnE)
 - [Dwarf fotress](http://bay12games.com/dwarves/), un projet fou [de générateur de monde de fantasy interactif](http://bay12games.com/dwarves/features.html), qui dure depuis plus de 20ans, fabriqué avec passion par deux frangins. Pour l'anectode, [dwarf fortress est rentré au MoMa](https://www.moma.org/collection/works/164920). Le jeu sert également de base pour [écrire des histoires](http://bay12games.com/dwarves/dev_story.html).
+- [End-to-End Procedural Generation in Caves of Qud](https://www.youtube.com/watch?v=jV-DZqdKlnE&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=41&t=2320s), une conférence des devs de Caves of Qud, un "rogue-like" ASCII sur leurs techniques de génération procédurale pour générer des cultures, villages, personnages, environnements etc...
+- [Noise based RNG](https://www.youtube.com/watch?v=LWFzPP8ZbdU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=43&t=1s), une conférence intéressante sur la manière de produire de l'aléatoire de manière satisfaisante
 
 ### [Game Developers Conference](https://gdconf.com/) (aka GDC)
 
