@@ -983,6 +983,7 @@ A venir...
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
 - [The Art of Code, Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 - [Building the ultimate login and signup](https://www.youtube.com/watch?v=E25KxLKwY-M&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=17&t=1270s), vous pensiez que construire un formulaire de connexion/inscription à une appli web est trivial ? Ici vous verrez que non, un décorticage méthodique de toutes les potentielles failles de sécurité à prévoir quand on design un système de login. Donné par Matt Cotterelll, un ingénieur en sécurité basé en Nouvelle Zélande
+- [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38&t=1s), conférence de Rich Harris, le créateur de Svelte sur la réactivité en programmation client. A croire que pour être un génie il faut commencer par s'appeler Rich.
 
 ### La vérité par l'humour
 
