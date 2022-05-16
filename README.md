@@ -1031,13 +1031,15 @@ A venir...
 - [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
 - [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
+- [PHP UK Conferences](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
+- [GDC France](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
 - [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech)
 
 ### Playlists
 
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
-- [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non !
+- [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
 
 
 ## Contribuer à des projets open-source
