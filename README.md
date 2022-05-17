@@ -646,11 +646,11 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 ### Simulateur de terminal
 
-- commander pour Windows
+- [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows
 
 ### Design
 
-- Figma
+- [Figma](https://www.figma.com/), on ne le présente plus
 
 ## Outils *no-code ou low-code*
 
