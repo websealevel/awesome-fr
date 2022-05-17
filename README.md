@@ -636,7 +636,8 @@ Plus fait pour le dev, le test ou le staging et non pour une mise en prod offici
 
 Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commencer en mode CLI pour bien se familiariser avec son fonctionnement) on a plus envie de taper tout un tas de commandes
 
-- [github desktop](https://desktop.github.com/), un client git développé par github, naturellement adapté pour vos dépots remote sur github mais pas que
+- [github desktop](https://desktop.github.com/), un client git développé par github, naturellement adapté pour vos dépots remote sur github mais pas que. Windows/Mac
+- [github desktop-linux fork](https://github.com/shiftkey/desktop), la même mais porté sur linux
 - [sourceTree](https://www.sourcetreeapp.com/), un autre client mais dispo que sur Windows et Mac :/
 
 ### Déploiement
