@@ -95,6 +95,13 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
+	- [Logiciels/applis pour un meilleur workflow](#logicielsapplis-pour-un-meilleur-workflow)
+		- [Environement de développement](#environement-de-développement)
+		- [Administration de base de données](#administration-de-base-de-données)
+		- [Client git](#client-git)
+		- [Déploiement](#déploiement)
+		- [Simulateur de terminal](#simulateur-de-terminal)
+		- [Design](#design)
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
 	- [Standards](#standards)
 		- [XML](#xml)
@@ -119,7 +126,6 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Elm](#elm)
 		- [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
 	- [Rich Hickey](#rich-hickey)
-	- [Environement de développement](#environement-de-développement)
 	- [Challenges](#challenges)
 	- [Markdown](#markdown)
 	- [Présentations / Slides](#présentations--slides)
@@ -613,6 +619,39 @@ Plus fait pour le dev, le test ou le staging et non pour une mise en prod offici
 
 - [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
 
+## Logiciels/applis pour un meilleur workflow
+
+### Environement de développement
+
+- [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
+- [replit](https://replit.com/), un IDE collaboratif dans le navigateur pour travailler sur des projets à plusieurs dans plus de 50 langagues sans passer une seconde à configurer son environnement de dev
+
+### Administration de base de données
+
+- [dbeaver](https://dbeaver.io/), multiplateforme, multi-sgb, open-source que demande le peuple
+- [adminer](https://www.adminer.org/), une alternative open-source a phpMyAdmin (aussi open source) qui commence à être chargé historiquement. Plus légèr, plus performant, plus sécurisé, plus user-friendly. Prend en charge les base de données MySQL, SQLite, PostgreSQL, MS SQL et Oracle
+- [pgAdmin](https://www.pgadmin.org/), le système d'administration open-source le plus poussé pour Postgresql
+
+### Client git
+
+Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commencer en mode CLI pour bien se familiariser avec son fonctionnement) on a plus envie de taper tout un tas de commandes
+
+- [github desktop](https://desktop.github.com/), un client git développé par github, naturellement adapté pour vos dépots remote sur github mais pas que
+- [sourceTree](https://www.sourcetreeapp.com/), un autre client mais dispo que sur Windows et Mac :/
+
+### Déploiement
+
+- [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez de devoir déployer en ftp, il y a de meilleures alternatives pour moins de charge mentale). ça dépanne toujours
+- [Capistrano](https://capistranorb.com/), un outil pour déployer automatiquement sur un serveur distant, avec gestion de version, rollbacks etc... Pour un déploiement sans stress
+
+### Simulateur de terminal
+
+- commander pour Windows
+
+### Design
+
+- Figma
+
 ## Outils *no-code ou low-code*
 
 Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose
@@ -732,10 +771,7 @@ Voir ce [bouquin de référence](#haskell-1).
 Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
 
 
-## Environement de développement
 
-- [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
-- [replit](https://replit.com/), un IDE collaboratif dans le navigateur pour travailler sur des projets à plusieurs dans plus de 50 langagues sans passer une seconde à configurer son environnement de dev
 
 ## Challenges
 
