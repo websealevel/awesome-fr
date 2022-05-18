@@ -185,6 +185,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Inclassables](#inclassables)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
 		- [Général](#général-1)
+		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Blogs](#blogs)
@@ -1120,6 +1121,10 @@ Des conseils à la volée
 - [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
   
 
+### Outils no code ou low code
+
+- [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode)
+
 ### Frontend
 - [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
 - [omatsuri](https://omatsuri.app/)
@@ -1172,6 +1177,8 @@ Des conseils à la volée
 ### Bouquins
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
+- [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique
+- [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 
 
 ## Twitter(s)
