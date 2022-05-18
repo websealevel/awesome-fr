@@ -669,7 +669,7 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 
 #### Un mot sur le XML
 
-Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des structures de données robustes et échangeables. Contrairement aux idées reçues il n'est pas à mettre au placard et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. *JSON est un excellent format pour... Javascript*. 
+Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des documents robustes, échangeables et faciles à maintenir (lire et écrire) dans le temps. Contrairement aux idées reçues il n'est pas *mort* et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. Loin de là...
 
 XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est née en 1998 du standard SGML (qui a donné l'application HTML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). 
 
