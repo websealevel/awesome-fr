@@ -671,7 +671,7 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 
 Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des documents robustes, échangeables et faciles à maintenir (lire et écrire) dans le temps. Contrairement aux idées reçues il n'est pas *mort* et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. Loin de là...
 
-XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est née en 1998 du standard SGML (qui a donné l'application HTML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). 
+XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est née en 1998 du standard SGML (qui a donné l'application HTML, un simple sous-ensemble du standard SGML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
 
 Les développeurs s'en sont emparés ensuite pour faire du maintien d'enregistrement pour leurs applications, ce qui n'avait pas été envisagé dans sa conception initiale. 
 
@@ -683,7 +683,7 @@ Il dispose d'une structure de données en arbre et surtout, se trouve accompagn�
 - [DTD](https://www.w3schools.com/xml/xml_dtd.asp), pour la validation des données par un schéma
 - et d'autres encore...
 
-Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*.
+Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*, ou de produire des documents indépendemment de leurs usages (web, présentation, impression papier etc...).
 
 #### Apprendre le XML et ses standards associés
 
