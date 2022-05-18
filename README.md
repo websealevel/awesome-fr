@@ -671,7 +671,11 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 
 Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des structures de données robustes et échangeables. Contrairement aux idées reçues il n'est pas à mettre au placard et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. *JSON est un excellent format pour... Javascript*. 
 
-XML est un format universel pouvant être lu facilement par des humains et par des machines. Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme par exemple
+XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est née en 1998 du standard SGML (qui a donné l'application HTML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). 
+
+Les développeurs s'en sont emparés ensuite pour faire du maintien d'enregistrement pour leurs applications, ce qui n'avait pas été envisagé dans sa conception initiale. 
+
+Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme par exemple
 
 - [XPath](http://www.xmlfacile.com/guide_xml/xpath_1.php5), un standard qui permet de requêter la structure XML pour naviguer dans la structure de données et la manipuler
 - [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un *langage déclaratif* (le pied) comme le SQL
