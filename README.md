@@ -994,6 +994,7 @@ A venir...
 - [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
 - [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/amp/)
 - [Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/) [securité]
+- [Java at 20: How it changed programming forever](https://www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html), un article de Elliote Rusty Harold qui revient sur les apports de Java a l'occasion de ses 20 ans d'existence
 
 ## Papiers
 
