@@ -12,7 +12,7 @@ Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à v
 
 La liste en elle même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionnier que des outils ayant l'amabilité de nous fournir des traductions fr.
 
-Un effort sera fait pour retrouver des ressources traduites en françaises (par exemple pour les livres) quand cela sera possible. Une traduction est un autre livre que son livre source, donc il est difficile parfois de le recommander dans une autre langue.
+Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. Une traduction est un autre livre que son livre source, donc il est difficile parfois de le recommander dans une autre langue.
 
 ## Conseils d'utilisation
 
