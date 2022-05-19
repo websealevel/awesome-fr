@@ -196,13 +196,10 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Typescript](#typescript)
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
-			- [Open source projects](#open-source-projects)
-			- [API Publiques](#api-publiques-1)
+		- [Open source projects](#open-source-projects)
+		- [API Publiques](#api-publiques-1)
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
-	- [Twitter(s)](#twitters)
-		- [En vrac](#en-vrac)
-		- [Wordpress](#wordpress-2)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
 ## Frontend
@@ -1172,12 +1169,12 @@ Des conseils à la volée
 
 - [wesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security), la même sur des ressources pour sécuriser ses projets node.js
 
-#### Open source projects
+### Open source projects
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
 
-#### API Publiques
+### API Publiques
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 
@@ -1190,29 +1187,6 @@ Des conseils à la volée
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
-
-
-## Twitter(s)
-
-Une grande partie des ressources présentées ici ont été partagées par d'autres personnes, notamment sur Twitter. Vous pouvez les suivre directement, elles proposent souvent des *threads* d'outils à explorer
-
-### En vrac
-
-- [@code_rams](https://twitter.com/code_rams?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
-- [@_georgemolle](https://twitter.com/_georgemoller?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
-- [@adarsh____gupta](https://twitter.com/adarsh____gupta?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
-- [@Prathkum](https://twitter.com/Prathkum?s=20&t=ld8NhKzunXZuebfP4vVMtw)
-- [@Insharamin](https://twitter.com/Insharamin?s=20&t=En9NKc7qJD5d1_OUae5Yyw)
-- [@Amit_T18](https://twitter.com/Amit_T18?s=20&t=Vy0BKNzmB3NMVVv7XK0iqw)
-- [@natmiletic](https://twitter.com/natmiletic?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
-- [@csaba_kissi](https://twitter.com/csaba_kissi?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
-- [@parik36](https://twitter.com/parik36?s=20&t=AStQKPZdtAuBUMY9rzIU5Q)
-- [@htmleverything](https://twitter.com/htmleverything?s=20&t=tQ_gJCWyNfWPHVkHahh_IA)
-
-
-### Wordpress
-
-- [@wpbeginner](https://twitter.com/wpbeginner)
 
 
 ## Trouver des livres techniques d'occasion pas cher
