@@ -8,9 +8,11 @@ Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'inté
 
 Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à vous d'y adhérer ou non.
 
-## Les limites de la francophonie
+## Des limites de la francophonie
 
 La liste en elle même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionnier que des outils ayant l'amabilité de nous fournir des traductions fr.
+
+Un effort sera fait pour retrouver des ressources traduites en françaises (par exemple pour les livres) quand cela sera possible. Une traduction est un autre livre que son livre source, donc il est difficile parfois de le recommander dans une autre langue.
 
 ## Conseils d'utilisation
 
@@ -37,7 +39,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 ## Table des matières
 - [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-et-autres-intéressées)
 	- [En quelques mots](#en-quelques-mots)
-	- [Les limites de la francophonie](#les-limites-de-la-francophonie)
+	- [Des limites de la francophonie](#des-limites-de-la-francophonie)
 	- [Conseils d'utilisation](#conseils-dutilisation)
 	- [Contribuez](#contribuez)
 	- [Partagez](#partagez)
