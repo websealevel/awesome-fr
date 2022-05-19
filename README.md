@@ -197,6 +197,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
 			- [Open source projects](#open-source-projects)
+			- [API Publiques](#api-publiques-1)
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
 	- [Twitter(s)](#twitters)
@@ -1174,6 +1175,11 @@ Des conseils à la volée
 #### Open source projects
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
+
+
+#### API Publiques
+
+- [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 
 ### Inclassables
 - [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
