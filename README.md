@@ -277,7 +277,9 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [profile pic Maker](https://pfpmaker.com/), faire une photo de profil classe à partir de "n'importe quelle photo"
 - [blush.design](https://blush.design/fr)
 - [story-set](https://storyset.com/), customization/animation d'illusatrations
--
+- [dover collection series](https://fr.wikipedia.org/wiki/Dover_Publications), des séries de gravures sur bois magnifiques sur tous les thèmes (motifs, plantes, mobilier, ornements de toutes les époques et style, animaux etc...). Une vraie boîte de pandore, et la totalité de ces illustrations sont libérées du droit d'auteur, donc vous pouvez les utiliser, les modifier etc.. Le paradis à l'état pur. Fouiller le web notamment sur [pdfdrive](https://pdfdrive.com) pour trouver assez facilement des tonnes de références gratuites.
+
+
 ### Générateurs CSS
 
 - [neumorphism](https://neumorphism.io/#e0e0e0), generer de l'UI en pure CSS
