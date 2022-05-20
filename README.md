@@ -408,7 +408,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Documentation et articles de référence
 
-- [w3schools](https://www.w3schools.com/)], une très bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur. Proche du consortium W3C, au plus proche des specs et mis à jour
+- [w3schools](https://www.w3schools.com/), une très bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur. Proche du consortium W3C, au plus proche des specs et mis à jour
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
