@@ -69,10 +69,10 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Documentation et articles de référence](#documentation-et-articles-de-référence)
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
-		- [Édition image/vidéo](#édition-imagevidéo)
 			- [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
 			- [Contraste](#contraste)
 	- [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
+	- [Édition image/vidéo](#édition-imagevidéo)
 	- [Comment apprendre à apprendre le développement ?](#comment-apprendre-à-apprendre-le-développement-)
 		- [Quand on débute](#quand-on-débute)
 		- [Quand on débute moins](#quand-on-débute-moins)
@@ -199,7 +199,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
 		- [Open source projects](#open-source-projects)
-		- [API Publiques](#api-publiques-1)
+		- [API](#api)
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
@@ -306,8 +306,6 @@ Expérimenter et créer des animations CSS
 
 ### Frameworks CSS
 
-- [emotion](https://emotion.sh/docs/introduction), lib JS pour écrire du style CSS
-
 
 #### Tailwind CSS
 
@@ -410,6 +408,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Documentation et articles de référence
 
+- [w3schools](https://www.w3schools.com/)], une très bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur. Proche du consortium W3C, au plus proche des specs et mis à jour
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
@@ -422,11 +421,6 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de vos pages web
 - [can i use...](https://caniuse.com/)
-
-### Édition image/vidéo
-
-- [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
-- [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
 
 #### Est-ce-que j'oublie un truc ?
 
@@ -455,6 +449,10 @@ Aller sur le dépôt puis
 - essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
 - est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, tracker les changements rétrocompatibles ou non etc..
 
+## Édition image/vidéo
+
+- [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
+- [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
 
 ## Comment apprendre à apprendre le développement ?
 
@@ -498,6 +496,7 @@ A venir...
 - [Données temps réel pour les transports en commun](https://api.gouv.fr/les-api/temps_reel_transport), un exemple d'api publique (voir lien précédent) sur les données du transport en commun
 - [pappers](https://www.pappers.fr/api), une api pour les données sur les entreprises
 
+- [voir depot plus bas](#api)
 
 ## Fake data generators
 
@@ -776,9 +775,6 @@ Voir ce [bouquin de référence](#haskell-1).
 
 Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
 
-
-
-
 ## Challenges
 
 Apprenez à coder des trucs via des challenges
@@ -802,7 +798,7 @@ C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer 
 
 Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
-Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien.
+Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien au moral.
 
 
 ## Présentations / Slides
@@ -1176,7 +1172,7 @@ Des conseils à la volée
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
 
-### API Publiques
+### API
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 
