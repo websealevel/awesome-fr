@@ -53,7 +53,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs CSS](#générateurs-css)
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
-		- [Animations CSS (keyframes API)](#animations-css-keyframes-api)
+		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
 		- [Frameworks CSS](#frameworks-css)
 			- [Tailwind CSS](#tailwind-css)
 		- [Code snippets](#code-snippets)
@@ -301,7 +301,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [clip path maker](https://bennettfeely.com/clippy/), creer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 
-### Animations CSS (keyframes API)
+### Animations CSS (keyframes API) ou JS
 
 Expérimenter et créer des animations CSS
 
@@ -309,6 +309,9 @@ Expérimenter et créer des animations CSS
 - [Pictogon](https://pictogon.com/), images interactives
 - [keyframes animate](https://keyframes.app/animate/)
 - [wait !](https://waitanimate.wstone.uk/)
+- [lottie](https://airbnb.design/lottie/)
+- [zzz.dog](https://zzz.dog/), des animations rondes, a plat, peudo 3D
+- [haikuanimator](https://www.haikuanimator.com/)
 
 ### Frameworks CSS
 
@@ -322,9 +325,7 @@ Expérimenter et créer des animations CSS
 - [tailwindcomponents](https://tailwindcomponents.com/)
 - [Tailwind Toolbox](https://tailwindtoolbox.com/), css templates, composants et ressources
 - [lofi UI](https://lofiui.co/), des composants de base tailwind css qui servent de point de départ
-- [lottie](https://airbnb.design/lottie/)
-- [zzz.dog](https://zzz.dog/), des animations rondes, a plat, peudo 3D
-- [haikuanimator](https://www.haikuanimator.com/)
+
 
 ### Code snippets
 
