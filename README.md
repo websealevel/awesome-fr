@@ -214,6 +214,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 Templates HTML5/CSS3 à télécharger, utiliser, modifier
 
+- [html5webtemplates](https://www.html5webtemplates.co.uk/templates)
 - [htmlrev](https://htmlrev.com/)
 - [html5up](https://html5up.net/)
 - [templated](https://templated.live/)
@@ -367,6 +368,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - votre vie
 - les affiches dans la rue
 - le web !
+- [cern](https://worldwideweb.cern.ch/browser/), une des premières pages du web
+- [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration 
 - [brutalistwebsites](https://brutalistwebsites.com/), une collection de sites dont le design se revendique du mouvement [brutaliste](https://fr.wikipedia.org/wiki/Brutalisme)
 - [land-book](https://land-book.com/)
 - [onepagelove](https://onepagelove.com/)
