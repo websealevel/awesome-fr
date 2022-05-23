@@ -322,6 +322,9 @@ Expérimenter et créer des animations CSS
 - [tailwindcomponents](https://tailwindcomponents.com/)
 - [Tailwind Toolbox](https://tailwindtoolbox.com/), css templates, composants et ressources
 - [lofi UI](https://lofiui.co/), des composants de base tailwind css qui servent de point de départ
+- [lottie](https://airbnb.design/lottie/)
+- [zzz.dog](https://zzz.dog/), des animations rondes, a plat, peudo 3D
+- [haikuanimator](https://www.haikuanimator.com/)
 
 ### Code snippets
 
