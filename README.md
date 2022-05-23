@@ -308,7 +308,7 @@ Expérimenter et créer des animations CSS
 - [Animista](https://animista.net/), experimentez les animations CSS
 - [Pictogon](https://pictogon.com/), images interactives
 - [keyframes animate](https://keyframes.app/animate/)
-- [wait !](https://waitanimate.wstone.uk/)
+- [wait !](https://waitanimate.wstone.uk/), des animations à jouer pendant le chargement d'une ressource ou la fin d'un processus pour faire patienter l'utilisateur
 - [lottie](https://airbnb.design/lottie/)
 - [zzz.dog](https://zzz.dog/), des animations rondes, a plat, peudo 3D
 - [haikuanimator](https://www.haikuanimator.com/)
