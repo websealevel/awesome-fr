@@ -199,6 +199,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
 		- [Open source projects](#open-source-projects)
+		- [Design](#design-1)
 		- [API](#api)
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
@@ -1146,6 +1147,7 @@ Des conseils à la volée
   
 ### Blogs
 - [filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
+- 
 ### Conférences
 
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
@@ -1178,6 +1180,10 @@ Des conseils à la volée
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
+### Design
+
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns), des solutions réutilisables face à des problèmes courants d'architecture logicielle
+  
 
 ### API
 
@@ -1186,6 +1192,10 @@ Des conseils à la volée
 ### Inclassables
 - [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
 - [developer roadmap](https://github.com/kamranahmedse/developer-roadmap), un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
+- [gitignore](https://github.com/github/gitignore), une collection de templates pour vos fichiers `.gitignore`
+- [big-list-of-naughty-string](https://github.com/minimaxir/big-list-of-naughty-strings), un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line), s'améliorer en ligne de commande
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate), un template de départ professionnel pour vos fichiers html
   
 ### Bouquins
 
