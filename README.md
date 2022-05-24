@@ -160,6 +160,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Test driven development](#test-driven-development)
 		- [Programmation CGI](#programmation-cgi)
 		- [Haskell](#haskell-1)
+		- [Rust](#rust-1)
 		- [Génération procédurale et game design](#génération-procédurale-et-game-design)
 		- [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
 		- [Algorithmes](#algorithmes)
@@ -961,6 +962,11 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ### Haskell
 
 - [Haskell, The Craft of Functional Programming](https://www.pdfdrive.com/haskell-the-craft-of-functional-programming-e158848677.html)
+
+### Rust
+
+- [The rust programming language](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf), considéré comme la référence, mis a disposition en ligne gratuitement par l'éditeur. Souffre cependant de critiques sur le style, donc ne vous conviendra pas forcément
+- [Programming Rust](https://www.pdfdrive.com/programming-rust-e52747056.html), une édition saluée d'O'Reilly
 
 ### Génération procédurale et game design
 
