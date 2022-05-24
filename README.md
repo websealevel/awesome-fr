@@ -51,7 +51,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Palettes de couleurs](#palettes-de-couleurs)
 		- [Pack d'icones](#pack-dicones)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
-		- [Générateurs CSS](#générateurs-css)
+		- [Générateurs/Templates CSS](#générateurstemplates-css)
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
 		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
 		- [Frameworks CSS](#frameworks-css)
@@ -288,7 +288,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [dover collection series](https://fr.wikipedia.org/wiki/Dover_Publications), des séries de gravures sur bois magnifiques sur tous les thèmes (motifs, plantes, mobilier, ornements de toutes les époques et style, animaux etc...). Une vraie boîte de pandore, et la totalité de ces illustrations sont libérées du droit d'auteur, donc vous pouvez les utiliser, les modifier etc.. Le paradis à l'état pur. Fouiller le web notamment sur [pdfdrive](https://pdfdrive.com) pour trouver assez facilement des tonnes de références gratuites.
 
 
-### Générateurs CSS
+### Générateurs/Templates CSS
 
 - [neumorphism](https://neumorphism.io/#e0e0e0), generer de l'UI en pure CSS
 - [glassmorphism](https://hype4.academy/tools/glassmorphism-generator), effet verre
