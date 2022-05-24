@@ -161,6 +161,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Programmation CGI](#programmation-cgi)
 		- [Haskell](#haskell-1)
 		- [Rust](#rust-1)
+		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Génération procédurale et game design](#génération-procédurale-et-game-design)
 		- [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
 		- [Algorithmes](#algorithmes)
@@ -190,7 +191,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Général](#général-1)
 		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
 		- [Frontend](#frontend-1)
-		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
+		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Blogs](#blogs)
 		- [Conférences](#conférences)
 		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
@@ -967,6 +968,11 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [The rust programming language](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf), considéré comme la référence, mis a disposition en ligne gratuitement par l'éditeur. Souffre cependant de critiques sur le style, donc ne vous conviendra pas forcément
 - [Programming Rust](https://www.pdfdrive.com/programming-rust-e52747056.html), une édition saluée d'O'Reilly
+
+### Développement de jeux vidéos
+
+
+- [Game programming patterns](https://www.pdfdrive.com/game-programming-patterns-e158623095.html), une référence dans le domaine, un livre de [Robert Nystrom](https://twitter.com/munificentbob). Ce livre couvre l'architecture et le design dans le domaine du développement JV.
 
 ### Génération procédurale et game design
 
