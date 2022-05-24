@@ -781,6 +781,7 @@ Voir ce [bouquin de référence](#haskell-1).
 - [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
 - [clojuredocs](https://clojuredocs.org/), un dépôt regroupant documentation et exemples pour Clojure
 - [How to earn your Clojure white belt](https://www.notamonadtutorial.com/how-to-earn-your-clojure-white-belt/)
+- [4clojure](https://4clojure.oxal.org/), un site d'exercice classer par difficulté pour apprendre Clojure
 
 ### Elm
 
