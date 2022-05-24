@@ -133,6 +133,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Challenges](#challenges)
 	- [Markdown](#markdown)
 	- [Présentations / Slides](#présentations--slides)
+	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Boîte à outils](#boîte-à-outils)
 		- [Sed](#sed)
@@ -835,6 +836,10 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 - [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
 - [un workflow complet à suivre pas à pas](https://github.com/websealevel/presentations), un dépôt qui reprend l'article précédent.
 - [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
+
+## CV
+
+- [resume.md](https://github.com/mikepqr/resume.md), écrivez votre CV en Markdown, stylisez le en CSS, exportez le en PDF/HTML
 
 
 ## Éditeurs de texte
