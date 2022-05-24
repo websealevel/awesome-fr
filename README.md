@@ -105,6 +105,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Déploiement](#déploiement)
 		- [Simulateur de terminal](#simulateur-de-terminal)
 		- [Design](#design)
+	- [Newsletter](#newsletter)
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
 	- [Standards](#standards)
 		- [XML](#xml)
@@ -296,6 +297,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), creez vos rubans
 - [3dbookcovergenerator](https://3dbookcovergenerator.netlify.app/), creez des visuels 3D de livres à partir d'une image
 - [button generator](https://markodenic.com/tools/buttons-generator/)
+- [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
 
 ### Générateur de formes au format SVG
 
@@ -672,9 +674,13 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 - [Figma](https://www.figma.com/), on ne le présente plus
 
+## Newsletter
+
+-[buttondown](https://buttondown.email/), une appli web pour gérer simplement vos newsletters. Et le contenu peut être écrit en Markdown
+
 ## Outils *no-code ou low-code*
 
-Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose
+Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose. Mais on en aura toujours besoin quand même.
 
 - [swipepages](https://swipepages.com/), construisez une home page hébergée rapidement
 - [carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
