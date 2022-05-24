@@ -974,6 +974,8 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [Game programming patterns](https://www.pdfdrive.com/game-programming-patterns-e158623095.html), une référence dans le domaine, un livre de [Robert Nystrom](https://twitter.com/munificentbob). Ce livre couvre l'architecture et le design dans le domaine du développement JV.
 
+- [Artificial Intelligence for games](https://www.pdfdrive.com/artificial-intelligence-for-games-e25411627.html), un très beau livre très complet qui référence énormément de patterns, stratégies, techniques et algorithmes pour tous vos besoins en terme d'IA. Vient avec une bibliographie très complète pour approfondir un sujet qui a su retenir notre attention
+
 ### Génération procédurale et game design
 
 - [Procedural generation in game design](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
