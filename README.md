@@ -94,6 +94,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
 		- [Hébergements gratuits](#hébergements-gratuits)
+		- [Blogs](#blogs)
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
@@ -192,7 +193,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
-		- [Blogs](#blogs)
+		- [Blogs](#blogs-1)
 		- [Conférences](#conférences)
 		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
 			- [PHP](#php-2)
@@ -622,6 +623,10 @@ Plus fait pour le dev, le test ou le staging et non pour une mise en prod offici
 - https://100webspace.com
 - https://tastewp.com
 - https://instawp.com
+
+### Blogs
+
+- [ibenic](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
 
 ## Mots de passe
 
