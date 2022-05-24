@@ -1036,7 +1036,7 @@ A venir...
 - [html all the things](https://www.htmlallthethings.com/), web development, web design and small business
 - [phproundtable](https://phproundtable.com/)
 - [Web: et 1, et 2, et 3.0](https://www.franceculture.fr/emissions/la-methode-scientifique/web-et-1-et-2-et-3-0), on apprécie toujours les titres idiots de la méthode scientifique sur france culture. Podcast très intéressant sur l'histoire du web jusqu'au web 3.0. L'invité [Benjamin Bayart](https://fr.wikipedia.org/wiki/Benjamin_Bayart), cofondateur de la Quadrature du Net, en plus d'être hyper intéressant a un sens de l'humour qu'on appréciera.
-
+- [IFTTD](https://ifttd.io/listes-des-episodes/), un podcast de dev. Parle régulièrement d'outils no-code
 ## Youtube
 
 ### Conférences/Talks (en vrac)
