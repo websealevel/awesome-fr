@@ -299,6 +299,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [3dbookcovergenerator](https://3dbookcovergenerator.netlify.app/), creez des visuels 3D de livres à partir d'une image
 - [button generator](https://markodenic.com/tools/buttons-generator/)
 - [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
+- [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement HTML et qui pese 4.8kb
 
 ### Générateur de formes au format SVG
 
