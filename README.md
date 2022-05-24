@@ -979,7 +979,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ### Génération procédurale et game design
 
 - [Procedural generation in game design](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
-- [Curating Simulated Storyworlds](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), Thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, l'interaction entre l'intelligence artificielle et l'experience ludique. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
+- [Curating Simulated Storyworlds](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), le manuscrit de thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, de l'interaction entre l'intelligence artificielle et l'experience ludique et des stratégies de "nettoyage" des artefacts. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
 
 ### Freelance, conseils pour bien gérer son business depuis chez soi
 
