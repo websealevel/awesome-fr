@@ -1084,7 +1084,8 @@ A venir...
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
 - [PHP UK Conferences](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
 - [GDC France](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
-- [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech)
+- [BastiUI](https://www.youtube.com/c/BastiUI), Ux Ui Design • Motion • Tuto • Vulgarisation. Ici on parle de Design d'interface sur un ton léger.
+- [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech) (oui c'est la chaine de l'auteur, un peu d'auto promotion mais impartiale et objective)
 
 ### Playlists
 
