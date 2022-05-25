@@ -70,6 +70,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
 			- [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
+			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
 			- [Contraste](#contraste)
 	- [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
 	- [Édition image/vidéo](#édition-imagevidéo)
@@ -446,6 +447,11 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html), des ressources pour votre landing page et s'assurez de n'avoir rien oublié d'important
 - [Front-end checklist](https://frontendchecklist.io/)
 
+
+#### Combien pèse ma page ?
+
+- [WebPageTest](https://www.webpagetest.org/), un projet open-source soutenu par Google avec un focus sur le network
+- [measuring page weight](https://mobiforge.com/design-development/measuring-page-weight), un article (en anglais sorry, j'essaierai de trouver un article équivalent en fr) qui discute de la façon dont est calculé le poids d'une page et la recherche d'un standard. Liste également tous les outils populaires pour faire des mesures
 
 #### Contraste
 
