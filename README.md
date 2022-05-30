@@ -1074,6 +1074,7 @@ A venir...
 - [Building the ultimate login and signup](https://www.youtube.com/watch?v=E25KxLKwY-M&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=17&t=1270s), vous pensiez que construire un formulaire de connexion/inscription à une appli web est trivial ? Ici vous verrez que non, un décorticage méthodique de toutes les potentielles failles de sécurité à prévoir quand on design un système de login. Donné par Matt Cotterelll, un ingénieur en sécurité basé en Nouvelle Zélande
 - [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38&t=1s), conférence de Rich Harris, le créateur de Svelte sur la réactivité en programmation client. A croire que pour être un génie il faut commencer par s'appeler Rich.
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
+- [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 
 ### La vérité par l'humour
 
