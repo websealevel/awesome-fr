@@ -187,6 +187,8 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 		- [Chaînes](#chaînes)
 		- [Playlists](#playlists)
+	- [Blogs](#blogs-1)
+	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Restez informé](#restez-informé)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
@@ -196,7 +198,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
-		- [Blogs](#blogs-1)
+		- [Blogs](#blogs-2)
 		- [Conférences](#conférences)
 		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
 			- [PHP](#php-2)
@@ -383,6 +385,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - votre vie
 - les affiches dans la rue
 - le web !
+- [wayback machine](https://web.archive.org/), quoi de mieux que de fouiller dans les archives du web et de parcourir tous ces sites qui n'existent plus ?
+- [le design brutaliste (qui revient à la mode)](https://brutalist-web.design/)
 - [cern](https://worldwideweb.cern.ch/browser/), une des premières pages du web
 - [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration 
 - [brutalistwebsites](https://brutalistwebsites.com/), une collection de sites dont le design se revendique du mouvement [brutaliste](https://fr.wikipedia.org/wiki/Brutalisme)
@@ -1132,6 +1136,18 @@ A venir...
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
 
+
+## Blogs
+
+- [Kev Quirk](https://kevq.uk/), 
+- [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
+
+## Flux RSS
+
+Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
+
+- [Kev Quirk](https://kevq.uk/feed)
+- [tiny projects](https://tinyprojects.dev/feed.xml)
 
 ## Contribuer à des projets open-source
 
