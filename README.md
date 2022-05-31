@@ -1139,7 +1139,7 @@ A venir...
 
 ## Blogs
 
-- [Kev Quirk](https://kevq.uk/), 
+- [Kev Quirk](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
 - [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
 
 ## Flux RSS
