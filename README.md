@@ -253,6 +253,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [fontsquirrel](https://www.fontsquirrel.com/), bibliothèque de fonts libres pour usage commercial
 - [fontsinuse](https://fontsinuse.com/), bilbiothèque de typos
 - [fontfabric](https://www.fontfabric.com/font-tester/), tester rapidement ses fonts
+- [FontZone](https://www.fontzone.net/), une archive de fonts téléchargeables et gratuites
 
 ### Palettes de couleurs
 
