@@ -200,6 +200,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Inclassables](#inclassables)
 	- [Réseaux sociaux / communication](#réseaux-sociaux--communication)
+		- [Screenshots / mockup](#screenshots--mockup)
 		- [Twitter](#twitter)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
 		- [Général](#général-1)
@@ -283,6 +284,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [iconshock](https://www.iconshock.com/)
 - [phosphor icons](https://phosphoricons.com/)
 - [tabler icons](https://tabler-icons.io/)
+- [vertex](https://vertex.im/), icones 3D customisables
 
 ### Images: photos, illustrations, svg
 
@@ -802,7 +804,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ## Dessin
 
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
-- [minimator](https://minimator.app/), un éditeur graphique vectoriel minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
+- [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
+- [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
 
 ## Formulaires
 
@@ -1226,6 +1229,10 @@ Des conseils à la volée
 
 
 ## Réseaux sociaux / communication
+
+### Screenshots / mockup
+
+- [pika](https://pika.style/), créer rapidement en ligne des captures d'écran stylées ou des prototypes visuels
 
 ### Twitter
 
