@@ -32,7 +32,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 
 ## Partagez
 
-N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partager : )
+N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partager : )
 
 *No time to lose !*
 
