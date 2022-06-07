@@ -108,6 +108,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Design](#design)
 	- [Newsletter](#newsletter)
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
+	- [Logiciels open-source](#logiciels-open-source)
 	- [Standards](#standards)
 		- [XML](#xml)
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
@@ -700,6 +701,13 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 - [loom](https://www.loom.com/),enregistrer rapidement des vidéos via la webcam et partagez le lien facilement
 - [zapier](https://zapier.com/), automatiser ses tâches sur toutes les web apps
 
+## Logiciels open-source
+
+- [opensourcealternative](https://www.opensourcealternative.to/), trouver une solution alternative open-source à ...
+- [degooglisons-internet](https://degooglisons-internet.org/fr/), remplacer tous vos services tiers propriétaires par du libre (partage de fichiers, communication...)
+- [Framasoft](https://framasoft.org/fr/), association d'éducation populaire soutenant plusieurs projets open-source dont Framalibre
+- [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
+
 ## Standards
 
 ### XML
@@ -1266,7 +1274,7 @@ Des conseils à la volée
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
-
+- [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
 
 ## Trouver des livres techniques d'occasion pas cher
 
