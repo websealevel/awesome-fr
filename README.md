@@ -263,6 +263,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [palette ninja](https://palette.ninja/)
 - [pattern background](http://www.patternify.com/)
 - [palettes](https://flatuicolors.com/)
+- [colorpalettes](https://colorpalettes.colorion.co/), des palettes de couleurs séléctionnées par [Csaba Kissi](https://www.csabakissi.com/) 
 
 ### Pack d'icones
 
@@ -349,6 +350,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 ### Gradients
 
 - [ui gradients](uigradients.com)
+- [grabient](https://www.grabient.com/)
 
 ### Générateur de mise en page / layouts
 
@@ -425,6 +427,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design#courses=)
 
 
+
 ### DOM
 
 - [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
@@ -449,7 +452,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html), des ressources pour votre landing page et s'assurez de n'avoir rien oublié d'important
 - [Front-end checklist](https://frontendchecklist.io/)
-
+- [unused-css](https://unused-css.com/), détecte le CSS non utilisé sur une page web
+- [Checklist Design](https://www.checklist.design/), une collection des meilleurs pratiques de design. Pour chaque composant, cochez une à une les cases d'un checklist pour voir si vous n'avez rien oublié (page login, page 404, flot de paiement, logo etc... )
 
 #### Combien pèse ma page ?
 
@@ -1252,6 +1256,7 @@ Des conseils à la volée
 ### API
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
+- [markodenic/public-apis](https://github.com/markodenic/public-apis), un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
 
 ### Inclassables
 - [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
