@@ -125,7 +125,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [PHP](#php)
 		- [JavaScript](#javascript)
 	- [Suivi de projets](#suivi-de-projets)
-	- [Diagrames](#diagrames)
+	- [Dessin](#dessin)
 	- [Formulaires](#formulaires)
 	- [Monétiser son travail](#monétiser-son-travail)
 	- [Bases de données](#bases-de-données)
@@ -799,9 +799,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
 
-## Diagrames
+## Dessin
 
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
+- [minimator](https://minimator.app/), un éditeur graphique vectoriel minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 
 ## Formulaires
 
