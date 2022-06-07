@@ -16,6 +16,8 @@ Un effort sera fait pour retrouver des ressources traduites en français (par ex
 
 ## Conseils d'utilisation
 
+Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières trouvez rapidement un outil qui peut vous aider.
+
 Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
 *Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous parait utile ou vous attire. Ce dépot donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
