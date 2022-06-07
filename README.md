@@ -188,7 +188,6 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 		- [Chaînes](#chaînes)
 		- [Playlists](#playlists)
-	- [Blogs](#blogs-1)
 	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Restez informé](#restez-informé)
@@ -199,7 +198,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
-		- [Blogs](#blogs-2)
+		- [Blogs](#blogs-1)
 		- [Conférences](#conférences)
 		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
 			- [PHP](#php-2)
@@ -213,7 +212,6 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Inclassables](#inclassables-1)
 		- [Bouquins](#bouquins)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
-	- [Idées de projets](#idées-de-projets)
 
 ## Frontend
 
@@ -643,6 +641,11 @@ Plus fait pour le dev, le test ou le staging et non pour une mise en prod offici
 ### Blogs
 
 - [ibenic](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
+
+- [blogroll](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
+- [Kev Quirk](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
+- [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
+
 
 ## Mots de passe
 
@@ -1146,13 +1149,6 @@ A venir...
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
 
 
-## Blogs
-
-- [blogroll](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
-- [Kev Quirk](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
-- [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
-
-
 ## Flux RSS
 
 Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
@@ -1285,22 +1281,3 @@ Pour cela on peut trouver pas mal de vieux livres mais qui restent toujours pert
 Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly. 
 
 Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement [dès qu'on s'éloigne de la capitale](https://www.chienlit.com/librairies-paris-litterature-informatique/)...
-
-
-## Idées de projets
-
-En panne d'idées de projet ? Voici une liste de projets complètement random dans lesquels puiser pour y trouver de l'inspiration
-
-- coder une machine enigma interactive dans le navigateur. L'utilisateur peut encrypter et décrypter en modifiant les états de la machine. Y adjoindre une documentation (histoire, fonctionnement). Un projet intéressant du point de vue interface/cryptographie
-- une appli pour reconnaitre les oiseaux grâce à un enregistrement audio. L'enregistrement est alors comparé à une base de données (API) de chants d'oiseaux et renvoie le résultat avec une incertitude
-- une appli pour construire, éditer et publier des arbres généalogies. Avec des fonctions de recherches avancées
-- un éditeur de texte dans le navigateur
-- une appli web pour convertir des images d'un format à l'autre, les compresser etc...
-- une plateforme collaborative de création musicale. Un utilisateur peut créer un projet et y mettre une piste, un autre peut en ajouter une. Des inconnus produisent des sons à plusieurs
-- un *incremental game* comme Candy Box ou paperclip
-- un client mail
-- un client bitorrent
-- un twitter bot
-- un agent converstionnel (chatbot)
-- faire un cours sur une techno qu'on aime et qu'on souhaite approfondir et en faire un cours. Le vendre sur Udemy par exemple
-- un programme qui joue de la musique de manière procédurale en réponse à des données recoltées dynamiquement auprès d'une API (météo par exemple)
