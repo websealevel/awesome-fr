@@ -409,6 +409,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [ui garage](https://uigarage.net/)
 - [collect ui](https://collectui.com/)
 - [behance](https://www.behance.net/), explorez le monde de la création
+- [admiretheweb](https://www.admiretheweb.com/)
 
 
 ### Composants
@@ -1309,6 +1310,8 @@ Des conseils à la volée
 ### Bouquins
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
+- [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md), même dépôt que précédemment mais listant que des livres de programmation en français !
 - [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
