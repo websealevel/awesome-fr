@@ -878,9 +878,9 @@ Apprenez à coder des trucs via des challenges
 
 <img src="img/markdown%20everywhere.jpg" alt="Markdown, Markdown everywhere !" width="600"/>
 
-Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire pour le web.
+Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. *Facile à lire, facile à écrire*. Il a été pensé originellement pour écrire *pour* le web.
 
-Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, .odt, etc.).
+Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.).
 
 *Le Markdown est à l'édition web ce que [LaTeX](https://www.latex-project.org/) est à l'édition papier*. Le web et le papier sont deux media différents, avec des contraintes de publication différentes. Les chercheurs le savent bien et sont souvent embêtés car ils utilisent LaTeX pour leurs articles mais ils doivent aussi communiquer sur le web.
 
