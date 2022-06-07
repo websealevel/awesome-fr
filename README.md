@@ -71,9 +71,15 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Code](#code)
 			- [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
 			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
+		- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
 	- [Édition image/vidéo](#édition-imagevidéo)
+	- [Se former à](#se-former-à)
+		- [git](#git)
+		- [CSS grid](#css-grid)
+		- [JS](#js-1)
+		- [Algorithmes](#algorithmes)
 	- [Comment apprendre à apprendre le développement ?](#comment-apprendre-à-apprendre-le-développement-)
 		- [Quand on débute](#quand-on-débute)
 		- [Quand on débute moins](#quand-on-débute-moins)
@@ -169,7 +175,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Génération procédurale et game design](#génération-procédurale-et-game-design)
 		- [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
-		- [Algorithmes](#algorithmes)
+		- [Algorithmes](#algorithmes-1)
 	- [O'Reilly Open Books](#oreilly-open-books)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
@@ -193,6 +199,8 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Restez informé](#restez-informé)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Inclassables](#inclassables)
+	- [Réseaux sociaux / communication](#réseaux-sociaux--communication)
+		- [Twitter](#twitter)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
 		- [Général](#général-1)
 		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
@@ -201,7 +209,7 @@ N'hésitez pas à *Star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Conférences](#conférences)
 		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
 			- [PHP](#php-2)
-			- [JS](#js-1)
+			- [JS](#js-2)
 			- [Typescript](#typescript)
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
@@ -426,8 +434,6 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [UXMTYHS](https://uxmyths.com/), collection des erreurs de conception en UX avec des explications sur le pourquoi
 - [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design#courses=)
 
-
-
 ### DOM
 
 - [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
@@ -460,6 +466,10 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [WebPageTest](https://www.webpagetest.org/), un projet open-source soutenu par Google avec un focus sur le network
 - [measuring page weight](https://mobiforge.com/design-development/measuring-page-weight), un article (en anglais sorry, j'essaierai de trouver un article équivalent en fr) qui discute de la façon dont est calculé le poids d'une page et la recherche d'un standard. Liste également tous les outils populaires pour faire des mesures
 
+### Analyse de texte
+
+- [word-counter](https://freecodetools.org/word-counter), donne des métriques sur un texte (nombre de mots, caractères, paragraphes etc..)
+
 #### Contraste
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
@@ -486,6 +496,25 @@ Aller sur le dépôt puis
 - [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
 - [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
 
+
+## Se former à
+
+### git
+
+- [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR), apprendre git via une appli web interactive
+
+### CSS grid
+
+- [griddy](https://griddy.io/)
+
+### JS
+
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/), apprendre JS en visualisant le fonctionnement de son moteur (queue, stack, event loop etc.)
+
+### Algorithmes
+
+- [algorithm-visualizer](https://algorithm-visualizer.org/), apprendre à programmer des algorithmes tout en les visualisant
+
 ## Comment apprendre à apprendre le développement ?
 
 A venir...
@@ -493,6 +522,7 @@ A venir...
 ### Quand on débute
 
 ### Quand on débute moins
+
 
 ## SEO
 
@@ -1192,6 +1222,15 @@ Des conseils à la volée
 - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente
 - [POSSE](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité
 
+
+## Réseaux sociaux / communication
+
+### Twitter
+
+- [Twemex](https://twemex.app/), extension du navigateur pour faire remonter à la surface davantage de contenus pertinents sur Twitter
+- [followerwonk](https://followerwonk.com/join-pro), monitorer quand vos abonnés sont actifs pour un meilleur engagement
+
+
 ## Banques de ressources et dépôts
 
 ### Général
@@ -1265,7 +1304,8 @@ Des conseils à la volée
 - [big-list-of-naughty-string](https://github.com/minimaxir/big-list-of-naughty-strings), un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line), s'améliorer en ligne de commande
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate), un template de départ professionnel pour vos fichiers html
-  
+
+
 ### Bouquins
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
