@@ -878,18 +878,17 @@ Apprenez à coder des trucs via des challenges
 
 <img src="img/markdown%20everywhere.jpg" alt="Markdown, Markdown everywhere !" width="600"/>
 
-Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un convertisseur *texte vers HTML* designé pour écrire sur le web. 
+Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire pour le web.
 
-Facile à apprendre, facile à exporter vers tout un tas de formats (HTML, PDF, Latex...).
+Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, .odt, etc.).
 
-*Le Markdown est à l'édition web ce que [Latex](https://www.latex-project.org/) est à l'édition papier*. Le web et le papier sont deux media différents, avec des contraintes différentes. Les chercheurs le savent bien et sont souvent embêtés car ils utilisent Latex pour leurs articles mais ils doivent aussi communiquer sur le web.
+*Le Markdown est à l'édition web ce que [LaTeX](https://www.latex-project.org/) est à l'édition papier*. Le web et le papier sont deux media différents, avec des contraintes de publication différentes. Les chercheurs le savent bien et sont souvent embêtés car ils utilisent LaTeX pour leurs articles mais ils doivent aussi communiquer sur le web.
 
 C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web 1.0* : les liens hypertextes et un processus de publication simple et facile. 
 
 Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
-Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien au moral.
-
+Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien au mental.
 
 ## Présentations / Slides
 
