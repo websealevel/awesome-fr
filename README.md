@@ -1,4 +1,4 @@
-# Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es et autres intéressé·es
+# Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es
 
 
 ## En quelques mots
@@ -39,7 +39,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 <img src="img/./no%20time%20to%20lose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
-- [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-et-autres-intéressées)
+- [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-bidouilleureuses-et-autres-intéressées)
 	- [En quelques mots](#en-quelques-mots)
 	- [Des limites de la francophonie](#des-limites-de-la-francophonie)
 	- [Conseils d'utilisation](#conseils-dutilisation)
