@@ -151,6 +151,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Convertir des documents](#convertir-des-documents)
 		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
+	- [Android](#android)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot)
 		- [Du bruit au bruit](#du-bruit-au-bruit)
@@ -932,6 +933,14 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 - [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
 - [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
+
+## Android
+
+- [F-droid](https://duckduckgo.com/?q=fdroid&t=newext&atb=v319-1&ia=web), gestionnaire et catalogue de logiciels libres pour la plateforme Android. Paquets vérifiés, mis à jour. Idéal pour vous débarasser petit à petit des applis propriéataires sur votre smartphone. Il n'y a qu'à fouiller et essayer
+- [neutriNote CE](https://f-droid.org/fr/packages/com.appmindlab.nano/), une plateforme d'édition, de prise de notes en Markdown/LaTeX, dessins compètement chercheable et que l'on peut backup avec un service d'hébergement pour synhroniser des documents sur tous nos appareils. Le top
+- [Nunti](https://f-droid.org/fr/packages/com.nunti/), un gestionnaire de flux RSS discret et minimaliste
+- [NewPipe](https://f-droid.org/fr/packages/org.schabi.newpipe/), un client Youtube léger sans pub (alternative à feu YoutubeVanced). Permet également de rassembler au même endroit les flux de Youtube, SoundCloud, Bandcamp et PeerTube
+  
 ## Langages/technos à découvrir
 
 ### Un mot
