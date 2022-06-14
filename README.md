@@ -10,19 +10,18 @@ Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à v
 
 ## Des limites de la francophonie
 
-La liste en elle même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionnier que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratutité) et permettra au moins de proposer un panorama en français de différentes ressources.
+La liste en elle-même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionner que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratuité) et permettra au moins de proposer un panorama en français de différentes ressources.
 
 Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de le recommander aveuglément.
-
 ## Conseils d'utilisation
 
-Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières trouvez rapidement un outil qui peut vous aider.
+Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières, trouvez rapidement un outil qui peut vous aider.
 
-Choisissez parmi ces outils ceux que vous préférez et intégrez les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
+Choisissez parmi ces outils ceux que vous préférez et intégrez-les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
 
-*Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous parait utile ou vous attire. Ce dépot donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
+*Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous paraît utile ou vous attire. Ce dépôt donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
 
-Par soucis de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clefs et des hypers-liens pour faciliter la navigation.
+Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clef et des hyperliens pour faciliter la navigation.
 
 ## Contribuez
 
@@ -507,20 +506,20 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ## Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?
 
-Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce-que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce-que ce dépôt est maintenu ou abandoné ? Est-ce-qu'il y a une communauté derrière active et prête à dépanner ? Est ce que cette dépendance de mon projet va casser dans 6 mois ? 
+Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
 
 Aller sur le dépôt puis
 - regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
-- regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir
+- regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir.
 - regarder la date du dernier commit
 - regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
 - regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
 - regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
 - regarder le nombre de contributeurs
 - regarder le nombre de pull requests en attente, idem que pour les issues
-- trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
-- essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin
-- est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, tracker les changements rétrocompatibles ou non etc..
+- trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation, peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
+- essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
+- est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
 
 ## Édition image/vidéo
 
@@ -606,7 +605,7 @@ Wordpress est un framework parfaitement adapté pour publier du contenu sur Inte
 
 Ce framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité. 
 
-Wordpress est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
+Wordpress est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non-techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
 
 
 ### Doc officielle wordpress.org
@@ -777,13 +776,13 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 
 #### Un mot sur le XML
 
-Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des documents robustes, échangeables et faciles à maintenir (lire et écrire) dans le temps. Contrairement aux idées reçues il n'est pas *mort* et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. Loin de là...
+Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des documents robustes, échangeables et faciles à maintenir (lire et écrire) dans le temps. Contrairement aux idées reçues, il n'est pas *mort* et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. Loin de là...
 
-XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est née en 1998 du standard SGML (qui a donné l'application HTML, un simple sous-ensemble du standard SGML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
+XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est né en 1998 du standard SGML (qui a donné l'application HTML, un simple sous-ensemble du standard SGML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
 
 Les développeurs s'en sont emparés ensuite pour faire du maintien d'enregistrement pour leurs applications, ce qui n'avait pas été envisagé dans sa conception initiale. 
 
-Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme par exemple
+Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme
 
 - [XPath](http://www.xmlfacile.com/guide_xml/xpath_1.php5), un standard qui permet de requêter la structure XML pour naviguer dans la structure de données et la manipuler
 - [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un *langage déclaratif* (le pied) comme le SQL
@@ -819,7 +818,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), **le** projet open-source pour développer des cartes interactives et *mobile-friendly*.
-- [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Rigolons haut et fort à l'écoute de ces paroles de béotien. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme javascript *devrait* disparaitre du navigateur. En effet, les besoins de JS recule toujours davantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne.
+- [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Rigolons haut et fort à l'écoute de ces paroles de béotien. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne.
 
 ## Suivi de projets
 
@@ -969,13 +968,13 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 - Est ce que *X* est mort ? 
 - Apprendre *X* en 2022 ?
 
-On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en fout, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur Linkedin aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
+On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en moque, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
 
-Tomber dans l'oubli ne signifie pas nécessairement devenir obselète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures du début du web 2.0. Il arrive souvent d'ailleurs qu'une techno disparaisse tout simplement parce que le *monde n'y était pas encore préparé*, ou parce qu'une autre techno a bénéficié d'un marketing beaucoup plus agressif à la même époque...
+Tomber dans l'oubli ne signifie pas nécessairement devenir obsolète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures du début du web 2.0. Il arrive souvent d'ailleurs qu'une techno disparaisse tout simplement parce que le *monde n'y était pas encore préparé*, ou parce qu'une autre techno a bénéficié d'un marketing beaucoup plus agressif à la même époque...
 
 Le passé est rempli d'idées, de concepts, de technos révolutionnaires et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la hype, sont en fait des vieilles idées des années 80.
 
-Que je sois bien compris, *je n'ai rien contre les modes et la nouveauté*. Les modes sont toujours là et aucune personne n'y échappe, aussi condenscendante soit-elle. Les frameworks JS sont des outils formidables, allez donc les apprendre (aussi). 
+Que je sois bien compris, *je n'ai rien contre les modes et la nouveauté*. Les modes sont toujours là et aucune personne n'y échappe, aussi condescendante soit-elle. Les frameworks JS sont des outils formidables, allez donc les apprendre (aussi). 
 
 Ce que je veux dire c'est qu'il faut apprendre à filtrer le signal, les modes c'est du *bruit* qu'il faut souvent filtrer pour en extraire la *vraie valeur*, *les idées de fond*. Les chercheurs sont mieux armés pour cela car ils pratiquent la bibliographie de manière assidue le vendredi matin, ils connaissent les références, les idées qui sont là depuis 50 ans dans leur domaine. 
 
@@ -1094,9 +1093,9 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 ### Algorithmes
 
-Soyons honnêtes, vous n'aurez jamais à coder un *binary tree* à la main dans la vraie vie, voir même en utiliser un durant votre carrière. Cette mode de connaître ces algorithmes par coeur, cette maladie, on la doit aux recruteurs qui pensent bêtement que ces méthodes de recrutement *c'est normal*. Vous pouvez avoir 5 ans d'expérience, maintenir du code legacy, savoir lire et vous retrouver dans le code d'autres développeurs (ce qui est une compétence largement sous-estimée et tellement vitale), refactorer, modeliser de la logique métier, écrire de la documentation de qualité, si vous savez pas inverser une chaine de caractères sur place de tête vous n'êtes pas compétent. C'est d'ailleurs un très bon premier avertissement que vous ne devriez peut être pas travailler là et passer votre chemin. 
+Soyons honnêtes, vous n'aurez jamais à coder un *binary tree* à la main dans la vraie vie, voir même en utiliser un durant votre carrière. Cette mode de connaître ces algorithmes par cœur, cette maladie, on la doit aux recruteurs qui pensent bêtement que ces méthodes de recrutement *c'est normal*. Vous pouvez avoir 5 ans d'expérience, maintenir du code legacy, savoir lire et vous retrouver dans le code d'autres développeurs (ce qui est une compétence largement sous-estimée et tellement vitale), refactorer, modéliser de la logique métier, écrire de la documentation de qualité, si vous ne savez pas inverser une chaîne de caractères sur place de tête vous n'êtes pas compétent. C'est d'ailleurs un très bon premier avertissement que vous ne devriez peut être pas travailler là et passer votre chemin. 
 
-Cela dit, si on oublie cette tendance déletère, les algorithmes c'est hyper intéressant. C'est même passionant et ça peut vous permettre d'ouvrir de nouveaux horizons pour créer des systèmes intéressants. La différence c'est que vous pouvez vous y intéressez, les comprendre sans les apprendre par coeur. Tout le monde travaille avec un onglet ouvert(mille) ou un bouquin sur la table.
+Cela dit, si on oublie cette tendance délétère, les algorithmes c'est hyper intéressant. C'est même passionnant et ça peut vous permettre d'ouvrir de nouveaux horizons pour créer des systèmes intéressants. La différence c'est que vous pouvez vous y intéresser, les comprendre sans les apprendre par cœur. Tout le monde travaille avec un onglet ouvert (mille) ou un bouquin sur la table.
 
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 
@@ -1247,13 +1246,13 @@ A venir...
 
 Des conseils à la volée
 
-- **la reconnaissance ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites vous payer convenablement. C'est plus facile à dire qu'à faire, c'est un rapport de force à négocier, mais tout s'apprend, notamment à se (faire) respecter
+- **la reconnaissance, ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites-vous payer convenablement. C'est plus facile à dire qu'à faire, c'est un rapport de force à négocier, mais tout s'apprend, notamment à se (faire) respecter.
 - coder c'est cool mais y'a autre chose dans la vie (par exemple commencer un nouveau *side project* alors qu'on en a déjà dix inachevés)
 - quand on bloque sur un bug on s'arrête, on fait autre chose, et on revient avec la solution
-- quand on est fatigués on s'arrête (au moins un moment)
-- quand on voit qu'on arrive plus à rien on arrête. Si on peut pas arrêter tout de suite alors on fait des petites choses qui trainent et qui restent à faire. Au moins on avance et c'est satisfaisant
-- on peut tenir un journal (en Markdown bien sûr !) où on note chaque jour tout ce qu'on a fait dans la journée (on peut limiter au taff mais on peut l'étendre à tout ce qu'on veut en fonction des besoins). On fait des listes avec des entrées courtes, pas besoin de détails. Ça sert à quoi ? A se dire "ah ouais quand même j'ai fait des trucs aujourd'hui même si j'arrête ma journée sur un bug que j'ai pas résolu et que j'ai l'impression d'être un gros looser"
-- quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film etc...] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrai résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Essayez plutôt "j'arrive dans 5 minutes" et lachez votre ordi
+- quand on est fatigué, on s'arrête (au moins un moment)
+- quand on voit qu'on arrive plus à rien, on arrête. Si on ne peut pas arrêter tout de suite alors on fait des petites choses qui traînent et qui restent à faire. Au moins on avance et c'est satisfaisant.
+- on peut tenir un journal (en Markdown bien sûr !) où on note chaque jour tout ce qu'on a fait dans la journée (on peut limiter au taf, mais on peut l'étendre à tout ce qu'on veut en fonction des besoins). On fait des listes avec des entrées courtes, pas besoin de détails. Ça sert à quoi ? A se dire "ah ouais quand même j'ai fait des trucs aujourd'hui même si j'arrête ma journée sur un bug que j'ai pas résolu et que j'ai l'impression d'être un gros looser"
+- quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film, etc.] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrais résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Essayez plutôt "j'arrive dans 5 minutes" et lâchez votre ordi.
 - faire un peu de sport ça fait toujours du bien. Même si on en fait pas beaucoup, au moins se créer une habitude. Par exemple "Le mercredi à 17h je vais à la piscine, c'est non négociable, même si je nage 5min". Le fait d'y aller, qu'on ai envie ou pas, déjà c'est une victoire et le début d'habitudes saines pour vivre plus longtemps
 - [faire attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
 
