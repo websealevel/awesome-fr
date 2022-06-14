@@ -219,9 +219,10 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Node.js](#nodejs)
 		- [Open source projects](#open-source-projects)
 		- [Design](#design-1)
+		- [Apprendre](#apprendre)
 		- [API](#api)
 		- [Inclassables](#inclassables-1)
-		- [Bouquins](#bouquins)
+		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
 ## Frontend
@@ -1264,13 +1265,18 @@ Des conseils à la volée
 - [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode)
 
 ### Frontend
+
+
 - [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
 - [omatsuri](https://omatsuri.app/)
 - [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks), une liste de ressources de qualité pour les développeurs frontend
 - [css-protips](https://github.com/AllThingsSmitty/css-protips), un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui
 - [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist), liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
 
+
 ### Développement de jeux vidéos
+
+
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
   
@@ -1289,6 +1295,7 @@ Des conseils à la volée
 - [awesome-json](https://github.com/burningtree/awesome-json), la même sur des lib et ressources pour le json
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js), la même sur la programmation fonctionnelle
 - [awesome-jquery](https://github.com/petk/awesome-jquery), la même sur Jquery
+- [airbnb/javascript](https://github.com/airbnb/javascript), le guide des bonnes pratiques JS d'airbnb
 
 #### Typescript
 
@@ -1311,12 +1318,22 @@ Des conseils à la volée
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns), des solutions réutilisables face à des problèmes courants d'architecture logicielle
   
 
+### Apprendre
+
+
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
+
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
+
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui recesens une collection de savoir techniques bon à connaître ou à découvrir lorsqu'on est développeur.
+
 ### API
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 - [markodenic/public-apis](https://github.com/markodenic/public-apis), un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
 
 ### Inclassables
+
 - [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
 - [developer roadmap](https://github.com/kamranahmedse/developer-roadmap), un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
 - [gitignore](https://github.com/github/gitignore), une collection de templates pour vos fichiers `.gitignore`
@@ -1325,7 +1342,7 @@ Des conseils à la volée
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate), un template de départ professionnel pour vos fichiers html
 
 
-### Bouquins
+### Lecture : articles, bouquins
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
@@ -1333,6 +1350,8 @@ Des conseils à la volée
 - [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
+
+- [papers we love](https://github.com/papers-we-love/papers-we-love), un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
 
 ## Trouver des livres techniques d'occasion pas cher
 
