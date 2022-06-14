@@ -1354,7 +1354,7 @@ Des conseils à la volée
 
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
 
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui recesens une collection de savoir techniques bon à connaître ou à découvrir lorsqu'on est développeur.
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui aggrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
 
 ### API
 
