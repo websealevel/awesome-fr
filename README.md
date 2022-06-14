@@ -51,10 +51,12 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
+		- [Courbes de Bézier](#courbes-de-bézier)
 		- [Pack d'icones](#pack-dicones)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
+		- [Motifs](#motifs)
 		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
 		- [Frameworks CSS](#frameworks-css)
 			- [Tailwind CSS](#tailwind-css)
@@ -69,6 +71,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [UI/UX](#uiux)
 		- [DOM](#dom)
 		- [Documentation et articles de référence](#documentation-et-articles-de-référence)
+		- [Apprendre l'UI/UX](#apprendre-luiux)
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
 			- [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
@@ -200,8 +203,11 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Restez informé](#restez-informé)
+	- [Newsletters](#newsletters)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Inclassables](#inclassables)
+	- [Contenu, écriture](#contenu-écriture)
+		- [Copywriting](#copywriting)
 	- [Réseaux sociaux / communication](#réseaux-sociaux--communication)
 		- [Screenshots / mockup](#screenshots--mockup)
 		- [Twitter](#twitter)
@@ -230,6 +236,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 ### All-in-one, aggrégateur de ressources pour le front
 
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
+- [webcode.tools](https://webcode.tools/), collection d'outils en ligne pour le développement web (générateurs de code)
 
 ### Templates
 
@@ -277,6 +284,11 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [pattern background](http://www.patternify.com/)
 - [palettes](https://flatuicolors.com/)
 - [colorpalettes](https://colorpalettes.colorion.co/), des palettes de couleurs séléctionnées par [Csaba Kissi](https://www.csabakissi.com/) 
+- [data color picker : palette generator](https://learnui.design/tools/data-color-picker.html)
+
+### Courbes de Bézier
+
+- [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### Pack d'icones
 
@@ -325,6 +337,10 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [clip path maker](https://bennettfeely.com/clippy/), creer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 
+### Motifs
+
+- [patternify](http://www.patternify.com/), générateur de motifs CSS
+
 ### Animations CSS (keyframes API) ou JS
 
 Expérimenter et créer des animations CSS
@@ -365,6 +381,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [ui gradients](uigradients.com)
 - [grabient](https://www.grabient.com/)
+- [easing-gradients](https://larsenwork.com/easing-gradients/)
 
 ### Générateur de mise en page / layouts
 
@@ -416,6 +433,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [collect ui](https://collectui.com/)
 - [behance](https://www.behance.net/), explorez le monde de la création
 - [admiretheweb](https://www.admiretheweb.com/)
+- [lapa.ninja](https://t.co/PDsqFU39on), templates de landind pages, accès à des livres gratuits pour les designers
+- [landing-page-examples](https://www.btw.so/marketing/landing-page-examples)
 
 
 ### Composants
@@ -453,13 +472,17 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 - [how to draw an svg in Inscape](https://www.youtube.com/watch?v=PSl1c6kYfHs), un tutoriel qui explique bien comment faire un svg à partir d'une image bitmap
 
+### Apprendre l'UI/UX
+
+- [Learn Design](https://www.figma.com/resources/learn-design/), série de cours proposés par Figma
+- [hackdesign](https://hackdesign.org/)
 
 ### Check, check, check
 
 #### Code
 
 - [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de vos pages web
-- [can i use...](https://caniuse.com/)
+- [Can i use ...](https://caniuse.com/)
 
 #### Est-ce-que j'oublie un truc ?
 
@@ -1213,9 +1236,14 @@ Par où commencer ? Comment faire ?
 
 ## Restez informé
 
-Une liste de sites pour se tenir informé et faire de la veille techno
-
 - [hacker news](https://news.ycombinator.com/)
+- [daily.dev](https://daily.dev/), créez votre feed d'actualités, posts sur des thématiques qui vous intéressent et suivez des gens qui publient des articles intéressant
+
+## Newsletters
+
+Polluez vos boîtes mails avec du contenu de qualité
+
+A venir...
 
 ## Prendre soin de soi
 
@@ -1238,6 +1266,10 @@ Des conseils à la volée
 - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente
 - [POSSE](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité
 
+
+## Contenu, écriture
+
+### Copywriting
 
 ## Réseaux sociaux / communication
 
@@ -1352,6 +1384,8 @@ Des conseils à la volée
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
 
 - [papers we love](https://github.com/papers-we-love/papers-we-love), un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
+
+- [livres gratuits pour les designers](https://www.lapa.ninja/book/)
 
 ## Trouver des livres techniques d'occasion pas cher
 
