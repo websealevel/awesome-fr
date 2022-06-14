@@ -198,7 +198,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
 			- [PHP](#php-1)
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
-		- [Chaînes](#chaînes)
+		- [Chaînes YouTube](#chaînes-youtube)
 		- [Playlists](#playlists)
 	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
@@ -1200,15 +1200,17 @@ A venir...
 
 - [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
-### Chaînes
+### Chaînes YouTube
 
-- [Krazam](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
-- [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
-- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
-- [PHP UK Conferences](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
-- [GDC France](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
-- [BastiUI](https://www.youtube.com/c/BastiUI), Ux Ui Design • Motion • Tuto • Vulgarisation. Ici on parle de Design d'interface sur un ton léger.
-- [Galileo51 Galilei](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech) (oui c'est la chaine de l'auteur, un peu d'auto promotion mais impartiale et objective)
+- [Krazam (en)](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
+- [ici Amy Plant (fr)](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
+- [The Coding Train (fr)](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
+- [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
+- [GDC France (fr)](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
+- [BastiUI (fr)](https://www.youtube.com/c/BastiUI), Ux Ui Design • Motion • Tuto • Vulgarisation. Ici on parle de Design d'interface sur un ton léger.
+- [DesignerUP (en)](https://www.youtube.com/DesignerUp), améliorez votre savoir-faire en UI/UX et design produit
+- [ParfaitementWeb (fr)](https://www.youtube.com/c/ParfaitementWeb), une chaîne très appréciable qui est *content first*, va a l'essentiel et dont le contenu est de qualité sans chercher à capitaliser sur les tendances et montre un état des lieux honnête du développement web (fr)
+- [Galileo51 Galilei (fr)](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech) (oui c'est la chaine de l'auteur, un peu d'auto promotion mais impartiale et objective)
 
 ### Playlists
 
