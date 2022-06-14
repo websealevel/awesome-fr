@@ -60,13 +60,13 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
 		- [Frameworks CSS](#frameworks-css)
 			- [Tailwind CSS](#tailwind-css)
-		- [Code snippets](#code-snippets)
+		- [Extraits de code sur étagère](#extraits-de-code-sur-étagère)
 		- [Gradients](#gradients)
-		- [Générateur de mise en page / layouts](#générateur-de-mise-en-page--layouts)
+		- [Générateur de mise en page / *layouts*](#générateur-de-mise-en-page--layouts)
 		- [JS](#js)
 		- [Backgrounds](#backgrounds)
 		- [Pixel art](#pixel-art)
-		- [Design aggregators](#design-aggregators)
+		- [Agrégateurs de design](#agrégateurs-de-design)
 		- [Composants](#composants)
 		- [UI/UX](#uiux)
 		- [DOM](#dom)
@@ -74,7 +74,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Apprendre l'UI/UX](#apprendre-luiux)
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
-			- [Est-ce-que j'oublie un truc ?](#est-ce-que-joublie-un-truc-)
+			- [Est-ce-que j'ai oublié un truc ?](#est-ce-que-jai-oublié-un-truc-)
 			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
 		- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
@@ -93,13 +93,13 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [API publiques](#api-publiques)
 		- [Divers](#divers)
 		- [Opendata/France](#opendatafrance)
-	- [Fake data generators](#fake-data-generators)
+	- [Générateur de fausses données](#générateur-de-fausses-données)
 	- [Wordpress](#wordpress)
-		- [Un mot sur Wordpress](#un-mot-sur-wordpress)
+		- [Un mot](#un-mot)
 		- [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
 		- [Articles](#articles)
-		- [Livres de développement wordpress](#livres-de-développement-wordpress)
-		- [Épisodes de podcasts sur wordpress](#épisodes-de-podcasts-sur-wordpress)
+		- [Livres de développement Wordpress](#livres-de-développement-wordpress)
+		- [Épisodes de podcasts sur Wordpress](#épisodes-de-podcasts-sur-wordpress)
 		- [Podcasts dédiés à Wordpress](#podcasts-dédiés-à-wordpress)
 		- [Formations](#formations)
 		- [Starter themes](#starter-themes)
@@ -117,7 +117,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Déploiement](#déploiement)
 		- [Simulateur de terminal](#simulateur-de-terminal)
 		- [Design](#design)
-	- [Newsletter](#newsletter)
+	- [Outils Newsletter](#outils-newsletter)
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
 	- [Logiciels open-source](#logiciels-open-source)
 	- [Standards](#standards)
@@ -143,20 +143,20 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Elm](#elm)
 		- [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
 	- [Rich Hickey](#rich-hickey)
-	- [Challenges](#challenges)
+	- [Défis](#défis)
 	- [Markdown](#markdown)
 	- [Présentations / Slides](#présentations--slides)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Boîte à outils](#boîte-à-outils)
-		- [Sed](#sed)
+		- [`Sed`](#sed)
 	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 		- [Convertir des documents](#convertir-des-documents)
 		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
-	- [Android](#android)
+	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
-		- [Un mot](#un-mot)
+		- [Un mot](#un-mot-1)
 		- [Du bruit au bruit](#du-bruit-au-bruit)
 		- [Rust](#rust)
 		- [Smalltalk](#smalltalk)
@@ -179,17 +179,17 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Haskell](#haskell-1)
 		- [Rust](#rust-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
-		- [Génération procédurale et game design](#génération-procédurale-et-game-design)
-		- [Freelance, conseils pour bien gérer son business depuis chez soi](#freelance-conseils-pour-bien-gérer-son-business-depuis-chez-soi)
+		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
+		- [Freelance, conseils pour bien gérer ses affaires depuis chez soi](#freelance-conseils-pour-bien-gérer-ses-affaires-depuis-chez-soi)
 		- [Algorithmes](#algorithmes-1)
-	- [O'Reilly Open Books](#oreilly-open-books)
+	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
 	- [Billets](#billets)
 	- [Papiers](#papiers)
 	- [Podcasts](#podcasts)
-	- [Youtube](#youtube)
+	- [Vidéo](#vidéo)
 		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
@@ -202,7 +202,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Playlists](#playlists)
 	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
-	- [Restez informé](#restez-informé)
+	- [Rester informé](#rester-informé)
 	- [Newsletters](#newsletters)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Inclassables](#inclassables)
@@ -217,13 +217,13 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Conférences](#conférences)
-		- [Spécifique à une techno/un language](#spécifique-à-une-technoun-language)
+		- [Spécifique à une techno](#spécifique-à-une-techno)
 			- [PHP](#php-2)
 			- [JS](#js-2)
 			- [Typescript](#typescript)
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
-		- [Open source projects](#open-source-projects)
+		- [Projets open-source](#projets-open-source)
 		- [Design](#design-1)
 		- [Apprendre](#apprendre)
 		- [API](#api)
@@ -367,7 +367,7 @@ Expérimenter et créer des animations CSS
 - [lofi UI](https://lofiui.co/), des composants de base tailwind css qui servent de point de départ
 
 
-### Code snippets
+### Extraits de code sur étagère
 
 Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
@@ -383,7 +383,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [grabient](https://www.grabient.com/)
 - [easing-gradients](https://larsenwork.com/easing-gradients/)
 
-### Générateur de mise en page / layouts
+### Générateur de mise en page / *layouts*
 
 - [css grid generator](https://css-generator.netlify.app/)
 - [layout generator](https://grid.layoutit.com/)
@@ -412,7 +412,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [pixel art to css](https://t.co/6eyHLm8PUE)
 
 
-### Design aggregators
+### Agrégateurs de design
 
 - votre vie
 - les affiches dans la rue
@@ -435,8 +435,6 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [admiretheweb](https://www.admiretheweb.com/)
 - [lapa.ninja](https://t.co/PDsqFU39on), templates de landind pages, accès à des livres gratuits pour les designers
 - [landing-page-examples](https://www.btw.so/marketing/landing-page-examples)
-
-
 
 ### Composants
 
@@ -461,6 +459,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [UXMTYHS](https://uxmyths.com/), collection des erreurs de conception en UX avec des explications sur le pourquoi
 - [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design#courses=)
 - [Decathlon figma](https://www.figma.com/@decathlon), Decathlon a ouvert au domaine public tout son système de design
+
+
 ### DOM
 
 - [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
@@ -485,7 +485,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [The W3C Markup Validation Service](https://validator.w3.org/), valider le code source de vos pages web
 - [Can i use ...](https://caniuse.com/)
 
-#### Est-ce-que j'oublie un truc ?
+#### Est-ce-que j'ai oublié un truc ?
 
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html), des ressources pour votre landing page et s'assurez de n'avoir rien oublié d'important
 - [Front-end checklist](https://frontendchecklist.io/)
@@ -591,14 +591,14 @@ A venir...
 
 - [voir depot plus bas](#api)
 
-## Fake data generators
+## Générateur de fausses données
 
 - [random users](https://xsgames.co/randomusers/)
 
 
 ## Wordpress
 
-### Un mot sur Wordpress
+### Un mot
 
 En 2021 on comptait [environ 455 000 000 sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais en réalité plutôt *40%* (estimation haute).
 
@@ -627,7 +627,7 @@ Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrou
 - [WordPress Taxonomies: The Ultimate Guide](https://ithemes.com/blog/wordpress-taxonomies)
 - [WordPress Permalinks: The Essential Guide](https://ithemes.com/blog/wordpress-permalinks)
 
-### Livres de développement wordpress
+### Livres de développement Wordpress
 
 A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
@@ -635,7 +635,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 - *[Professional WordPress Plugin Development](https://www.pdfdrive.com/professional-wordpress-plugin-developmen-4074kb-jun-27-2012-120000-am-e42772568.html)* de Brad Williams et Justin Taldock, Edition Wrox, 2nd Edition, 2020
 - *[Modern PHP: new features and good practices](https://www.pdfdrive.com/modern-php-e34337192.html)*, Josh Lochart, Edition O'REILLY, 2015
 
-### Épisodes de podcasts sur wordpress
+### Épisodes de podcasts sur Wordpress
 
 - [070: All things WordPress](https://phproundtable.com/episode/all-things-wordpress), [Tessa Kriesel](https://twitter.com/tessak22?s=20&t=L4nTJJGyh2w5UbPY7aDo9g) présente ici l'état et le futur de Wordpress ainsi que l'histoire de son développement
 - [The thing about Wordpress](https://podcast.htmlallthethings.com/e/the-thing-about-wordpress/), Matt y discute des avantages et inconvénients de Wordpress en tant que développeur. Tout ce qui est discuté ici est pertinent
@@ -685,7 +685,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 ### Hébergements gratuits
 
-Plus fait pour le dev, le test ou le staging et non pour une mise en prod officielle.
+Plus fait pour le *dev*, le *test* ou le *staging* et non pour une mise en prod officielle.
 
 - https://pantheon.io
 - https://accuwebhosting.com
@@ -751,7 +751,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 - [Figma](https://www.figma.com/), on ne le présente plus
 
-## Newsletter
+## Outils Newsletter
 
 -[buttondown](https://buttondown.email/), une appli web pour gérer simplement vos newsletters. Et le contenu peut être écrit en Markdown
 
@@ -887,9 +887,9 @@ Voir ce [bouquin de référence](#haskell-1).
 
 Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
 
-## Challenges
+## Défis
 
-Apprenez à coder des trucs via des challenges
+Apprenez à coder des trucs via des défis
 
 - [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
 - [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
@@ -933,7 +933,7 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 
 ## Boîte à outils
 
-### Sed
+### `Sed`
 
 - [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
 
@@ -955,7 +955,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 - [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
 
-## Android
+## Androïd
 
 - [F-droid](https://duckduckgo.com/?q=fdroid&t=newext&atb=v319-1&ia=web), gestionnaire et catalogue de logiciels libres pour la plateforme Android. Paquets vérifiés, mis à jour. Idéal pour vous débarasser petit à petit des applis propriéataires sur votre smartphone. Il n'y a qu'à fouiller et essayer
 - [neutriNote CE](https://f-droid.org/fr/packages/com.appmindlab.nano/), une plateforme d'édition, de prise de notes en Markdown/LaTeX, dessins compètement chercheable et que l'on peut backup avec un service d'hébergement pour synhroniser des documents sur tous nos appareils. Le top
@@ -986,8 +986,6 @@ Il vaut mieux comprendre les principes du web, qui fait quoi, dans les grandes l
 ### Du bruit au bruit
 
 Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela représente un paradoxe assez connu de celles et ceux qui veulent apprendre le web et se retrouvent confronté·e·s à un flow de ressources complètement impossible à digérer. Ces questions sont d'ailleurs discutées dans ce podcast, consacré au sujet [Comment apprendre à devenir développeur web ?](https://www.htmlallthethings.com/podcasts/how-to-learn-web-development-skills)
-
-
 
 ### Rust
 
@@ -1080,17 +1078,16 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 ### Développement de jeux vidéos
 
-
 - [Game programming patterns](https://www.pdfdrive.com/game-programming-patterns-e158623095.html), une référence dans le domaine, un livre de [Robert Nystrom](https://twitter.com/munificentbob). Ce livre couvre l'architecture et le design dans le domaine du développement JV.
 
 - [Artificial Intelligence for games](https://www.pdfdrive.com/artificial-intelligence-for-games-e25411627.html), un très beau livre très complet qui référence énormément de patterns, stratégies, techniques et algorithmes pour tous vos besoins en terme d'IA. Vient avec une bibliographie très complète pour approfondir un sujet qui a su retenir notre attention
 
-### Génération procédurale et game design
+### Génération procédurale et *game design*
 
 - [Procedural generation in game design](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
 - [Curating Simulated Storyworlds](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), le manuscrit de thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, de l'interaction entre l'intelligence artificielle et l'experience ludique et des stratégies de "nettoyage" des artefacts. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
 
-### Freelance, conseils pour bien gérer son business depuis chez soi
+### Freelance, conseils pour bien gérer ses affaires depuis chez soi
 
 - [Start and Run A Business From Home: How to turn your hobby or interest into a business (Small Business Start-Ups)](https://www.pdfdrive.com/start-and-run-a-business-from-home-how-to-turn-your-hobby-or-interest-into-a-business-small-business-start-ups-d185035411.html)
 - [The Small Business Owner's Manual: Everything You Need To Know To Start Up And Run Your Business](https://www.pdfdrive.com/the-small-business-owners-manual-everything-you-need-to-know-to-start-up-and-run-your-business-d184086729.html)
@@ -1103,7 +1100,7 @@ Cela dit, si on oublie cette tendance déletère, les algorithmes c'est hyper in
 
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 
-## O'Reilly Open Books
+## Le projet *Open Books* de O'Reilly 
 
 L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
 
@@ -1141,7 +1138,9 @@ A venir...
 - [phproundtable](https://phproundtable.com/)
 - [Web: et 1, et 2, et 3.0](https://www.franceculture.fr/emissions/la-methode-scientifique/web-et-1-et-2-et-3-0), on apprécie toujours les titres idiots de la méthode scientifique sur france culture. Podcast très intéressant sur l'histoire du web jusqu'au web 3.0. L'invité [Benjamin Bayart](https://fr.wikipedia.org/wiki/Benjamin_Bayart), cofondateur de la Quadrature du Net, en plus d'être hyper intéressant a un sens de l'humour qu'on appréciera.
 - [IFTTD](https://ifttd.io/listes-des-episodes/), un podcast de dev. Parle régulièrement d'outils no-code
-## Youtube
+
+
+## Vidéo
 
 ### Conférences/Talks (en vrac)
 
@@ -1231,7 +1230,7 @@ Par où commencer ? Comment faire ?
 
 - [first timers only](https://www.firsttimersonly.com/), un guide pour rentrer dans la contribution à l'open-source
 
-## Restez informé
+## Rester informé
 
 - [hacker news](https://news.ycombinator.com/)
 - [daily.dev](https://daily.dev/), créez votre feed d'actualités, posts sur des thématiques qui vous intéressent et suivez des gens qui publient des articles intéressant
@@ -1313,7 +1312,7 @@ Des conseils à la volée
 
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
 
-### Spécifique à une techno/un language
+### Spécifique à une techno
 
 #### PHP
 
@@ -1338,7 +1337,7 @@ Des conseils à la volée
 
 - [wesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security), la même sur des ressources pour sécuriser ses projets node.js
 
-### Open source projects
+### Projets open-source
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
