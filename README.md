@@ -213,7 +213,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Twitter](#twitter)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
 		- [Général](#général-1)
-		- [Outils no code ou low code](#outils-no-code-ou-low-code-1)
+		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Conférences](#conférences)
@@ -1289,7 +1289,7 @@ Des conseils à la volée
 - [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
   
 
-### Outils no code ou low code
+### Outils "*no code*", "*low code*" ou plutot *visual code*
 
 - [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode)
 
