@@ -47,7 +47,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Partagez](#partagez)
 	- [Table des matières](#table-des-matières)
 	- [Frontend](#frontend)
-		- [*Tout-en-un*, aggrégateurs de ressources pour le *front*](#tout-en-un-aggrégateurs-de-ressources-pour-le-front)
+		- [*Tout-en-un*, agrégateurs de ressources pour le *front*](#tout-en-un-agrégateurs-de-ressources-pour-le-front)
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
@@ -233,7 +233,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 ## Frontend
 
-### *Tout-en-un*, aggrégateurs de ressources pour le *front*
+### *Tout-en-un*, agrégateurs de ressources pour le *front*
 
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
 - [webcode.tools](https://webcode.tools/), collection d'outils en ligne pour le développement web (générateurs de code)
@@ -1353,7 +1353,7 @@ Des conseils à la volée
 
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
 
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui aggrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
 
 ### API
 
