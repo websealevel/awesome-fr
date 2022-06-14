@@ -437,6 +437,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [landing-page-examples](https://www.btw.so/marketing/landing-page-examples)
 
 
+
 ### Composants
 
 - [accordion slider generator](https://accordionslider.com/)
@@ -459,7 +460,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [springboard](https://www.springboard.com/resources/learning-paths/user-experience-design/), apprendre l'ux/ui
 - [UXMTYHS](https://uxmyths.com/), collection des erreurs de conception en UX avec des explications sur le pourquoi
 - [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design#courses=)
-
+- [Decathlon figma](https://www.figma.com/@decathlon), Decathlon a ouvert au domaine public tout son système de design
 ### DOM
 
 - [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
