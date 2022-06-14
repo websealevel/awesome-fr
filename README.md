@@ -599,15 +599,13 @@ A venir...
 
 ### Un mot sur Wordpress
 
-Il y avait en 2021 [environ 455 000 000 sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais plutôt *40%* (estimation haute). 
+En 2021 on comptait [environ 455 000 000 sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais en réalité plutôt *40%* (estimation haute).
 
-C'est toujours un phénomène curieux et intéressant de constater que sur les internets (Twitter, plateformes de blogging) on entend si peu parler des outils qui font tourner le web...
+Wordpress est un framework parfaitement adapté pour publier du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si Wordpress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée ! 
 
-Wordpress est un framework parfaitement adapté pour publier du contenu sur Internet. Wordpress est versatile et peut être adapté pour toute taille de projet. Oui, si Wordpress peut être utilisé pour tout faire, il n'est pas toujours la solution la plus adaptée ! 
+Ce framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité. 
 
-Wordpress existe depuis 2004, dans le monde du logiciel libre c'est une éternité. 
-
-Wordpress est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non techniciennes connaissent bien, utilisent quotidiennement. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
+Wordpress est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
 
 
 ### Doc officielle wordpress.org
@@ -622,8 +620,6 @@ Très bien faite, mais peut parfois demander un peu d'experience pour s'y retrou
 - [Data Sanitization/Escaping](https://developer.wordpress.org/themes/theme-security/data-sanitization-escaping/#escaping-with-localization)
 - [Localization](https://developer.wordpress.org/apis/handbook/internationalization/localization/)
 - [Make Wordpress](https://make.wordpress.org/), un hub centralisés de ressources pour les développeurs Wordpress
-
-
 
 ### Articles
 
