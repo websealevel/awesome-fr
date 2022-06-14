@@ -47,7 +47,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Partagez](#partagez)
 	- [Table des matières](#table-des-matières)
 	- [Frontend](#frontend)
-		- [All-in-one, aggrégateur de ressources pour le front](#all-in-one-aggrégateur-de-ressources-pour-le-front)
+		- [*Tout-en-un*, aggrégateurs de ressources pour le *front*](#tout-en-un-aggrégateurs-de-ressources-pour-le-front)
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
@@ -233,7 +233,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 ## Frontend
 
-### All-in-one, aggrégateur de ressources pour le front
+### *Tout-en-un*, aggrégateurs de ressources pour le *front*
 
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
 - [webcode.tools](https://webcode.tools/), collection d'outils en ligne pour le développement web (générateurs de code)
