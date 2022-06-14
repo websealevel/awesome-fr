@@ -10,7 +10,7 @@ Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à v
 
 ## Des limites de la francophonie
 
-La liste en elle même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionnier que des outils ayant l'amabilité de nous fournir des traductions fr.
+La liste en elle même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionnier que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratutité) et permettra au moins de proposer un panorama en français de différentes ressources.
 
 Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de le recommander aveuglément.
 
@@ -1209,7 +1209,7 @@ A venir...
 - [GDC France (fr)](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
 - [BastiUI (fr)](https://www.youtube.com/c/BastiUI), Ux Ui Design • Motion • Tuto • Vulgarisation. Ici on parle de Design d'interface sur un ton léger.
 - [DesignerUP (en)](https://www.youtube.com/DesignerUp), améliorez votre savoir-faire en UI/UX et design produit
-- [ParfaitementWeb (fr)](https://www.youtube.com/c/ParfaitementWeb), une chaîne très appréciable qui est *content first*, va a l'essentiel et dont le contenu est de qualité sans chercher à capitaliser sur les tendances et montre un état des lieux honnête du développement web (fr)
+- [ParfaitementWeb (fr)](https://www.youtube.com/c/ParfaitementWeb), une chaîne très appréciable qui est *content first*, va a l'essentiel et dont le contenu est de qualité sans chercher à capitaliser sur les tendances et montre un état des lieux honnête du développement web
 - [Galileo51 Galilei (fr)](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech) (oui c'est la chaine de l'auteur, un peu d'auto promotion mais impartiale et objective)
 
 ### Playlists
@@ -1223,8 +1223,8 @@ A venir...
 
 Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
 
-- [Kev Quirk](https://kevq.uk/feed)
-- [tiny projects](https://tinyprojects.dev/feed.xml)
+- [Kev Quirk (en)](https://kevq.uk/feed)
+- [tiny projects (en)](https://tinyprojects.dev/feed.xml)
 
 ## Contribuer à des projets open-source
 
