@@ -185,7 +185,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
-	- [Billets](#billets)
+	- [Articles](#articles-1)
 	- [Papiers](#papiers)
 	- [Podcasts](#podcasts)
 	- [Vidéo](#vidéo)
@@ -1112,7 +1112,7 @@ A venir...
 
 ### Public adulte
 
-## Billets
+## Articles
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
@@ -1122,6 +1122,7 @@ A venir...
 - [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/amp/)
 - [Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/) [securité]
 - [Java at 20: How it changed programming forever](https://www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html), un article de Elliote Rusty Harold qui revient sur les apports de Java a l'occasion de ses 20 ans d'existence
+- [Rust for the Brave and True (en)](https://dev.to/gruberb/rust-for-the-brave-and-true-4766), un article qui décrit un chemin d'apprentissage de Rust avec une envie de se créer un environnement sans distraction, proche de la machine
 
 ## Papiers
 
