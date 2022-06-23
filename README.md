@@ -582,7 +582,6 @@ A venir...
 - [fathom](https://usefathom.com/), analytique de site web simple, privacy-first, sans cookie et respecant la GDPR, bonne alternative à Google Analytics
 - [calendly](https://calendly.com/fr/), planification de rendez-vous et réunions
 - [Pirsch](https://pirsch.io/), une solution analytics open souce et sans cookie pour votre site web
-- [webvitalsrobot](https://webvitalsrobot.com/), mesure, monitor et optimise les perfs de votre site. Version gratuite pour un nom de domaine
 
 
 ## API publiques
