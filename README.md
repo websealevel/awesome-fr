@@ -68,6 +68,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Agrégateurs de design](#agrégateurs-de-design)
 		- [Composants](#composants)
 		- [UI/UX](#uiux)
+		- [Sitemap](#sitemap)
 		- [DOM](#dom)
 		- [Documentation et articles de référence](#documentation-et-articles-de-référence)
 		- [Apprendre l'UI/UX](#apprendre-luiux)
@@ -229,6 +230,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Inclassables](#inclassables-1)
 		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
+	- [Trouver du boulot](#trouver-du-boulot)
+		- [A distance (*remote*)](#a-distance-remote)
 
 ## Frontend
 
@@ -284,6 +287,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [palettes](https://flatuicolors.com/)
 - [colorpalettes](https://colorpalettes.colorion.co/), des palettes de couleurs séléctionnées par [Csaba Kissi](https://www.csabakissi.com/) 
 - [data color picker : palette generator](https://learnui.design/tools/data-color-picker.html)
+- [huetone](https://huetone.ardov.me/), des palettes de color avec une attention apportée à l'accessibilité
 
 ### Courbes de Bézier
 
@@ -328,6 +332,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [button generator](https://markodenic.com/tools/buttons-generator/)
 - [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
 - [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement les selecteurs de balise HTML et qui pèse 4.8kb
+- [houdini.how](https://houdini.how/)
 
 ### Générateur de formes au format SVG
 
@@ -459,6 +464,9 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design#courses=)
 - [Decathlon figma](https://www.figma.com/@decathlon), Decathlon a ouvert au domaine public tout son système de design
 
+### Sitemap
+
+- [octopus](https://octopus.do/), un outil en ligne pour construire le sitemap (architectures des pages, composants) de son projet
 
 ### DOM
 
@@ -490,6 +498,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Front-end checklist](https://frontendchecklist.io/)
 - [unused-css](https://unused-css.com/), détecte le CSS non utilisé sur une page web
 - [Checklist Design](https://www.checklist.design/), une collection des meilleurs pratiques de design. Pour chaque composant, cochez une à une les cases d'un checklist pour voir si vous n'avez rien oublié (page login, page 404, flot de paiement, logo etc... )
+- [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
 
 #### Combien pèse ma page ?
 
@@ -503,6 +512,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 #### Contraste
 
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
+- [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 
 ## Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?
 
@@ -564,6 +574,8 @@ A venir...
 - [clearbit](https://clearbit.com/resources/tools/visitor-report)
 - [fathom](https://usefathom.com/), analytique de site web simple, privacy-first, sans cookie et respecant la GDPR, bonne alternative à Google Analytics
 - [calendly](https://calendly.com/fr/), planification de rendez-vous et réunions
+- [Pirsch](https://pirsch.io/), une solution analytics open souce et sans cookie pour votre site web
+- [webvitalsrobot](https://webvitalsrobot.com/), mesure, monitor et optimise les perfs de votre site. Version gratuite pour un nom de domaine
 
 
 ## API publiques
@@ -823,7 +835,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ## Suivi de projets
 
 - [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
-
+- [Mattermost](https://mattermost.com/), alternative open source à Trello, outil de workflow, travail collaboratif, suivi de tâches, etc.
 ## Dessin
 
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
@@ -888,11 +900,15 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 
 ## Défis
 
-Apprenez à coder des trucs via des défis
+Apprenez à coder via des défis
 
 - [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
 - [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
 - [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
+- [Flexbox froggy](https://flexboxfroggy.com/#fr), apprendre CSS flexbox via des challenges
+- [Flexbox defense](http://www.flexboxdefense.com/), un tower defense où l'on joue en CSS
+- [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/), un jeu pour apprendre Tailwind CSS
+- [Guess CSS](https://www.guess-css.app/), deviner le HTML/CSS utilisés dans des puzzle games
 
 
 ## Markdown
@@ -1394,3 +1410,13 @@ Pour cela on peut trouver pas mal de vieux livres mais qui restent toujours pert
 Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly. 
 
 Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement [dès qu'on s'éloigne de la capitale](https://www.chienlit.com/librairies-paris-litterature-informatique/)...
+
+## Trouver du boulot
+
+### A distance (*remote*)
+
+- [AngelListTalent](https://angel.co/)
+- [REMOTE.CO](https://remote.co/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [flexjobs](https://www.flexjobs.com/)
+- [authentic jobs](https://authenticjobs.com/)
