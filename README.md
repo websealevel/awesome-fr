@@ -151,6 +151,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Boîte à outils](#boîte-à-outils)
 		- [`Sed`](#sed)
+		- [`sloccount`](#sloccount)
 	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 		- [Convertir des documents](#convertir-des-documents)
 		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
@@ -718,6 +719,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
 - [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
 - [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
+- [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
 
 ## Mots de passe
 
@@ -952,6 +954,10 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 ### `Sed`
 
 - [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
+
+### `sloccount`
+
+- un outil open-source pour estimer le nombre de lignes de codes d'un projet. Intègre des modèles pour estimer le coût de la codebase (jours-hommes, argent, etc.). Développé par [David A. Wheeler](https://dwheeler.com/)
 
 ## Manipulation de fichiers, documents
 
