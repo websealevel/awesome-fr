@@ -1401,6 +1401,7 @@ Des conseils à la volée
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
 
 - [papers we love](https://github.com/papers-we-love/papers-we-love), un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
+- [des livres](https://drive.google.com/drive/folders/1g-fs7vr3_2pGw5sevD_eutVuskKLFMz7?usp=sharing), des livres sur la programmation/informatique, le dessin, des motifs géométriques, mathématiques
 
 - [livres gratuits pour les designers](https://www.lapa.ninja/book/)
 
