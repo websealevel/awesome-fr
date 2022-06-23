@@ -703,7 +703,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 ## Hébergement gratuit
 
-- [neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
+- [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
 - [awardspace](https://awardspace.com)
 - [freehosting](https://freehosting.com)
 - [freehostia](https://freehostia.com)
