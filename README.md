@@ -711,12 +711,12 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 ## Blogs
 
-- [ibenic](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
+- [ibenic (en)](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
 
-- [blogroll](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
-- [Kev Quirk](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
-- [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
-- [Filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
+- [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
+- [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
+- [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
+- [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
 - [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
 
 ## Mots de passe
