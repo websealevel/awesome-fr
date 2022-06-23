@@ -70,8 +70,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [UI/UX](#uiux)
 		- [Sitemap](#sitemap)
 		- [DOM](#dom)
-		- [Documentation et articles de référence](#documentation-et-articles-de-référence)
-		- [Apprendre l'UI/UX](#apprendre-luiux)
+		- [Quelques références tierces](#quelques-références-tierces)
+		- [Apprendre le web design](#apprendre-le-web-design)
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
 			- [Est-ce-que j'ai oublié un truc ?](#est-ce-que-jai-oublié-un-truc-)
@@ -472,7 +472,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
 
-### Documentation et articles de référence
+### Quelques références tierces
 
 - [w3schools](https://www.w3schools.com/), une très bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur. Proche du consortium W3C, au plus proche des specs et mis à jour
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -480,10 +480,11 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 - [how to draw an svg in Inscape](https://www.youtube.com/watch?v=PSl1c6kYfHs), un tutoriel qui explique bien comment faire un svg à partir d'une image bitmap
 
-### Apprendre l'UI/UX
+### Apprendre le web design
 
 - [Learn Design](https://www.figma.com/resources/learn-design/), série de cours proposés par Figma
 - [hackdesign](https://hackdesign.org/)
+- [Web Design Tips for Beginners: The Ultimate Guide](https://studywebdevelopment.com/web-design-tips.html)
 
 ### Check, check, check
 
@@ -717,6 +718,7 @@ Plus fait pour le *dev*, le *test* ou le *staging* et non pour une mise en prod 
 - [Kev Quirk](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
 - [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
 - [Filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
+- [Tech Blogs, a list of awesome tech blogs](https://tech-blogs.dev/)
 
 ## Mots de passe
 
@@ -1300,10 +1302,12 @@ Des conseils à la volée
 ## Banques de ressources et dépôts
 
 ### Général
+
 - [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
 - [webcode.tools](https://webcode.tools/)
 - [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
 - [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
+- [design resources for developer](https://github.com/bradtraversy/design-resources-for-developers)
   
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
@@ -1311,7 +1315,6 @@ Des conseils à la volée
 - [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode)
 
 ### Frontend
-
 
 - [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
 - [omatsuri](https://omatsuri.app/)
