@@ -106,7 +106,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Starter themes](#starter-themes)
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
-		- [Hébergements gratuits](#hébergements-gratuits)
+	- [Hébergement gratuit](#hébergement-gratuit)
 	- [Blogs](#blogs)
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
@@ -700,20 +700,13 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [bbPress](https://wordpress.org/plugins/bbpress/), gestionnaire de forums/fils de discussion
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
-### Hébergements gratuits
 
-Plus fait pour le *dev*, le *test* ou le *staging* et non pour une mise en prod officielle.
+## Hébergement gratuit
 
-- https://pantheon.io
-- https://accuwebhosting.com
-- https://awardspace.com
-- https://x10hosting.com
-- https://freehosting.com
-- https://infinityfree.net
-- https://freehostia.com
-- https://100webspace.com
-- https://tastewp.com
-- https://instawp.com
+- [awardspace](https://awardspace.com)
+- [freehosting](https://freehosting.com)
+- [freehostia](https://freehostia.com)
+- [100webspace](https://100webspace.com)
 
 ## Blogs
 
