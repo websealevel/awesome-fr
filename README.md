@@ -76,6 +76,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Code](#code)
 			- [Est-ce-que j'ai oublié un truc ?](#est-ce-que-jai-oublié-un-truc-)
 			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
+			- [Accessibilité](#accessibilité)
 		- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
@@ -287,7 +288,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [palettes](https://flatuicolors.com/)
 - [colorpalettes](https://colorpalettes.colorion.co/), des palettes de couleurs séléctionnées par [Csaba Kissi](https://www.csabakissi.com/) 
 - [data color picker : palette generator](https://learnui.design/tools/data-color-picker.html)
-- [huetone](https://huetone.ardov.me/), des palettes de color avec une attention apportée à l'accessibilité
+- [huetone](https://huetone.ardov.me/), des palettes de couleurs, avec une attention apportée à l'[accessibilité](#accessibilité)
 
 ### Courbes de Bézier
 
@@ -499,12 +500,17 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Front-end checklist](https://frontendchecklist.io/)
 - [unused-css](https://unused-css.com/), détecte le CSS non utilisé sur une page web
 - [Checklist Design](https://www.checklist.design/), une collection des meilleurs pratiques de design. Pour chaque composant, cochez une à une les cases d'un checklist pour voir si vous n'avez rien oublié (page login, page 404, flot de paiement, logo etc... )
-- [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
+
 
 #### Combien pèse ma page ?
 
 - [WebPageTest](https://www.webpagetest.org/), un projet open-source soutenu par Google avec un focus sur le network
 - [measuring page weight](https://mobiforge.com/design-development/measuring-page-weight), un article (en anglais sorry, j'essaierai de trouver un article équivalent en fr) qui discute de la façon dont est calculé le poids d'une page et la recherche d'un standard. Liste également tous les outils populaires pour faire des mesures
+
+#### Accessibilité
+
+- [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
+
 
 ### Analyse de texte
 
