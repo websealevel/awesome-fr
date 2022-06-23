@@ -717,7 +717,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [Kev Quirk](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
 - [Tiny Projects](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
 - [Filina consulting](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
-- [Tech Blogs, a list of awesome tech blogs](https://tech-blogs.dev/)
+- [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
 
 ## Mots de passe
 
