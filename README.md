@@ -264,6 +264,14 @@ Templates HTML5/CSS3 à télécharger, utiliser, modifier
 - [cruip](https://cruip.com/free-templates/)
 - [templateMO](https://templatemo.com/)
 - [styleshout](https://www.styleshout.com/free-templates/)
+- freehtml5.com
+- free-css.com
+- mobirise.com
+- nicepage.com
+- mashup-templates.com
+- html5-template.com
+- w3layouts.com
+- graygrids.com
   
 ### Typographies/Fonts
 
@@ -715,6 +723,11 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [freehosting](https://freehosting.com)
 - [freehostia](https://freehostia.com)
 - [100webspace](https://100webspace.com)
+- [netlify](https://www.netlify.com/), git-based solution et une plateforme serverless
+- [vercel](https://vercel.com/), idéal pour déployer des applis (*Single Page App*)
+- [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
+- [Free web hosting](https://www.infinityfree.net/), héberger vos sites webs **PHP,MySQL** (ou HTML) hébergé gratuitement et sans pub. Pas de limites de sites, nom de domaine gratuit ou ajouter le votre. 5GB d'espace libre, bande passante illimitée, SSL gratuit
+- [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
 
 ## Blogs
 
