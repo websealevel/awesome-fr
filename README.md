@@ -153,7 +153,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [`Sed`](#sed)
 		- [`sloccount`](#sloccount)
 	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
-		- [Convertir des documents](#convertir-des-documents)
+		- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
 	- [Androïd](#androïd)
@@ -979,10 +979,11 @@ Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos pré
 
 Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.
 
-### Convertir des documents
+### Convertir des documents, éditer des pdf
 
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
-
+- [ImageMagick](https://imagemagick.org/index.php), L'éditeur d'images par excellence. Exemple, convertir une image en pdf au format A4 `convert input.jpg -page a4 output.pdf`
+- [pdftk (the pdf toolkit)](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): concaténer/découper des pdf. Par exemple `pdftk input1.pdf input2.pdf output.pdf`
 ### Compresser, optimiser des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
