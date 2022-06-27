@@ -51,7 +51,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
 		- [Courbes de Bézier](#courbes-de-bézier)
-		- [Pack d'icones](#pack-dicones)
+		- [Pack d'icones/favicons](#pack-diconesfavicons)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
 		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
@@ -202,11 +202,13 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 		- [Chaînes YouTube](#chaînes-youtube)
 		- [Playlists](#playlists)
+	- [Fondamentaux, radical](#fondamentaux-radical)
 	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Rester informé](#rester-informé)
 	- [Newsletters](#newsletters)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
+	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Inclassables](#inclassables)
 	- [Contenu, écriture](#contenu-écriture)
 		- [Copywriting](#copywriting)
@@ -295,7 +297,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 
 - [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
-### Pack d'icones
+### Pack d'icones/favicons
 
 - [favicon generator](https://favicon.io/)
 - [icomoon](https://icomoon.io/)
@@ -361,6 +363,8 @@ Expérimenter et créer des animations CSS
 
 ### Frameworks CSS
 
+
+- [unocss](https://github.com/unocss/unocss), un moteur de css *atomique* inspiré de Windi CSS, Tailwind and Twind. Lire [Reimagine Atomic CSS (en)](https://antfu.me/posts/reimagine-atomic-css) pour comprendre les enjeux et l'approche
 
 #### Tailwind CSS
 
@@ -501,6 +505,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Front-end checklist](https://frontendchecklist.io/)
 - [unused-css](https://unused-css.com/), détecte le CSS non utilisé sur une page web
 - [Checklist Design](https://www.checklist.design/), une collection des meilleurs pratiques de design. Pour chaque composant, cochez une à une les cases d'un checklist pour voir si vous n'avez rien oublié (page login, page 404, flot de paiement, logo etc... )
+- [faviconcheck](https://faviconcheck.30apps.me/), vérifier comment rend vos favicons sur différents os, navigateurs ou thèmes
 
 
 #### Combien pèse ma page ?
@@ -720,7 +725,8 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
 - [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
 - [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
-
+- [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
+- [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
 ## Mots de passe
 
 ### Gestionnaire de mots de passe
@@ -1147,6 +1153,7 @@ A venir...
 - [Java at 20: How it changed programming forever](https://www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html), un article de Elliote Rusty Harold qui revient sur les apports de Java a l'occasion de ses 20 ans d'existence
 - [Rust for the Brave and True (en)](https://dev.to/gruberb/rust-for-the-brave-and-true-4766), un article qui décrit un chemin d'apprentissage de Rust avec une envie de se créer un environnement sans distraction, proche de la machine
 
+
 ## Papiers
 
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans la construction de systèmes d'information
@@ -1242,6 +1249,15 @@ A venir...
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
 
 
+## Fondamentaux, radical
+
+- [suckless](http://suckless.org/philosophy/)
+- [POSSE](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité
+ - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente 
+- [The Duct Tape Programmer (en)](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), article
+- [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
+- [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
+
 ## Flux RSS
 
 Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
@@ -1280,12 +1296,16 @@ Des conseils à la volée
 - faire un peu de sport ça fait toujours du bien. Même si on en fait pas beaucoup, au moins se créer une habitude. Par exemple "Le mercredi à 17h je vais à la piscine, c'est non négociable, même si je nage 5min". Le fait d'y aller, qu'on ai envie ou pas, déjà c'est une victoire et le début d'habitudes saines pour vivre plus longtemps
 - [faire attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
 
+## *Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"
+
+- [instructables](https://www.instructables.com/), explorer, documenter et partager vos créations artisanales
+
+
+
 ## Inclassables
 
 - [readme](https://readme.so/fr), créer un readme de manière simple
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
-- [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente
-- [POSSE](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité
 
 
 ## Contenu, écriture
