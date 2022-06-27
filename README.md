@@ -210,6 +210,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Inclassables](#inclassables)
+	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Contenu, écriture](#contenu-écriture)
 		- [Copywriting](#copywriting)
 	- [Réseaux sociaux / communication](#réseaux-sociaux--communication)
@@ -1300,13 +1301,14 @@ Des conseils à la volée
 
 - [instructables](https://www.instructables.com/), explorer, documenter et partager vos créations artisanales
 
-
-
 ## Inclassables
 
 - [readme](https://readme.so/fr), créer un readme de manière simple
-- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de Pathfinding. Chaque article est blindé de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
+
+## Géométrie, art génératif, algorithmes, procédural
+
+- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
 ## Contenu, écriture
 
@@ -1333,7 +1335,8 @@ Des conseils à la volée
 - [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
 - [web fundamentals](https://developers.google.com/web/fundamentals), les références de Google pour faire du bon web
 - [design resources for developer](https://github.com/bradtraversy/design-resources-for-developers)
-  
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit), une liste de sites web utiles aux programmeu·r·ses
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
