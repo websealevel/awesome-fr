@@ -249,29 +249,25 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 Templates HTML5/CSS3 à télécharger, utiliser, modifier
 
-- [btemplates](https://btemplates.com/), des templates old school de blog pour Blogger a la base
-- [html5webtemplates](https://www.html5webtemplates.co.uk/templates)
-- [htmlrev](https://htmlrev.com/)
-- [html5up](https://html5up.net/)
-- [templated](https://templated.live/)
-- [templatemo](https://templatemo.com/)
+- [btemplates.com](https://btemplates.com/), des templates old school de blog pour Blogger a la base
+- [html5webtemplates.co](https://www.html5webtemplates.co.uk/templates)
+- [htmlrev.com](https://htmlrev.com/)
+- [html5up.et](https://html5up.net/)
+- [templated.live](https://templated.live/)
+- [templatemo.com](https://templatemo.com/)
 - [zerotheme.com](https://www.zerotheme.com/)
-- [html5xcss3](https://www.html5xcss3.com/megakit-free-bootstrap-template.html)
-- [dopeui](https://dopeui.co/), télécharger des templates UI de grande qualité pour Figma
-- [uideck](https://uideck.com/)
-- [toolplate](https://www.tooplate.com/)
-- [colorlib](https://colorlib.com/wp/templates/)
-- [cruip](https://cruip.com/free-templates/)
-- [templateMO](https://templatemo.com/)
-- [styleshout](https://www.styleshout.com/free-templates/)
-- freehtml5.com
-- free-css.com
-- mobirise.com
-- nicepage.com
-- mashup-templates.com
-- html5-template.com
-- w3layouts.com
-- graygrids.com
+- [html5xcss3.com](https://www.html5xcss3.com/megakit-free-bootstrap-template.html)
+- [dopeui.co](https://dopeui.co/), télécharger des templates UI de grande qualité pour Figma
+- [uideck.com](https://uideck.com/)
+- [toolplate.com](https://www.tooplate.com/)
+- [colorlib.com](https://colorlib.com/wp/templates/)
+- [cruip.com](https://cruip.com/free-templates/)
+- [templateMO.com](https://templatemo.com/)
+- [styleshout.com](https://www.styleshout.com/free-templates/)
+- [freehtml5.co](https://freehtml5.co/)
+- [free-css.com](https://www.free-css.com/)
+- [mashup-template.com](http://www.mashup-template.com/templates.html)
+- [html5-templates.com](https://html5-templates.com/)
   
 ### Typographies/Fonts
 
