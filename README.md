@@ -122,6 +122,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
 	- [Logiciels open-source](#logiciels-open-source)
 	- [Standards](#standards)
+		- [HTML](#html)
+			- [Éléments HTML5 pour une meilleure sémantique](#éléments-html5-pour-une-meilleure-sémantique)
 		- [XML](#xml)
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
@@ -802,6 +804,13 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
 
 ## Standards
+
+
+### HTML
+
+#### Éléments HTML5 pour une meilleure sémantique
+
+- [dfn](https://developer.mozilla.org/fr/docs/Web/HTML/Element/dfn), élément de définition
 
 ### XML
 
