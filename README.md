@@ -133,7 +133,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Suivi de projets](#suivi-de-projets)
 	- [Dessin](#dessin)
 	- [Formulaires](#formulaires)
-	- [Monétiser son travail](#monétiser-son-travail)
+	- [Monétiser son travail (revenus passifs)](#monétiser-son-travail-revenus-passifs)
 	- [Bases de données](#bases-de-données)
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Perl](#perl)
@@ -865,10 +865,16 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [tally](https://tally.so/), créer des formulaires via un éditeur similaire à Google Docs, et intégrez les à votre site ou envoyez directement le lien du formulaire pour commencer à collecter les réponses. Le moyen gratuit le plus simple pour faire et se servir de formulaires en ligne
 
-## Monétiser son travail
+## Monétiser son travail (revenus passifs)
 
-- [gumroad](https://gumroad.com/), un site très stylé pour vendre son travail digital (post, tutos, cours, livre, plans, artwork...)
-
+- [gumroad](https://gumroad.com/), un site pour vendre son travail digital (post, tutos, cours, livre, plans, artwork...)
+- [themeforest.net](https://themeforest.net/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+- [monsterone.com](https://monsterone.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+- [codester.com](https://www.codester.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+- [creativemarket.com](https://creativemarket.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+- [designhill.com](https://www.designhill.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+- [templatemonster.com](https://www.templatemonster.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+- [mojomarketplace.com](https://www.mojomarketplace.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
 
 ## Bases de données
 
