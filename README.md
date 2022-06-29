@@ -107,7 +107,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
 	- [Hébergement gratuit](#hébergement-gratuit)
-	- [Blogs](#blogs)
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
@@ -119,7 +118,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Simulateur de terminal](#simulateur-de-terminal)
 		- [Design](#design)
 	- [Outils Newsletter](#outils-newsletter)
-	- [Outils *no-code ou low-code*](#outils-no-code-ou-low-code)
+	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Logiciels open-source](#logiciels-open-source)
 	- [Standards](#standards)
 		- [HTML](#html)
@@ -192,20 +191,21 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Public adulte](#public-adulte)
 	- [Articles](#articles-1)
 	- [Papiers](#papiers)
+	- [Blogs](#blogs)
+	- [Flux RSS](#flux-rss)
 	- [Podcasts](#podcasts)
 	- [Vidéo](#vidéo)
 		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
+		- [Chaînes YouTube](#chaînes-youtube)
+		- [Playlists](#playlists)
 		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
 		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
 			- [PHP](#php-1)
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
-		- [Chaînes YouTube](#chaînes-youtube)
-		- [Playlists](#playlists)
 	- [Fondamentaux, radical](#fondamentaux-radical)
-	- [Flux RSS](#flux-rss)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Rester informé](#rester-informé)
 	- [Newsletters](#newsletters)
@@ -215,9 +215,10 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Contenu, écriture](#contenu-écriture)
 		- [Copywriting](#copywriting)
-	- [Réseaux sociaux / communication](#réseaux-sociaux--communication)
 		- [Screenshots / mockup](#screenshots--mockup)
 		- [Twitter](#twitter)
+	- [Trouver du boulot](#trouver-du-boulot)
+		- [A distance (*remote*)](#a-distance-remote)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
 		- [Général](#général-1)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
@@ -237,8 +238,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Inclassables](#inclassables-1)
 		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
-	- [Trouver du boulot](#trouver-du-boulot)
-		- [A distance (*remote*)](#a-distance-remote)
 
 ## Frontend
 
@@ -727,18 +726,9 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [Free web hosting](https://www.infinityfree.net/), héberger vos sites webs **PHP,MySQL** (ou HTML) hébergé gratuitement et sans pub. Pas de limites de sites, nom de domaine gratuit ou ajouter le votre. 5GB d'espace libre, bande passante illimitée, SSL gratuit
 - [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
 
-## Blogs
 
-- [ibenic (en)](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
 
-- [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
-- [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
-- [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
-- [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
-- [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
-- [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
-- [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
-- [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
+
 ## Mots de passe
 
 ### Gestionnaire de mots de passe
@@ -787,7 +777,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 -[buttondown](https://buttondown.email/), une appli web pour gérer simplement vos newsletters. Et le contenu peut être écrit en Markdown
 
-## Outils *no-code ou low-code*
+## Outils *visual code* (*no-code* ou *low-code*)
 
 Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose. Mais on en aura toujours besoin quand même.
 
@@ -818,19 +808,21 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 
 Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des documents robustes, échangeables et faciles à maintenir (lire et écrire) dans le temps. Contrairement aux idées reçues, il n'est pas *mort* et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. Loin de là...
 
-XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est né en 1998 du standard SGML (qui a donné l'application HTML, un simple sous-ensemble du standard SGML). Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
+XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est né en 1998 du standard SGML (qui a donné l'*application HTML*, un sous-ensemble du standard SGML, plus simple et plus permissif adapté au web). 
+
+Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
 
 Les développeurs s'en sont emparés ensuite pour faire du maintien d'enregistrement pour leurs applications, ce qui n'avait pas été envisagé dans sa conception initiale. 
 
-Il dispose d'une structure de données en arbre et surtout, se trouve accompagné d'autres standards comme
+XML s'accompagne d'autres standards comme
 
 - [XPath](http://www.xmlfacile.com/guide_xml/xpath_1.php5), un standard qui permet de requêter la structure XML pour naviguer dans la structure de données et la manipuler
 - [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un *langage déclaratif* (le pied) comme le SQL
-- [XSLT](https://www.w3schools.com/xml/xml_xslt.asp), standard plus avancé que le CSS pour styliser les données XML et les présenter. Permet également de modifier l'affichage d'éléments, de les réorganiser etc...
+- [XSL](https://www.w3schools.com/xml/xml_xslt.asp), standard plus avancé que le CSS pour mettre en forme les données XML pour la publication (vers un autre fichier XML, le web, le papier, etc.). Permet également de modifier l'affichage d'éléments, de les réorganiser etc...
 - [DTD](https://www.w3schools.com/xml/xml_dtd.asp), pour la validation des données par un schéma
 - et d'autres encore...
 
-Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*, ou de produire des documents indépendemment de leurs usages (web, présentation, impression papier etc...).
+Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*, ou de produire des documents indépendemment de leurs usages (web, présentation, impression papier, etc.).
 
 #### Apprendre le XML et ses standards associés
 
@@ -1185,6 +1177,25 @@ A venir...
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans la construction de systèmes d'information
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 
+## Blogs
+
+- [ibenic (en)](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
+
+- [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
+- [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
+- [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
+- [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
+- [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
+- [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
+- [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
+- [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
+
+## Flux RSS
+
+Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
+
+- [Kev Quirk (en)](https://kevq.uk/feed)
+- [tiny projects (en)](https://tinyprojects.dev/feed.xml)
 
 ## Podcasts
 
@@ -1195,7 +1206,6 @@ A venir...
 - [Web: et 1, et 2, et 3.0 (fr)](https://www.franceculture.fr/emissions/la-methode-scientifique/web-et-1-et-2-et-3-0), on apprécie toujours les titres idiots de la méthode scientifique sur france culture. Podcast très intéressant sur l'histoire du web jusqu'au web 3.0. L'invité [Benjamin Bayart](https://fr.wikipedia.org/wiki/Benjamin_Bayart), cofondateur de la Quadrature du Net, en plus d'être hyper intéressant a un sens de l'humour qu'on appréciera.
 - [IFTTD (fr)](https://ifttd.io/listes-des-episodes/), un podcast de dev. Parle régulièrement d'outils no-code
 - [The freelancer podcast (en)](https://studywebdevelopment.com/podcast.html), podcast qui traitent de sujets qui intéresseront les développeurs/designer freelance
-
 
 ## Vidéo
 
@@ -1240,23 +1250,6 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
 - [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
 
-### Computer graphics et art génératif
-
-- [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
-- [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
-
-### Programmation fonctionnelle
-
-A venir...
-
-#### PHP
-
-- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
-
-### Créativité, modèles mentaux
-
-- [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
-
 ### Chaînes YouTube
 
 - [Krazam (en)](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
@@ -1275,6 +1268,22 @@ A venir...
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
 
+### Computer graphics et art génératif
+
+- [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
+- [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
+
+### Programmation fonctionnelle
+
+A venir...
+
+#### PHP
+
+- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
+
+### Créativité, modèles mentaux
+
+- [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
 ## Fondamentaux, radical
 
@@ -1285,12 +1294,7 @@ A venir...
 - [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
 
-## Flux RSS
 
-Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
-
-- [Kev Quirk (en)](https://kevq.uk/feed)
-- [tiny projects (en)](https://tinyprojects.dev/feed.xml)
 
 ## Contribuer à des projets open-source
 
@@ -1338,9 +1342,10 @@ Des conseils à la volée
 
 ## Contenu, écriture
 
+A venir...
+
 ### Copywriting
 
-## Réseaux sociaux / communication
 
 ### Screenshots / mockup
 
@@ -1351,6 +1356,15 @@ Des conseils à la volée
 - [Twemex](https://twemex.app/), extension du navigateur pour faire remonter à la surface davantage de contenus pertinents sur Twitter
 - [followerwonk](https://followerwonk.com/join-pro), monitorer quand vos abonnés sont actifs pour un meilleur engagement
 
+## Trouver du boulot
+
+### A distance (*remote*)
+
+- [AngelListTalent](https://angel.co/)
+- [REMOTE.CO](https://remote.co/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [flexjobs](https://www.flexjobs.com/)
+- [authentic jobs](https://authenticjobs.com/)
 
 ## Banques de ressources et dépôts
 
@@ -1423,7 +1437,6 @@ Des conseils à la volée
 
 ### Apprendre
 
-
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
 
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
@@ -1469,12 +1482,3 @@ Certaines villes ont peut être encore la chance d'avoir des *Librairies médica
 
 Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement [dès qu'on s'éloigne de la capitale](https://www.chienlit.com/librairies-paris-litterature-informatique/)...
 
-## Trouver du boulot
-
-### A distance (*remote*)
-
-- [AngelListTalent](https://angel.co/)
-- [REMOTE.CO](https://remote.co/)
-- [We Work Remotely](https://weworkremotely.com/)
-- [flexjobs](https://www.flexjobs.com/)
-- [authentic jobs](https://authenticjobs.com/)
