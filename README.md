@@ -1,6 +1,6 @@
 # Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es
 
-== We're Using GitHub Under Protest ==
+## We're Using GitHub Under Protest
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
@@ -20,8 +20,6 @@ using GitHub directly.
 Any use of this project's code by GitHub Copilot, past or present, is done
 without our permission.  We do not consent to GitHub's use of this project's
 code in Copilot.
-
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
 
 
 ## En quelques mots
@@ -62,6 +60,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 ## Table des matières
 - [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-bidouilleureuses-et-autres-intéressées)
+	- [We're Using GitHub Under Protest](#were-using-github-under-protest)
 	- [En quelques mots](#en-quelques-mots)
 	- [Des limites de la francophonie](#des-limites-de-la-francophonie)
 	- [Conseils d'utilisation](#conseils-dutilisation)
