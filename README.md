@@ -104,7 +104,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Accessibilité](#accessibilité)
 		- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
-	- [Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?](#comme-évaluer-la-santé-dun-dépôtbibliothèque-avant-dy-lier-son-projet-pour-le-meilleur-et-pour-le-pire-)
+	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
 	- [Édition image/vidéo](#édition-imagevidéo)
 	- [Se former à](#se-former-à)
 		- [git](#git)
@@ -567,7 +567,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 - [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 
-## Comme évaluer la santé d'un dépôt/bibliothèque avant d'y lier son projet pour le meilleur et pour le pire ?
+## Comme évaluer la *santé* d'un dépôt ?
 
 Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
 
