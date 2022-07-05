@@ -1,6 +1,6 @@
 # Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es
 
-## We're Using GitHub Under Protest
+## *We're Using GitHub Under Protest*
 
 *Pour en savoir plus [rendez-vous à cette section](#quitter-github)*.
 
@@ -63,7 +63,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 ## Table des matières
 - [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-bidouilleureuses-et-autres-intéressées)
-	- [We're Using GitHub Under Protest](#were-using-github-under-protest)
+	- [*We're Using GitHub Under Protest*](#were-using-github-under-protest)
 	- [En quelques mots](#en-quelques-mots)
 	- [Des limites de la francophonie](#des-limites-de-la-francophonie)
 	- [Conseils d'utilisation](#conseils-dutilisation)
