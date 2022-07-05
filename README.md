@@ -2,6 +2,8 @@
 
 ## We're Using GitHub Under Protest
 
+Pour en savoir plus [rendez-vous à cette section](#quitter-github).
+
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS).  We are deeply concerned about using a proprietary system like GitHub
