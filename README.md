@@ -21,6 +21,7 @@ Any use of this project's code by GitHub Copilot, past or present, is done
 without our permission.  We do not consent to GitHub's use of this project's
 code in Copilot.
 
+<img src="https://sfconservancy.org/img/GiveUpGitHub.png" alt="Logo of the GiveUpGitHub campaign)" width="600"/>
 
 ## En quelques mots
 Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** plutôt orientés web (en tout cas initialement). 
