@@ -161,11 +161,14 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Dessin](#dessin)
 	- [Formulaires](#formulaires)
 	- [Monétiser son travail (revenus passifs)](#monétiser-son-travail-revenus-passifs)
+		- [Général](#général)
+		- [Vendre des templates](#vendre-des-templates)
+		- [Vendre des articles](#vendre-des-articles)
 	- [Bases de données](#bases-de-données)
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Perl](#perl)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
-		- [Général](#général)
+		- [Général](#général-1)
 		- [Haskell](#haskell)
 		- [Clojure](#clojure)
 		- [Elm](#elm)
@@ -246,7 +249,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Trouver du boulot](#trouver-du-boulot)
 		- [A distance (*remote*)](#a-distance-remote)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
-		- [Général](#général-1)
+		- [Général](#général-2)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
@@ -263,6 +266,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [API](#api)
 		- [Inclassables](#inclassables-1)
 		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
+		- [Vendre](#vendre)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
 ## Frontend
@@ -921,7 +925,12 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ## Monétiser son travail (revenus passifs)
 
+### Général
+
 - [gumroad](https://gumroad.com/), un site pour vendre son travail digital (post, tutos, cours, livre, plans, artwork...)
+
+### Vendre des templates
+
 - [themeforest.net](https://themeforest.net/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
 - [monsterone.com](https://monsterone.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
 - [codester.com](https://www.codester.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
@@ -929,6 +938,21 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [designhill.com](https://www.designhill.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
 - [templatemonster.com](https://www.templatemonster.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
 - [mojomarketplace.com](https://www.mojomarketplace.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+
+### Vendre des articles
+
+- [digitalocean](https://www.digitalocean.com/community/pages/write-for-digitalocean), proposer des articles sur l'administration et l'écosystème linux, Docker ou la sécurité informatique. Seuls des articles portant sur des logiciels open-source sont acceptés. En voici une liste non exhaustive, pour en voir davantage [rendez-vous sur ce dépôt](https://github.com/malgamves/CommunityWriterPrograms).
+- [SMASHING MAGAZINE](https://www.smashingmagazine.com/write-for-us/)
+- [testdrivenio](https://testdriven.io/blog/), sur les tests, l'optimisation et la mise à l'échelle de systèmes
+- [auth0](https://auth0.com/apollo-program), sujets acceptés: identité/sécurité, mobile (natif et cross platform), python, Electron, Java, .Net
+- [tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm), sur les technos de l'information, la qualité, les technos webs, big data, sujets académiques, etc.
+- [envatotuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034)
+- [Guest Writer Program](https://circleci.com/blog/guest-writer-program/)
+- [draft.dev](https://draft.dev/write)
+- [honeybadger](https://www.honeybadger.io/blog/write-for-us/), php, ruby, python
+- [linode](https://www.linode.com/lp/write-for-linode/)
+
+
 
 ## Bases de données
 
@@ -1536,6 +1560,11 @@ A venir...
 - [des livres](https://drive.google.com/drive/folders/1g-fs7vr3_2pGw5sevD_eutVuskKLFMz7?usp=sharing), des livres sur la programmation/informatique, le dessin, des motifs géométriques, mathématiques
 
 - [livres gratuits pour les designers](https://www.lapa.ninja/book/)
+
+
+### Vendre
+
+- [CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms), une liste de sites/éditeurs à qui vous pouvez soumettre des articles techniques contre rémunération
 
 ## Trouver des livres techniques d'occasion pas cher
 
