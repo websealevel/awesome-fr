@@ -1,6 +1,8 @@
 # Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es
 
 
+
+
 ## En quelques mots
 Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** plutôt orientés web (en tout cas initialement). 
 
@@ -119,6 +121,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Design](#design)
 	- [Outils Newsletter](#outils-newsletter)
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
+	- [Quitter Github](#quitter-github)
 	- [Logiciels open-source](#logiciels-open-source)
 	- [Standards](#standards)
 		- [HTML](#html)
@@ -785,6 +788,25 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 - [carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
 - [loom](https://www.loom.com/),enregistrer rapidement des vidéos via la webcam et partagez le lien facilement
 - [zapier](https://zapier.com/), automatiser ses tâches sur toutes les web apps
+
+## Quitter Github
+
+Le 29 Juin 2022, le *software freedom conservancy* [a publié un article incitant à abandonner GitHub](https://sfconservancy.org/GiveUpGitHub/) pour se tourner vers des plateformes d'hébèrgement de codebase plus respectueuses de l'open-source et des utilisateurs.
+
+L'article mentionne les raisons très claires de cette initiative et alerte sur la dérive du logiciel propriétaire GitHub. GitHub a porté un coup de grâce [en monétisant l'outil copilot entraîné sur les dépôts des utilisateurs sous licence libre (mais non sur les codebases de Windows)](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/) et en laissant lettre morte les revendications et questions adressées par la communauté.
+
+**Souscrivant à la vision et aux arguments du *software freedom conservancy*, cette liste sera migrée prochainement vers une autre plateforme.**
+
+Des alternatives existent et vont se créer. Voici une liste de plateformes alternatives
+
+- [codeberg](https://sourcehut.org)
+- [sourcehut](https://sourcehut.org)
+
+Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire de projets à l'aide de ces outils
+
+- [gitea](https://gitea.io/en-us/)
+- [sourcehut](https://sourcehut.org)
+
 
 ## Logiciels open-source
 
