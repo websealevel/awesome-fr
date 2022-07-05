@@ -75,7 +75,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
-		- [Courbes de Bézier](#courbes-de-bézier)
 		- [Pack d'icones/favicons](#pack-diconesfavicons)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
@@ -87,6 +86,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Extraits de code sur étagère](#extraits-de-code-sur-étagère)
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / *layouts*](#générateur-de-mise-en-page--layouts)
+		- [Courbes de Bézier](#courbes-de-bézier)
 		- [JS](#js)
 		- [Backgrounds](#backgrounds)
 		- [Pixel art](#pixel-art)
@@ -324,10 +324,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [colorpalettes](https://colorpalettes.colorion.co/), des palettes de couleurs séléctionnées par [Csaba Kissi](https://www.csabakissi.com/) 
 - [data color picker : palette generator](https://learnui.design/tools/data-color-picker.html)
 - [huetone](https://huetone.ardov.me/), des palettes de couleurs, avec une attention apportée à l'[accessibilité](#accessibilité)
-
-### Courbes de Bézier
-
-- [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+- [colorspectrum](https://colorspectrum.design/generator.html)
 
 ### Pack d'icones/favicons
 
@@ -340,6 +337,8 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [phosphor icons](https://phosphoricons.com/)
 - [tabler icons](https://tabler-icons.io/)
 - [vertex](https://vertex.im/), icones 3D customisables
+- [icons8](https://icons8.com/)
+- [pixelarticons](https://pixelarticons.com/), des icones en pixelart
 
 ### Images: photos, illustrations, svg
 
@@ -369,6 +368,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
 - [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement les selecteurs de balise HTML et qui pèse 4.8kb
 - [houdini.how](https://houdini.how/)
+- [hover.css](http://ianlunn.github.io/Hover/), collection d'effet *hover* CSS
 
 ### Générateur de formes au format SVG
 
@@ -380,6 +380,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 ### Motifs
 
 - [patternify](http://www.patternify.com/), générateur de motifs CSS
+- 
 
 ### Animations CSS (keyframes API) ou JS
 
@@ -424,6 +425,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [ui gradients](uigradients.com)
 - [grabient](https://www.grabient.com/)
 - [easing-gradients](https://larsenwork.com/easing-gradients/)
+- [grainy gradients playground](https://t.co/MtQzCPpwr5), des gradients pointillistes
 
 ### Générateur de mise en page / *layouts*
 
@@ -431,6 +433,10 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [layout generator](https://grid.layoutit.com/)
 - [flexbox builder](https://flexbox.webflow.com/)
 
+
+### Courbes de Bézier
+
+- [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### JS
 
@@ -547,6 +553,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 #### Accessibilité
 
+- [Premiers pas pour rendre un site Web accessible](https://www.w3.org/WAI/gettingstarted/Overview), une liste de tutoriels de la W3C pour rendre votre site web plus accessible
+- [Design and Develop Overview ](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
 
 
@@ -1492,6 +1500,13 @@ A venir...
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
 
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
+
+- [professional-programming](https://github.com/charlax/professional-programming), collection de ressources pour apprendre sur tout un tas de sujets liés aux webs
+
+- [system-design-primer](https://github.com/donnemartin/system-design-primer), apprendre comment designer des grands systèmes d'information
+- [awesome-guidelines](https://github.com/Kristories/awesome-guidelines), les standards d'écriture adapotés par chaque communauté (langage/techno)
+
+-[app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
 
 ### API
 
