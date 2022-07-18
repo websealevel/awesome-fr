@@ -1057,7 +1057,7 @@ Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et
 
 ### `sloccount`
 
-- un outil open-source pour estimer le nombre de lignes de codes d'un projet. Intègre des modèles pour estimer le coût de la codebase (jours-hommes, argent, etc.). Développé par [David A. Wheeler](https://dwheeler.com/)
+- [un outil open-source](https://dwheeler.com/sloccount/) pour estimer le nombre de lignes de codes d'un projet. Intègre des modèles pour estimer le coût de la codebase (jours-hommes, argent, etc.). Développé par [David A. Wheeler](https://dwheeler.com/)
 
 ## Manipulation de fichiers, documents
 
