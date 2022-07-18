@@ -1032,7 +1032,7 @@ Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et
 
 ## Présentations / Slides
 
-Utilisez le pouvoir du *Markdown*, *revealjs* et *reveal-md* pour faire vos présentations.
+- [marp](https://marp.app/), créer ses diapos dans un écosystème full markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en pdf ou HTML, ou inversement.
 
 - [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
 - [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
