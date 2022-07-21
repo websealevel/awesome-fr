@@ -852,7 +852,6 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 
 ## Standards
 
-
 ### HTML
 
 #### Éléments HTML5 pour une meilleure sémantique
@@ -1033,7 +1032,6 @@ Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et
 ## Présentations / Slides
 
 - [marp](https://marp.app/), créer ses diapos dans un écosystème full markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en pdf ou HTML, ou inversement.
-
 - [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
 - [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
 - [un workflow complet à suivre pas à pas](https://github.com/websealevel/presentations), un dépôt qui reprend l'article précédent.
@@ -1046,8 +1044,10 @@ Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et
 
 ## Éditeurs de texte
 
+- [emacs](https://www.gnu.org/software/emacs/), le projet open-source le plus célèbre après Linux. Faut-il encore le présenter ? Bonne alternative à Vim si vous n'aimez pas les *modes*.
 - [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
 - [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
+- [ghostwriter](https://wereturtle.github.io/ghostwriter/index.html), un éditeur markdown open-source *distraction-free*, très agréable, minimaliste et configurable.
 
 ## Boîte à outils
 
@@ -1375,8 +1375,6 @@ A venir...
 - [The Duct Tape Programmer (en)](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), article
 - [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
-
-
 
 ## Contribuer à des projets open-source
 
