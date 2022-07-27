@@ -390,7 +390,6 @@ Quelques lectures sur des aspects techniques de la typographie:
 ### Motifs
 
 - [patternify](http://www.patternify.com/), générateur de motifs CSS
-- 
 
 ### Animations CSS (keyframes API) ou JS
 
