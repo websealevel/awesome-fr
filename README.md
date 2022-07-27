@@ -840,7 +840,7 @@ L'article mentionne les raisons très claires de cette initiative et alerte sur 
 
 Des alternatives existent et vont se créer. Voici une liste de plateformes alternatives
 
-- [codeberg](https://sourcehut.org)
+- [codeberg](https://codeberg.org/)
 - [sourcehut](https://sourcehut.org)
 
 Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire de projets à l'aide de ces outils
