@@ -176,8 +176,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Rich Hickey](#rich-hickey)
 	- [Défis](#défis)
 	- [Markdown](#markdown)
-	- [Supersets, frameworks](#supersets-frameworks)
-	- [Présentations / Slides](#présentations--slides)
+		- [Supersets, frameworks](#supersets-frameworks)
+		- [Présentations, diapos](#présentations-diapos)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Boîte à outils](#boîte-à-outils)
@@ -1036,14 +1036,14 @@ Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et
 
 Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien au mental.
 
-## Supersets, frameworks
+### Supersets, frameworks
 
 Markdown est un standard *extensible*, et se fond très bien dans de nombreux écosystèmes. Aussi, des supersets Markdown ont été crées ainsi que des frameworks
 
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
 
-## Présentations / Slides
+### Présentations, diapos
 
 - [marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [marpit](https://marpit.marp.app/), 
 - [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
