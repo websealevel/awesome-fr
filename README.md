@@ -254,6 +254,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Conférences](#conférences)
+		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
 		- [Spécifique à une techno](#spécifique-à-une-techno)
 			- [PHP](#php-2)
 			- [JS](#js-2)
@@ -1486,6 +1487,10 @@ A venir...
 ### Conférences
 
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
+
+### Revues et magazines informatiques
+
+- [magazines abandonware](https://abandonware-magazines.org/), bibliothèque numérique consacrée aux anciens magazines informatiques. Découvrir ou redécouvrir des numéros complets d'anciens titres informatiques francophones
 
 ### Spécifique à une techno
 
