@@ -90,7 +90,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [JS](#js)
 		- [Backgrounds](#backgrounds)
 		- [Pixel art](#pixel-art)
-		- [Agrégateurs de design](#agrégateurs-de-design)
+		- [Agrégateurs de design, inspiration](#agrégateurs-de-design-inspiration)
 		- [Composants](#composants)
 		- [UI/UX](#uiux)
 		- [Sitemap](#sitemap)
@@ -102,6 +102,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Est-ce-que j'ai oublié un truc ?](#est-ce-que-jai-oublié-un-truc-)
 			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
 			- [Accessibilité](#accessibilité)
+		- [Perfs et config](#perfs-et-config)
 		- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
@@ -344,11 +345,11 @@ Quelques lectures sur des aspects techniques de la typographie:
 - [favicon generator](https://favicon.io/)
 - [icomoon](https://icomoon.io/)
 - [font awesome icons](https://fontawesome.com/v4.7.0/icons/)
-- [tabler-icons](https://tabler-icons.io/)
+- [bootstrap icons](https://icons.getbootstrap.com/), plus de 1600 icones gratuites en SVG ou webfont mis à disposition par [Bootstrap](https://getbootstrap.com/)
+- [Tabler Icons](https://tablericons.com/)
 - [heroicons](https://heroicons.com/)
 - [iconshock](https://www.iconshock.com/)
 - [phosphor icons](https://phosphoricons.com/)
-- [tabler icons](https://tabler-icons.io/)
 - [vertex](https://vertex.im/), icones 3D customisables
 - [icons8](https://icons8.com/)
 - [pixelarticons](https://pixelarticons.com/), des icones en pixelart
@@ -381,7 +382,9 @@ Quelques lectures sur des aspects techniques de la typographie:
 - [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
 - [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement les selecteurs de balise HTML et qui pèse 4.8kb
 - [houdini.how](https://houdini.how/)
+- [haeiki](https://haikei.app/), générer des assets svg
 - [hover.css](http://ianlunn.github.io/Hover/), collection d'effet *hover* CSS
+- [min-max-calculator](https://min-max-calculator.9elements.com/), creer des mise à l'échelle de votre font en fonction de la taille du displayport
 
 ### Générateur de formes au format SVG
 
@@ -472,7 +475,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [pixel art to css](https://t.co/6eyHLm8PUE)
 
 
-### Agrégateurs de design
+### Agrégateurs de design, inspiration
 
 - votre vie
 - les affiches dans la rue
@@ -495,6 +498,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [admiretheweb](https://www.admiretheweb.com/)
 - [lapa.ninja](https://t.co/PDsqFU39on), templates de landind pages, accès à des livres gratuits pour les designers
 - [landing-page-examples](https://www.btw.so/marketing/landing-page-examples)
+- [cssnectar](https://cssnectar.com/), nectar du web design
+- [siteinspire](https://www.siteinspire.com)
 
 ### Composants
 
@@ -569,6 +574,13 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Design and Develop Overview ](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
 
+
+### Perfs et config
+
+- [pingdom](https://tools.pingdom.com), tester le temps de chartement d'une page et obtenir un diagnostic
+- [pingtest](https://tools.keycdn.com/ping), ping un nom de domaine depuis plusieurs positions sur le globe 
+- [whatsmydns.net](https://www.whatsmydns.net/), visualiser la propagation sur les serveurs DNS de votre enregistrement DNS
+- [intodns](https://intodns.com/), vérifier votre config DNS (serveur web, serveur mail,etc.) 
 
 ### Analyse de texte
 
@@ -909,6 +921,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
+- [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
+- [Afup](https://afup.org/home), association française des utilisateurs de PHP
 
 ### JavaScript
 
@@ -1401,6 +1415,7 @@ Par où commencer ? Comment faire ?
 
 - [hacker news](https://news.ycombinator.com/)
 - [daily.dev](https://daily.dev/), créez votre feed d'actualités, posts sur des thématiques qui vous intéressent et suivez des gens qui publient des articles intéressant
+- [Le Journal du Net](https://www.journaldunet.com/)
 
 ## Newsletters
 
@@ -1572,7 +1587,6 @@ A venir...
 - [big-list-of-naughty-string](https://github.com/minimaxir/big-list-of-naughty-strings), un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line), s'améliorer en ligne de commande
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate), un template de départ professionnel pour vos fichiers html
-
 
 ### Lecture : articles, bouquins
 
