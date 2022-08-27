@@ -103,7 +103,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
 			- [Accessibilité](#accessibilité)
 			- [Perfs et config](#perfs-et-config)
-		- [Analyse de texte](#analyse-de-texte)
+			- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
 	- [Édition image/vidéo](#édition-imagevidéo)
@@ -581,7 +581,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [whatsmydns.net](https://www.whatsmydns.net/), visualiser la propagation sur les serveurs DNS de votre enregistrement DNS
 - [intodns](https://intodns.com/), vérifier votre config DNS (serveur web, serveur mail,etc.) 
 
-### Analyse de texte
+#### Analyse de texte
 
 - [word-counter](https://freecodetools.org/word-counter), donne des métriques sur un texte (nombre de mots, caractères, paragraphes etc..)
 
