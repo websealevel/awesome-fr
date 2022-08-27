@@ -240,6 +240,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Rester informé](#rester-informé)
 	- [Newsletters](#newsletters)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
+	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Inclassables](#inclassables)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
@@ -1420,6 +1421,14 @@ Des conseils à la volée
 - quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film, etc.] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrais résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Essayez plutôt "j'arrive dans 5 minutes" et lâchez votre ordi.
 - faire un peu de sport ça fait toujours du bien. Même si on en fait pas beaucoup, au moins se créer une habitude. Par exemple "Le mercredi à 17h je vais à la piscine, c'est non négociable, même si je nage 5min". Le fait d'y aller, qu'on ai envie ou pas, déjà c'est une victoire et le début d'habitudes saines pour vivre plus longtemps
 - [faire attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
+
+
+## Prendre soin de sa machine et de ce qu'il y a dessus au quotidien
+
+- [Lynis](https://cisofy.com/lynis/), outil d'audit open-source pour les systèmes d'exploitation Unix/Linux. Il vous fera un audit complet des vulnérabilités (configuration, binaires, droits et autorisations des utilisateurs, vulnérabilités de l'OS, etc.) de votre machine à partir duquel vous pouvez prendre les mesures nécessaires.
+- [rkhunter](http://rootkit.nl/), outil pour détecter et supprimer les [rootkits](https://fr.wikipedia.org/wiki/Rootkit) (logiciels malveillants donnant un accès non autorisé à un ordinateur de manière furtive) qui pourraient s'être faufilés sur votre machine.
+- [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/), un logiciel anti-malware pour les systèmes Linux.
+- [Bleachbit](https://fr.wikipedia.org/wiki/BleachBit), logiciel open-source gratuit, puissant (il est sorti en 2008 et maintenu depuis), multiplateformes de nettoyage d'espace disque sécurisé, de protection de la vie privée et d'optimisation. Pour prendre soin dans le temps de sa machine.
 
 ## *Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"
 
