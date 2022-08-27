@@ -78,7 +78,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Pack d'icones/favicons](#pack-diconesfavicons)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
-		- [Générateur de formes au format SVG](#générateur-de-formes-au-format-svg)
+		- [Générateur d'assets au format SVG](#générateur-dassets-au-format-svg)
 		- [Motifs](#motifs)
 		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
 		- [Frameworks CSS](#frameworks-css)
@@ -102,7 +102,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Est-ce-que j'ai oublié un truc ?](#est-ce-que-jai-oublié-un-truc-)
 			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
 			- [Accessibilité](#accessibilité)
-		- [Perfs et config](#perfs-et-config)
+			- [Perfs et config](#perfs-et-config)
 		- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
@@ -382,16 +382,16 @@ Quelques lectures sur des aspects techniques de la typographie:
 - [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
 - [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement les selecteurs de balise HTML et qui pèse 4.8kb
 - [houdini.how](https://houdini.how/)
-- [haeiki](https://haikei.app/), générer des assets svg
 - [hover.css](http://ianlunn.github.io/Hover/), collection d'effet *hover* CSS
 - [min-max-calculator](https://min-max-calculator.9elements.com/), creer des mise à l'échelle de votre font en fonction de la taille du displayport
 
-### Générateur de formes au format SVG
+### Générateur d'assets au format SVG
 
 - [getwaves](https://getwaves.io/), faites des vagues
 - [blobmakers](https://www.blobmaker.app/), creer des formes uniques et organiques en svg rapidement
 - [clip path maker](https://bennettfeely.com/clippy/), creer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
+- [haeiki](https://haikei.app/), générer des assets svg
 
 ### Motifs
 
@@ -410,7 +410,6 @@ Expérimenter et créer des animations CSS
 - [haikuanimator](https://www.haikuanimator.com/)
 
 ### Frameworks CSS
-
 
 - [unocss](https://github.com/unocss/unocss), un moteur de css *atomique* inspiré de Windi CSS, Tailwind and Twind. Lire [Reimagine Atomic CSS (en)](https://antfu.me/posts/reimagine-atomic-css) pour comprendre les enjeux et l'approche
 
@@ -575,7 +574,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
 
 
-### Perfs et config
+#### Perfs et config
 
 - [pingdom](https://tools.pingdom.com), tester le temps de chartement d'une page et obtenir un diagnostic
 - [pingtest](https://tools.keycdn.com/ping), ping un nom de domaine depuis plusieurs positions sur le globe 
