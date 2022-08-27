@@ -1428,7 +1428,8 @@ Des conseils à la volée
 - [Lynis](https://cisofy.com/lynis/), outil d'audit open-source pour les systèmes d'exploitation Unix/Linux. Il vous fera un audit complet des vulnérabilités (configuration, binaires, droits et autorisations des utilisateurs, vulnérabilités de l'OS, etc.) de votre machine à partir duquel vous pouvez prendre les mesures nécessaires.
 - [rkhunter](http://rootkit.nl/), outil pour détecter et supprimer les [rootkits](https://fr.wikipedia.org/wiki/Rootkit) (logiciels malveillants donnant un accès non autorisé à un ordinateur de manière furtive) qui pourraient s'être faufilés sur votre machine.
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/), un logiciel anti-malware pour les systèmes Linux.
-- [Bleachbit](https://fr.wikipedia.org/wiki/BleachBit), logiciel open-source gratuit, puissant (il est sorti en 2008 et maintenu depuis), multiplateformes de nettoyage d'espace disque sécurisé, de protection de la vie privée et d'optimisation. Pour prendre soin dans le temps de sa machine.
+- [Bleachbit](https://fr.wikipedia.org/wiki/BleachBit), logiciel open-source gratuit, puissant (il est sorti en 2008 et maintenu depuis), multiplateformes de nettoyage d'espace disque sécurisé, de protection de la vie privée et d'optimisation. Pour prendre soin dans le temps de sa machine. Bleachbit vient avec une interface graphique mais également une interface en ligne de commande pour être utilisé directement depuis vos scritps et workflows.
+- [Stacer](https://github.com/oguzhaninan/Stacer), optimisation et monitoring de votre machine linux, avec une interface graphique sympa
 
 ## *Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"
 
