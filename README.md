@@ -1496,6 +1496,9 @@ A venir...
 - [design resources for developer](https://github.com/bradtraversy/design-resources-for-developers)
 - [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit), une liste de sites web utiles aux programmeu·r·ses
+- [Web Development Resources You Ever Need](https://github.com/iamismile/web-dev-resources), un dépôt maintenant une liste de ressources pour le développement web
+- [Design Resources for developers](https://github.com/bradtraversy/design-resources-for-developers),  un autre dépôt maintenant une liste de ressources pour le design/composants web
+- [Web development resources](https://github.com/MilanAryal/web-development-resources), un autre dépôt maintenant une liste de ressources pour le dev
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
