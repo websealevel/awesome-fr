@@ -167,6 +167,113 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Vendre des articles](#vendre-des-articles)
 	- [Bases de données](#bases-de-données)
 	- [Conception de bases de données](#conception-de-bases-de-données)
+	- [Architecture logicielle](#architecture-logicielle)
+	- [Perl](#perl)
+	- [Programmation fonctionnelle](#programmation-fonctionnelle)
+		- [Général](#général-1)
+		- [Haskell](#haskell)
+		- [Clojure](#clojure)
+		- [Elm](#elm)
+		- [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
+	- [Rich Hickey](#rich-hickey)
+	- [Défis](#défis)
+	- [Markdown](#markdown)
+		- [Supersets, frameworks](#supersets-frameworks)
+		- [Présentations, diapos](#présentations-diapos)
+	- [CV](#cv)
+	- [Éditeurs de texte](#éditeurs-de-texte)
+	- [Boîte à outils](#boîte-à-outils)
+		- [`Sed`](#sed)
+		- [`sloccount`](#sloccount)
+	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
+		- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
+		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
+	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
+	- [Androïd](#androïd)
+	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
+		- [Un mot](#un-mot-1)
+		- [Du bruit au bruit](#du-bruit-au-bruit)
+		- [Rust](#rust)
+		- [Smalltalk](#smalltalk)
+		- [Assembleur](#assembleur)
+		- [Prolog](#prolog)
+		- [Scheme (List dialect)](#scheme-list-dialect)
+		- [Arduino](#arduino)
+	- [Ebooks](#ebooks)
+		- [Classiques](#classiques)
+		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
+		- [Software design](#software-design)
+		- [Architecture de l'information](#architecture-de-linformation)
+		- [Wordpress](#wordpress-1)
+		- [Sécurité des applications webs](#sécurité-des-applications-webs)
+		- [Webmaster](#webmaster)
+		- [HTTP](#http)
+		- [Perl](#perl-1)
+		- [Test driven development](#test-driven-development)
+		- [Programmation CGI](#programmation-cgi)
+		- [Haskell](#haskell-1)
+		- [Rust](#rust-1)
+		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
+		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
+		- [Freelance, conseils pour bien gérer ses affaires depuis chez soi](#freelance-conseils-pour-bien-gérer-ses-affaires-depuis-chez-soi)
+		- [Algorithmes](#algorithmes-1)
+	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
+	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
+		- [Public enfant](#public-enfant)
+		- [Public adulte](#public-adulte)
+	- [Articles](#articles-1)
+	- [Papiers](#papiers)
+	- [Blogs](#blogs)
+	- [Flux RSS](#flux-rss)
+	- [Podcasts](#podcasts)
+	- [Vidéo](#vidéo)
+		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
+		- [La vérité par l'humour](#la-vérité-par-lhumour)
+		- [Génération procédurale](#génération-procédurale)
+		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
+		- [Chaînes YouTube](#chaînes-youtube)
+		- [Playlists](#playlists)
+		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
+		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
+			- [PHP](#php-1)
+		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
+	- [Fondamentaux, radical](#fondamentaux-radical)
+	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
+	- [Rester informé](#rester-informé)
+	- [Newsletters](#newsletters)
+	- [Prendre soin de soi](#prendre-soin-de-soi)
+	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
+	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
+	- [Inclassables](#inclassables)
+	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
+	- [Contenu, écriture](#contenu-écriture)
+		- [Copywriting](#copywriting)
+		- [Screenshots / mockup](#screenshots--mockup)
+		- [Twitter](#twitter)
+	- [Trouver du boulot](#trouver-du-boulot)
+		- [A distance (*remote*)](#a-distance-remote)
+	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
+		- [Général](#général-2)
+		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
+		- [Frontend](#frontend-1)
+		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
+		- [Conférences](#conférences)
+		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
+		- [Spécifique à une techno](#spécifique-à-une-techno)
+			- [PHP](#php-2)
+			- [JS](#js-2)
+			- [Typescript](#typescript)
+			- [Vue.js](#vuejs)
+			- [Node.js](#nodejs)
+		- [Projets open-source](#projets-open-source)
+		- [Design](#design-1)
+		- [Apprendre](#apprendre)
+		- [API](#api)
+		- [Inclassables](#inclassables-1)
+		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
+		- [Vendre](#vendre)
+	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
+
 	- [Perl](#perl)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
 		- [Général](#général-1)
@@ -922,6 +1029,9 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
+- [PHPStan](https://phpstan.org/), un inspecteur de code statique pour trouver des bugs avant l'execution
+- [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), un ensemble de deux scripts pour analyser votre code et corriger automatiquement ses violations de standards. phpcs detecte les violations, tandis que phpcbf les fixe selon le standard configuré
+- [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 
 ### JavaScript
 
@@ -977,12 +1087,18 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ## Bases de données
 
 - [PostegreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
+- [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostegreSQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 
 ## Conception de bases de données
 
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
+
+
+## Architecture logicielle
+
+- [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog)
 
 ## Perl
 
@@ -1532,6 +1648,7 @@ A venir...
 #### PHP
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
+- [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
   
 #### JS
 - [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
