@@ -132,6 +132,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Starter themes](#starter-themes)
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
+	- [Articles sur la pratique de WordPress et son évolution vers le FSE](#articles-sur-la-pratique-de-wordpress-et-son-évolution-vers-le-fse)
 	- [Hébergement gratuit](#hébergement-gratuit)
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
@@ -161,7 +162,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Suivi de projets](#suivi-de-projets)
 	- [Dessin](#dessin)
 	- [Formulaires](#formulaires)
-	- [Monétiser son travail (revenus passifs)](#monétiser-son-travail-revenus-passifs)
+	- [Monétiser son travail](#monétiser-son-travail)
 		- [Général](#général)
 		- [Vendre des templates](#vendre-des-templates)
 		- [Vendre des articles](#vendre-des-articles)
@@ -185,16 +186,17 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Boîte à outils](#boîte-à-outils)
 		- [`Sed`](#sed)
 		- [`sloccount`](#sloccount)
-	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
-		- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
-		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
+		- [`rclone`](#rclone)
+		- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
+			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
+			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
 	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot-1)
 		- [Du bruit au bruit](#du-bruit-au-bruit)
 		- [Rust](#rust)
-		- [Smalltalk](#smalltalk)
+		- [SmallTalk](#smalltalk)
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
 		- [Scheme (List dialect)](#scheme-list-dialect)
@@ -221,10 +223,10 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
+	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [Articles](#articles-1)
 	- [Papiers](#papiers)
 	- [Blogs](#blogs)
-	- [Flux RSS](#flux-rss)
 	- [Podcasts](#podcasts)
 	- [Vidéo](#vidéo)
 		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
@@ -425,6 +427,8 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [fontsinuse](https://fontsinuse.com/), bilbiothèque de typos
 - [fontfabric](https://www.fontfabric.com/font-tester/), tester rapidement ses fonts
 - [FontZone](https://www.fontzone.net/), une archive de fonts téléchargeables et gratuites
+- [fontshare](https://www.fontshare.com/)
+
 
 Quelques lectures sur des aspects techniques de la typographie:
 
@@ -446,6 +450,7 @@ Quelques lectures sur des aspects techniques de la typographie:
 - [data color picker : palette generator](https://learnui.design/tools/data-color-picker.html)
 - [huetone](https://huetone.ardov.me/), des palettes de couleurs, avec une attention apportée à l'[accessibilité](#accessibilité)
 - [colorspectrum](https://colorspectrum.design/generator.html)
+- [randomally](https://randoma11y.com/), générateur de combinaisons de couleurs
 
 ### Pack d'icones/favicons
 
@@ -539,6 +544,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [snipplr](https://snipplr.com/)
 - [web code tools](https://webcode.tools/), des outils clés en mains pour le développement web
 - [code my ui](https://codemyui.com/), inspirations et code snippets pour le web design/ui
+- [cssui](https://www.cssui.dev/), composants interactifs en CSS (sans JS)
 
 
 ### Gradients
@@ -877,6 +883,11 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
 
+## Articles sur la pratique de WordPress et son évolution vers le FSE
+
+- [Testing and Feedback for using block based template parts in classic themes](https://make.wordpress.org/themes/2022/09/12/testing-and-feedback-for-using-block-based-template-parts-in-classic-themes/)
+- [The Imaginary Block-vs-Classic Battle in WordPress](https://masterwp.com/the-imaginary-block-vs-classic-battle-in-wordpress/)
+
 ## Hébergement gratuit
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
@@ -889,8 +900,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
 - [Free web hosting](https://www.infinityfree.net/), héberger vos sites webs **PHP,MySQL** (ou HTML) hébergé gratuitement et sans pub. Pas de limites de sites, nom de domaine gratuit ou ajouter le votre. 5GB d'espace libre, bande passante illimitée, SSL gratuit
 - [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
-
-
 
 
 ## Mots de passe
@@ -936,6 +945,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 ### Design
 
 - [Figma](https://www.figma.com/), on ne le présente plus
+- [PenPot](https://penpot.app/), plateforme open source de design et de prototypage, alternative  à Figma
 
 ## Outils Newsletter
 
@@ -1037,12 +1047,14 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), **le** projet open-source pour développer des cartes interactives et *mobile-friendly*.
-- [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Rigolons haut et fort à l'écoute de ces paroles de béotien. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
+- [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
 
 ## Suivi de projets
 
 - [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
 - [Mattermost](https://mattermost.com/), alternative open source à Trello, outil de workflow, travail collaboratif, suivi de tâches, etc.
+
+
 ## Dessin
 
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
@@ -1053,7 +1065,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [tally](https://tally.so/), créer des formulaires via un éditeur similaire à Google Docs, et intégrez les à votre site ou envoyez directement le lien du formulaire pour commencer à collecter les réponses. Le moyen gratuit le plus simple pour faire et se servir de formulaires en ligne
 
-## Monétiser son travail (revenus passifs)
+## Monétiser son travail
 
 ### Général
 
@@ -1148,6 +1160,7 @@ Apprenez à coder via des défis
 - [Flexbox defense](http://www.flexboxdefense.com/), un tower defense où l'on joue en CSS
 - [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/), un jeu pour apprendre Tailwind CSS
 - [Guess CSS](https://www.guess-css.app/), deviner le HTML/CSS utilisés dans des puzzle games
+- [Tenix](https://tainix.fr/), challenges originaux et corrigés pédagogiques pour découvrir de nouveaux concepts et progresser. PHP, javascript et Python. 
 
 
 ## Markdown
@@ -1203,16 +1216,20 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 - [un outil open-source](https://dwheeler.com/sloccount/) pour estimer le nombre de lignes de codes d'un projet. Intègre des modèles pour estimer le coût de la codebase (jours-hommes, argent, etc.). Développé par [David A. Wheeler](https://dwheeler.com/)
 
-## Manipulation de fichiers, documents
+### `rclone`
+
+- [rclone](https://rclone.org/), *"The Swiss army knife of cloud storage"*, une interface en ligne de commande pour gérer (copier, déplacer, synchroniser) ses fichiers sur les hébergements distants (Dropbox, Google Drive, etc.)
+
+### Manipulation de fichiers, documents
 
 Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.
 
-### Convertir des documents, éditer des pdf
+#### Convertir des documents, éditer des pdf
 
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
 - [ImageMagick](https://imagemagick.org/index.php), L'éditeur d'images par excellence. Exemple, convertir une image en pdf au format A4 `convert input.jpg -page a4 output.pdf`
 - [pdftk (the pdf toolkit)](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): concaténer/découper des pdf. Par exemple `pdftk input1.pdf input2.pdf output.pdf`
-### Compresser, optimiser des documents (images, pdf etc..)
+#### Compresser, optimiser des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
 
@@ -1256,9 +1273,11 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 
 ### Rust
 
-### Smalltalk
+### SmallTalk
 
-- [squeak](https://squeak.org/)
+- [squeak](https://squeak.org/), implémentation open-source de SmallTalk
+- [pharo](https://pharo.org/web/), l'héritier direct de SmallTalk, à la fois langage purement orienté objet et environnement de développement
+- [Byte Magazine (1981)](https://archive.org/details/byte-magazine-1981-08/mode/2up), célèbre édition de Byte Magazine couvrant le langage SmallTalk
 
 ### Assembleur
 
@@ -1385,6 +1404,12 @@ A venir...
 
 ### Public adulte
 
+
+## Ressources pour formateur·trice
+
+- [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
+- [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
+
 ## Articles
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
@@ -1416,12 +1441,7 @@ A venir...
 - [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
 - [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
 
-## Flux RSS
 
-Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. Ils ne sont pas morts, ils sont toujours là. Installer votre gestionnaire de flux RSS favori sur votre navigateur favori et ajoutez-y les liens suivant si vous souhaitez vous y abonner
-
-- [Kev Quirk (en)](https://kevq.uk/feed)
-- [tiny projects (en)](https://tinyprojects.dev/feed.xml)
 
 ## Podcasts
 
@@ -1432,6 +1452,8 @@ Les flux RSS c'est fantastique, la parfaite combinaison de *pull* et de *push*. 
 - [Web: et 1, et 2, et 3.0 (fr)](https://www.franceculture.fr/emissions/la-methode-scientifique/web-et-1-et-2-et-3-0), on apprécie toujours les titres idiots de la méthode scientifique sur france culture. Podcast très intéressant sur l'histoire du web jusqu'au web 3.0. L'invité [Benjamin Bayart](https://fr.wikipedia.org/wiki/Benjamin_Bayart), cofondateur de la Quadrature du Net, en plus d'être hyper intéressant a un sens de l'humour qu'on appréciera.
 - [IFTTD (fr)](https://ifttd.io/listes-des-episodes/), un podcast de dev. Parle régulièrement d'outils no-code
 - [The freelancer podcast (en)](https://studywebdevelopment.com/podcast.html), podcast qui traitent de sujets qui intéresseront les développeurs/designer freelance
+- [L’actualité de la Tech à travers 49 podcasts francophones](https://blog.link-value.fr/actualite-tech-podcasts-9b327345e3af), liste de podcasts web, mobile, ops, etc. francophones
+
 
 ## Vidéo
 
@@ -1493,6 +1515,9 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
+- [Playlist de conférences en informatique](https://www.youtube.com/watch?v=Tb823aqgX_0&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une liste de conférences sur différents sujets en info, maintenue par mes propres soins
+- [DevFest Nantes 2022](https://www.youtube.com/watch?v=rQaEzZIZIRg&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
+- [Forum PHP 2022 (AFUP)](https://www.youtube.com/watch?v=nxs55WKRyQs&list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj)
 
 ### Computer graphics et art génératif
 
@@ -1531,6 +1556,7 @@ Par où commencer ? Comment faire ?
 - [hacker news](https://news.ycombinator.com/)
 - [daily.dev](https://daily.dev/), créez votre feed d'actualités, posts sur des thématiques qui vous intéressent et suivez des gens qui publient des articles intéressant
 - [Le Journal du Net](https://www.journaldunet.com/)
+- [w3techs](https://w3techs.com/), des études sur l'usage des différentes technologies du web
 
 ## Newsletters
 
@@ -1551,7 +1577,7 @@ Des conseils à la volée
 - quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film, etc.] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrais résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Essayez plutôt "j'arrive dans 5 minutes" et lâchez votre ordi.
 - faire un peu de sport ça fait toujours du bien. Même si on en fait pas beaucoup, au moins se créer une habitude. Par exemple "Le mercredi à 17h je vais à la piscine, c'est non négociable, même si je nage 5min". Le fait d'y aller, qu'on ai envie ou pas, déjà c'est une victoire et le début d'habitudes saines pour vivre plus longtemps
 - [faire attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
-
+- [[DevFest Nantes 2022] Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU), une très bonne et courageuse conf/partage d'expérience sur la dépression et le burnout, donnée par Manon Gruaz au DevFest de Nantes 2022.
 
 ## Prendre soin de sa machine et de ce qu'il y a dessus au quotidien
 
@@ -1600,6 +1626,8 @@ A venir...
 - [flexjobs](https://www.flexjobs.com/)
 - [authentic jobs](https://authenticjobs.com/)
 - [homajob](https://homajob.com/)
+- [remoteok](https://remoteok.com/)
+- [remotive](https://remotive.com/)
 
 ## Banques de ressources et dépôts
 
@@ -1630,7 +1658,6 @@ A venir...
 
 
 ### Développement de jeux vidéos
-
 
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
@@ -1720,6 +1747,7 @@ A venir...
 - [des livres](https://drive.google.com/drive/folders/1g-fs7vr3_2pGw5sevD_eutVuskKLFMz7?usp=sharing), des livres sur la programmation/informatique, le dessin, des motifs géométriques, mathématiques
 
 - [livres gratuits pour les designers](https://www.lapa.ninja/book/)
+- [Free books center](http://www.freebookcentre.net/), des liens vers des centaines de livres techniques gratuits
 
 
 ### Vendre
