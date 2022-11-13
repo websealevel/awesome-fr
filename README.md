@@ -241,8 +241,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 	- [Fondamentaux, radical](#fondamentaux-radical)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
-	- [Rester informé](#rester-informé)
-	- [Newsletters](#newsletters)
+	- [Rester informé·e](#rester-informée)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
@@ -1552,18 +1551,13 @@ Par où commencer ? Comment faire ?
 
 - [first timers only](https://www.firsttimersonly.com/), un guide pour rentrer dans la contribution à l'open-source
 
-## Rester informé
+## Rester informé·e
 
 - [hacker news](https://news.ycombinator.com/)
 - [daily.dev](https://daily.dev/), créez votre feed d'actualités, posts sur des thématiques qui vous intéressent et suivez des gens qui publient des articles intéressant
 - [Le Journal du Net](https://www.journaldunet.com/)
 - [w3techs](https://w3techs.com/), des études sur l'usage des différentes technologies du web
 
-## Newsletters
-
-Polluez vos boîtes mails avec du contenu de qualité
-
-A venir...
 
 ## Prendre soin de soi
 
