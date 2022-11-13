@@ -1474,6 +1474,7 @@ A venir...
 - [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38&t=1s), conférence de Rich Harris, le créateur de Svelte sur la réactivité en programmation client. A croire que pour être un génie il faut commencer par s'appeler Rich.
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
+- [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
 
 ### La vérité par l'humour
 
