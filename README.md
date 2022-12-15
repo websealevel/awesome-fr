@@ -223,9 +223,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
-	- [Articles](#articles-1)
-	- [Papiers](#papiers)
-	- [Blogs](#blogs)
+	- [Articles en vrac](#articles-en-vrac)
+	- [Papiers en vrac](#papiers-en-vrac)
+	- [Blogs en vrac](#blogs-en-vrac)
 	- [Podcasts](#podcasts)
 	- [Vidéo](#vidéo)
 		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
@@ -1015,7 +1015,7 @@ A venir...
 
 ### Général
 
-- [ericnormand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet.
+- [Eric Normand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet.
 - [Mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
 
 ### Haskell
@@ -1305,7 +1305,7 @@ A venir...
 - [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
 
-## Articles
+## Articles en vrac
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
@@ -1318,12 +1318,12 @@ A venir...
 - [Rust for the Brave and True (en)](https://dev.to/gruberb/rust-for-the-brave-and-true-4766), un article qui décrit un chemin d'apprentissage de Rust avec une envie de se créer un environnement sans distraction, proche de la machine
 
 
-## Papiers
+## Papiers en vrac
 
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans la construction de systèmes d'information
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 
-## Blogs
+## Blogs en vrac
 
 - [ibenic (en)](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
 
@@ -1400,11 +1400,12 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [ici Amy Plant (fr)](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
 - [The Coding Train (fr)](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
 - [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
+- [AFUP PHP (fr)](https://www.youtube.com/@afupPHP), des tonnes de conférences de la communauté PHP française, beaucoup de conférences vraiment intéressantes et de qualité
 - [GDC France (fr)](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
 - [BastiUI (fr)](https://www.youtube.com/c/BastiUI), Ux Ui Design • Motion • Tuto • Vulgarisation. Ici on parle de Design d'interface sur un ton léger.
 - [DesignerUP (en)](https://www.youtube.com/DesignerUp), améliorez votre savoir-faire en UI/UX et design produit
 - [ParfaitementWeb (fr)](https://www.youtube.com/c/ParfaitementWeb), une chaîne très appréciable qui est *content first*, va a l'essentiel et dont le contenu est de qualité sans chercher à capitaliser sur les tendances et montre un état des lieux honnête du développement web
-- [Galileo51 Galilei (fr)](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français (Physique, tech) (oui c'est la chaine de l'auteur, un peu d'auto promotion mais impartiale et objective)
+- [Galileo51 Galilei (fr)](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français sur la physique ou l'informatique/logiciel (oui c'est la chaine de l'auteur principal, un peu d'auto-promotion mais impartiale et objective)
 
 ### Playlists
 
