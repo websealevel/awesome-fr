@@ -100,14 +100,13 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Check, check, check](#check-check-check)
 			- [Code](#code)
 			- [Est-ce-que j'ai oublié un truc ?](#est-ce-que-jai-oublié-un-truc-)
-			- [Combien pèse ma page ?](#combien-pèse-ma-page-)
 			- [Accessibilité](#accessibilité)
 			- [Perfs et config](#perfs-et-config)
 			- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
 	- [Édition image/vidéo](#édition-imagevidéo)
-	- [Se former à](#se-former-à)
+	- [Environnements d'apprentissage interactifs](#environnements-dapprentissage-interactifs)
 		- [git](#git)
 		- [CSS grid](#css-grid)
 		- [JS](#js-1)
@@ -144,16 +143,17 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Déploiement](#déploiement)
 		- [Simulateur de terminal](#simulateur-de-terminal)
 		- [Design](#design)
-	- [Outils Newsletter](#outils-newsletter)
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels open-source](#logiciels-open-source)
 	- [Standards](#standards)
+		- [Organismes](#organismes)
 		- [HTML](#html)
 			- [Éléments HTML5 pour une meilleure sémantique](#éléments-html5-pour-une-meilleure-sémantique)
 		- [XML](#xml)
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
+		- [Applications XML de prestige](#applications-xml-de-prestige)
 	- [Protocoles](#protocoles)
 		- [SSH](#ssh)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
@@ -161,7 +161,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [JavaScript](#javascript)
 	- [Suivi de projets](#suivi-de-projets)
 	- [Dessin](#dessin)
-	- [Formulaires](#formulaires)
 	- [Monétiser son travail](#monétiser-son-travail)
 		- [Général](#général)
 		- [Vendre des templates](#vendre-des-templates)
@@ -242,112 +241,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Fondamentaux, radical](#fondamentaux-radical)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Rester informé·e](#rester-informée)
-	- [Prendre soin de soi](#prendre-soin-de-soi)
-	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
-	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
-	- [Inclassables](#inclassables)
-	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
-	- [Contenu, écriture](#contenu-écriture)
-		- [Copywriting](#copywriting)
-		- [Screenshots / mockup](#screenshots--mockup)
-		- [Twitter](#twitter)
-	- [Trouver du boulot](#trouver-du-boulot)
-		- [A distance (*remote*)](#a-distance-remote)
-	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
-		- [Général](#général-2)
-		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
-		- [Frontend](#frontend-1)
-		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
-		- [Conférences](#conférences)
-		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
-		- [Spécifique à une techno](#spécifique-à-une-techno)
-			- [PHP](#php-2)
-			- [JS](#js-2)
-			- [Typescript](#typescript)
-			- [Vue.js](#vuejs)
-			- [Node.js](#nodejs)
-		- [Projets open-source](#projets-open-source)
-		- [Design](#design-1)
-		- [Apprendre](#apprendre)
-		- [API](#api)
-		- [Inclassables](#inclassables-1)
-		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
-		- [Vendre](#vendre)
-	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
-
-	- [Perl](#perl)
-	- [Programmation fonctionnelle](#programmation-fonctionnelle)
-		- [Général](#général-1)
-		- [Haskell](#haskell)
-		- [Clojure](#clojure)
-		- [Elm](#elm)
-		- [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
-	- [Rich Hickey](#rich-hickey)
-	- [Défis](#défis)
-	- [Markdown](#markdown)
-		- [Supersets, frameworks](#supersets-frameworks)
-		- [Présentations, diapos](#présentations-diapos)
-	- [CV](#cv)
-	- [Éditeurs de texte](#éditeurs-de-texte)
-	- [Boîte à outils](#boîte-à-outils)
-		- [`Sed`](#sed)
-		- [`sloccount`](#sloccount)
-	- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
-		- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
-		- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
-	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
-	- [Androïd](#androïd)
-	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
-		- [Un mot](#un-mot-1)
-		- [Du bruit au bruit](#du-bruit-au-bruit)
-		- [Rust](#rust)
-		- [Smalltalk](#smalltalk)
-		- [Assembleur](#assembleur)
-		- [Prolog](#prolog)
-		- [Scheme (List dialect)](#scheme-list-dialect)
-		- [Arduino](#arduino)
-	- [Ebooks](#ebooks)
-		- [Classiques](#classiques)
-		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
-		- [Software design](#software-design)
-		- [Architecture de l'information](#architecture-de-linformation)
-		- [Wordpress](#wordpress-1)
-		- [Sécurité des applications webs](#sécurité-des-applications-webs)
-		- [Webmaster](#webmaster)
-		- [HTTP](#http)
-		- [Perl](#perl-1)
-		- [Test driven development](#test-driven-development)
-		- [Programmation CGI](#programmation-cgi)
-		- [Haskell](#haskell-1)
-		- [Rust](#rust-1)
-		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
-		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
-		- [Freelance, conseils pour bien gérer ses affaires depuis chez soi](#freelance-conseils-pour-bien-gérer-ses-affaires-depuis-chez-soi)
-		- [Algorithmes](#algorithmes-1)
-	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
-	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
-		- [Public enfant](#public-enfant)
-		- [Public adulte](#public-adulte)
-	- [Articles](#articles-1)
-	- [Papiers](#papiers)
-	- [Blogs](#blogs)
-	- [Flux RSS](#flux-rss)
-	- [Podcasts](#podcasts)
-	- [Vidéo](#vidéo)
-		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
-		- [La vérité par l'humour](#la-vérité-par-lhumour)
-		- [Génération procédurale](#génération-procédurale)
-		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
-		- [Chaînes YouTube](#chaînes-youtube)
-		- [Playlists](#playlists)
-		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
-		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
-			- [PHP](#php-1)
-		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
-	- [Fondamentaux, radical](#fondamentaux-radical)
-	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
-	- [Rester informé](#rester-informé)
-	- [Newsletters](#newsletters)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
@@ -674,11 +567,6 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [faviconcheck](https://faviconcheck.30apps.me/), vérifier comment rend vos favicons sur différents os, navigateurs ou thèmes
 
 
-#### Combien pèse ma page ?
-
-- [WebPageTest](https://www.webpagetest.org/), un projet open-source soutenu par Google avec un focus sur le network
-- [measuring page weight](https://mobiforge.com/design-development/measuring-page-weight), un article (en anglais sorry, j'essaierai de trouver un article équivalent en fr) qui discute de la façon dont est calculé le poids d'une page et la recherche d'un standard. Liste également tous les outils populaires pour faire des mesures
-
 #### Accessibilité
 
 - [Premiers pas pour rendre un site Web accessible](https://www.w3.org/WAI/gettingstarted/Overview), une liste de tutoriels de la W3C pour rendre votre site web plus accessible
@@ -692,6 +580,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [pingtest](https://tools.keycdn.com/ping), ping un nom de domaine depuis plusieurs positions sur le globe 
 - [whatsmydns.net](https://www.whatsmydns.net/), visualiser la propagation sur les serveurs DNS de votre enregistrement DNS
 - [intodns](https://intodns.com/), vérifier votre config DNS (serveur web, serveur mail,etc.) 
+- [WebPageTest](https://www.webpagetest.org/), un projet open-source soutenu par Google avec un focus sur le network. Au top
+- [measuring page weight](https://mobiforge.com/design-development/measuring-page-weight), un article (en anglais sorry, j'essaierai de trouver un article équivalent en fr) qui discute de la façon dont est calculé le poids d'une page et la recherche d'un standard. Liste également tous les outils populaires pour faire des mesures
 
 #### Analyse de texte
 
@@ -725,7 +615,7 @@ Aller sur le dépôt puis
 - [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
 
 
-## Se former à
+## Environnements d'apprentissage interactifs
 
 ### git
 
@@ -800,7 +690,7 @@ A venir...
 
 En 2021 on comptait [environ 455 000 000 sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais en réalité plutôt *40%* (estimation haute).
 
-Wordpress est un framework parfaitement adapté pour publier du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si Wordpress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée ! 
+Wordpress est un framework parfaitement adapté pour *gérer et publier* du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si Wordpress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée ! 
 
 Ce framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité. 
 
@@ -890,12 +780,9 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 ## Hébergement gratuit
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
-- [awardspace](https://awardspace.com)
 - [freehosting](https://freehosting.com)
 - [freehostia](https://freehostia.com)
 - [100webspace](https://100webspace.com)
-- [netlify](https://www.netlify.com/), git-based solution et une plateforme serverless
-- [vercel](https://vercel.com/), idéal pour déployer des applis (*Single Page App*)
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
 - [Free web hosting](https://www.infinityfree.net/), héberger vos sites webs **PHP,MySQL** (ou HTML) hébergé gratuitement et sans pub. Pas de limites de sites, nom de domaine gratuit ou ajouter le votre. 5GB d'espace libre, bande passante illimitée, SSL gratuit
 - [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
@@ -946,18 +833,17 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 - [Figma](https://www.figma.com/), on ne le présente plus
 - [PenPot](https://penpot.app/), plateforme open source de design et de prototypage, alternative  à Figma
 
-## Outils Newsletter
-
--[buttondown](https://buttondown.email/), une appli web pour gérer simplement vos newsletters. Et le contenu peut être écrit en Markdown
-
 ## Outils *visual code* (*no-code* ou *low-code*)
 
 Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose. Mais on en aura toujours besoin quand même.
 
+- [buttondown](https://buttondown.email/), une appli web pour gérer simplement vos newsletters. Et le contenu peut être écrit en Markdown
 - [swipepages](https://swipepages.com/), construisez une home page hébergée rapidement
 - [carrd](https://carrd.co/), créez votre site responsive d'une page en quelques clics
 - [loom](https://www.loom.com/),enregistrer rapidement des vidéos via la webcam et partagez le lien facilement
 - [zapier](https://zapier.com/), automatiser ses tâches sur toutes les web apps
+- [tally](https://tally.so/), créer des formulaires via un éditeur similaire à Google Docs, et intégrez les à votre site ou envoyez directement le lien du formulaire pour commencer à collecter les réponses. Le moyen gratuit le plus simple pour faire et se servir de formulaires en ligne
+
 
 ## Quitter Github
 
@@ -986,6 +872,15 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
 
 ## Standards
+
+
+### Organismes
+
+Une liste non exhaustive d'organismes qui implémentent et maintiennent les standards ouverts dans différents domaines de l'informatique.
+
+- [OASIS OPEN](https://www.oasis-open.org/), groupe de collaboration (individus, entreprises, gouvernements, etc.) en charge de l'implémentation et de la maintenance de standards informatiques ouverts, comme DITA, DocBook, OData, OpenDocument, etc. [Voir tous les projets ici](https://www.oasis-open.org/projects-committees/).
+- [W3C](https://www.w3.org/), le *World Wide Web Consortium*, en charge de maintenir et développer les standards ouverts du Web.
+- [WHATWG](https://whatwg.org/), The Web Hypertext Application Technology Working Group est un groupe de collaboration qui travaille sur la standardisation des navigateurs webs ([voir ici les standards](https://spec.whatwg.org/) sur lesquels ce groupe travaille) et des standards associés comme le protocole WebSocket, le Storage, XMLHttpRequest, etc. C'est une groupe qui a été formé en 2004 suite à un atelier organisé par le W3C par des personnes chez Apple, Mozilla et Opera. Il a été crée en réponse au fait que le W3C partait un peu en cavalier seul sur le futur du standard HTML avec XHTML (qui au final a donné HTML5) sans prendre assez en compte l'état de l'industrie du développement informatique. Aujourd'hui Google et Microsoft ont rejoint ce groupe et il travaille en collaboration avec le W3C dont certains membres ont font également partie.
 
 ### HTML
 
@@ -1021,6 +916,11 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [XML Facile !](http://www.xmlfacile.com/)
 - [XML in a nutshell, A Desktop Quick Reference](https://www.pdfdrive.com/xml-in-a-nutshell-e54427253.html)
 
+
+### Applications XML de prestige
+
+- [Docbook](https://docbook.org/), application XML dédiée à la publication de documents, principalement des articles et des livres d'informatique mais pas que. Le projet a originellement été développé par l'éditeur O'Reilly pour ses éditeurs, il est aujourd'hui maintenu par [OASIS OPEN](https://www.oasis-open.org/), un groupe de collaboration travaillant et maintenant des standards
+- [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du standard Dita, *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.) 
 
 ## Protocoles
 
@@ -1060,10 +960,6 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 - [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
 
-## Formulaires
-
-- [tally](https://tally.so/), créer des formulaires via un éditeur similaire à Google Docs, et intégrez les à votre site ou envoyez directement le lien du formulaire pour commencer à collecter les réponses. Le moyen gratuit le plus simple pour faire et se servir de formulaires en ligne
-
 ## Monétiser son travail
 
 ### Général
@@ -1094,13 +990,13 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [linode](https://www.linode.com/lp/write-for-linode/)
 
 
-
 ## Bases de données
 
 - [PostegreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
 - [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostegreSQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
+- [Use the index, Luke !](https://use-the-index-luke.com/), site maintenu par Markus Winand, une référence des bases de données relationnelles. Vous trouverez sur son site une explication complète de l'optimisation et des performences des bases de données relationnelles. Le contenu est dipsonible en ligne ou en PDF.
 
 ## Conception de bases de données
 
@@ -1518,6 +1414,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [Playlist de conférences en informatique](https://www.youtube.com/watch?v=Tb823aqgX_0&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une liste de conférences sur différents sujets en info, maintenue par mes propres soins
 - [DevFest Nantes 2022](https://www.youtube.com/watch?v=rQaEzZIZIRg&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
 - [Forum PHP 2022 (AFUP)](https://www.youtube.com/watch?v=nxs55WKRyQs&list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj)
+- [Playlist de conférences en informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
 
 ### Computer graphics et art génératif
 
