@@ -992,8 +992,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ## Bases de données
 
-- [PostegreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
-- [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostegreSQL
+- [PostgreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
+- [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostgreSQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 - [Use the index, Luke !](https://use-the-index-luke.com/), site maintenu par Markus Winand, une référence des bases de données relationnelles. Vous trouverez sur son site une explication complète de l'optimisation et des performences des bases de données relationnelles. Le contenu est dipsonible en ligne ou en PDF.
