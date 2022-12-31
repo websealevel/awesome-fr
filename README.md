@@ -248,7 +248,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Contenu, écriture](#contenu-écriture)
 		- [Copywriting](#copywriting)
 		- [Screenshots / mockup](#screenshots--mockup)
-		- [Twitter](#twitter)
 	- [Trouver du boulot](#trouver-du-boulot)
 		- [A distance (*remote*)](#a-distance-remote)
 	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
@@ -1185,13 +1184,14 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 
 ## Ebooks
 
-  Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
+Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
 ### Classiques
 
 - [Structure and interpretation of computer programs, 2nd edition, Harold Abelson, Gerald Jay and Julie Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf), ce livre, et derrière ce cours du MIT, est juste à part. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf)
 - [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html), une référence absolue
+- [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française (publiée chez Dunod en 2007). Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
 
 ### Refactoring, travailler sur du code legacy
 
@@ -1503,10 +1503,6 @@ A venir...
 
 - [pika](https://pika.style/), créer rapidement en ligne des captures d'écran stylées ou des prototypes visuels
 
-### Twitter
-
-- [Twemex](https://twemex.app/), extension du navigateur pour faire remonter à la surface davantage de contenus pertinents sur Twitter
-- [followerwonk](https://followerwonk.com/join-pro), monitorer quand vos abonnés sont actifs pour un meilleur engagement
 
 ## Trouver du boulot
 
