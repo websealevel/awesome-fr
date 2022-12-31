@@ -911,7 +911,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ### Applications XML de prestige
 
 - [Docbook](https://docbook.org/), application XML dédiée à la publication de documents, principalement des articles et des livres d'informatique mais pas que. Le projet a originellement été développé par l'éditeur O'Reilly pour ses éditeurs, il est aujourd'hui maintenu par [OASIS OPEN](https://www.oasis-open.org/), un groupe de collaboration travaillant et maintenant des standards
-- [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du standard Dita, *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.) 
+- [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du [standard Dita](https://fr.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.) 
 
 ## Protocoles
 
@@ -1189,7 +1189,6 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 
 ### Classiques
 
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-e157846585.html)
 - [Structure and interpretation of computer programs, 2nd edition, Harold Abelson, Gerald Jay and Julie Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf), ce livre, et derrière ce cours du MIT, est juste à part. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf)
 - [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html), une référence absolue
@@ -1570,6 +1569,9 @@ A venir...
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
+- [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
+- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par execellence
+- [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
   
 #### JS
 - [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
