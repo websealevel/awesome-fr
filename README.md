@@ -81,8 +81,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Générateur d'assets au format SVG](#générateur-dassets-au-format-svg)
 		- [Motifs](#motifs)
 		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
-		- [Frameworks CSS](#frameworks-css)
-			- [Tailwind CSS](#tailwind-css)
 		- [Extraits de code sur étagère](#extraits-de-code-sur-étagère)
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / *layouts*](#générateur-de-mise-en-page--layouts)
@@ -156,6 +154,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Applications XML de prestige](#applications-xml-de-prestige)
 	- [Protocoles](#protocoles)
 		- [SSH](#ssh)
+	- [OS](#os)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
 		- [JavaScript](#javascript)
@@ -413,20 +412,6 @@ Expérimenter et créer des animations CSS
 - [zzz.dog](https://zzz.dog/), des animations rondes, a plat, peudo 3D
 - [haikuanimator](https://www.haikuanimator.com/)
 
-### Frameworks CSS
-
-- [unocss](https://github.com/unocss/unocss), un moteur de css *atomique* inspiré de Windi CSS, Tailwind and Twind. Lire [Reimagine Atomic CSS (en)](https://antfu.me/posts/reimagine-atomic-css) pour comprendre les enjeux et l'approche
-
-#### Tailwind CSS
-
-- [site officiel](https://tailwindcss.com/), on commence toujours pas le site officiel pour la doc
-- [tailblocks](https://tailblocks.cc/), des composants prêts à l'emploi
-- [Meraki UI](https://merakiui.com/), des composants responsives prêts à l'emploi
-- [tailwind UI](https://tailwindui.com/)
-- [tailwindcomponents](https://tailwindcomponents.com/)
-- [Tailwind Toolbox](https://tailwindtoolbox.com/), css templates, composants et ressources
-- [lofi UI](https://lofiui.co/), des composants de base tailwind css qui servent de point de départ
-
 
 ### Extraits de code sur étagère
 
@@ -504,6 +489,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [landing-page-examples](https://www.btw.so/marketing/landing-page-examples)
 - [cssnectar](https://cssnectar.com/), nectar du web design
 - [siteinspire](https://www.siteinspire.com)
+- [Le design Memphis : le mouvement qui a défini les années 80](https://99designs.fr/blog/histoire-design-genres-mouvements/design-memphis/), un bon article sur le design Menphis
 
 ### Composants
 
@@ -929,6 +915,14 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [The Ultimate Guide to SSH - Setting Up SSH Keys](https://www.freecodecamp.org/news/the-ultimate-guide-to-ssh-setting-up-ssh-keys/)
 
+
+## OS
+
+- [Minix 3](https://www.minix3.org/), OS développé par S. Tanenbaum dont s'est inspiré Linus Torvalds pour créer le noyau Linux. OS destiné au départ à des fins pédagogiques, notamment via le livre [Operating Systems Design and Implementation, 3rd edition](https://www.pearson.com/en-us/subject-catalog/p/operating-systems-design-and-implementation/P200000003167?view=educator)
+
+- [Minix 3, background](https://wiki.minix3.org/doku.php?id=www:documentation:brown), un article très intéressant de Tanenbaum sur l'histoire des OS *Unix-like*, de Minix, de ses rapports avec l'équipe Unix du Bell Labs (Ken Thompson, Dennis Ritchie, Weinberger, etc.) et de Linux.
+
+
 ## Spécifiques à un langage/écosystème
 
 ### PHP
@@ -1335,6 +1329,7 @@ A venir...
 - [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
 - [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
 - [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
+- [codefol.io](https://codefol.io/about/), le blog d'un développeur de 40 ans d'experience
 
 
 
