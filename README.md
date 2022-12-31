@@ -143,7 +143,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Design](#design)
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
-	- [Logiciels open-source](#logiciels-open-source)
+	- [Logiciels open-source et logiciels libres (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
 		- [HTML](#html)
@@ -319,6 +319,7 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [fontfabric](https://www.fontfabric.com/font-tester/), tester rapidement ses fonts
 - [FontZone](https://www.fontzone.net/), une archive de fonts téléchargeables et gratuites
 - [fontshare](https://www.fontshare.com/)
+- [Typeoff.de](https://www.typeoff.de/), le blog de Dan Reynolds, un designer et historien des typographies 
 
 
 Quelques lectures sur des aspects techniques de la typographie:
@@ -850,12 +851,16 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [sourcehut](https://sourcehut.org)
 
 
-## Logiciels open-source
+## Logiciels open-source et logiciels libres (free software)
 
+- [gnu.org](https://www.gnu.org/), le site officiel de l'OS GNU/Linux et par extension du mouvement du logiciel libre. Vous y trouverez toutes les informations pratiques sur le libre
 - [opensourcealternative](https://www.opensourcealternative.to/), trouver une solution alternative open-source à ...
 - [degooglisons-internet](https://degooglisons-internet.org/fr/), remplacer tous vos services tiers propriétaires par du libre (partage de fichiers, communication...)
 - [Framasoft](https://framasoft.org/fr/), association d'éducation populaire soutenant plusieurs projets open-source dont Framalibre
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
+- [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
+- [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
+
 
 ## Standards
 
@@ -1549,6 +1554,7 @@ A venir...
 
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
+- [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modéliastion de systèmes économiques dans un jeu vidéo.
   
 ### Conférences
 
