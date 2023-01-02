@@ -655,6 +655,7 @@ A venir...
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/), une api qui sert du JSON pour le test/dev
 - [rapid api](https://rapidapi.com/blog/most-popular-api/), recense et documente tout un tas d'api à utiliser, pour aller en trouver encore d'autres
 - [open food facts](https://fr.openfoodfacts.org/data), API de produits alimentaires
+- [Open library API](https://openlibrary.org/developers/api), l'API d'[Open Library](https://openlibrary.org/), un projet d'[Internet Archive](https://archive.org/), pour travailler sur les livres, auteurs, couvertures de livres, etc.
 
 ### Opendata/France
 
