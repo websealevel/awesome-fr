@@ -144,6 +144,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels open-source et logiciels libres (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
+	- [Principes généraux et fondamentaux de programmation](#principes-généraux-et-fondamentaux-de-programmation)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
 		- [HTML](#html)
@@ -860,6 +861,11 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
 - [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
 - [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
+
+
+## Principes généraux et fondamentaux de programmation
+
+- [What Every Programmer Should Know About Floating-Point Arithmetic](https://floating-point-gui.de/)
 
 
 ## Standards
