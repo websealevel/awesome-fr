@@ -1580,7 +1580,7 @@ A venir...
 
 #### Java
 
-- [Le didacticiel "Développons en Java"](https://www.jmdoudoux.fr/accueil_java.htm#dej), le site de la légende française de l'écosystème Java, Jean-Michel Doudoux. Il propose notamment un didacticiel *Développons en Java*, de 128 chapitres des bases jusqu'aux sujets les plus pointus, toujours mis à jour. Pour approfondir Java il est difficile de faire mieux dans la francophonie
+- [Le didacticiel "Développons en Java"](https://www.jmdoudoux.fr/accueil_java.htm#dej), le site de la légende française de l'écosystème Java, [J.M. Doudoux](https://www.jmdoudoux.fr/presentation.htm). Il propose notamment un didacticiel *Développons en Java*, de 128 chapitres des bases jusqu'aux sujets les plus pointus, toujours mis à jour. Pour approfondir Java il est difficile de faire mieux dans la francophonie
 
 #### JS
 - [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
