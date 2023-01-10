@@ -251,7 +251,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Screenshots / mockup](#screenshots--mockup)
 	- [Trouver du boulot](#trouver-du-boulot)
 		- [A distance (*remote*)](#a-distance-remote)
-	- [Banques de ressources et dépôts](#banques-de-ressources-et-dépôts)
+	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
 		- [Général](#général-2)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
 		- [Frontend](#frontend-1)
@@ -1525,7 +1525,7 @@ A venir...
 - [remoteok](https://remoteok.com/)
 - [remotive](https://remotive.com/)
 
-## Banques de ressources et dépôts
+## Banques de ressources, dépôts, cours
 
 ### Général
 
@@ -1583,6 +1583,7 @@ A venir...
 - [Le didacticiel "Développons en Java"](https://www.jmdoudoux.fr/accueil_java.htm#dej), le site de la légende française de l'écosystème Java, [J.M. Doudoux](https://www.jmdoudoux.fr/presentation.htm). Il propose notamment un didacticiel *Développons en Java*, de 128 chapitres des bases jusqu'aux sujets les plus pointus, toujours mis à jour. Pour approfondir Java il est difficile de faire mieux dans la francophonie
 
 #### JS
+
 - [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
 - [awesome-json](https://github.com/burningtree/awesome-json), la même sur des lib et ressources pour le json
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js), la même sur la programmation fonctionnelle
