@@ -1152,7 +1152,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 ### Un mot
 
 - Est ce que *X* est mort ? 
-- Apprendre *X* en 2022 ?
+- Apprendre *X* en 2023 ?
 
 On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en moque, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
 
