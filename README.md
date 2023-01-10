@@ -260,6 +260,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
 		- [Spécifique à une techno](#spécifique-à-une-techno)
 			- [PHP](#php-2)
+			- [Java](#java)
 			- [JS](#js-2)
 			- [Typescript](#typescript)
 			- [Vue.js](#vuejs)
@@ -1576,6 +1577,11 @@ A venir...
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par execellence
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
   
+
+#### Java
+
+- [Le didacticiel "Développons en Java"](https://www.jmdoudoux.fr/accueil_java.htm#dej), le site de la légende française de l'écosystème Java, Jean-Michel Doudoux. Il propose notamment un didacticiel *Développons en Java*, de 128 chapitres des bases jusqu'aux sujets les plus pointus, toujours mis à jour. Pour approfondir Java il est difficile de faire mieux dans la francophonie
+
 #### JS
 - [awesome-js](https://github.com/ggomaeng/awesome-js), une liste organisée sur les fondamentaux JS et algos
 - [awesome-json](https://github.com/burningtree/awesome-json), la même sur des lib et ressources pour le json
