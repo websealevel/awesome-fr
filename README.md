@@ -160,6 +160,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [PHP](#php)
 		- [JavaScript](#javascript)
 	- [Suivi de projets](#suivi-de-projets)
+	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
 	- [Dessin](#dessin)
 	- [Monétiser son travail](#monétiser-son-travail)
 		- [Général](#général)
@@ -960,6 +961,11 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Mattermost](https://mattermost.com/), alternative open source à Trello, outil de workflow, travail collaboratif, suivi de tâches, etc.
 
 
+## Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe
+
+- [Philippe Bourgau's XP Coaching Blog](https://philippe.bourgau.net/), des articles sur la gestion de projets et de la veille en pratique (comment travailler en accord avec les principes de l'extrem programmaing, gérer du code legacy, organisation des équipes, apprentissage et veille, etc.), par Philippe Bourgau versé dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
+- [Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading), des articles sur l'extrem reading et comment le mettre en pratique, par [Yoan Thirion](https://www.yoan-thirion.com/#home) versé aussi dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
+
 ## Dessin
 
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
@@ -1574,8 +1580,10 @@ A venir...
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 - [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
+- [PHP the right way](https://phptherightway.com/), une reference traduite en plusieurs langues sur les standards actuels de la communauté PHP, des liens vers des tutoriels reconnus sur le web
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par execellence
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
+- [Le blog de Fabien Potencier](http://fabien.potencier.org/)
   
 
 #### Java
