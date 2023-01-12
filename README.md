@@ -1277,6 +1277,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 
 ### Génération procédurale et *game design*
+
 - [The Art of Game Design, 2nd edition (en)](https://www.pdfdrive.com/the-art-of-game-design-a-book-of-lenses-2nd-edition-e157699641.html)
   
 - [Level Up! The guide to great video game design (en)](https://www.pdfdrive.com/level-up-the-guide-to-great-video-game-design-e157921744.html)
@@ -1404,8 +1405,8 @@ A venir...
 
 La conférence annuelle de la communauté du développement du jeux vidéos. [Des tonnes et des tonnes de conférences](https://www.youtube.com/c/Gdconf) gratuites, de qualité (également dans la captation) à regarder.
 
-- [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY)
-- [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc)
+- [Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://youtu.be/QHHg99hwQGY), très belle conférence sur le game design sur le long terme et le renouvellement du gameplay et d'une licence
+- [Diablo: A Classic Game Postmortem](https://youtu.be/VscdPA6sUkc), conférence superbe, drôle et enrichissante sur le développement de Diablo dans les années 90 par le créateur original lui même
 
 ### Chaînes YouTube
 
@@ -1561,9 +1562,9 @@ A venir...
 
 ### Développement de jeux vidéos
 
-- [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils...)
-- [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils.
-- [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modéliastion de systèmes économiques dans un jeu vidéo.
+- [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
+- [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
+- [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modélisation de systèmes économiques dans un jeu vidéo.
   
 ### Conférences
 
