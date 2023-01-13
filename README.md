@@ -1493,6 +1493,7 @@ Des conseils à la volée
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/), un logiciel anti-malware pour les systèmes Linux.
 - [Bleachbit](https://fr.wikipedia.org/wiki/BleachBit), logiciel open-source gratuit, puissant (il est sorti en 2008 et maintenu depuis), multiplateformes de nettoyage d'espace disque sécurisé, de protection de la vie privée et d'optimisation. Pour prendre soin dans le temps de sa machine. Bleachbit vient avec une interface graphique mais également une interface en ligne de commande pour être utilisé directement depuis vos scritps et workflows.
 - [Stacer](https://github.com/oguzhaninan/Stacer), optimisation et monitoring de votre machine linux, avec une interface graphique sympa
+- [backup-manager](https://github.com/sukria/Backup-Manager), un programme [configurable](https://doc.ubuntu-fr.org/backup-manager), scriptable, simple et puissant pour faire des backups automatiques ou manuels, complets/incrémentaux, de vos données et vos bases de données. Que vous utilisiez ce logiciel ou un autre, peu importe, la première sécurité c'est de ne pas perdre vos données. *Tape is cheap, and `rm` is forever*.
 
 ## *Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"
 
