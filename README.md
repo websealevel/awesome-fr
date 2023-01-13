@@ -1009,6 +1009,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 - [Use the index, Luke !](https://use-the-index-luke.com/), site maintenu par Markus Winand, une référence des bases de données relationnelles. Vous trouverez sur son site une explication complète de l'optimisation et des performences des bases de données relationnelles. Le contenu est dipsonible en ligne ou en PDF.
+- [Modern SQL, a lot has changed since SQL-92](https://modern-sql.com/), le site cousin du site [Use the index, Luke !](https://use-the-index-luke.com/), de Markus Winand. Aborde les évolutions les plus récentes du standard SQL
+
 
 ## Conception de bases de données
 
@@ -1337,8 +1339,6 @@ A venir...
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 
 ## Blogs en vrac
-
-- [ibenic (en)](https://www.ibenic.com/), [Igor Benic](https://twitter.com/igorbenic) est un développeur indépendant croate qui publie régulièrement des articles (et des livres) sur Wordpress et Woocommerce
 
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
 - [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
