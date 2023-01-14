@@ -1513,7 +1513,7 @@ A venir...
 
 - [Lexique des règles typographiques en usage à l’Imprimerie nationale](https://www.eyrolles.com/Audiovisuel/Livre/lexique-des-regles-typographiques-en-usage-a-l-imprimerie-nationale-9782743304829/), l’ouvrage de référence de base du correcteur appelé aussi *code typo*.
 - [Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/), vitrine linguistique, sert de référence en ligne à de nombreux·ses correcteur·rices
-- [André jouette: dictionnaire d'orthographe et d'expression ecrite](https://www.amazon.fr/Dictionnaire-dorthographe-dexpression-%C3%A9crite-Jouette/dp/2850362247), achetable en PDF, plus édité en papier et difficile à trouver. Peut être plus simple en termes de droits que le code type (acte sud)
+- [André jouette: dictionnaire d'orthographe et d'expression ecrite](https://www.amazon.fr/Dictionnaire-dorthographe-dexpression-%C3%A9crite-Jouette/dp/2850362247)
 - [ACLF](https://www.associationdescorrecteurs.fr/), Association des Correcteurs de la Langue Française. Vous y trouverez notamment les liens vers [les outils indispensables](https://www.associationdescorrecteurs.fr/outils/les-indispensables/) reconnus comme tels par toute la profession
   
 ### Copywriting
