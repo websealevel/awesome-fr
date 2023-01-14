@@ -152,7 +152,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [XML](#xml)
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
-		- [Applications XML de prestige](#applications-xml-de-prestige)
+			- [Applications XML de prestige](#applications-xml-de-prestige)
+		- [SQL](#sql)
 	- [Protocoles](#protocoles)
 		- [SSH](#ssh)
 	- [OS](#os)
@@ -913,10 +914,14 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [XML in a nutshell, A Desktop Quick Reference](https://www.pdfdrive.com/xml-in-a-nutshell-e54427253.html)
 
 
-### Applications XML de prestige
+#### Applications XML de prestige
 
 - [Docbook](https://docbook.org/), application XML dédiée à la publication de documents, principalement des articles et des livres d'informatique mais pas que. Le projet a originellement été développé par l'éditeur O'Reilly pour ses éditeurs, il est aujourd'hui maintenu par [OASIS OPEN](https://www.oasis-open.org/), un groupe de collaboration travaillant et maintenant des standards
 - [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du [standard Dita](https://fr.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.) 
+
+### SQL
+
+A venir.
 
 ## Protocoles
 
