@@ -143,7 +143,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Design](#design)
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
-	- [Logiciels open-source et logiciels libres (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
+	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
 	- [Principes généraux et fondamentaux de programmation](#principes-généraux-et-fondamentaux-de-programmation)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
@@ -163,7 +163,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
 	- [Dessin](#dessin)
 	- [Monétiser son travail](#monétiser-son-travail)
-		- [Général](#général)
 		- [Vendre des templates](#vendre-des-templates)
 		- [Vendre des articles](#vendre-des-articles)
 	- [Bases de données](#bases-de-données)
@@ -171,7 +170,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Perl](#perl)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
-		- [Général](#général-1)
+		- [Général](#général)
 		- [Haskell](#haskell)
 		- [Clojure](#clojure)
 		- [Elm](#elm)
@@ -190,7 +189,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
-	- [Automatisation de tâches sous linux](#automatisation-de-tâches-sous-linux)
+	- [Programmes linux en vrac](#programmes-linux-en-vrac)
 	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot-1)
@@ -202,7 +201,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Scheme (List dialect)](#scheme-list-dialect)
 		- [Arduino](#arduino)
 	- [Ebooks](#ebooks)
-		- [Classiques](#classiques)
+		- [*Classiques*](#classiques)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
 		- [Architecture de l'information](#architecture-de-linformation)
@@ -227,9 +226,9 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Articles en vrac](#articles-en-vrac)
 	- [Papiers en vrac](#papiers-en-vrac)
 	- [Blogs en vrac](#blogs-en-vrac)
-	- [Podcasts](#podcasts)
+	- [Podcasts en vrac](#podcasts-en-vrac)
 	- [Vidéo](#vidéo)
-		- [Conférences/Talks (en vrac)](#conférencestalks-en-vrac)
+		- [Conférences en vrac](#conférences-en-vrac)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
@@ -248,12 +247,12 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Inclassables](#inclassables)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Contenu, écriture](#contenu-écriture)
+	- [Correction](#correction)
 		- [Copywriting](#copywriting)
-		- [Screenshots / mockup](#screenshots--mockup)
 	- [Trouver du boulot](#trouver-du-boulot)
 		- [A distance (*remote*)](#a-distance-remote)
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
-		- [Général](#général-2)
+		- [Général](#général-1)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
@@ -340,7 +339,6 @@ Quelques lectures sur des aspects techniques de la typographie:
 - [palette ninja](https://palette.ninja/)
 - [pattern background](http://www.patternify.com/)
 - [palettes](https://flatuicolors.com/)
-- [colorpalettes](https://colorpalettes.colorion.co/), des palettes de couleurs séléctionnées par [Csaba Kissi](https://www.csabakissi.com/) 
 - [data color picker : palette generator](https://learnui.design/tools/data-color-picker.html)
 - [huetone](https://huetone.ardov.me/), des palettes de couleurs, avec une attention apportée à l'[accessibilité](#accessibilité)
 - [colorspectrum](https://colorspectrum.design/generator.html)
@@ -378,8 +376,6 @@ Quelques lectures sur des aspects techniques de la typographie:
 
 ### Générateurs/Templates CSS
 
-- [neumorphism](https://neumorphism.io/#e0e0e0), generer de l'UI en pure CSS
-- [glassmorphism](https://hype4.academy/tools/glassmorphism-generator), effet verre
 - [gloweffect](https://codersblock.com/blog/creating-glow-effects-with-css/), generer des glow effects
 - [underline generator](https://underline-generator.netlify.app/)
 - [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), creez vos rubans
@@ -854,7 +850,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [sourcehut](https://sourcehut.org)
 
 
-## Logiciels open-source et logiciels libres (free software)
+## Logiciels *open-source* et *logiciels libres* (free software)
 
 - [gnu.org](https://www.gnu.org/), le site officiel de l'OS GNU/Linux et par extension du mouvement du logiciel libre. Vous y trouverez toutes les informations pratiques sur le libre
 - [opensourcealternative](https://www.opensourcealternative.to/), trouver une solution alternative open-source à ...
@@ -863,6 +859,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
 - [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
 - [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
+- [En quoi l'open source perd de vue l'éthique du logiciel libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html), article originellement publié par Richard Stallman sous le titre *Why Open Source Misses the Point of Free Software*. Pour bien comprendre les différences philosophiques profondes entre les deux mouvements et aussi les différences pratiques
 
 
 ## Principes généraux et fondamentaux de programmation
@@ -974,10 +971,6 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ## Monétiser son travail
 
-### Général
-
-- [gumroad](https://gumroad.com/), un site pour vendre son travail digital (post, tutos, cours, livre, plans, artwork...)
-
 ### Vendre des templates
 
 - [themeforest.net](https://themeforest.net/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
@@ -1019,7 +1012,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ## Architecture logicielle
 
-- [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog)
+- [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog), un catalogue en ligne inspiré du GoF sur les Design Patterns. Bien fait, ludique avec de nombreux exemples, schémas et implémentations dans différents langages
 
 ## Perl
 
@@ -1138,11 +1131,13 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
 - [ImageMagick](https://imagemagick.org/index.php), L'éditeur d'images par excellence. Exemple, convertir une image en pdf au format A4 `convert input.jpg -page a4 output.pdf`
 - [pdftk (the pdf toolkit)](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): concaténer/découper des pdf. Par exemple `pdftk input1.pdf input2.pdf output.pdf`
+
+
 #### Compresser, optimiser des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
 
-## Automatisation de tâches sous linux
+## Programmes linux en vrac
 
 - [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
 - [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
@@ -1202,7 +1197,7 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 
 Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
-### Classiques
+### *Classiques*
 
 - [Structure and interpretation of computer programs, 2nd edition, Harold Abelson, Gerald Jay and Julie Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf), ce livre, et derrière ce cours du MIT, est juste à part. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf)
@@ -1312,8 +1307,11 @@ A venir...
 
 ### Public enfant
 
+A venir...
+
 ### Public adulte
 
+A venir...
 
 ## Ressources pour formateur·trice
 
@@ -1351,8 +1349,7 @@ A venir...
 - [codefol.io](https://codefol.io/about/), le blog d'un développeur de 40 ans d'experience
 
 
-
-## Podcasts
+## Podcasts en vrac
 
 - [podcasts sur wordpress (fr)](#podcasts-sur-wordpress)
 - [syntax (en)](https://syntax.fm/)
@@ -1366,7 +1363,7 @@ A venir...
 
 ## Vidéo
 
-### Conférences/Talks (en vrac)
+### Conférences en vrac
 
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
@@ -1512,13 +1509,16 @@ Des conseils à la volée
 
 A venir...
 
+## Correction
+
+- [Lexique des règles typographiques en usage à l’Imprimerie nationale](https://www.eyrolles.com/Audiovisuel/Livre/lexique-des-regles-typographiques-en-usage-a-l-imprimerie-nationale-9782743304829/), l’ouvrage de référence de base du correcteur appelé aussi *code typo*.
+- [Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/), vitrine linguistique, sert de référence en ligne à de nombreux·ses correcteur·rices
+- [André jouette: dictionnaire d'orthographe et d'expression ecrite](https://www.amazon.fr/Dictionnaire-dorthographe-dexpression-%C3%A9crite-Jouette/dp/2850362247), achetable en PDF, plus édité en papier et difficile à trouver. Peut être plus simple en termes de droits que le code type (acte sud)
+- [ACLF](https://www.associationdescorrecteurs.fr/), Association des Correcteurs de la Langue Française. Vous y trouverez notamment les liens vers [les outils indispensables](https://www.associationdescorrecteurs.fr/outils/les-indispensables/) reconnus comme tels par toute la profession
+  
 ### Copywriting
 
-
-### Screenshots / mockup
-
-- [pika](https://pika.style/), créer rapidement en ligne des captures d'écran stylées ou des prototypes visuels
-
+A venir...
 
 ## Trouver du boulot
 
