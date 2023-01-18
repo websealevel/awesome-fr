@@ -926,7 +926,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Modern SQL, a lot has changed since SQL-92](https://modern-sql.com/), le site cousin du site [Use the index, Luke !](https://use-the-index-luke.com/), de Markus Winand. Aborde les évolutions les plus récentes du standard SQL
 - [Le site de Markus Winand](https://winand.at/), Markus Winand est un expert du standard SQL. Vous 
 - [The Mother of all Query Languages: SQL in Modern Times | Markus Winand (Conférence)](https://www.youtube.com/watch?v=swR33jIhW8Q), conférence de Markus Winand (Data Natives Berlin, 2018) sur l'état actuel du standard SQL, de l'évolutions de ses différentes implémentations (Oracle, PostgreSQL, MySQL, etc.)
-- [Norme de développement (SQLSpot)](https://www.sqlspot.com/Norme-de-developpement.html), un document complet sur une proposition de conventions et les normes de développement de bases de données relationnelles. Proposé par Frédéric Brouard
+- [Norme de développement (SQLSpot)](https://www.sqlspot.com/Norme-de-developpement.html), un document complet sur une proposition de conventions et les normes de développement de bases de données relationnelles. Proposé par Frédéric Brouard. Frédéric Brouard [a écrit et co-écrit des ouvrages de référence](https://www.sqlspot.com/Quelques-ouvrages-a-lire-sans-moderation.html) (Pearson Eduction, Campus Press) sur les implémentations du standard SQL, avec [Christian Soutou](https://www.eyrolles.com/Accueil/Auteur/christian-soutou-119/)
 - [Normalisation des noms des objets des bases de données](https://sqlpro.developpez.com/cours/standards/), un autre document HTML plus succint sur les normes et bonnes pratiques de nommage en SQL, par Frédéric Brouard
 
 ## Protocoles
