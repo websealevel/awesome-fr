@@ -166,7 +166,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Monétiser son travail](#monétiser-son-travail)
 		- [Vendre des templates](#vendre-des-templates)
 		- [Vendre des articles](#vendre-des-articles)
-	- [Bases de données](#bases-de-données)
+	- [Bases de données (général)](#bases-de-données-général)
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Perl](#perl)
@@ -921,7 +921,13 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ### SQL
 
-A venir.
+- [A Relational Model of Data for Large Shared Data Banks, Edgard Codd (PDF)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwihkqWDrsz8AhXEVaQEHfgyDeIQFnoECBQQAQ&url=https%3A%2F%2Fwww.seas.upenn.edu%2F~zives%2F03f%2Fcis550%2Fcodd.pdf&usg=AOvVaw0HymNIyGsw4MDwPW98GlLb), la publication originale de [Edgard Codd](https://fr.wikipedia.org/wiki/Edgar_Frank_Codd) en 1970, père de l'[algèbre relationnelle](https://fr.wikipedia.org/wiki/Alg%C3%A8bre_relationnelle) et du modèle relationnel
+- [Use the index, Luke !](https://use-the-index-luke.com/), site maintenu par Markus Winand, une référence des bases de données relationnelles. Vous trouverez sur son site une explication complète de l'optimisation et des performences des bases de données relationnelles. Le contenu est dipsonible en ligne ou en PDF.
+- [Modern SQL, a lot has changed since SQL-92](https://modern-sql.com/), le site cousin du site [Use the index, Luke !](https://use-the-index-luke.com/), de Markus Winand. Aborde les évolutions les plus récentes du standard SQL
+- [Le site de Markus Winand](https://winand.at/), Markus Winand est un expert du standard SQL. Vous 
+- [The Mother of all Query Languages: SQL in Modern Times | Markus Winand (Conférence)](https://www.youtube.com/watch?v=swR33jIhW8Q), conférence de Markus Winand (Data Natives Berlin, 2018) sur l'état actuel du standard SQL, de l'évolutions de ses différentes implémentations (Oracle, PostgreSQL, MySQL, etc.)
+- [Norme de développement (SQLSpot)](https://www.sqlspot.com/Norme-de-developpement.html), un document complet sur une proposition de conventions et les normes de développement de bases de données relationnelles. Proposé par Frédéric Brouard
+- [Normalisation des noms des objets des bases de données](https://sqlpro.developpez.com/cours/standards/), un autre document HTML plus succint sur les normes et bonnes pratiques de nommage en SQL, par Frédéric Brouard
 
 ## Protocoles
 
@@ -1000,14 +1006,13 @@ A venir.
 - [linode](https://www.linode.com/lp/write-for-linode/)
 
 
-## Bases de données
+## Bases de données (général)
 
 - [PostgreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
 - [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostgreSQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
-- [Use the index, Luke !](https://use-the-index-luke.com/), site maintenu par Markus Winand, une référence des bases de données relationnelles. Vous trouverez sur son site une explication complète de l'optimisation et des performences des bases de données relationnelles. Le contenu est dipsonible en ligne ou en PDF.
-- [Modern SQL, a lot has changed since SQL-92](https://modern-sql.com/), le site cousin du site [Use the index, Luke !](https://use-the-index-luke.com/), de Markus Winand. Aborde les évolutions les plus récentes du standard SQL
+
 
 
 ## Conception de bases de données
