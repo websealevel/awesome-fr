@@ -279,6 +279,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 ### *Tout-en-un*, agrégateurs de ressources pour le *front*
 
+- [uxtools.co](https://uxtools.co/), un hub des outils, tendances, design pour les designer. Organisent des sondages tous les ans.
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
 - [webcode.tools](https://webcode.tools/), collection d'outils en ligne pour le développement web (générateurs de code)
 
