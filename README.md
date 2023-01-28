@@ -169,6 +169,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Bases de données (général)](#bases-de-données-général)
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
+	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
 	- [Perl](#perl)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
 		- [Général](#général)
@@ -1024,6 +1025,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ## Architecture logicielle
 
 - [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog), un catalogue en ligne inspiré du GoF sur les Design Patterns. Bien fait, ludique avec de nombreux exemples, schémas et implémentations dans différents langages
+
+## Développement informatique et science académique
+
+- [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745), un papier en libre accès sur les pratiques recommandées pour le développement, la distribution et la maintenance de logiciels dans le milieu académique
 
 ## Perl
 
