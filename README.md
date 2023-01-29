@@ -224,6 +224,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
+	- [Commpilateurs, interpréteurs](#commpilateurs-interpréteurs)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [Articles en vrac](#articles-en-vrac)
 	- [Papiers en vrac](#papiers-en-vrac)
@@ -1329,6 +1330,12 @@ A venir...
 
 A venir...
 
+## Commpilateurs, interpréteurs
+
+- [Compiler Explorer](https://godbolt.org/), un petit outil en ligne qui transforme votre code en code assembleur sur différentes architectures. Un outil intéressant pour expérimenter.
+- [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj), le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
+- [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
+
 ## Ressources pour formateur·trice
 
 - [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
@@ -1363,7 +1370,7 @@ A venir...
 - [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
 - [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
 - [codefol.io](https://codefol.io/about/), le blog d'un développeur de 40 ans d'experience
-
+- [DaedTech: stories about Software](https://daedtech.com/), d'Erik Dietrich
 
 ## Podcasts en vrac
 
