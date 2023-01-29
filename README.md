@@ -224,7 +224,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
-	- [Commpilateurs, interpréteurs](#commpilateurs-interpréteurs)
+	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [Articles en vrac](#articles-en-vrac)
 	- [Papiers en vrac](#papiers-en-vrac)
@@ -1217,9 +1217,9 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 ### *Classiques*
 
 - [Structure and interpretation of computer programs, 2nd edition, Harold Abelson, Gerald Jay and Julie Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf), ce livre, et derrière ce cours du MIT, est juste à part. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
-- [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf)
-- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html), une référence absolue
+- [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan). Sorti en 1978, le livre décrit, avec un ton unique, tout le langage C avec des exemples avec la concision des grandes heures. La tout première référence sur le langage C. A noter qu'il a eu droit à une deuxième édition (1988) lorsque le langage C a été normalisé par l'ANSI (1989) sous le nom équivoque d'ANSI CI.
 - [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française (publiée chez Dunod en 2007). Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
+- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html)
 
 ### Refactoring, travailler sur du code legacy
 
@@ -1330,7 +1330,7 @@ A venir...
 
 A venir...
 
-## Commpilateurs, interpréteurs
+## Compilateurs, interpréteurs
 
 - [Compiler Explorer](https://godbolt.org/), un petit outil en ligne qui transforme votre code en code assembleur sur différentes architectures. Un outil intéressant pour expérimenter.
 - [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj), le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
