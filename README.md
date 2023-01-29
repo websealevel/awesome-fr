@@ -1564,7 +1564,7 @@ A venir...
 - [Design Resources for developers](https://github.com/bradtraversy/design-resources-for-developers),  un autre dépôt maintenant une liste de ressources pour le design/composants web
 - [Web development resources](https://github.com/MilanAryal/web-development-resources), un autre dépôt maintenant une liste de ressources pour le dev
 - [le site de E. Thirion](http://cours.thirion.free.fr/Cours/BaseDeDonnees1/index.php), les cours de E. Thirion sur MySQL. E. Thirion est un chercheur et enseignant en informatique depuis des années et a développé un site pour réunir et partager ses cours sur tout un tas de sujets liés au développement informatique (bases de la programmation, POO, UI, développement web, [bases de données relationnelles](http://cours.thirion.free.fr/Cours/BaseDeDonnees1/index.php), [Merise](http://cours.thirion.free.fr/Cours/Merise/index.php), etc.). Et on l'en remercie.
-
+- [My knowledge wiki (en)](https://wiki.nikiv.dev/), de [Nikita](https://twitter.com/nikitavoloboev), un développeur qui partage toute sa veille sous forme de wiki hébergé sur Github. De quoi creuser dans toutes les directions. Une mine de ressources commentée.
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
