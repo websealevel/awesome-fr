@@ -153,7 +153,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
 			- [Applications XML de prestige](#applications-xml-de-prestige)
-		- [SQL](#sql)
+		- [Standard SQL et bases de données relationnelles](#standard-sql-et-bases-de-données-relationnelles)
 	- [Protocoles](#protocoles)
 		- [SSH](#ssh)
 	- [OS](#os)
@@ -166,7 +166,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Monétiser son travail](#monétiser-son-travail)
 		- [Vendre des templates](#vendre-des-templates)
 		- [Vendre des articles](#vendre-des-articles)
-	- [Bases de données (général)](#bases-de-données-général)
+	- [Quelques SGBD](#quelques-sgbd)
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
@@ -922,7 +922,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Docbook](https://docbook.org/), application XML dédiée à la publication de documents, principalement des articles et des livres d'informatique mais pas que. Le projet a originellement été développé par l'éditeur O'Reilly pour ses éditeurs, il est aujourd'hui maintenu par [OASIS OPEN](https://www.oasis-open.org/), un groupe de collaboration travaillant et maintenant des standards
 - [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du [standard Dita](https://fr.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.) 
 
-### SQL
+### Standard SQL et bases de données relationnelles
 
 - [A Relational Model of Data for Large Shared Data Banks, Edgard Codd (PDF)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwihkqWDrsz8AhXEVaQEHfgyDeIQFnoECBQQAQ&url=https%3A%2F%2Fwww.seas.upenn.edu%2F~zives%2F03f%2Fcis550%2Fcodd.pdf&usg=AOvVaw0HymNIyGsw4MDwPW98GlLb), la publication originale de [Edgard Codd](https://fr.wikipedia.org/wiki/Edgar_Frank_Codd) en 1970, père de l'[algèbre relationnelle](https://fr.wikipedia.org/wiki/Alg%C3%A8bre_relationnelle) et du modèle relationnel
 - [Use the index, Luke !](https://use-the-index-luke.com/), site maintenu par Markus Winand, une référence des bases de données relationnelles. Vous trouverez sur son site une explication complète de l'optimisation et des performences des bases de données relationnelles. Le contenu est dipsonible en ligne ou en PDF.
@@ -931,6 +931,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [The Mother of all Query Languages: SQL in Modern Times | Markus Winand (Conférence)](https://www.youtube.com/watch?v=swR33jIhW8Q), conférence de Markus Winand (Data Natives Berlin, 2018) sur l'état actuel du standard SQL, de l'évolutions de ses différentes implémentations (Oracle, PostgreSQL, MySQL, etc.)
 - [Norme de développement (SQLSpot)](https://www.sqlspot.com/Norme-de-developpement.html), un document complet sur une proposition de conventions et les normes de développement de bases de données relationnelles. Proposé par Frédéric Brouard. Frédéric Brouard [a écrit et co-écrit des ouvrages de référence](https://www.sqlspot.com/Quelques-ouvrages-a-lire-sans-moderation.html) (Pearson Eduction, Campus Press) sur les implémentations du standard SQL, avec [Christian Soutou](https://www.eyrolles.com/Accueil/Auteur/christian-soutou-119/)
 - [Normalisation des noms des objets des bases de données](https://sqlpro.developpez.com/cours/standards/), un autre document HTML plus succint sur les normes et bonnes pratiques de nommage en SQL, par Frédéric Brouard
+- [Cours complet pour apprendre les systèmes de gestion de bases de données](https://sgbd.developpez.com/tutoriels/cours-complet-bases-de-donnees/), un cours complet de [Georges Gardarin](https://www.eyrolles.com/Accueil/Auteur/georges-gardarin-34/) sur les bases relationnelles
+
 
 ## Protocoles
 
@@ -1009,7 +1011,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [linode](https://www.linode.com/lp/write-for-linode/)
 
 
-## Bases de données (général)
+## Quelques SGBD
 
 - [PostgreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
 - [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostgreSQL
@@ -1017,10 +1019,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
 
 
-
 ## Conception de bases de données
 
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
+- [Petit guide d'analyse des données à l'aide de la méthode MERISE](https://sqlpro.developpez.com/cours/modelisation/merise/), par Frédéric Brouard
 
 
 ## Architecture logicielle
