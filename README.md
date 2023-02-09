@@ -473,6 +473,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - les affiches dans la rue
 - le web !
 - [wayback machine](https://web.archive.org/), quoi de mieux que de fouiller dans les archives du web et de parcourir tous ces sites qui n'existent plus ?
+- [Web Design Museum](https://www.webdesignmuseum.org/), découvrez et inspirez-vous des tendances en webdesign parfois oubliées (et qui reviennent, souvent, à la mode)
 - [le design brutaliste (qui revient à la mode)](https://brutalist-web.design/)
 - [cern](https://worldwideweb.cern.ch/browser/), une des premières pages du web
 - [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration 
@@ -932,7 +933,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Norme de développement (SQLSpot)](https://www.sqlspot.com/Norme-de-developpement.html), un document complet sur une proposition de conventions et les normes de développement de bases de données relationnelles. Proposé par Frédéric Brouard. Frédéric Brouard [a écrit et co-écrit des ouvrages de référence](https://www.sqlspot.com/Quelques-ouvrages-a-lire-sans-moderation.html) (Pearson Eduction, Campus Press) sur les implémentations du standard SQL, avec [Christian Soutou](https://www.eyrolles.com/Accueil/Auteur/christian-soutou-119/)
 - [Normalisation des noms des objets des bases de données](https://sqlpro.developpez.com/cours/standards/), un autre document HTML plus succint sur les normes et bonnes pratiques de nommage en SQL, par Frédéric Brouard
 - [Cours complet pour apprendre les systèmes de gestion de bases de données](https://sgbd.developpez.com/tutoriels/cours-complet-bases-de-donnees/), un cours complet de [Georges Gardarin](https://www.eyrolles.com/Accueil/Auteur/georges-gardarin-34/) sur les bases relationnelles
-
+- [Les meilleurs cours et tutoriels pour apprendre le SQL](https://sql.developpez.com/), par les membres de developpez.com. Un grand nombre de cours, tutoriels, exercices sur le sujet
+- Une [sélection de livres](https://sgbd.developpez.com/livres/) par les membres de developpez.com
 
 ## Protocoles
 
