@@ -259,6 +259,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
 		- [Frontend](#frontend-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
+		- [Applications web et réseaux à héberger *soi-même*](#applications-web-et-réseaux-à-héberger-soi-même)
 		- [Conférences](#conférences)
 		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
 		- [Spécifique à une techno](#spécifique-à-une-techno)
@@ -1595,7 +1596,11 @@ A venir...
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
 - [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modélisation de systèmes économiques dans un jeu vidéo.
-  
+
+### Applications web et réseaux à héberger *soi-même*
+
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), un dépôt qui liste des logiciels libres (free software) webs et réseau à herberger soi-même
+
 ### Conférences
 
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
