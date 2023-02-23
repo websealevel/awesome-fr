@@ -206,7 +206,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [*Classiques*](#classiques)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
-		- [Architecture de l'information](#architecture-de-linformation)
+		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
 		- [Wordpress](#wordpress-1)
 		- [Sécurité des applications webs](#sécurité-des-applications-webs)
 		- [Webmaster](#webmaster)
@@ -1235,14 +1235,14 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
 
-### Architecture de l'information
+### Architecture de l'information / Recherche d'information
 
 Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un pionnier de l'architecture informationnelle. Bibliothécaire de formation, il s'est ensuite intéressé au web. Hyper intéressant
 
 - [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.pdfdrive.com/information-architecture-for-the-world-wide-web-designing-large-scale-web-sites-e184621172.html)
 - [Information Architecture: For the Web and Beyond](https://www.pdfdrive.com/information-architecture-for-the-web-and-beyond-e158738770.html)
 - [Search Patterns: Design for Discovery](https://www.pdfdrive.com/search-patterns-design-for-discovery-e159084430.html)
-
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html), le site du libre éponyme, de Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008. La version en ligne est gratuite. Une bonne référence sur les méthodes et différents modèles de recherche d'information
 
 ### Wordpress
 
