@@ -1242,7 +1242,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 - [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.pdfdrive.com/information-architecture-for-the-world-wide-web-designing-large-scale-web-sites-e184621172.html)
 - [Information Architecture: For the Web and Beyond](https://www.pdfdrive.com/information-architecture-for-the-web-and-beyond-e158738770.html)
 - [Search Patterns: Design for Discovery](https://www.pdfdrive.com/search-patterns-design-for-discovery-e159084430.html)
-- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html), le site du livre éponyme, de Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008. La version en ligne est gratuite. Une bonne référence sur les méthodes et différents modèles de recherche d'information
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html), le site du livre éponyme *Introduction to Information Retrieval*, de Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze,  Cambridge University Press. 2008. La version en ligne est *gratuite*. Une bonne référence sur les méthodes et différents modèles de recherche d'information
 
 ### Wordpress
 
