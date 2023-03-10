@@ -191,6 +191,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
+			- [Capture vidéo, audio](#capture-vidéo-audio)
 	- [Programmes linux en vrac](#programmes-linux-en-vrac)
 	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
@@ -772,9 +773,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 ## Hébergement gratuit
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
-- [freehosting](https://freehosting.com)
-- [freehostia](https://freehostia.com)
-- [100webspace](https://100webspace.com)
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
 - [Free web hosting](https://www.infinityfree.net/), héberger vos sites webs **PHP,MySQL** (ou HTML) hébergé gratuitement et sans pub. Pas de limites de sites, nom de domaine gratuit ou ajouter le votre. 5GB d'espace libre, bande passante illimitée, SSL gratuit
 - [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
@@ -1158,6 +1156,10 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 #### Compresser, optimiser des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
+
+#### Capture vidéo, audio
+
+- [simplescreenrecorder](https://www.maartenbaert.be/simplescreenrecorder/), excellent logiciel libre de capture vidéo/audio (screencast), développé par Maarten Baert. Très simple à utiliser et à configurer
 
 ## Programmes linux en vrac
 
