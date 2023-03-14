@@ -431,14 +431,12 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Gradients
 
-- [ui gradients](uigradients.com)
+- [CSS Gradient](https://cssgradient.io/), le générateur de gradient
 - [grabient](https://www.grabient.com/)
-- [easing-gradients](https://larsenwork.com/easing-gradients/)
 - [grainy gradients playground](https://t.co/MtQzCPpwr5), des gradients pointillistes
 
 ### Générateur de mise en page / *layouts*
 
-- [css grid generator](https://css-generator.netlify.app/)
 - [layout generator](https://grid.layoutit.com/)
 - [flexbox builder](https://flexbox.webflow.com/)
 
