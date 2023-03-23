@@ -1247,7 +1247,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), une synthèse de David Gayerie sur REST de grande qualité, avec une bibliographie utile
 - [Welcome to the REST CookBook](https://restcookbook.com/)
 - [How to get a cup of coffe (in REST)](https://www.infoq.com/articles/webber-rest-workflow/)
-- [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), publié par le W3C Recommendation, 2004. La *bible* sur l'architecture du web et sur les technologies du web (HTTP, HTML et URL)
+- [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), publié par le W3C, 2004. La *bible* sur l'architecture du web et sur les technologies du web (HTTP, HTML et URL)
 
 ### Blog design
 
