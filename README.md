@@ -1244,7 +1244,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 
 ### REST 
 
-- [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), 
+- [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), une synthèse de David Gayerie sur REST de grande qualité, avec une bibliographie utile
 - [Welcome to the REST CookBook](https://restcookbook.com/)
 - [How to get a cup of coffe (in REST)](https://www.infoq.com/articles/webber-rest-workflow/)
 
