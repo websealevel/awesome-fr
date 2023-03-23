@@ -156,6 +156,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Standard SQL et bases de données relationnelles](#standard-sql-et-bases-de-données-relationnelles)
 	- [Protocoles](#protocoles)
 		- [SSH](#ssh)
+		- [HTTP](#http)
 	- [OS](#os)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
@@ -211,7 +212,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Wordpress](#wordpress-1)
 		- [Sécurité des applications webs](#sécurité-des-applications-webs)
 		- [Webmaster](#webmaster)
-		- [HTTP](#http)
+		- [HTTP](#http-1)
 		- [Perl](#perl-1)
 		- [Test driven development](#test-driven-development)
 		- [Programmation CGI](#programmation-cgi)
@@ -940,6 +941,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 - [The Ultimate Guide to SSH - Setting Up SSH Keys](https://www.freecodecamp.org/news/the-ultimate-guide-to-ssh-setting-up-ssh-keys/)
 
+### HTTP
+
+- [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching), une synthèse sur l'implémentation du cache du protocole HTTP. Attention, [tous les navigateurs n'implémentent pas le standard au même point](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control#browser_compatibility).
+- [Un tutoriel de la mise en cache](https://www.mnot.net/cache_docs/), un très bon tutoriel en français de Mark Nottingham sur la mise en cache du protocole HTTP
 
 ## OS
 
