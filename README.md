@@ -208,7 +208,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [*Classiques*](#classiques)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
-		- [REST](#rest)
+		- [REST, Architecture of the world wide web](#rest-architecture-of-the-world-wide-web)
 		- [Blog design](#blog-design)
 		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
 		- [Wordpress](#wordpress-1)
@@ -1242,11 +1242,12 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
 
-### REST 
+### REST, Architecture of the world wide web
 
 - [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), une synthèse de David Gayerie sur REST de grande qualité, avec une bibliographie utile
 - [Welcome to the REST CookBook](https://restcookbook.com/)
 - [How to get a cup of coffe (in REST)](https://www.infoq.com/articles/webber-rest-workflow/)
+- [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), publié par le W3C Recommendation, 2004. La *bible* sur l'architecture du web et sur les technologies du web (HTTP, HTML et URL)
 
 ### Blog design
 
