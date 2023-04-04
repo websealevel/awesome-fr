@@ -959,7 +959,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 Des documents décrivant les aspects et spécifications techniques d'Internet. La *source*, et des lectures arides mais très intéressantes quand on prend le temps de fouiller certaines sections. Certains d'entre eux définissent des standards.
 
-- [Draft: JSON Hypertext Application Language](https://datatracker.ietf.org/doc/html draft-kelly-json-hal-08#section-4.1.2), par M.Kelly
+- [Draft: JSON Hypertext Application Language](https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08), par M.Kelly
 - [RFC 9110: HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
 - [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](https://www.rfc-editor.org/rfc/rfc3986.txt), par T. Berners-Lee, R.Fielding et al.
 - [RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://www.rfc-editor.org/rfc/rfc7231#section-3), par R. Fielding, J. Reschke
