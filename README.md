@@ -158,6 +158,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [SSH](#ssh)
 		- [HTTP](#http)
 	- [OS](#os)
+	- [*Request Form Comments* (RFC), *drafts* et W3C](#request-form-comments-rfc-drafts-et-w3c)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
 		- [JavaScript](#javascript)
@@ -953,6 +954,15 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Minix 3](https://www.minix3.org/), OS développé par S. Tanenbaum dont s'est inspiré Linus Torvalds pour créer le noyau Linux. OS destiné au départ à des fins pédagogiques, notamment via le livre [Operating Systems Design and Implementation, 3rd edition](https://www.pearson.com/en-us/subject-catalog/p/operating-systems-design-and-implementation/P200000003167?view=educator)
 
 - [Minix 3, background](https://wiki.minix3.org/doku.php?id=www:documentation:brown), un article très intéressant de Tanenbaum sur l'histoire des OS *Unix-like*, de Minix, de ses rapports avec l'équipe Unix du Bell Labs (Ken Thompson, Dennis Ritchie, Weinberger, etc.) et de Linux.
+
+## *Request Form Comments* (RFC), *drafts* et W3C
+
+- [Draft: JSON Hypertext Application Language](https://datatracker.ietf.org/doc/html draft-kelly-json-hal-08#section-4.1.2), par M.Kelly
+- [RFC 9110: HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
+- [RFC 3986: Uniform Resource Identifier (URI): Generic Syntax](https://www.rfc-editor.org/rfc/rfc3986.txt), par T. Berners-Lee, R.Fielding et al.
+- [RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://www.rfc-editor.org/rfc/rfc7231#section-3), par R. Fielding, J. Reschke
+- [W3C: Cool URIs don't change](https://www.w3.org/Provider/Style/URI.html), par Tim Berners-Lee
+- [W3C: Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), écrit par le *W3C Technical Architecture Group*, which included the following participants: Tim Berners-Lee (co-Chair, W3C), Tim Bray (Antarctica Systems), Dan Connolly (W3C), Paul Cotton (Microsoft Corporation), Roy Fielding (Day Software), Mario Jeckle (Daimler Chrysler), Chris Lilley (W3C), Noah Mendelsohn (IBM), David Orchard (BEA Systems), Norman Walsh (Sun Microsystems), and Stuart Williams (co-Chair, Hewlett-Packard).
 
 
 ## Spécifiques à un langage/écosystème
