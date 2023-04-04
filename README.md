@@ -158,7 +158,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [SSH](#ssh)
 		- [HTTP](#http)
 	- [OS](#os)
-	- [*Request Form Comments* (RFC), *drafts* et W3C](#request-form-comments-rfc-drafts-et-w3c)
+	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
 		- [JavaScript](#javascript)
@@ -955,7 +955,9 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [Minix 3, background](https://wiki.minix3.org/doku.php?id=www:documentation:brown), un article très intéressant de Tanenbaum sur l'histoire des OS *Unix-like*, de Minix, de ses rapports avec l'équipe Unix du Bell Labs (Ken Thompson, Dennis Ritchie, Weinberger, etc.) et de Linux.
 
-## *Request Form Comments* (RFC), *drafts* et W3C
+## *Request For Comments* (RFC), *drafts* et W3C
+
+Des documents décrivant les aspects et spécifications techniques d'Internet. La *source*, et des lectures arides mais très intéressantes quand on prend le temps de fouiller certaines sections. Certains d'entre eux définissent des standards.
 
 - [Draft: JSON Hypertext Application Language](https://datatracker.ietf.org/doc/html draft-kelly-json-hal-08#section-4.1.2), par M.Kelly
 - [RFC 9110: HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
