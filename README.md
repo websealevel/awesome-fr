@@ -209,7 +209,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [*Classiques*](#classiques)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
-		- [REST, Architecture of the world wide web](#rest-architecture-of-the-world-wide-web)
+		- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
 		- [Blog design](#blog-design)
 		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
 		- [Wordpress](#wordpress-1)
@@ -1255,12 +1255,22 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
 
-### REST, Architecture of the world wide web
+### REST, *Architecture of the World Wide Web*
+
+Ressources sur les contraintes REST à la base de l'architecture du web et sur le design de web API *RESTful*
 
 - [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), une synthèse de David Gayerie sur REST de grande qualité, avec une bibliographie utile
 - [Welcome to the REST CookBook](https://restcookbook.com/)
 - [How to get a cup of coffe (in REST)](https://www.infoq.com/articles/webber-rest-workflow/)
 - [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), publié par le W3C, 2004. La *bible* sur l'architecture du web et sur les technologies du web (HTTP, HTML et URL)
+- [Schema.org](https://schema.org/), *Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for *structured data* on the Internet*. Propose une liste de schémas à suivre pour différents modèles de données
+- [Microformats wiki](http://microformats.org/wiki/Main_Page), un wiki qui décrit des specifications de structure de données interopérables 
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
+- [OpenAPI Specification](https://spec.openapis.org/oas/latest.html), *The OpenAPI Specification (OAS)* defines a standard, programming language-agnostic interface description for HTTP APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic. C'est la spécification que suit l'outil [Swagger](https://swagger.io/)
+- [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven), billet de blog de Roy T. Fiedling très intéressant sur le fait qu'une API RESTful doit être orientée *hypertexte* (ou de manière générale par les *hypermédia*)
+- [JSON Hypertext Application Language draft-kelly-json-hal-08](https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08#section-8.1), HAL representation pour les modèles de données. Une proposition de standard
+- [API RESTful, spécification des schémas de données *HAL*](http://amundsen.com/hypermedia/), les différents types d'hypermédia définis pour le protocole HTTP et pour construire des API plus robustes. Le livre de l'auteur [Building Hypermedia APIs with HTML5 and Node](https://learning.oreilly.com/library/view/building-hypermedia-apis/9781449309497/), Amundsen, a l'air très intéressant
+- [API RESTful, spécification des schémas de données *JSON-LD 1.1*, *A JSON-based Serialization for Linked Data*](https://www.w3.org/TR/json-ld/), une autre spécification des données renvoyées par une API, soutenue et recommandée par le W3C
 
 ### Blog design
 
