@@ -144,6 +144,8 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
+	- [Édition vidéo](#édition-vidéo)
+	- [Screencast (capture vidéo)](#screencast-capture-vidéo)
 	- [Principes généraux et fondamentaux de programmation](#principes-généraux-et-fondamentaux-de-programmation)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
@@ -811,6 +813,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 - [github desktop-linux fork](https://github.com/shiftkey/desktop), la même mais porté sur linux
 - [sourceTree](https://www.sourcetreeapp.com/), un autre client mais dispo que sur Windows et Mac :/
 
+
 ### Déploiement
 
 - [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez de devoir déployer en ftp, il y a de meilleures alternatives pour moins de charge mentale). ça dépanne toujours
@@ -866,6 +869,15 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
 - [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
 - [En quoi l'open source perd de vue l'éthique du logiciel libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html), article originellement publié par Richard Stallman sous le titre *Why Open Source Misses the Point of Free Software*. Pour bien comprendre les différences philosophiques profondes entre les deux mouvements et aussi les différences pratiques
+
+
+## Édition vidéo
+
+- [Pitivi](https://www.pitivi.org/tour/), très bon éditeur vidéo open-source, simple à utiliser, avec beaucoup de fonctionnalités avancées et puissant (notamment à l'export impeccable)
+
+## Screencast (capture vidéo)
+
+- [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), un très bon logiciel, simple et complet, de capture vidéo de son écran et du son, parfait pour enregistrer des screencasts et des tutos.
 
 
 ## Principes généraux et fondamentaux de programmation
