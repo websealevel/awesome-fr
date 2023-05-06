@@ -1262,6 +1262,14 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 
 ### Scheme (List dialect)
 
+- [Scheme interpreter online](https://inst.eecs.berkeley.edu/~cs61a/fa14/assets/interpreter/scheme.html), un interpréteur Scheme mis en ligne par l'université de Berkeley. Pratique pour tester rapidement
+- [Why Scheme ? Installing MIT-Scheme](https://www.shido.info/lisp/scheme1_e.html), page de documentation officielle pour installer Scheme
+- [Installation macOS: Homebrew Scheme](https://formulae.brew.sh/formula/mit-scheme), page d'intallation de Scheme sous macOS via le gestionnaire de paquets Homebrew
+- [Installation GNU/Linux](https://www.gnu.org/software/mit-scheme/), installation de Scheme sous GNU/Linux
+- [Installation sur Windows (via WSL)](https://www.gnu.org/software/mit-scheme/)
+- [Introduction aux fonctions en Scheme](https://www.shido.info/lisp/scheme4_e.html)
+- [Structure and interpretation of computer programs, 2nd edition, en ligne, HTML](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html), l'édition web gratuite et complète du très grand livre d'Abelson, Gerald Jay et Julie Sussman (MIT Press, 1996)
+
 ### Arduino
 
 ## Ebooks
