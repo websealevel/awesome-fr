@@ -281,7 +281,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Apprendre](#apprendre)
 		- [API](#api)
 		- [Inclassables](#inclassables-1)
-		- [Lecture : articles, bouquins](#lecture--articles-bouquins)
+		- [Lecture : articles, livres techniques](#lecture--articles-livres-techniques)
 		- [Vendre](#vendre)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
@@ -1477,6 +1477,8 @@ A venir...
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
+- [Is Software Engineering Still an Oxymoron? GOTO 2021 ](https://www.youtube.com/watch?v=D43PlUr1x_E), conférence organique et transdisciplinaire d'Alan Key le lien entre le développement informatique, l'ingénieurie et la science.
+- [Rethinking CS Education | Alan Kay, CrossRoads 2015 ](https://www.youtube.com/watch?v=N9c7_8Gp7gI), conférence d'Alan Key sur le système éducatif et la manière de former au développement informatique avec beaucoup de recul
 
 ### La vérité par l'humour
 
@@ -1752,7 +1754,7 @@ A venir...
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line), s'améliorer en ligne de commande
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate), un template de départ professionnel pour vos fichiers html
 
-### Lecture : articles, bouquins
+### Lecture : articles, livres techniques
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
@@ -1766,6 +1768,7 @@ A venir...
 
 - [livres gratuits pour les designers](https://www.lapa.ninja/book/)
 - [Free books center](http://www.freebookcentre.net/), des liens vers des centaines de livres techniques gratuits
+- [Programming Books: An Ordered and Curated Reading List for Software Craftsmanship Growth](https://www.programmingbooks.dev/), une liste de livres d'informatique classée par niveaux, par [Cenny Davidsson](https://www.programmingbooks.dev/about/)
 
 
 ### Vendre
