@@ -231,6 +231,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 		- [Public enfant](#public-enfant)
 		- [Public adulte](#public-adulte)
+	- [*Hacker* culture](#hacker-culture)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [Articles en vrac](#articles-en-vrac)
@@ -1402,6 +1403,14 @@ A venir...
 ### Public adulte
 
 A venir...
+
+## *Hacker* culture
+
+
+- [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html), manuel et synthèse de Eric S Raymond sur la culture du [hacking](http://www.catb.org/jargon/html/meaning-of-hack.html) (au sens original du mot)
+- [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/), de Eric S Raymond
+- [ Eric's Random Writings ](http://www.catb.org/~esr/writings/), la liste des textes et essais publiés par Eric S Raymond, célèbre hacker, porteur du mouvement open-source et auteur de l'essai [La cathédrale et le bazar](http://www.catb.org/~esr/writings/cathedral-bazaar/), une synthèse sur la dynamique, la culture et les principes des hackers dans le mouvement de l'open source
+  
 
 ## Compilateurs, interpréteurs
 
