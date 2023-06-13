@@ -1073,6 +1073,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 - [Petit guide d'analyse des données à l'aide de la méthode MERISE](https://sqlpro.developpez.com/cours/modelisation/merise/), par Frédéric Brouard
 - [Règle de gestion bien écrite => Modélisation des données facile](https://blog.developpez.com/cinephil/p10397/bases-de-donnees/regle_de_gestion_bien_ecrite_g_modelisat), par CinéPhil, modérateur actif de developpez.com
+- [Le Dictionnaire de Données](https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html), article utile de Pr. Nacer-Eddine Zarour et Dr. Mohamed El Hadi Benelhadj sur l'écriture du dictionnaire de données
 
 ## Architecture logicielle
 
