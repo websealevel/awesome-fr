@@ -822,7 +822,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 ### Simulateur de terminal
 
-- [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows
+- [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows. On lui préférera aujourd'hui le [WSL2](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
 ### Design
 
@@ -1038,13 +1038,15 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 ### Vendre des templates
 
-- [themeforest.net](https://themeforest.net/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
-- [monsterone.com](https://monsterone.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
-- [codester.com](https://www.codester.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
-- [creativemarket.com](https://creativemarket.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
-- [designhill.com](https://www.designhill.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
-- [templatemonster.com](https://www.templatemonster.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
-- [mojomarketplace.com](https://www.mojomarketplace.com/), vendre des templates HTML/CSS/JS, plugins, graphismes etc.
+Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
+
+- [themeforest.net](https://themeforest.net/)
+- [monsterone.com](https://monsterone.com/).
+- [codester.com](https://www.codester.com/)
+- [creativemarket.com](https://creativemarket.com/)
+- [designhill.com](https://www.designhill.com/)
+- [templatemonster.com](https://www.templatemonster.com/)
+- [mojomarketplace.com](https://www.mojomarketplace.com/)
 
 ### Vendre des articles
 
