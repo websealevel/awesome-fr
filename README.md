@@ -869,7 +869,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
 - [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
 - [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
-- [En quoi l'open source perd de vue l'éthique du logiciel libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html), article originellement publié par Richard Stallman sous le titre *Why Open Source Misses the Point of Free Software*. Pour bien comprendre les différences philosophiques profondes entre les deux mouvements et aussi les différences pratiques
+- [En quoi l'open source perd de vue l'éthique du logiciel libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html), article originellement publié par Richard Stallman sous le titre *Why Open Source Misses the Point of Free Software*. Pour bien comprendre les différences philosophiques et pratiques dans des cas très concrets entre les deux mouvements
 
 
 ## Édition vidéo
