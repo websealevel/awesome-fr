@@ -1041,7 +1041,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 
 - [themeforest.net](https://themeforest.net/)
-- [monsterone.com](https://monsterone.com/).
+- [monsterone.com](https://monsterone.com/)
 - [codester.com](https://www.codester.com/)
 - [creativemarket.com](https://creativemarket.com/)
 - [designhill.com](https://www.designhill.com/)
