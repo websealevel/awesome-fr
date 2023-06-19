@@ -1552,12 +1552,12 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 ### Playlists
 
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
+- [Playlist de conférences et vidéos informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
-- [Playlist de conférences en informatique](https://www.youtube.com/watch?v=Tb823aqgX_0&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une liste de conférences sur différents sujets en info, maintenue par mes propres soins
 - [DevFest Nantes 2022](https://www.youtube.com/watch?v=rQaEzZIZIRg&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
 - [Forum PHP 2022 (AFUP)](https://www.youtube.com/watch?v=nxs55WKRyQs&list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj)
-- [Playlist de conférences en informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
+
 
 ### Computer graphics et art génératif
 
