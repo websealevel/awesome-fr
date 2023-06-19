@@ -71,7 +71,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Partagez](#partagez)
 	- [Table des matières](#table-des-matières)
 	- [Frontend](#frontend)
-		- [*Tout-en-un*, agrégateurs de ressources pour le *front*](#tout-en-un-agrégateurs-de-ressources-pour-le-front)
+		- [Agrégateurs de ressources pour le *front*](#agrégateurs-de-ressources-pour-le-front)
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
@@ -289,7 +289,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 
 ## Frontend
 
-### *Tout-en-un*, agrégateurs de ressources pour le *front*
+### Agrégateurs de ressources pour le *front*
 
 - [uxtools.co](https://uxtools.co/), un hub des outils, tendances, design pour les designer. Organisent des sondages tous les ans.
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
@@ -345,6 +345,8 @@ Quelques lectures sur des aspects techniques de la typographie:
 
 ### Palettes de couleurs
 
+Faites votre choix
+
 - [open color](https://yeun.github.io/open-color/), le dictionnaire larousse des couleurs
 - [coloors](https://coolors.co/), fouiller ce site il vous offre toute une palette d'outils incroyables autre que les palettes de couleurs
 - [colorspace](https://mycolor.space/), generateur de palettes de couleurs stylé
@@ -359,6 +361,8 @@ Quelques lectures sur des aspects techniques de la typographie:
 - [randomally](https://randoma11y.com/), générateur de combinaisons de couleurs
 
 ### Pack d'icones/favicons
+
+Faites votre choix
 
 - [favicon generator](https://favicon.io/)
 - [icomoon](https://icomoon.io/)
@@ -439,15 +443,13 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Gradients
 
-- [CSS Gradient](https://cssgradient.io/), le générateur de gradient
-- [grabient](https://www.grabient.com/)
-- [grainy gradients playground](https://t.co/MtQzCPpwr5), des gradients pointillistes
+- [CSS Gradient](https://cssgradient.io/), un générateur de gradient
+- [grainy gradients playground](https://t.co/MtQzCPpwr5), un générateur de gradients pointillistes
 
 ### Générateur de mise en page / *layouts*
 
 - [layout generator](https://grid.layoutit.com/)
 - [flexbox builder](https://flexbox.webflow.com/)
-
 
 ### Courbes de Bézier
 
