@@ -239,6 +239,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Papiers en vrac](#papiers-en-vrac)
 	- [Blogs en vrac](#blogs-en-vrac)
 	- [Podcasts en vrac](#podcasts-en-vrac)
+	- [Cours en vrac](#cours-en-vrac)
 	- [Vidéo](#vidéo)
 		- [Conférences en vrac](#conférences-en-vrac)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
@@ -1450,6 +1451,9 @@ A venir...
 
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans la construction de systèmes d'information
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
+- [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf), un papier de Brian Kernighan sur la thèse perdue de Dennis Ritchie et comment a-t-il pu la mettre en page étant donné sa complexité typographique et les programmes de préparation de document de l'époque
+- [Document preparation archeology](https://www.cs.princeton.edu/~bwk/202/index.html), Brian Kernighan explore les premiers travaux et programmes dédiés à la préparation de document et à la typographie informatique
+
 
 ## Blogs en vrac
 
@@ -1479,6 +1483,10 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [The freelancer podcast (en)](https://studywebdevelopment.com/podcast.html), podcast qui traitent de sujets qui intéresseront les développeurs/designer freelance
 - [L’actualité de la Tech à travers 49 podcasts francophones](https://blog.link-value.fr/actualite-tech-podcasts-9b327345e3af), liste de podcasts web, mobile, ops, etc. francophones
 
+
+## Cours en vrac
+
+- [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
 
 ## Vidéo
 
