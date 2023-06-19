@@ -1453,6 +1453,8 @@ A venir...
 
 ## Blogs en vrac
 
+Le coeur du web, c'est les blogs et les pages personnelles.
+
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
 - [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
 - [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
@@ -1464,6 +1466,7 @@ A venir...
 - [codefol.io](https://codefol.io/about/), le blog d'un développeur de 40 ans d'experience
 - [DaedTech: stories about Software](https://daedtech.com/), d'Erik Dietrich
 - [Samwho](https://samwho.dev/blog), le blog de Sam. Écrit sur la répartition de charges, l'allocation mémoire et d'autres sujets
+- [Page personnelle de Brian Kernighan](https://www.cs.princeton.edu/~bwk/), publications, recherche, cours, livres de Brian Kernighan
 
 ## Podcasts en vrac
 
@@ -1569,7 +1572,8 @@ A venir...
 
 - [suckless](http://suckless.org/philosophy/)
 - [POSSE](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité
- - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente 
+- [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente 
+- [mother fucking websites](https://duckduckgo.com/?q=motherfuckung+website+&t=fpas&ia=web), les forks de l'original qui surencherissent avec humour
 - [The Duct Tape Programmer (en)](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), article
 - [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
