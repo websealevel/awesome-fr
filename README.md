@@ -1461,6 +1461,7 @@ A venir...
 - [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
 - [codefol.io](https://codefol.io/about/), le blog d'un développeur de 40 ans d'experience
 - [DaedTech: stories about Software](https://daedtech.com/), d'Erik Dietrich
+- [Samwho](https://samwho.dev/blog), le blog de Sam. Écrit sur la répartition de charges, l'allocation mémoire et d'autres sujets
 
 ## Podcasts en vrac
 
