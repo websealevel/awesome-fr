@@ -160,6 +160,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [SSH](#ssh)
 		- [HTTP](#http)
 	- [OS](#os)
+	- [Infrastructure](#infrastructure)
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
@@ -968,6 +969,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Minix 3](https://www.minix3.org/), OS développé par S. Tanenbaum dont s'est inspiré Linus Torvalds pour créer le noyau Linux. OS destiné au départ à des fins pédagogiques, notamment via le livre [Operating Systems Design and Implementation, 3rd edition](https://www.pearson.com/en-us/subject-catalog/p/operating-systems-design-and-implementation/P200000003167?view=educator)
 
 - [Minix 3, background](https://wiki.minix3.org/doku.php?id=www:documentation:brown), un article très intéressant de Tanenbaum sur l'histoire des OS *Unix-like*, de Minix, de ses rapports avec l'équipe Unix du Bell Labs (Ken Thompson, Dennis Ritchie, Weinberger, etc.) et de Linux.
+
+## Infrastructure
+
+- [Load Balancing](https://samwho.dev/load-balancing/), un article bien fait avec visualisations sur les répartiteurs de charge (*load balancer*) et les différentes stratégies d'implémentation
 
 ## *Request For Comments* (RFC), *drafts* et W3C
 
