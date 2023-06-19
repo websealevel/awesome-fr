@@ -1484,6 +1484,9 @@ A venir...
 - [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
 - [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
 - [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
+- [Is Software Engineering Still an Oxymoron? GOTO 2021 ](https://www.youtube.com/watch?v=D43PlUr1x_E), conférence organique et transdisciplinaire d'Alan Key le lien entre le développement informatique, l'ingénieurie et la science.
+- [Rethinking CS Education | Alan Kay, CrossRoads 2015 ](https://www.youtube.com/watch?v=N9c7_8Gp7gI), conférence d'Alan Key sur le système éducatif et la manière de former au développement informatique avec beaucoup de recul
+- [The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY),  Alan Kay at OOPSLA 1997, toujours très transversal, sur les origines de l'OOP et ses ambitions initiales (produire des sytèmes à grande échelle)
 - [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP (Same Origin Policy) merveilleusement bien expliquée. La vidéo de référence sur le sujet. Une spécification implémentée par les navigateurs, à connaître (au moins vaguement) pour tous les développeurs (front ou back)
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald (le type est insupportable) mais faut avouer qu'il est vraiment intéressant
 - [Noise based RNG](https://youtu.be/LWFzPP8ZbdU), une conférence intéressante sur la manière de produire de l'aléatoire de manière satisfaisante
@@ -1495,8 +1498,7 @@ A venir...
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
-- [Is Software Engineering Still an Oxymoron? GOTO 2021 ](https://www.youtube.com/watch?v=D43PlUr1x_E), conférence organique et transdisciplinaire d'Alan Key le lien entre le développement informatique, l'ingénieurie et la science.
-- [Rethinking CS Education | Alan Kay, CrossRoads 2015 ](https://www.youtube.com/watch?v=N9c7_8Gp7gI), conférence d'Alan Key sur le système éducatif et la manière de former au développement informatique avec beaucoup de recul
+
 
 ### La vérité par l'humour
 
