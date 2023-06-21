@@ -615,6 +615,8 @@ Aller sur le dépôt puis
 
 - [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
 - [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
+- [HandBrake](https://handbrake.fr/), un converteur vidéo open source pour convertir et compresser vos vidéos en utilisant les meilleurs algorithmes de compression
+- [Shrink my video!](https://acailly.github.io/shrink-my-video/), un outil en ligne pour compresser facilement vos vidéos (préférer handbrake pour faire tout le travail en local si possible)
 
 
 ## Environnements d'apprentissage interactifs
