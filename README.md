@@ -103,7 +103,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 			- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
 	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
-	- [Édition image/vidéo](#édition-imagevidéo)
 	- [Environnements d'apprentissage interactifs](#environnements-dapprentissage-interactifs)
 		- [git](#git)
 		- [CSS grid](#css-grid)
@@ -144,8 +143,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
-	- [Édition vidéo](#édition-vidéo)
-	- [Screencast (capture vidéo)](#screencast-capture-vidéo)
+	- [Capture/Édition vidéo](#captureédition-vidéo)
 	- [Principes généraux et fondamentaux de programmation](#principes-généraux-et-fondamentaux-de-programmation)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
@@ -611,14 +609,6 @@ Aller sur le dépôt puis
 - essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
 - est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
 
-## Édition image/vidéo
-
-- [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
-- [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
-- [HandBrake](https://handbrake.fr/), un converteur vidéo open source pour convertir et compresser vos vidéos en utilisant les meilleurs algorithmes de compression
-- [Shrink my video!](https://acailly.github.io/shrink-my-video/), un outil en ligne pour compresser facilement vos vidéos (préférer handbrake pour faire tout le travail en local si possible)
-
-
 ## Environnements d'apprentissage interactifs
 
 ### git
@@ -879,22 +869,21 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [En quoi l'open source perd de vue l'éthique du logiciel libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html), article originellement publié par Richard Stallman sous le titre *Why Open Source Misses the Point of Free Software*. Pour bien comprendre les différences philosophiques et pratiques dans des cas très concrets entre les deux mouvements
 
 
-## Édition vidéo
+## Capture/Édition vidéo
 
 - [Pitivi](https://www.pitivi.org/tour/), très bon éditeur vidéo open-source, simple à utiliser, avec beaucoup de fonctionnalités avancées et puissant (notamment à l'export impeccable)
-
-## Screencast (capture vidéo)
-
+- [unscreen](https://www.unscreen.com/), retirer l'arrière plan d'une vidéo en ligne (automatique)
+- [ffmpeg](https://ffmpeg.org/), collection de logiciels libres maintenus depuis les années 2000 pour manipuler les flux audio et vidéo. Indispensable
+- [HandBrake](https://handbrake.fr/), un converteur vidéo open source pour convertir et compresser vos vidéos en utilisant les meilleurs algorithmes de compression
+- [Shrink my video!](https://acailly.github.io/shrink-my-video/), un outil en ligne pour compresser facilement vos vidéos (préférer handbrake pour faire tout le travail en local si possible)
 - [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), un très bon logiciel, simple et complet, de capture vidéo de son écran et du son, parfait pour enregistrer des screencasts et des tutos.
-
+- [OBS Studio](https://obsproject.com/fr), logiciel libre d'enregistremetn vidéo et de streaming en direct multiplateforme
 
 ## Principes généraux et fondamentaux de programmation
 
 - [What Every Programmer Should Know About Floating-Point Arithmetic](https://floating-point-gui.de/)
 
-
 ## Standards
-
 
 ### Organismes
 
