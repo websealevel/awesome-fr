@@ -176,6 +176,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
+	- [Développement informatique et écologie (ecoconception)](#développement-informatique-et-écologie-ecoconception)
 	- [Perl](#perl)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
 		- [Général](#général)
@@ -1092,6 +1093,12 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 ## Développement informatique et science académique
 
 - [Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745), un papier en libre accès sur les pratiques recommandées pour le développement, la distribution et la maintenance de logiciels dans le milieu académique
+
+## Développement informatique et écologie (ecoconception)
+
+Voir aussi [les approches radicales et les fondements du web](#fondamentaux-radical)
+
+- [Comment minimiser l’impact des vidéos dans nos sites web ?](https://www.editions-eni.fr/blog/comment-minimiser-limpact-des-videos-dans-nos-sites-web/), un excellent article d'[Hervé Boisgontier](https://www.editions-eni.fr/herve-boisgontier) et Boris Butaeye sur les moyens à mettre en oeuvre pour limiter l'impact environnemental des contenus vidéos distribués sur le web. Écrit 
 
 ## Perl
 
