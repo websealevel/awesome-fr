@@ -485,7 +485,8 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [wayback machine](https://web.archive.org/), quoi de mieux que de fouiller dans les archives du web et de parcourir tous ces sites qui n'existent plus ?
 - [Web Design Museum](https://www.webdesignmuseum.org/), découvrez et inspirez-vous des tendances en webdesign parfois oubliées (et qui reviennent, souvent, à la mode)
 - [le design brutaliste (qui revient à la mode)](https://brutalist-web.design/)
-- [cern](https://worldwideweb.cern.ch/browser/), une des premières pages du web
+- [cern](https://worldwideweb.cern.ch/browser/), un aperçu du premier navigateur web WorldWideWeb
+- [first website](http://info.cern.ch/hypertext/WWW/TheProject.html), première page web publique du web
 - [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration 
 - [brutalistwebsites](https://brutalistwebsites.com/), une collection de sites dont le design se revendique du mouvement [brutaliste](https://fr.wikipedia.org/wiki/Brutalisme)
 - [land-book](https://land-book.com/)
