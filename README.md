@@ -190,6 +190,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Présentations, diapos](#présentations-diapos)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
+	- [Écriture technique](#écriture-technique)
 	- [Boîte à outils](#boîte-à-outils)
 		- [`Sed`](#sed)
 		- [`sloccount`](#sloccount)
@@ -1192,6 +1193,11 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 - [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
 - [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
 - [ghostwriter](https://wereturtle.github.io/ghostwriter/index.html), un éditeur markdown open-source *distraction-free*, très agréable, minimaliste et configurable.
+
+## Écriture technique
+
+- [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
+- [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 
 ## Boîte à outils
 
