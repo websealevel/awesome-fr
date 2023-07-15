@@ -172,6 +172,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Vendre des articles](#vendre-des-articles)
 	- [Quelques SGBD](#quelques-sgbd)
 	- [Conception de bases de données](#conception-de-bases-de-données)
+	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
 	- [Développement informatique et écologie (ecoconception)](#développement-informatique-et-écologie-ecoconception)
@@ -1077,6 +1078,12 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 - [Petit guide d'analyse des données à l'aide de la méthode MERISE](https://sqlpro.developpez.com/cours/modelisation/merise/), par Frédéric Brouard
 - [Règle de gestion bien écrite => Modélisation des données facile](https://blog.developpez.com/cinephil/p10397/bases-de-donnees/regle_de_gestion_bien_ecrite_g_modelisat), par CinéPhil, modérateur actif de developpez.com
 - [Le Dictionnaire de Données](https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html), article utile de Pr. Nacer-Eddine Zarour et Dr. Mohamed El Hadi Benelhadj sur l'écriture du dictionnaire de données
+- [Associations réflexives](http://cours.thirion.free.fr/Cours/Merise/Asso-Refl-Cours.php), très bonne page web sur les associations réflexives en Merise, par E. Thirion 
+
+## Outils de conception de base de données
+
+- [AnalyseSI](https://launchpad.net/analysesi), un outil open-source *distraction-free* basé sur Merise 1 pour modéliser une base de données (MCD) et produire un MPD et scripts SQL
+- [Oracle SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/), outil graphique complet et plus complexe pour la conception de base de données, proposé par Oracle
 
 ## Architecture logicielle
 
