@@ -1198,6 +1198,7 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 - [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
 - [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
+- [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents technique
 
 ## Boîte à outils
 
