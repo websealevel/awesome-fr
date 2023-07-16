@@ -209,7 +209,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
 		- [Scheme (List dialect)](#scheme-list-dialect)
-		- [Arduino](#arduino)
 	- [Ebooks](#ebooks)
 		- [*Classiques*](#classiques)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -260,9 +259,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Inclassables](#inclassables)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
-	- [Contenu, écriture](#contenu-écriture)
 	- [Correction](#correction)
-		- [Copywriting](#copywriting)
 	- [Trouver du boulot](#trouver-du-boulot)
 		- [A distance (*remote*)](#a-distance-remote)
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
@@ -930,6 +927,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [XML Tutorial, W3C Schools](https://www.w3schools.com/xml/)
 - [XML Facile !](http://www.xmlfacile.com/)
 - [XML in a nutshell, A Desktop Quick Reference](https://www.pdfdrive.com/xml-in-a-nutshell-e54427253.html)
+- [La DTD et son langage XML](https://www.cairn.info/revue-ela-2005-1-page-73.htm), article publié par [cairn.info](https://www.cairn.info/), pour le domaine de l'édition
 
 
 #### Applications XML de prestige
@@ -1199,6 +1197,7 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 - [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
 - [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 - [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents technique
+- [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
 
 ## Boîte à outils
 
@@ -1299,7 +1298,6 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 - [Installation sur Windows (via WSL)](https://www.gnu.org/software/mit-scheme/)
 
 
-### Arduino
 
 ## Ebooks
 
@@ -1604,6 +1602,7 @@ A venir...
 Par où commencer ? Comment faire ?
 
 - [first timers only](https://www.firsttimersonly.com/), un guide pour rentrer dans la contribution à l'open-source
+- [Producing Open Source Software](https://producingoss.com/en/index.html), un guide pour bien démarrer un projet open-source
 
 ## Rester informé·e
 
@@ -1650,10 +1649,6 @@ Des conseils à la volée
 
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
-## Contenu, écriture
-
-A venir...
-
 ## Correction
 
 - [Lexique des règles typographiques en usage à l’Imprimerie nationale](https://www.eyrolles.com/Audiovisuel/Livre/lexique-des-regles-typographiques-en-usage-a-l-imprimerie-nationale-9782743304829/), l’ouvrage de référence de base du correcteur appelé aussi *code typo*.
@@ -1661,9 +1656,6 @@ A venir...
 - [André jouette: dictionnaire d'orthographe et d'expression ecrite](https://www.amazon.fr/Dictionnaire-dorthographe-dexpression-%C3%A9crite-Jouette/dp/2850362247)
 - [ACLF](https://www.associationdescorrecteurs.fr/), Association des Correcteurs de la Langue Française. Vous y trouverez notamment les liens vers [les outils indispensables](https://www.associationdescorrecteurs.fr/outils/les-indispensables/) reconnus comme tels par toute la profession
   
-### Copywriting
-
-A venir...
 
 ## Trouver du boulot
 
@@ -1809,7 +1801,7 @@ A venir...
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
 - [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md), même dépôt que précédemment mais listant que des livres de programmation en français !
-- [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique
+- [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique. Edit: non fonctionnel actuellement (07/2023)
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
 
