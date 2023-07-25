@@ -1175,9 +1175,8 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 ### Présentations, diapos
 
 - [marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [marpit](https://marpit.marp.app/), 
-- [revealjs](https://revealjs.com/), creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
-- [Use reveal-md to generate multiple slides and host them on GitHub Page](https://blog.hanklu.tw/post/2021/use-reveal-md-to-generate-multiple-slides-and-host-them-on-github-page/), cet étudiant vous propose un workflow de folie pour générer des présentations à la volée à partir de vos notes et les héberger automatiquement sur un dépôt pour qu'elles soient toujours en ligne avec vous
-- [un workflow complet à suivre pas à pas](https://github.com/websealevel/presentations), un dépôt qui reprend l'article précédent.
+- [poc marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
+- [revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes. Creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
 - [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
 ## CV
