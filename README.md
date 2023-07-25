@@ -1174,10 +1174,10 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 ### Présentations, diapos
 
-- [marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [marpit](https://marpit.marp.app/), 
-- [poc marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
-- [revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes. Creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
-- [slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
+- [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
+- [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
+- [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes. Creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
+- [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
 ## CV
 
@@ -1187,9 +1187,9 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 ## Éditeurs de texte
 
 - [emacs](https://www.gnu.org/software/emacs/), le projet open-source le plus célèbre après Linux. Faut-il encore le présenter ? Bonne alternative à Vim si vous n'aimez pas les *modes*.
-- [learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
+- [Learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
 - [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
-- [ghostwriter](https://wereturtle.github.io/ghostwriter/index.html), un éditeur markdown open-source *distraction-free*, très agréable, minimaliste et configurable.
+- [Ghostwriter](https://wereturtle.github.io/ghostwriter/index.html), un éditeur markdown open-source *distraction-free*, très agréable, minimaliste et configurable.
 
 ## Écriture technique
 
