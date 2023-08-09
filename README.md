@@ -835,7 +835,7 @@ Des outils (surtout des applications webs donc ca vient avec des inconvénients 
 - [Makerpad](https://makerpad.zapier.com/), communauté consacrée au NoCode (tutoriels, posts, veille), crée en 2018
 - [Webflow University](https://university.webflow.com/), des cours sur le développement de site webs avec Webflow
 - [Bubble Academy](https://bubble.io/academy), la source principale de guides pour développer avec Bubble
-- [La gazette du No-Code](https://gazette.nocode-france.fr/index.html), un média 100% NoCode dédiée au NoCode (portraits, actualitiés, interviews, tests d'outils, etc.)**
+- [La gazette du No-Code](https://gazette.nocode-france.fr/index.html), un média 100% NoCode dédiée au NoCode (portraits, actualitiés, interviews, tests d'outils, etc.)
 
 
 ## Quitter Github
