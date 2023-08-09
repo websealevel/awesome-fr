@@ -140,7 +140,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 		- [Déploiement](#déploiement)
 		- [Simulateur de terminal](#simulateur-de-terminal)
 		- [Design](#design)
-	- [Outils *visual code* (*no-code* ou *low-code*)](#outils-visual-code-no-code-ou-low-code)
+	- [Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)](#mouvement-nocode-outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
 	- [Capture/Édition vidéo](#captureédition-vidéo)
@@ -826,9 +826,16 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 - [Figma](https://www.figma.com/), on ne le présente plus
 - [PenPot](https://penpot.app/), plateforme open source de design et de prototypage, alternative  à Figma
 
-## Outils *visual code* (*no-code* ou *low-code*)
+## Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)
 
-Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose. Mais on en aura toujours besoin quand même.
+- [No Code Summit](https://www.nocode-summit.org/fr/), conférence organisée par l'Union Française des Professionnels du NoCode qui fédère et représente les professionnels du NoCode et du LowCode
+- [No-Code France](https://nocode-france.fr/), association et espace communautaire francophone dédié au No-Code (slack, chaîne YouTube, veille, meetups)
+- [Makerpad](https://makerpad.zapier.com/), communauté consacrée au NoCode (tutoriels, posts, veille), crée en 2018
+- [Webflow University](https://university.webflow.com/), des cours sur le développement de site webs avec Webflow
+- [Bubble Academy](https://bubble.io/academy), la source principale de guides pour développer avec Bubble
+- [La gazette du No-Code](https://gazette.nocode-france.fr/index.html), un média 100% NoCode dédiée au NoCode (portraits, actualitiés, interviews, tests d'outils, etc.)**
+
+Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose. Mais on en aura souvent besoin quand même.
 
 - [buttondown](https://buttondown.email/), une appli web pour gérer simplement vos newsletters. Et le contenu peut être écrit en Markdown
 - [swipepages](https://swipepages.com/), construisez une home page hébergée rapidement
