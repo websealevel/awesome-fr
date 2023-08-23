@@ -1166,7 +1166,9 @@ Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et
 
 Markdown est un standard *extensible*, et se fond très bien dans de nombreux écosystèmes. Aussi, des supersets Markdown ont été crées ainsi que des frameworks.
 
-- [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, implémentée dans de nombreux langages de programmation
+
+- [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations), les différentes implémentations ou *parsers* Markdown
+- [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
 - [Apprendre CommonMark en quelques minutes](https://commonmark.org/help/)
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
