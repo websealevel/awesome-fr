@@ -187,7 +187,6 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [Défis](#défis)
 	- [Markdown](#markdown)
 		- [Supersets, frameworks](#supersets-frameworks)
-		- [Présentations, diapos](#présentations-diapos)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
@@ -1157,26 +1156,24 @@ Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement
 
 Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.).
 
-*Le Markdown est à l'édition web ce que [LaTeX](https://www.latex-project.org/) est à l'édition papier*. Le web et le papier sont deux media différents, avec des contraintes de publication différentes. Les chercheurs le savent bien et sont souvent embêtés car ils utilisent LaTeX pour leurs articles mais ils doivent aussi communiquer sur le web.
-
-C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur Internet car les *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web 1.0* : les liens hypertextes et un processus de publication simple et facile. 
+C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web, grâce aux *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web 1.0* : les liens hypertextes et un processus de publication simple et facile. 
 
 Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
-Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien au mental.
+Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien à la tête.
 
 ### Supersets, frameworks
 
-Markdown est un standard *extensible*, et se fond très bien dans de nombreux écosystèmes. Aussi, des supersets Markdown ont été crées ainsi que des frameworks
+Markdown est un standard *extensible*, et se fond très bien dans de nombreux écosystèmes. Aussi, des supersets Markdown ont été crées ainsi que des frameworks.
 
+- [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, implémentée dans de nombreux langages de programmation
+- [Apprendre CommonMark en quelques minutes](https://commonmark.org/help/)
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
-
-### Présentations, diapos
-
+- [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown (proposée par John Gruber) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. Babel Mark 3 vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
 - [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
 - [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
-- [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes. Creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown
+- [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. Creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
 - [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
 ## CV
@@ -1319,7 +1316,6 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
 
 
-
 ### Blog design
 
 - [Are you making these design mistakes on your blog?](https://kevquirk.com/blog-design-mistakes/), très bon article qui résume les points importants à considérer et les erreurs à ne pas faire lorsque l'on designe son blog
@@ -1337,7 +1333,6 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 ### Wordpress
 
 - [voir ici](#livres-de-développement-wordpress)
-
 
 ### Sécurité des applications webs
 
