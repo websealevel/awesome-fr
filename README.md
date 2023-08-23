@@ -71,7 +71,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
-		- [Pack d'icones/favicons](#pack-diconesfavicons)
+		- [Pack d’icônes/favicons](#pack-dicônesfavicons)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
 		- [Générateur d'assets au format SVG](#générateur-dassets-au-format-svg)
@@ -319,7 +319,7 @@ Les *designers* se moqueront de vous si vous utilisez le mot typographie ou *typ
 
 Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Font* c'est l'implémentation de ce design en informatique. Pour faire une analogie, la *Typeface* c'est le plan d'architecte de la maison, la *Font* c'est la maison.
 
-- [typescale](https://type-scale.com/), creer facilement un système de tailles de font à suivre
+- [typescale](https://type-scale.com/), créer facilement un système de tailles de font à suivre
 - [typography principles](https://typographyprinciples.obys.agency/alignments/), un guide pour apprendre les principes de la typo
 - [fontjoy](https://fontjoy.com/), trouver facilement des combinaisons de fonts qui fonctionnent
 - [google-type](https://femmebot.github.io/google-type/), trouver facilement des combinaisons de fonts qui fonctionnent
@@ -341,9 +341,9 @@ Quelques lectures sur des aspects techniques de la typographie:
 
 Faites votre choix
 
-- [open color](https://yeun.github.io/open-color/), le dictionnaire larousse des couleurs
+- [open color](https://yeun.github.io/open-color/), le *dictionnaire Larousse* des couleurs
 - [coloors](https://coolors.co/), fouiller ce site il vous offre toute une palette d'outils incroyables autre que les palettes de couleurs
-- [colorspace](https://mycolor.space/), generateur de palettes de couleurs stylé
+- [colorspace](https://mycolor.space/), générateur de palettes de couleurs stylé
 - [css duotones](https://cssduotone.com/)
 - [duotones](https://medialoot.com/duotones/), palettes duotones (deux couleurs)
 - [palette ninja](https://palette.ninja/)
@@ -354,21 +354,21 @@ Faites votre choix
 - [colorspectrum](https://colorspectrum.design/generator.html)
 - [randomally](https://randoma11y.com/), générateur de combinaisons de couleurs
 
-### Pack d'icones/favicons
+### Pack d’icônes/favicons
 
-Faites votre choix
+Des îcones, des icônes et encore des icônes. Faites votre choix :
 
 - [favicon generator](https://favicon.io/)
 - [icomoon](https://icomoon.io/)
 - [font awesome icons](https://fontawesome.com/v4.7.0/icons/)
-- [bootstrap icons](https://icons.getbootstrap.com/), plus de 1600 icones gratuites en SVG ou webfont mis à disposition par [Bootstrap](https://getbootstrap.com/)
+- [bootstrap icons](https://icons.getbootstrap.com/), plus de 1600 icônes gratuites en SVG ou webfont mis à disposition par [Bootstrap](https://getbootstrap.com/)
 - [Tabler Icons](https://tablericons.com/)
 - [heroicons](https://heroicons.com/)
 - [iconshock](https://www.iconshock.com/)
 - [phosphor icons](https://phosphoricons.com/)
-- [vertex](https://vertex.im/), icones 3D customisables
+- [vertex](https://vertex.im/), icônes 3D customizables
 - [icons8](https://icons8.com/)
-- [pixelarticons](https://pixelarticons.com/), des icones en pixelart
+- [pixelarticons](https://pixelarticons.com/), des icônes en pixelart
 
 ### Images: photos, illustrations, svg
 
@@ -382,28 +382,28 @@ Faites votre choix
 - [freepik](https://www.freepik.com/)
 - [profile pic Maker](https://pfpmaker.com/), faire une photo de profil classe à partir de "n'importe quelle photo"
 - [blush.design](https://blush.design/fr)
-- [story-set](https://storyset.com/), customization/animation d'illusatrations
-- [dover collection series](https://fr.wikipedia.org/wiki/Dover_Publications), des séries de gravures sur bois magnifiques sur tous les thèmes (motifs, plantes, mobilier, ornements de toutes les époques et style, animaux etc...). Une vraie boîte de pandore, et la totalité de ces illustrations sont libérées du droit d'auteur, donc vous pouvez les utiliser, les modifier etc.. Le paradis à l'état pur. Fouiller le web notamment sur [pdfdrive](https://pdfdrive.com) pour trouver assez facilement des tonnes de références gratuites.
+- [story-set](https://storyset.com/), customization/animation d’illustrations
+- [dover collection series](https://fr.wikipedia.org/wiki/Dover_Publications), des séries de gravures sur bois magnifiques sur tous les thèmes (motifs, plantes, mobilier, ornements de toutes les époques et style, animaux etc...). Une vraie boîte de pandore, et la totalité de ces illustrations sont libérées du droit d'auteur, donc vous pouvez les utiliser, les modifier etc..
 
 
 ### Générateurs/Templates CSS
 
-- [gloweffect](https://codersblock.com/blog/creating-glow-effects-with-css/), generer des glow effects
+- [gloweffect](https://codersblock.com/blog/creating-glow-effects-with-css/), générer des glow effects
 - [underline generator](https://underline-generator.netlify.app/)
-- [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), creez vos rubans
-- [3dbookcovergenerator](https://3dbookcovergenerator.netlify.app/), creez des visuels 3D de livres à partir d'une image
+- [ribbon generator](https://www.cssportal.com/css-ribbon-generator/), créez vos rubans
+- [3dbookcovergenerator](https://3dbookcovergenerator.netlify.app/), créez des visuels 3D de livres à partir d'une image
 - [button generator](https://markodenic.com/tools/buttons-generator/)
 - [simple.css](https://github.com/kevquirk/simple.css), un template css sans classe pour prototyper un site markup stylé rapidement.
-- [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement les selecteurs de balise HTML et qui pèse 4.8kb
+- [new.css](https://github.com/xz/new.css), un framework css sans classe utilisant uniquement les sélecteurs de balise HTML et qui pèse 4.8kb
 - [houdini.how](https://houdini.how/)
 - [hover.css](http://ianlunn.github.io/Hover/), collection d'effet *hover* CSS
-- [min-max-calculator](https://min-max-calculator.9elements.com/), creer des mise à l'échelle de votre font en fonction de la taille du displayport
+- [min-max-calculator](https://min-max-calculator.9elements.com/), créer des mise à l'échelle de votre font en fonction de la taille du displayport
 
 ### Générateur d'assets au format SVG
 
 - [getwaves](https://getwaves.io/), faites des vagues
-- [blobmakers](https://www.blobmaker.app/), creer des formes uniques et organiques en svg rapidement
-- [clip path maker](https://bennettfeely.com/clippy/), creer des svg de manière interactive
+- [blobmakers](https://www.blobmaker.app/), créer des formes uniques et organiques en svg rapidement
+- [clip path maker](https://bennettfeely.com/clippy/), créer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 - [haeiki](https://haikei.app/), générer des assets svg
 
@@ -415,12 +415,12 @@ Faites votre choix
 
 Expérimenter et créer des animations CSS
 
-- [Animista](https://animista.net/), experimentez les animations CSS
+- [Animista](https://animista.net/), expérimentez les animations CSS
 - [Pictogon](https://pictogon.com/), images interactives
 - [keyframes animate](https://keyframes.app/animate/)
 - [wait !](https://waitanimate.wstone.uk/), des animations à jouer pendant le chargement d'une ressource ou la fin d'un processus pour faire patienter l'utilisateur
 - [lottie](https://airbnb.design/lottie/)
-- [zzz.dog](https://zzz.dog/), des animations rondes, a plat, peudo 3D
+- [zzz.dog](https://zzz.dog/), des animations rondes, a plat, pseudo 3D
 - [haikuanimator](https://www.haikuanimator.com/)
 
 
@@ -592,17 +592,17 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
 
 Aller sur le dépôt puis
-- regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
-- regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir.
-- regarder la date du dernier commit
-- regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
-- regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
-- regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
-- regarder le nombre de contributeurs
-- regarder le nombre de pull requests en attente, idem que pour les issues
-- trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation, peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
-- essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
-- est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
+- Regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
+- Regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir.
+- Regarder la date du dernier commit
+- Regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
+- Regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
+- Regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
+- Regarder le nombre de contributeurs
+- Regarder le nombre de pull requests en attente, idem que pour les issues
+- Trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation, peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
+- Essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
+- Est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
 
 ## Environnements d'apprentissage interactifs
 
@@ -1171,7 +1171,7 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 - [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown (proposée par John Gruber) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. Babel Mark 3 vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
 - [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
 - [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
-- [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. Creer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
+- [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. créer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
 - [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
 ## CV
