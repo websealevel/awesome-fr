@@ -37,6 +37,7 @@ Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à v
 La liste en elle-même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionner que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratuité) et permettra au moins de proposer un panorama en français de différentes ressources.
 
 Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de le recommander aveuglément.
+
 ## Conseils d'utilisation
 
 Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières, trouvez rapidement un outil qui peut vous aider.
@@ -47,15 +48,11 @@ Choisissez parmi ces outils ceux que vous préférez et intégrez-les à votre *
 
 Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clef et des hyperliens pour faciliter la navigation.
 
-## Contribuez
+## Contribuez et partagez
 
 Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et vous voulez la partager ? 
 
-Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soummettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
-
-## Partagez
-
-N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partager : )
+Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soumettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
 
 *No time to lose !*
 
@@ -67,8 +64,7 @@ N'hésitez pas à *star* ce dépôt (suivre, en haut à droite) ou à le partage
 	- [En quelques mots](#en-quelques-mots)
 	- [Des limites de la francophonie](#des-limites-de-la-francophonie)
 	- [Conseils d'utilisation](#conseils-dutilisation)
-	- [Contribuez](#contribuez)
-	- [Partagez](#partagez)
+	- [Contribuez et partagez](#contribuez-et-partagez)
 	- [Table des matières](#table-des-matières)
 	- [Frontend](#frontend)
 		- [Agrégateurs de ressources pour le *front*](#agrégateurs-de-ressources-pour-le-front)
