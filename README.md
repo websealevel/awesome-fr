@@ -1074,10 +1074,11 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 - [Le Dictionnaire de Données](https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html), article utile de Pr. Nacer-Eddine Zarour et Dr. Mohamed El Hadi Benelhadj sur l'écriture du dictionnaire de données
 - [Associations réflexives](http://cours.thirion.free.fr/Cours/Merise/Asso-Refl-Cours.php), très bonne page web sur les associations réflexives en Merise, par E. Thirion 
 
+
 ## Outils de conception de base de données
 
 - [AnalyseSI](https://launchpad.net/analysesi), un outil open-source *distraction-free* basé sur Merise 1 pour modéliser une base de données (MCD) et produire un MPD et scripts SQL
-- [Oracle SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/), outil graphique complet et plus complexe pour la conception de base de données, proposé par Oracle
+- [Oracle SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/), outil graphique complet et plus complexe pour la conception de base de données, proposé par Oracle. La documentation accessible depuis le logiciel est de bonne qualité, [le blog d'helifromfinland](https://helifromfinland.blog/) est rempli d'articles utiles sur l'outil
 
 ## Architecture logicielle
 
@@ -1474,6 +1475,8 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [DaedTech: stories about Software](https://daedtech.com/), d'Erik Dietrich
 - [Samwho](https://samwho.dev/blog), le blog de Sam. Écrit sur la répartition de charges, l'allocation mémoire et d'autres sujets
 - [Page personnelle de Brian Kernighan](https://www.cs.princeton.edu/~bwk/), publications, recherche, cours, livres de Brian Kernighan
+- [helifromfinland](https://helifromfinland.blog/), articles d'Heli sur Database Designing, Oracle SQL Developer Data Modeler, User Groups etc.
+
 
 ## Podcasts en vrac
 
