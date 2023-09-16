@@ -273,10 +273,10 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
 			- [Flutter](#flutter)
-			- [Projets open-source](#projets-open-source)
-			- [Design](#design-1)
-			- [Apprendre](#apprendre)
-			- [API](#api)
+		- [Projets open-source](#projets-open-source)
+		- [Design](#design-1)
+		- [Apprendre](#apprendre)
+		- [API](#api)
 		- [Inclassables](#inclassables-1)
 		- [Lecture : articles, livres techniques](#lecture--articles-livres-techniques)
 		- [Vendre](#vendre)
@@ -1758,16 +1758,16 @@ Des conseils à la volée
 
 - [awesome-flutter](https://github.com/Solido/awesome-flutter), un dépôt qui maintient une liste filtrée de ressources pour Flutter
 
-#### Projets open-source
+### Projets open-source
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
-#### Design
+### Design
 
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns), des solutions réutilisables face à des problèmes courants d'architecture logicielle
   
 
-#### Apprendre
+### Apprendre
 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
 
@@ -1782,7 +1782,7 @@ Des conseils à la volée
 
 -[app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
 
-#### API
+### API
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 - [markodenic/public-apis](https://github.com/markodenic/public-apis), un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
