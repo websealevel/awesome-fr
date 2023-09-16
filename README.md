@@ -272,10 +272,11 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Typescript](#typescript)
 			- [Vue.js](#vuejs)
 			- [Node.js](#nodejs)
-		- [Projets open-source](#projets-open-source)
-		- [Design](#design-1)
-		- [Apprendre](#apprendre)
-		- [API](#api)
+			- [Flutter](#flutter)
+			- [Projets open-source](#projets-open-source)
+			- [Design](#design-1)
+			- [Apprendre](#apprendre)
+			- [API](#api)
 		- [Inclassables](#inclassables-1)
 		- [Lecture : articles, livres techniques](#lecture--articles-livres-techniques)
 		- [Vendre](#vendre)
@@ -886,7 +887,7 @@ Une liste non exhaustive d'organismes qui implémentent et maintiennent les stan
 
 - [OASIS OPEN](https://www.oasis-open.org/), groupe de collaboration (individus, entreprises, gouvernements, etc.) en charge de l'implémentation et de la maintenance de standards informatiques ouverts, comme DITA, DocBook, OData, OpenDocument, etc. [Voir tous les projets ici](https://www.oasis-open.org/projects-committees/).
 - [W3C](https://www.w3.org/), le *World Wide Web Consortium*, en charge de maintenir et développer les standards ouverts du Web.
-- [WHATWG](https://whatwg.org/), le *Web Hypertext Application Technology Working Group* est un groupe de collaboration qui travaille sur la standardisation des navigateurs webs ([voir ici les standards](https://spec.whatwg.org/) sur lesquels ce groupe travaille) et des standards associés comme le protocole WebSocket, le Storage, XMLHttpRequest, etc. C'est un groupe qui a été formé en 2004, suite à un atelier organisé par le W3C, par des personnes travaillant chez Apple, Mozilla et Opera. Il a été crée en réponse au fait que le W3C partait un peu en cavalier seul sur le futur du standard HTML avec XHTML (qui au final a donné HTML5) sans prendre assez en compte l'état de l'industrie du développement informatique. Aujourd'hui Google et Microsoft ont rejoint ce groupe et il travaille en collaboration avec le W3C dont certains membres ont font également partie.
+- [WHATWG](https://whatwg.org/), le *Web Hypertext Application Technology Working Group* est un groupe de collaboration qui travaille sur la standardisation des navigateurs webs ([voir ici les standards](https://spec.whatwg.org/) sur lesquels ce groupe travaille) et des standards associés comme le protocole WebSocket, le Storage, XMLHttpRequest, etc. C'est un groupe qui a été formé en 2004, suite à un atelier organisé par le W3C, par des personnes travaillant chez Apple, Mozilla et Opera. Il a été crée en réponse au fait que le W3C partait un peu en cavalier seul sur le futur du standard HTML avec XHTML (qui au final a donné HTML5) sans prendre assez en compte l'état de l'industrie du développement informatique. Il représente surtout le côté industrie du web et les vendor de navigateur web, et cherche à accélérer le développement des standards pour les implémenter rapidement, pour le meilleur et pour le pire. Aujourd'hui Google et Microsoft ont rejoint ce groupe et il travaille en collaboration avec le W3C dont certains membres ont font également partie.
 - [Internet Engineering Task Force (IETF)](https://www.ietf.org/), L’[Internet Engineering Task Force (IETF)](https://fr.wikipedia.org/wiki/Internet_Engineering_Task_Force), élabore et promeut des standards Internet, en particulier les standards qui composent la suite de protocoles Internet (TCP/IP). L'IETF produit la plupart des nouveaux standards d'Internet. Le but du groupe est généralement la rédaction d'une ou plusieurs [Request for comments (RFC)](#request-for-comments-rfc-drafts-et-w3c), nom donné aux documents de spécification à la base d’Internet. 
 
 ### HTML
@@ -1291,7 +1292,6 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 - [Installation macOS: Homebrew Scheme](https://formulae.brew.sh/formula/mit-scheme), page d'intallation de Scheme sous macOS via le gestionnaire de paquets Homebrew
 - [Installation GNU/Linux](https://www.gnu.org/software/mit-scheme/), installation de Scheme sous GNU/Linux
 - [Installation sur Windows (via WSL)](https://www.gnu.org/software/mit-scheme/)
-
 
 
 ## Ebooks
@@ -1754,16 +1754,20 @@ Des conseils à la volée
 
 - [wesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security), la même sur des ressources pour sécuriser ses projets node.js
 
-### Projets open-source
+#### Flutter
+
+- [awesome-flutter](https://github.com/Solido/awesome-flutter), un dépôt qui maintient une liste filtrée de ressources pour Flutter
+
+#### Projets open-source
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
-### Design
+#### Design
 
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns), des solutions réutilisables face à des problèmes courants d'architecture logicielle
   
 
-### Apprendre
+#### Apprendre
 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
 
@@ -1778,7 +1782,7 @@ Des conseils à la volée
 
 -[app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
 
-### API
+#### API
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 - [markodenic/public-apis](https://github.com/markodenic/public-apis), un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
