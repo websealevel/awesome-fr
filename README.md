@@ -151,6 +151,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Applications XML de prestige](#applications-xml-de-prestige)
 		- [Standard SQL et bases de données relationnelles](#standard-sql-et-bases-de-données-relationnelles)
 	- [Protocoles](#protocoles)
+		- [TCP/IP](#tcpip)
 		- [SSH](#ssh)
 		- [HTTP](#http)
 	- [OS](#os)
@@ -204,6 +205,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
 		- [Scheme (List dialect)](#scheme-list-dialect)
+	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
 		- [*Classiques*](#classiques)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -265,6 +267,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Applications web et réseaux à héberger *soi-même*](#applications-web-et-réseaux-à-héberger-soi-même)
 		- [Conférences](#conférences)
 		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
+		- [Machine learning](#machine-learning)
 		- [Spécifique à une techno](#spécifique-à-une-techno)
 			- [PHP](#php-2)
 			- [Java](#java)
@@ -946,6 +949,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ## Protocoles
 
+### TCP/IP
+
+- [A Protocol for Packet Network Intercommunication](https://t.co/RgRJ7GcVlk), par CERF et KAHN, membre de l'IEEE. Papier à l'origine du protocole TCP/IP
+
 ### SSH
 
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
@@ -1137,6 +1144,7 @@ Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à s
 Apprenez à coder via des défis
 
 - [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
+- [Sad Servers](https://sadservers.com/), like leetcode for linux
 - [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
 - [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
 - [Flexbox froggy](https://flexboxfroggy.com/#fr), apprendre CSS flexbox via des challenges
@@ -1294,6 +1302,10 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 - [Installation sur Windows (via WSL)](https://www.gnu.org/software/mit-scheme/)
 
 
+## RGPD
+
+- [Guide RGPD du développeur](https://www.cnil.fr/fr/guide-rgpd-du-developpeur), le guide pour rendre son système en accord avec les principes règlementaires du RGPD, publié par la CNIL
+
 ## Ebooks
 
 Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
@@ -1431,7 +1443,7 @@ A venir...
 
 - [Compiler Explorer](https://godbolt.org/), un petit outil en ligne qui transforme votre code en code assembleur sur différentes architectures. Un outil intéressant pour expérimenter.
 - [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj), le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
-- [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
+- [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur actif du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
 
 ## Ressources pour formateur·trice
 
@@ -1457,6 +1469,7 @@ A venir...
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf), un papier de Brian Kernighan sur la thèse perdue de Dennis Ritchie et comment a-t-il pu la mettre en page étant donné sa complexité typographique et les programmes de préparation de document de l'époque
 - [Document preparation archeology](https://www.cs.princeton.edu/~bwk/202/index.html), Brian Kernighan explore les premiers travaux et programmes dédiés à la préparation de document et à la typographie informatique
+- [Programming language semantics:It’s easy as 1,2,3](https://t.co/GbsQMnAyKZ), par GRAHAM HUTTON
 
 
 ## Blogs en vrac
@@ -1488,6 +1501,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [IFTTD (fr)](https://ifttd.io/listes-des-episodes/), un podcast de dev. Parle régulièrement d'outils no-code
 - [The freelancer podcast (en)](https://studywebdevelopment.com/podcast.html), podcast qui traitent de sujets qui intéresseront les développeurs/designer freelance
 - [L’actualité de la Tech à travers 49 podcasts francophones](https://blog.link-value.fr/actualite-tech-podcasts-9b327345e3af), liste de podcasts web, mobile, ops, etc. francophones
+- [Radio Devops](https://shows.acast.com/radio-devops), le podcast des Compagnons du DevOps
 
 
 ## Cours en vrac
@@ -1498,6 +1512,8 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 
 ### Conférences en vrac
 
+
+- [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
 - [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
@@ -1716,6 +1732,10 @@ Des conseils à la volée
 
 - [magazines abandonware](https://abandonware-magazines.org/), bibliothèque numérique consacrée aux anciens magazines informatiques. Découvrir ou redécouvrir des numéros complets d'anciens titres informatiques francophones
 
+### Machine learning
+
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+
 ### Spécifique à une techno
 
 #### PHP
@@ -1768,6 +1788,8 @@ Des conseils à la volée
   
 
 ### Apprendre
+
+- [The design system primer](https://github.com/donnemartin/system-design-primer), dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens
 
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
 
