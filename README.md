@@ -157,9 +157,11 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [OS](#os)
 	- [Infrastructure](#infrastructure)
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
+	- [Unix](#unix)
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
+		- [C](#c)
 		- [JavaScript](#javascript)
 	- [Suivi de projets](#suivi-de-projets)
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
@@ -278,6 +280,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Flutter](#flutter)
 		- [Projets open-source](#projets-open-source)
 		- [Design](#design-1)
+		- [Architecture logicielle](#architecture-logicielle-1)
 		- [Apprendre](#apprendre)
 		- [API](#api)
 		- [Inclassables](#inclassables-1)
@@ -984,6 +987,10 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [W3C: Cool URIs don't change](https://www.w3.org/Provider/Style/URI.html), par Tim Berners-Lee
 - [W3C: Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), écrit par le *W3C Technical Architecture Group*, which included the following participants: Tim Berners-Lee (co-Chair, W3C), Tim Bray (Antarctica Systems), Dan Connolly (W3C), Paul Cotton (Microsoft Corporation), Roy Fielding (Day Software), Mario Jeckle (Daimler Chrysler), Chris Lilley (W3C), Noah Mendelsohn (IBM), David Orchard (BEA Systems), Norman Walsh (Sun Microsystems), and Stuart Williams (co-Chair, Hewlett-Packard).
 
+## Unix
+
+- [Unix programmer's manual Third Edition](https://dspinellis.github.io/unix-v3man/v3man.pdf), publié par K. Thompson et D. M. Ritchie, 1973
+
 
 ## REST, *Architecture of the World Wide Web*
 
@@ -1014,6 +1021,10 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [PHPStan](https://phpstan.org/), un inspecteur de code statique pour trouver des bugs avant l'execution
 - [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), un ensemble de deux scripts pour analyser votre code et corriger automatiquement ses violations de standards. phpcs detecte les violations, tandis que phpcbf les fixe selon le standard configuré
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
+
+### C
+
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 
 ### JavaScript
 
@@ -1461,6 +1472,9 @@ A venir...
 - [Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/) [securité]
 - [Java at 20: How it changed programming forever](https://www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html), un article de Elliote Rusty Harold qui revient sur les apports de Java a l'occasion de ses 20 ans d'existence
 - [Rust for the Brave and True (en)](https://dev.to/gruberb/rust-for-the-brave-and-true-4766), un article qui décrit un chemin d'apprentissage de Rust avec une envie de se créer un environnement sans distraction, proche de la machine
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/), un excellent article de [Joel Spolsky](https://www.joelonsoftware.com/about-me/) (2003) sur l'Unicode, l'encodage UTF-8 et les characters sets
+- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
+- [Use plaintext email](https://useplaintext.email/)
 
 
 ## Papiers en vrac
@@ -1744,7 +1758,7 @@ Des conseils à la volée
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 - [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
 - [PHP the right way](https://phptherightway.com/), une reference traduite en plusieurs langues sur les standards actuels de la communauté PHP, des liens vers des tutoriels reconnus sur le web
-- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par execellence
+- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
   
@@ -1785,7 +1799,10 @@ Des conseils à la volée
 ### Design
 
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns), des solutions réutilisables face à des problèmes courants d'architecture logicielle
-  
+
+### Architecture logicielle
+
+- [A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
 
 ### Apprendre
 
