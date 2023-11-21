@@ -1432,7 +1432,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## Éducation, outils/langages pour initier à la programmation
 
-A venir...
+- [1,2,3... codez !](https://fondation-lamap.org/projet/123-codez#guide), Le projet « 1, 2, 3… codez ! » vise à initier élèves et enseignants aux sciences informatiques, de la maternelle au collège. Il propose à la fois des activités branchées (nécessitant un ordinateur, une tablette ou un robot) permettant d’introduire les bases de la programmation et des activités débranchées (informatique sans ordinateur) permettant d’aborder des concepts de base de la science informatique (algorithme, langage, représentation de l’information…)
 
 ### Public enfant
 
