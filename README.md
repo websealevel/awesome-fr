@@ -104,9 +104,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [CSS grid](#css-grid)
 		- [JS](#js-1)
 		- [Algorithmes](#algorithmes)
-	- [Comment apprendre à apprendre le développement ?](#comment-apprendre-à-apprendre-le-développement-)
-		- [Quand on débute](#quand-on-débute)
-		- [Quand on débute moins](#quand-on-débute-moins)
 	- [SEO](#seo)
 	- [Analytics](#analytics)
 	- [API publiques](#api-publiques)
@@ -145,6 +142,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Organismes](#organismes)
 		- [HTML](#html)
 			- [Éléments HTML5 pour une meilleure sémantique](#éléments-html5-pour-une-meilleure-sémantique)
+		- [SGML](#sgml)
 		- [XML](#xml)
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
@@ -182,6 +180,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Clojure](#clojure)
 		- [Elm](#elm)
 		- [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
+		- [Langages Assembleur](#langages-assembleur)
 	- [Rich Hickey](#rich-hickey)
 	- [Défis](#défis)
 	- [Markdown](#markdown)
@@ -207,6 +206,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
 		- [Scheme (List dialect)](#scheme-list-dialect)
+		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
 		- [*Classiques*](#classiques)
@@ -225,7 +225,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Rust](#rust-1)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
-		- [Freelance, conseils pour bien gérer ses affaires depuis chez soi](#freelance-conseils-pour-bien-gérer-ses-affaires-depuis-chez-soi)
 		- [Algorithmes](#algorithmes-1)
 	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
@@ -233,6 +232,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Public adulte](#public-adulte)
 	- [*Hacker* culture](#hacker-culture)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
+	- [Informatique et mathématiques et aspects bas niveau](#informatique-et-mathématiques-et-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [Articles en vrac](#articles-en-vrac)
 	- [Papiers en vrac](#papiers-en-vrac)
@@ -458,7 +458,6 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### JS
 
-- [waterpipes generator](http://dragdropsite.github.io/waterpipe.js/)
 - [magic grid](https://github.com/e-oj/Magic-Grid)
 - [scroll reavel](https://scrollrevealjs.org/), animer le scrolling de vos pages webs
 - [three.js](https://threejs.org/), animation 3D dans le navigateur, basé sur WebGL
@@ -480,12 +479,12 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Agrégateurs de design, inspiration
 
-- votre vie
-- les affiches dans la rue
-- le web !
+- Votre vie
+- Les affiches dans la rue
+- Le web !
 - [wayback machine](https://web.archive.org/), quoi de mieux que de fouiller dans les archives du web et de parcourir tous ces sites qui n'existent plus ?
 - [Web Design Museum](https://www.webdesignmuseum.org/), découvrez et inspirez-vous des tendances en webdesign parfois oubliées (et qui reviennent, souvent, à la mode)
-- [le design brutaliste (qui revient à la mode)](https://brutalist-web.design/)
+- [Le design brutaliste (qui revient à la mode)](https://brutalist-web.design/)
 - [cern](https://worldwideweb.cern.ch/browser/), un aperçu du premier navigateur web WorldWideWeb
 - [first website](http://info.cern.ch/hypertext/WWW/TheProject.html), première page web publique du web
 - [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration 
@@ -541,7 +540,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 ### Quelques références tierces
 
-- [w3schools](https://www.w3schools.com/), une très bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur. Proche du consortium W3C, au plus proche des specs et mis à jour
+- [w3schools](https://www.w3schools.com/), une bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur
 - [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [css selectors](https://www.w3schools.com/cssref/css_selectors.asp)
@@ -628,14 +627,6 @@ Aller sur le dépôt puis
 ### Algorithmes
 
 - [algorithm-visualizer](https://algorithm-visualizer.org/), apprendre à programmer des algorithmes tout en les visualisant
-
-## Comment apprendre à apprendre le développement ?
-
-A venir...
-
-### Quand on débute
-
-### Quand on débute moins
 
 
 ## SEO
@@ -902,13 +893,19 @@ Une liste non exhaustive d'organismes qui implémentent et maintiennent les stan
 
 - [dfn](https://developer.mozilla.org/fr/docs/Web/HTML/Element/dfn), élément de définition
 
+### SGML
+
+SGML est un métalangage à balise pour définir des langages à balise (markup langages). SGML est à l'origine de tous les langages à balise, comme HTML ou XML qui en sont des *applications*.
+
+- [A brief SGML tutorial ](https://www.w3.org/TR/WD-html40-970708/intro/sgmltut.html)
+
 ### XML
 
 #### Un mot sur le XML
 
 Le standard [XML](https://www.w3.org/XML/) (*eXtensible Markup Language*) est extrêmement puissant pour construire des documents robustes, échangeables et faciles à maintenir (lire et écrire) dans le temps. Contrairement aux idées reçues, il n'est pas *mort* et [n' a pas vocation à être remplacé par JSON](https://codepunk.io/xml-vs-json-why-json-sucks/) car les deux standards n'ont pas du tout la même histoire, ni les mêmes ambitions. Loin de là...
 
-XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est né en 1998 du standard SGML (qui a donné l'*application HTML*, un sous-ensemble du standard SGML, plus simple et plus permissif adapté au web). 
+XML est un format universel pouvant être lu facilement par des humains et par des machines. XML est né en 1998 du standard SGML (qui a donné l'*application HTML*, un sous-ensemble du standard SGML, plus simple et plus permissif adapté au web). XML est également une simplification du standard SGML.
 
 Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
 
@@ -1146,6 +1143,10 @@ Voir ce [bouquin de référence](#haskell-1).
 
 - [Racket, the Programming Language](https://racket-lang.org/), un *language orienté language*
 
+### Langages Assembleur
+
+- [Reverse Engineering for Beginners](https://beginners.re/) aussi connu sous le nom RE4B et "Comprendre le langage Assembleur"
+
 ## Rich Hickey
 
 Et oui, [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) a le droit à sa propre section. Allez directement voir [ce dépôt](https://github.com/tallesl/Rich-Hickey-fanclub), le job est déjà fait avec talent pour recenser tous ses travaux.
@@ -1313,6 +1314,10 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 - [Installation sur Windows (via WSL)](https://www.gnu.org/software/mit-scheme/)
 
 
+### Tcl/Tk
+
+[Tcl](https://www.tcl.tk/) (Tool Command language) est un langage open-source versatile permettant de développer des applications Desktop, web, CLI, etc. Il vient avec Tk, un GUI toolkit pour développer des applications natives pour toutes les plateformes. [Visiter le wiki](https://wiki.tcl-lang.org/welcome) pour en savoir plus. 
+
 ## RGPD
 
 - [Guide RGPD du développeur](https://www.cnil.fr/fr/guide-rgpd-du-developpeur), le guide pour rendre son système en accord avec les principes règlementaires du RGPD, publié par la CNIL
@@ -1323,21 +1328,22 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 
 ### *Classiques*
 
-- [Structure and interpretation of computer programs, 2nd edition, Harold Abelson, Gerald Jay and Julie Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf), ce livre, et derrière ce cours du MIT, est juste à part. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
-- [The C programming language](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan). Sorti en 1978, le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
-- [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française (publiée chez Dunod en 2007). Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
-- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html)
-- [RESTful Web Services](https://learning.oreilly.com/library/view/restful-web-services/9780596529260/), de Leonard Richardson, Sam Ruby, O'Reilly, 2007. S'il y a un livre à lire/étudier/feuilleter/avoir sur REST c'est celui-ci. Ce livre est passé sous licence Creative Commons dans le cadre du projet [O'Reilly Open Books](https://www.oreilly.com/openbook/). [Accéder à la version en ligne/PDF gratuite](http://restfulwebapis.org/rws.html) 
-
+- [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996. Ce livre, et le cours du MIT qui se trouve derrière, est juste *à part*. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine, en introduisant le langage Scheme, un dialecte de Lisp. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
+- [The C programming language](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1oonwoY6DAxWXVaQEHeA2D0AQFnoECA4QAQ&url=https%3A%2F%2Fkremlin.cc%2Fk%26r.pdf&usg=AOvVaw1XViDREs3vL9rDBT9kwwuN&opi=89978449), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan), publié chez Prentice Hall, 1978. Le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
+- [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française publiée chez Dunod, 2007. Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
+- [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html), de Martin Kleppmann, publié chez O'Reilly, 2017.
+- [RESTful Web Services](https://learning.oreilly.com/library/view/restful-web-services/9780596529260/), de Leonard Richardson, Sam Ruby, O'Reilly, 2007. S'il y a un livre à lire/étudier/feuilleter/avoir sur REST c'est celui-ci. Ce livre est passé sous licence *Creative Commons* dans le cadre du projet [O'Reilly Open Books](https://www.oreilly.com/openbook/). [Accéder à la version en ligne/PDF gratuite](http://restfulwebapis.org/rws.html) 
+- [Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs), de [Niklaus Writh](https://en.wikipedia.org/wiki/Niklaus_Wirth), publié chez Prentice Hall, 1976.
+- [The Art of Computer Programming (TAOCP)](https://cs.stanford.edu/~knuth/taocp.html), de Donald E. Knuth, publié chez Addison-Wesley, 1968-1969
 
 ### Refactoring, travailler sur du code legacy
 
-- [Refactoring: Improving the Design of Existing Code](https://www.pdfdrive.com/refactoring-improving-the-design-of-existing-code-e185896299.html)
+- [Refactoring: Improving the Design of Existing Code](https://www.pdfdrive.com/refactoring-improving-the-design-of-existing-code-e185896299.html), de Martin Fowler, publié chez Addison-Wesley, 1999
 
 ### Software design
 
-- [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html)
-- [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html)
+- [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html) de John Ousterhout, publié par la Stanford University, 2018. Excellent ouvrage clair et concis sur la complexité logicielle (sa nature et ses origines) et sur des principes de design généraux. Plein d'humilité et de partage d'experience avisée.
+- [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html) de Eric Evans, publié chez Addison Wesley, 2003
 
 
 ### Blog design
@@ -1414,10 +1420,6 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
   
 - [Curating Simulated Storyworlds (en)](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), le manuscrit de thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, de l'interaction entre l'intelligence artificielle et l'experience ludique et des stratégies de "nettoyage" des artefacts. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
 
-### Freelance, conseils pour bien gérer ses affaires depuis chez soi
-
-- [Start and Run A Business From Home: How to turn your hobby or interest into a business (Small Business Start-Ups)](https://www.pdfdrive.com/start-and-run-a-business-from-home-how-to-turn-your-hobby-or-interest-into-a-business-small-business-start-ups-d185035411.html)
-- [The Small Business Owner's Manual: Everything You Need To Know To Start Up And Run Your Business](https://www.pdfdrive.com/the-small-business-owners-manual-everything-you-need-to-know-to-start-up-and-run-your-business-d184086729.html)
 
 ### Algorithmes
 
@@ -1460,10 +1462,18 @@ A venir...
 - [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj), le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
 - [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur actif du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
 
+## Informatique et mathématiques et aspects bas niveau
+
+- [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007 
+- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
+- [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](https://www.amazon.fr/Annotated-Turing-Turing%E2%80%B2s-Historic-Computability/dp/0470229055), de Charles Petzold, publié chez Wiley, 2008. Un excellent livre qui accompagne le lecteur dans le papier fondateur de Turing de 36 pages sur le fondement de l'informatique. Passionnant  
+- [Méthodes mathématiques pour l'informatique - 5e édition](https://www.dunod.com/sciences-techniques/methodes-mathematiques-pour-informatique-cours-et-exercices-corriges), Jacques Vélu, Geneviève Avérous, publié chez Dunod, 2019. Ce manuel explique en profondeur tous les thèmes qui constituent le socle des connaissances mathématiques indispensables à tout informaticien. Avec exercices corrigés.
+
 ## Ressources pour formateur·trice
 
 - [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
+
 
 ## Articles en vrac
 
@@ -1507,7 +1517,8 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [Samwho](https://samwho.dev/blog), le blog de Sam. Écrit sur la répartition de charges, l'allocation mémoire et d'autres sujets
 - [Page personnelle de Brian Kernighan](https://www.cs.princeton.edu/~bwk/), publications, recherche, cours, livres de Brian Kernighan
 - [helifromfinland](https://helifromfinland.blog/), articles d'Heli sur Database Designing, Oracle SQL Developer Data Modeler, User Groups etc.
-
+- [gigamonkeys.com](https://gigamonkeys.com/), le blog de [Peter Seibel](https://github.com/gigamonkey), l'auteur de [Coders at work](https://codersatwork.com/) et de [Pratical Common Lisp](https://gigamonkeys.com/book/), deux excellents ouvrages
+- [Dennis Yurichev's blog](https://yurichev.com/news/?C=N;O=D), le blog de Dennis Yurichev, l'auteur du livre [Reverse Engineering for Beginners](https://beginners.re/) aussi connu sous le nom RE4B et "Comprendre le langage Assembleur"
 
 ## Podcasts en vrac
 
@@ -1643,17 +1654,17 @@ Par où commencer ? Comment faire ?
 
 ## Prendre soin de soi
 
-Des conseils à la volée
+Des heuristiques à la volée
 
-- **la reconnaissance, ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites-vous payer convenablement. C'est plus facile à dire qu'à faire, c'est un rapport de force à négocier, mais tout s'apprend, notamment à se (faire) respecter.
-- coder c'est cool mais y'a autre chose dans la vie (par exemple commencer un nouveau *side project* alors qu'on en a déjà dix inachevés)
-- quand on bloque sur un bug on s'arrête, on fait autre chose, et on revient avec la solution
-- quand on est fatigué, on s'arrête (au moins un moment)
-- quand on voit qu'on arrive plus à rien, on arrête. Si on ne peut pas arrêter tout de suite alors on fait des petites choses qui traînent et qui restent à faire. Au moins on avance et c'est satisfaisant.
-- on peut tenir un journal (en Markdown bien sûr !) où on note chaque jour tout ce qu'on a fait dans la journée (on peut limiter au taf, mais on peut l'étendre à tout ce qu'on veut en fonction des besoins). On fait des listes avec des entrées courtes, pas besoin de détails. Ça sert à quoi ? A se dire "ah ouais quand même j'ai fait des trucs aujourd'hui même si j'arrête ma journée sur un bug que j'ai pas résolu et que j'ai l'impression d'être un gros looser"
-- quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* [au choix boire un verre, manger un truc, aller voir un film, etc.] ne vous dites pas "non je ne peux pas je dois finir ça. Merde, si j'étais bon je pourrais résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout seul à galérer." Essayez plutôt "j'arrive dans 5 minutes" et lâchez votre ordi.
-- faire un peu de sport ça fait toujours du bien. Même si on en fait pas beaucoup, au moins se créer une habitude. Par exemple "Le mercredi à 17h je vais à la piscine, c'est non négociable, même si je nage 5min". Le fait d'y aller, qu'on ai envie ou pas, déjà c'est une victoire et le début d'habitudes saines pour vivre plus longtemps
-- [faire attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
+- **La reconnaissance, ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites-vous payer convenablement. C'est plus facile à dire qu'à faire, c'est un rapport de force à négocier, mais tout s'apprend, notamment à se (faire) respecter.
+- Programmer c'est cool mais y'a autre chose dans la vie
+- Quand on bloque sur un bug on s'arrête, on fait autre chose, et on revient avec la solution
+- Quand on est fatigué, on s'arrête (au moins un moment)
+- Quand on voit qu'on arrive plus à rien, on arrête. Si on ne peut pas arrêter tout de suite alors on fait des petites choses qui traînent et qui restent à faire. Au moins on avance et c'est satisfaisant.
+- On peut tenir un journal (en Markdown bien sûr !) où on note chaque jour tout ce qu'on a fait dans la journée (on peut limiter au taf, mais on peut l'étendre à tout ce qu'on veut en fonction des besoins). On fait des listes avec des entrées courtes, pas besoin de détails. Ça sert à quoi ? A se dire "ah ouais quand même j'ai fait des trucs aujourd'hui même si j'arrête ma journée sur un bug que j'ai pas résolu et que j'ai l'impression d'être un gros looser"
+- Quand on bloque sur un truc et que quelqu'un vous propose d'aller *X* (au choix boire un verre, manger un truc, aller voir un film, etc.) ne vous dites pas "non je ne peux pas, je dois finir ça *d'abord*. M***, si j'étais bon je pourrais résoudre ce problème et aller *X*. Mais comme je suis débile bin je dois rester devant mon ordi tout·e seul·e à galérer." Essayez plutôt "J'arrive dans 5 minutes" et lâchez votre ordi.
+- Faire un peu de sport ça fait toujours du bien. Même si on en fait pas beaucoup, au moins se créer une habitude. Par exemple "Le mercredi à 17h je vais à la piscine, c'est non négociable, même si je nage 5min". Le fait d'y aller, qu'on ai envie ou pas, déjà c'est une victoire et le début d'habitudes saines pour vivre plus longtemps
+- [Faire (très) attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
 - [[DevFest Nantes 2022] Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU), une très bonne et courageuse conf/partage d'expérience sur la dépression et le burnout, donnée par Manon Gruaz au DevFest de Nantes 2022.
 
 ## Prendre soin de sa machine et de ce qu'il y a dessus au quotidien
