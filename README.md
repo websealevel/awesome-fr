@@ -1021,7 +1021,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
-- [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrankenPHP et du [protocole Mercure](https://mercure.rocks/) (entre autres)
+- [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrankenPHP et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
 
 
 ### C
