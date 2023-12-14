@@ -1012,6 +1012,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
+- [PHP-FIG](https://www.php-fig.org/), le PHP Framework Interop Group, à l'origine des [PSR](https://www.php-fig.org/psr/)
 - [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
