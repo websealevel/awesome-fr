@@ -1015,9 +1015,14 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [packagist](https://packagist.org/), dépôt principal de Composer pour trouver des paquets gratuits
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
-- [PHPStan](https://phpstan.org/), un inspecteur de code statique pour trouver des bugs avant l'execution
-- [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), un ensemble de deux scripts pour analyser votre code et corriger automatiquement ses violations de standards. phpcs detecte les violations, tandis que phpcbf les fixe selon le standard configuré
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
+- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne maintenu par Kevin Dunglas
+- [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
+- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence
+- [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
+- [Le blog de Fabien Potencier](http://fabien.potencier.org/)
+- [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrakenPHP et du protocole Mercure (entre autres)
+
 
 ### C
 
@@ -1468,6 +1473,8 @@ A venir...
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
 - [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](https://www.amazon.fr/Annotated-Turing-Turing%E2%80%B2s-Historic-Computability/dp/0470229055), de Charles Petzold, publié chez Wiley, 2008. Un excellent livre qui accompagne le lecteur dans le papier fondateur de Turing de 36 pages sur le fondement de l'informatique. Passionnant  
 - [Méthodes mathématiques pour l'informatique - 5e édition](https://www.dunod.com/sciences-techniques/methodes-mathematiques-pour-informatique-cours-et-exercices-corriges), Jacques Vélu, Geneviève Avérous, publié chez Dunod, 2019. Ce manuel explique en profondeur tous les thèmes qui constituent le socle des connaissances mathématiques indispensables à tout informaticien. Avec exercices corrigés.
+- [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf), de Bartosz Milewski
+
 
 ## Ressources pour formateur·trice
 
@@ -1773,9 +1780,7 @@ Des heuristiques à la volée
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 - [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
 - [PHP the right way](https://phptherightway.com/), une reference traduite en plusieurs langues sur les standards actuels de la communauté PHP, des liens vers des tutoriels reconnus sur le web
-- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence
-- [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
-- [Le blog de Fabien Potencier](http://fabien.potencier.org/)
+
   
 
 #### Java
