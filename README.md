@@ -1010,7 +1010,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 ### PHP
 
-- [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
+- [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
 - [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 - [The PHP Foundation](https://thephp.foundation/), groupe de travail sur l'écosystème PHP. [En savoir plus](https://www.youtube.com/watch?v=JBPtPy9iSP0).
 - [PHP-FIG](https://www.php-fig.org/), le PHP Framework Interop Group, à l'origine des [PSR](https://www.php-fig.org/psr/)
@@ -1781,8 +1781,7 @@ Des heuristiques à la volée
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
-- [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
-- [PHP the right way](https://phptherightway.com/), une reference traduite en plusieurs langues sur les standards actuels de la communauté PHP, des liens vers des tutoriels reconnus sur le web
+
 
   
 
