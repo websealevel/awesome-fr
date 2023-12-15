@@ -1088,6 +1088,7 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 - [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostgreSQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
+- [SQLite](https://www.sqlite.org/index.html), un SGBDR qui contrairement à la plupart des autres systèmes n'utilise pas l'architecture client/serveur et permet de disposer d'une base de données relationnelles dans un simple fichier. On peut utiliser [DB Browser for SQLite](https://sqlitebrowser.org/) pour avoir un gestionnaire et inspecteur de bases de données avec GUI.
 
 
 ## Conception de bases de données
