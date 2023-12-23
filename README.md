@@ -1477,6 +1477,7 @@ A venir...
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/), un excellent article de [Joel Spolsky](https://www.joelonsoftware.com/about-me/) (2003) sur l'Unicode, l'encodage UTF-8 et les characters sets
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
 - [Use plaintext email](https://useplaintext.email/)
+- [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
 
 
 ## Papiers en vrac
