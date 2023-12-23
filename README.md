@@ -164,9 +164,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Suivi de projets](#suivi-de-projets)
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
 	- [Dessin](#dessin)
-	- [Monétiser son travail](#monétiser-son-travail)
-		- [Vendre des templates](#vendre-des-templates)
-		- [Vendre des articles](#vendre-des-articles)
 	- [Quelques SGBD](#quelques-sgbd)
 	- [Conception de bases de données](#conception-de-bases-de-données)
 	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
@@ -284,8 +281,10 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Apprendre](#apprendre)
 		- [API](#api)
 		- [Inclassables](#inclassables-1)
-		- [Lecture : articles, livres techniques](#lecture--articles-livres-techniques)
-		- [Vendre](#vendre)
+		- [Lecture : articles, livres techniques (informatique, mathématiques)](#lecture--articles-livres-techniques-informatique-mathématiques)
+	- [Vendre](#vendre)
+		- [Vendre des templates](#vendre-des-templates)
+		- [Vendre des articles](#vendre-des-articles)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 
 ## Frontend
@@ -795,6 +794,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [dbeaver](https://dbeaver.io/), multiplateforme, multi-sgb, open-source que demande le peuple
 - [adminer](https://www.adminer.org/), une alternative open-source a phpMyAdmin (aussi open source) qui commence à être chargé historiquement. Plus légèr, plus performant, plus sécurisé, plus user-friendly. Prend en charge les base de données MySQL, SQLite, PostgreSQL, MS SQL et Oracle
 - [pgAdmin](https://www.pgadmin.org/), le système d'administration open-source le plus poussé pour Postgresql
+- [pspg - Postgres Pager](https://github.com/okbob/pspg), pspg est un navigateur Unix pour naviguer dans les tables d'une base de données relationnelle
 
 ### Client git
 
@@ -812,7 +812,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 ### Simulateur de terminal
 
-- [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows. On lui préférera aujourd'hui le [WSL2](https://learn.microsoft.com/fr-fr/windows/wsl/install)
+- [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows. **On lui préférera aujourd'hui le** [WSL2](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
 ### Design
 
@@ -856,6 +856,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [opensourcealternative](https://www.opensourcealternative.to/), trouver une solution alternative open-source à ...
 - [degooglisons-internet](https://degooglisons-internet.org/fr/), remplacer tous vos services tiers propriétaires par du libre (partage de fichiers, communication...)
 - [Framasoft](https://framasoft.org/fr/), association d'éducation populaire soutenant plusieurs projets open-source dont Framalibre
+- [flop!EDT](https://flopedt.org/), gestionnaire d'emploi du temps personnalisé open-source
 - [Framalibre](https://framalibre.org/), l'annuaire des logiciels libres
 - [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
 - [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
@@ -1054,32 +1055,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 - [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
 
-## Monétiser son travail
 
-### Vendre des templates
-
-Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
-
-- [themeforest.net](https://themeforest.net/)
-- [monsterone.com](https://monsterone.com/)
-- [codester.com](https://www.codester.com/)
-- [creativemarket.com](https://creativemarket.com/)
-- [designhill.com](https://www.designhill.com/)
-- [templatemonster.com](https://www.templatemonster.com/)
-- [mojomarketplace.com](https://www.mojomarketplace.com/)
-
-### Vendre des articles
-
-- [digitalocean](https://www.digitalocean.com/community/pages/write-for-digitalocean), proposer des articles sur l'administration et l'écosystème linux, Docker ou la sécurité informatique. Seuls des articles portant sur des logiciels open-source sont acceptés. En voici une liste non exhaustive, pour en voir davantage [rendez-vous sur ce dépôt](https://github.com/malgamves/CommunityWriterPrograms).
-- [SMASHING MAGAZINE](https://www.smashingmagazine.com/write-for-us/)
-- [testdrivenio](https://testdriven.io/blog/), sur les tests, l'optimisation et la mise à l'échelle de systèmes
-- [auth0](https://auth0.com/apollo-program), sujets acceptés: identité/sécurité, mobile (natif et cross platform), python, Electron, Java, .Net
-- [tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm), sur les technos de l'information, la qualité, les technos webs, big data, sujets académiques, etc.
-- [envatotuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034)
-- [Guest Writer Program](https://circleci.com/blog/guest-writer-program/)
-- [draft.dev](https://draft.dev/write)
-- [honeybadger](https://www.honeybadger.io/blog/write-for-us/), php, ruby, python
-- [linode](https://www.linode.com/lp/write-for-linode/)
 
 
 ## Quelques SGBD
@@ -1197,13 +1173,14 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 - [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations), les différentes implémentations ou *parsers* Markdown
 - [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
 - [Apprendre CommonMark en quelques minutes](https://commonmark.org/help/)
+- [MultiMarkdown](https://fletcherpenney.net/multimarkdown/), superset de Markdown qui permet de produire des document complets bien formés. Ajoute des features utiles manquantes à Markdown, notamment la gestion de meta-données et tout ce qui touche à la connectivité entre documents Markdown
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
 - [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown (proposée par John Gruber) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. Babel Mark 3 vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
 - [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
 - [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
 - [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. créer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
-- [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI slides vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
+- [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI, Slides est une application web qui vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
 ## CV
 
@@ -1509,6 +1486,7 @@ A venir...
 - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf), un papier de Brian Kernighan sur la thèse perdue de Dennis Ritchie et comment a-t-il pu la mettre en page étant donné sa complexité typographique et les programmes de préparation de document de l'époque
 - [Document preparation archeology](https://www.cs.princeton.edu/~bwk/202/index.html), Brian Kernighan explore les premiers travaux et programmes dédiés à la préparation de document et à la typographie informatique
 - [Programming language semantics:It’s easy as 1,2,3](https://t.co/GbsQMnAyKZ), par GRAHAM HUTTON
+- [RRB-Trees: Efficient Immutable Vectors ](https://infoscience.epfl.ch/record/169879?ln=en), apprendre comment fonctionne et comment implémenter des vecteurs immutables pour la programmation fonctionnelle
 
 
 ## Blogs en vrac
@@ -1530,6 +1508,9 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [helifromfinland](https://helifromfinland.blog/), articles d'Heli sur Database Designing, Oracle SQL Developer Data Modeler, User Groups etc.
 - [gigamonkeys.com](https://gigamonkeys.com/), le blog de [Peter Seibel](https://github.com/gigamonkey), l'auteur de [Coders at work](https://codersatwork.com/) et de [Pratical Common Lisp](https://gigamonkeys.com/book/), deux excellents ouvrages
 - [Dennis Yurichev's blog](https://yurichev.com/news/?C=N;O=D), le blog de Dennis Yurichev, l'auteur du livre [Reverse Engineering for Beginners](https://beginners.re/) aussi connu sous le nom RE4B et "Comprendre le langage Assembleur"
+- [Eli Bendersky website](https://eli.thegreenplace.net/)
+- [null program](https://nullprogram.com/), le blog de Chris Wellons
+
 
 ## Podcasts en vrac
 
@@ -1737,6 +1718,7 @@ Des heuristiques à la volée
 - [Web development resources](https://github.com/MilanAryal/web-development-resources), un autre dépôt maintenant une liste de ressources pour le dev
 - [le site de E. Thirion](http://cours.thirion.free.fr/Cours/BaseDeDonnees1/index.php), les cours de E. Thirion sur MySQL. E. Thirion est un chercheur et enseignant en informatique depuis des années et a développé un site pour réunir et partager ses cours sur tout un tas de sujets liés au développement informatique (bases de la programmation, POO, UI, développement web, [bases de données relationnelles](http://cours.thirion.free.fr/Cours/BaseDeDonnees1/index.php), [Merise](http://cours.thirion.free.fr/Cours/Merise/index.php), etc.). Et on l'en remercie.
 - [My knowledge wiki (en)](https://wiki.nikiv.dev/), de [Nikita](https://twitter.com/nikitavoloboev), un développeur qui partage toute sa veille sous forme de wiki hébergé sur Github. De quoi creuser dans toutes les directions. Une mine de ressources commentée.
+- [My favorite technical blogs](https://lists.eatonphil.com/blogs.html), une liste filtrée de blogs techniques proposée par Phil Eaton
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
@@ -1858,7 +1840,7 @@ Des heuristiques à la volée
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line), s'améliorer en ligne de commande
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate), un template de départ professionnel pour vos fichiers html
 
-### Lecture : articles, livres techniques
+### Lecture : articles, livres techniques (informatique, mathématiques)
 
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
@@ -1866,18 +1848,40 @@ Des heuristiques à la volée
 - [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique. Edit: non fonctionnel actuellement (07/2023)
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
-
 - [papers we love](https://github.com/papers-we-love/papers-we-love), un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
 - [des livres](https://drive.google.com/drive/folders/1g-fs7vr3_2pGw5sevD_eutVuskKLFMz7?usp=sharing), des livres sur la programmation/informatique, le dessin, des motifs géométriques, mathématiques
-
 - [livres gratuits pour les designers](https://www.lapa.ninja/book/)
 - [Free books center](http://www.freebookcentre.net/), des liens vers des centaines de livres techniques gratuits
 - [Programming Books: An Ordered and Curated Reading List for Software Craftsmanship Growth](https://www.programmingbooks.dev/), une liste de livres d'informatique classée par niveaux, par [Cenny Davidsson](https://www.programmingbooks.dev/about/)
+- [200+ Useful Free Math Books for Lifelong Learners](https://abakcus.com/useful-free-math-books-for-lifelong-learners/), une liste de livres de mathématiques disponibles gratuitement en PDF
 
+## Vendre
 
-### Vendre
+### Vendre des templates
+
+Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
+
+- [themeforest.net](https://themeforest.net/)
+- [monsterone.com](https://monsterone.com/)
+- [codester.com](https://www.codester.com/)
+- [creativemarket.com](https://creativemarket.com/)
+- [designhill.com](https://www.designhill.com/)
+- [templatemonster.com](https://www.templatemonster.com/)
+- [mojomarketplace.com](https://www.mojomarketplace.com/)
+
+### Vendre des articles
 
 - [CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms), une liste de sites/éditeurs à qui vous pouvez soumettre des articles techniques contre rémunération
+- [digitalocean](https://www.digitalocean.com/community/pages/write-for-digitalocean), proposer des articles sur l'administration et l'écosystème linux, Docker ou la sécurité informatique. Seuls des articles portant sur des logiciels open-source sont acceptés. En voici une liste non exhaustive, pour en voir davantage [rendez-vous sur ce dépôt](https://github.com/malgamves/CommunityWriterPrograms).
+- [SMASHING MAGAZINE](https://www.smashingmagazine.com/write-for-us/)
+- [testdrivenio](https://testdriven.io/blog/), sur les tests, l'optimisation et la mise à l'échelle de systèmes
+- [auth0](https://auth0.com/apollo-program), sujets acceptés: identité/sécurité, mobile (natif et cross platform), python, Electron, Java, .Net
+- [tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm), sur les technos de l'information, la qualité, les technos webs, big data, sujets académiques, etc.
+- [envatotuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034)
+- [Guest Writer Program](https://circleci.com/blog/guest-writer-program/)
+- [draft.dev](https://draft.dev/write)
+- [honeybadger](https://www.honeybadger.io/blog/write-for-us/), php, ruby, python
+- [linode](https://www.linode.com/lp/write-for-linode/)
 
 ## Trouver des livres techniques d'occasion pas cher
 
