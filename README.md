@@ -1487,7 +1487,10 @@ A venir...
 - [Document preparation archeology](https://www.cs.princeton.edu/~bwk/202/index.html), Brian Kernighan explore les premiers travaux et programmes dédiés à la préparation de document et à la typographie informatique
 - [Programming language semantics:It’s easy as 1,2,3](https://t.co/GbsQMnAyKZ), par GRAHAM HUTTON
 - [RRB-Trees: Efficient Immutable Vectors ](https://infoscience.epfl.ch/record/169879?ln=en), apprendre comment fonctionne et comment implémenter des vecteurs immutables pour la programmation fonctionnelle
-
+- [MapReduce: Simplified Data Processing on Large Clusters](https://t.co/uOCCUyxsC5), de Jeffrey Dean and Sanjay Ghemawat (Google) sur la procédure MapReduce pour gérer et générer des grands volumes de données
+- [TAO: Facebook’s Distributed Data Store for the Social Graph](https://t.co/mjoQTRjk7c), de Nathan Bronson, Zach Amsden, George Cabrera, Prasad Chakka, Peter Dimov, Hui Ding, Jack Ferris, Anthony Giardullo, Sachin Kulkarni, Harry Li, Mark Marchukov
+Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Modèle de données et d'API pour la gestion de graphes représentant des réseaux sociaux
+- [The Paperboy, The Wallet, and The Law Of Demeter](https://t.co/kidvfZghjE), de David Bock, sur la "Loi de Demeter" en POO
 
 ## Blogs en vrac
 
@@ -1532,7 +1535,6 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 ## Vidéo
 
 ### Conférences en vrac
-
 
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
