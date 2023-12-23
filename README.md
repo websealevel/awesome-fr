@@ -240,7 +240,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Conférences en vrac](#conférences-en-vrac)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
-		- [Game Developers Conference (aka GDC)](#game-developers-conference-aka-gdc)
+		- [Game Developers Conference (GDC)](#game-developers-conference-gdc)
 		- [Chaînes YouTube](#chaînes-youtube)
 		- [Playlists](#playlists)
 		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
@@ -1574,7 +1574,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [Dwarf fortress](http://bay12games.com/dwarves/), un projet fou [de générateur de monde de fantasy interactif](http://bay12games.com/dwarves/features.html), qui dure depuis plus de 20ans, fabriqué avec passion par deux frangins. Pour l'anectode, [dwarf fortress est rentré au MoMa](https://www.moma.org/collection/works/164920). Le jeu sert également de base pour [écrire des histoires](http://bay12games.com/dwarves/dev_story.html).
 - [End-to-End Procedural Generation in Caves of Qud](https://www.youtube.com/watch?v=jV-DZqdKlnE&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=41&t=2320s), une conférence des devs de Caves of Qud, un "rogue-like" ASCII sur leurs techniques de génération procédurale pour générer des cultures, villages, personnages, environnements etc...
 
-### [Game Developers Conference](https://gdconf.com/) (aka GDC)
+### Game Developers Conference (GDC)
 
 La conférence annuelle de la communauté du développement du jeux vidéos. [Des tonnes et des tonnes de conférences](https://www.youtube.com/c/Gdconf) gratuites, de qualité (également dans la captation) à regarder.
 
