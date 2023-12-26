@@ -947,6 +947,8 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Cours complet pour apprendre les systèmes de gestion de bases de données](https://sgbd.developpez.com/tutoriels/cours-complet-bases-de-donnees/), un cours complet de [Georges Gardarin](https://www.eyrolles.com/Accueil/Auteur/georges-gardarin-34/) sur les bases relationnelles
 - [Les meilleurs cours et tutoriels pour apprendre le SQL](https://sql.developpez.com/), par les membres de developpez.com. Un grand nombre de cours, tutoriels, exercices sur le sujet
 - Une [sélection de livres](https://sgbd.developpez.com/livres/) par les membres de developpez.com
+- [Other MySQL Documentation](https://dev.mysql.com/doc/index-other.html), documentation de MySQL sur des aspects plus avancés ainsi que **des liens pour télécharger des bases de données avec des grand volumes de données** pour pratiquer sa compréhension du standard, de MySQL et des performances 
+
 
 ## Protocoles
 
