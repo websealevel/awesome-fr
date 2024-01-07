@@ -1074,8 +1074,12 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 - [Petit guide d'analyse des données à l'aide de la méthode MERISE](https://sqlpro.developpez.com/cours/modelisation/merise/), par Frédéric Brouard
 - [Règle de gestion bien écrite => Modélisation des données facile](https://blog.developpez.com/cinephil/p10397/bases-de-donnees/regle_de_gestion_bien_ecrite_g_modelisat), par CinéPhil, modérateur actif de developpez.com
-- [Le Dictionnaire de Données](https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html), article utile de Pr. Nacer-Eddine Zarour et Dr. Mohamed El Hadi Benelhadj sur l'écriture du dictionnaire de données
+- [Le Dictionnaire des données](https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html), article utile de Pr. Nacer-Eddine Zarour et Dr. Mohamed El Hadi Benelhadj sur l'écriture du dictionnaire de données
 - [Associations réflexives](http://cours.thirion.free.fr/Cours/Merise/Asso-Refl-Cours.php), très bonne page web sur les associations réflexives en Merise, par E. Thirion 
+- [Normalisation des noms des objets des bases de données](https://sqlpro.developpez.com/cours/standards/), une proposition de standardisation interne à l'organisation de l'ensemble des éléments composant une base de données, par Frédéric Brouard. Propose un standard sur le nommage, les domaines de validité, la documentation, l'ergonomie et l'écriture des requêtes. Indépendant du SGBDR. Ne pas hésiter à s'en servir.
+- [La méthode MERISE](http://tcosnuau.free.fr/COURS/MERISE/MERISE.HTM), par tcosnuau
+- [Clefs auto-incrémentées](https://sqlpro.developpez.com/cours/clefs/), article complet de Brouard sur la génération de la valeur des clefs primaires permettant d'identifier chaque enregisterment de manière unique dans une table
+- [Les 10 meilleures pratiques pour développer avec un SGBDR](https://blog.developpez.com/sqlpro/p6507/ms-sql-server/les_10_meilleures_pratiques_sur_ms_sql_s), les 10 commandements positifs ou règles impératives à suivre pour que votre SGBDR soit performant, efficace et précis ! valable pour tous les SGBDR, avec des exemples pour MS SQL Server, de Frédéric Brouard
 
 
 ## Outils de conception de base de données
