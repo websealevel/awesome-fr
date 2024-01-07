@@ -165,7 +165,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
 	- [Dessin](#dessin)
 	- [Quelques SGBD](#quelques-sgbd)
-	- [Conception de bases de données](#conception-de-bases-de-données)
+	- [Modélisation de bases de données relationnelles](#modélisation-de-bases-de-données-relationnelles)
 	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
@@ -1069,7 +1069,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [SQLite](https://www.sqlite.org/index.html), un SGBDR qui contrairement à la plupart des autres systèmes n'utilise pas l'architecture client/serveur et permet de disposer d'une base de données relationnelles dans un simple fichier. On peut utiliser [DB Browser for SQLite](https://sqlitebrowser.org/) pour avoir un gestionnaire et inspecteur de bases de données avec GUI.
 
 
-## Conception de bases de données
+## Modélisation de bases de données relationnelles
 
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 - [Petit guide d'analyse des données à l'aide de la méthode MERISE](https://sqlpro.developpez.com/cours/modelisation/merise/), par Frédéric Brouard
