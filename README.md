@@ -1305,6 +1305,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [RESTful Web Services](https://learning.oreilly.com/library/view/restful-web-services/9780596529260/), de Leonard Richardson, Sam Ruby, O'Reilly, 2007. S'il y a un livre à lire/étudier/feuilleter/avoir sur REST c'est celui-ci. Ce livre est passé sous licence *Creative Commons* dans le cadre du projet [O'Reilly Open Books](https://www.oreilly.com/openbook/). [Accéder à la version en ligne/PDF gratuite](http://restfulwebapis.org/rws.html) 
 - [Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs), de [Niklaus Writh](https://en.wikipedia.org/wiki/Niklaus_Wirth), publié chez Prentice Hall, 1976.
 - [The Art of Computer Programming (TAOCP)](https://cs.stanford.edu/~knuth/taocp.html), de Donald E. Knuth, publié chez Addison-Wesley, 1968-1969
+- [Software Engineering, Tenth Edition](https://software-engineering-book.com/), un livre canonique sur l'architecture logicielle et l'ingénieurie logicielle (conduite de grands projets informatiques), de [Ian Sommerville](https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer))
 
 ### Refactoring, travailler sur du code legacy
 
@@ -1507,6 +1508,8 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [null program](https://nullprogram.com/), le blog de Chris Wellons
 - [computing the human experience](https://computingthehumanexperience.com/), le site de [Grady Booch](https://fr.wikipedia.org/wiki/Grady_Booch)
 - [Le blog de SQLpro](https://blog.developpez.com/sqlpro/), le blog de Brouard sur le SQL pour SQL Server, PostGreSQL et tous les autres SGBDR
+- [Le site du livre *Software Engineering*](https://software-engineering-book.com/intro/), de Ian Sommerville. Slides, supports pour cours, études de cas
+
 
 ## Podcasts en vrac
 
