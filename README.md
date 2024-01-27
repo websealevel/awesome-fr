@@ -231,7 +231,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Informatique et mathématiques et aspects bas niveau](#informatique-et-mathématiques-et-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
-	- [Articles en vrac](#articles-en-vrac)
+	- [Articles / Billets de blog en vrac](#articles--billets-de-blog-en-vrac)
 	- [Papiers en vrac](#papiers-en-vrac)
 	- [Blogs en vrac](#blogs-en-vrac)
 	- [Podcasts en vrac](#podcasts-en-vrac)
@@ -253,7 +253,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
-	- [Inclassables](#inclassables)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Correction](#correction)
 	- [Trouver du boulot](#trouver-du-boulot)
@@ -261,7 +260,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
 		- [Général](#général-1)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
-		- [Frontend](#frontend-1)
+		- [Côté client (*Front-end*)](#côté-client-front-end)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Applications web et réseaux à héberger *soi-même*](#applications-web-et-réseaux-à-héberger-soi-même)
 		- [Conférences](#conférences)
@@ -280,7 +279,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Architecture logicielle](#architecture-logicielle-1)
 		- [Apprendre](#apprendre)
 		- [API](#api)
-		- [Inclassables](#inclassables-1)
+		- [Inclassables](#inclassables)
 		- [Lecture : articles, livres techniques (informatique, mathématiques)](#lecture--articles-livres-techniques-informatique-mathématiques)
 	- [Vendre](#vendre)
 		- [Vendre des templates](#vendre-des-templates)
@@ -1022,7 +1021,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [PHP Usergroup](https://php.ug/), trouvez des *usergroups* PHP près de chez vous
 - [Afup](https://afup.org/home), association française des utilisateurs de PHP
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
-- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne maintenu par Kevin Dunglas
+- [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
 - [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
@@ -1469,7 +1468,7 @@ A venir...
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
 
 
-## Articles en vrac
+## Articles / Billets de blog en vrac
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
@@ -1484,7 +1483,9 @@ A venir...
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
 - [Use plaintext email](https://useplaintext.email/)
 - [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
-
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/), d'Alexis King
+- [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
+- [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
 
 ## Papiers en vrac
 
@@ -1498,6 +1499,8 @@ A venir...
 - [TAO: Facebook’s Distributed Data Store for the Social Graph](https://t.co/mjoQTRjk7c), de Nathan Bronson, Zach Amsden, George Cabrera, Prasad Chakka, Peter Dimov, Hui Ding, Jack Ferris, Anthony Giardullo, Sachin Kulkarni, Harry Li, Mark Marchukov
 Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Modèle de données et d'API pour la gestion de graphes représentant des réseaux sociaux
 - [The Paperboy, The Wallet, and The Law Of Demeter](https://t.co/kidvfZghjE), de David Bock, sur la "Loi de Demeter" en POO
+- [Forces in the Physics of Software the final word](https://drive.usercontent.google.com/download?id=1iy2Jopayt5MYetEiMg-XyJ_ZkXXVEDKV&export=download), de Carlo Pescio (draft). Une tentative de modélisation du développement et de l'architecture logicielle avec des concepts empruntés à la mécanique.
+
 
 ## Blogs en vrac
 
@@ -1520,6 +1523,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [Dennis Yurichev's blog](https://yurichev.com/news/?C=N;O=D), le blog de Dennis Yurichev, l'auteur du livre [Reverse Engineering for Beginners](https://beginners.re/) aussi connu sous le nom RE4B et "Comprendre le langage Assembleur"
 - [Eli Bendersky website](https://eli.thegreenplace.net/)
 - [null program](https://nullprogram.com/), le blog de Chris Wellons
+- [computing the human experience](https://computingthehumanexperience.com/), le site de [Grady Booch](https://fr.wikipedia.org/wiki/Grady_Booch)
 
 
 ## Podcasts en vrac
@@ -1596,7 +1600,6 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [PHP UK Conferences (en)](https://www.youtube.com/c/phpukconference), oui c'est la chaine de la conférence éponyme et oui ça parle de PHP. Toutes les captations des conférences de chaque année sont présentes ici. Pour tous les dev qui veulent se maintenir informés sur PHP et son écosystème
 - [AFUP PHP (fr)](https://www.youtube.com/@afupPHP), des tonnes de conférences de la communauté PHP française, beaucoup de conférences vraiment intéressantes et de qualité
 - [GDC France (fr)](https://www.youtube.com/c/Gdg-franceBlogspotFr/about), notre GDC à nous. Héberge notamment toutes les captations du DevFest ayant lieu tous les ans à Nantes
-- [BastiUI (fr)](https://www.youtube.com/c/BastiUI), Ux Ui Design • Motion • Tuto • Vulgarisation. Ici on parle de Design d'interface sur un ton léger.
 - [DesignerUP (en)](https://www.youtube.com/DesignerUp), améliorez votre savoir-faire en UI/UX et design produit
 - [ParfaitementWeb (fr)](https://www.youtube.com/c/ParfaitementWeb), une chaîne très appréciable qui est *content first*, va a l'essentiel et dont le contenu est de qualité sans chercher à capitaliser sur les tendances et montre un état des lieux honnête du développement web
 - [Galileo51 Galilei (fr)](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français sur la physique ou l'informatique/logiciel (oui c'est la chaine de l'auteur principal, un peu d'auto-promotion mais impartiale et objective)
@@ -1606,10 +1609,10 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [Playlist de conférences et vidéos informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
-- [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). La passion oui, le bordel Non ! 
+- [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). *La passion oui, le bordel non !*
 - [DevFest Nantes 2022](https://www.youtube.com/watch?v=rQaEzZIZIRg&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
 - [Forum PHP 2022 (AFUP)](https://www.youtube.com/watch?v=nxs55WKRyQs&list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj)
-
+- [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_), de Bartosz Milewski. Pour les programmeur·ses. Passionant ! [Voir le dépôt associé (livre)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ### Computer graphics et art génératif
 
@@ -1681,10 +1684,6 @@ Des heuristiques à la volée
 
 - [instructables](https://www.instructables.com/), explorer, documenter et partager vos créations artisanales
 
-## Inclassables
-
-- [readme](https://readme.so/fr), créer un readme de manière simple
-
 
 ## Géométrie, art génératif, algorithmes, procédural
 
@@ -1733,7 +1732,7 @@ Des heuristiques à la volée
 
 - [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode)
 
-### Frontend
+### Côté client (*Front-end*)
 
 - [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
 - [omatsuri](https://omatsuri.app/)
