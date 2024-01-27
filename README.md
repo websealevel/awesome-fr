@@ -1241,13 +1241,13 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 ### Un mot
 
 - Est ce que *X* est mort ? 
-- Apprendre *X* en 2023 ?
+- Apprendre *X* en <insérer l'année courante> ?
 
-On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en moque, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un meilleur programmeur. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
+On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en moque, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un·e meilleur·e programmeur·se. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
 
-Tomber dans l'oubli ne signifie pas nécessairement devenir obsolète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures du début du web 2.0. Il arrive souvent d'ailleurs qu'une techno disparaisse tout simplement parce que le *monde n'y était pas encore préparé*, ou parce qu'une autre techno a bénéficié d'un marketing beaucoup plus agressif à la même époque...
+Tomber *dans l'oubli* ne signifie pas nécessairement devenir obsolète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures des années 2000. Il arrive souvent d'ailleurs qu'une techno disparaisse tout simplement parce que le *monde n'y était pas encore préparé*, ou parce qu'une autre techno a bénéficié d'un marketing beaucoup plus agressif à la même époque ou par *pur accident*, comme processus d'évolution...
 
-Le passé est rempli d'idées, de concepts, de technos révolutionnaires et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la hype, sont en fait des vieilles idées des années 80.
+Le passé est rempli d'idées, de concepts, de méthodes, de technologies intéressantes et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la *hype*, sont en fait des vieilles idées des années 60 ou 80.
 
 Que je sois bien compris, *je n'ai rien contre les modes et la nouveauté*. Les modes sont toujours là et aucune personne n'y échappe, aussi condescendante soit-elle. Les frameworks JS sont des outils formidables, allez donc les apprendre (aussi). 
 
@@ -1255,7 +1255,7 @@ Ce que je veux dire c'est qu'il faut apprendre à filtrer le signal, les modes c
 
 Ils se font (en général) moins avoir qu'un·e jeune de 20 ans qui débarque dans l'industrie du développement web à qui on *push* par tous les ports, via tous les canaux possibles, les derniers outils à la mode, dont la plupart seront morts dans quelques années pour laisser leur place à d'autres. Il faut avoir un biais pour ce qui est stable et éprouvé, et non pour ce qui est nouveau. Cela veut dire accueillir la nouveauté, la tester, mais toujours rester *soupçonneux*. Si demain je me lance dans un gros projet sur plusieurs années, est-ce que je prends cet outil qui est sorti le mois dernier ? (La réponse est non) .
 
-Il vaut mieux comprendre les principes du web, qui fait quoi, dans les grandes lignes, que le dernier framework `whatever.js` à la mode. `whatever.js` va disparaître, alors qu'une architecture client-serveur non. Il faut d'abord aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
+Il vaut mieux comprendre les principes du web par exemple, qui fait quoi, dans les grandes lignes, que le dernier framework `whatever.js` à la mode. `whatever.js` va disparaître, alors qu'une architecture client-serveur non. Il faut d'abord aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
 
 ### Du bruit au bruit
 
