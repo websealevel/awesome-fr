@@ -173,6 +173,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [`Sed`](#sed)
 		- [`sloccount`](#sloccount)
 		- [`rclone`](#rclone)
+		- [`wwb`](#wwb)
 		- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
@@ -262,7 +263,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Architecture logicielle](#architecture-logicielle-1)
 		- [Apprendre](#apprendre)
 		- [API](#api)
-		- [Inclassables](#inclassables)
+		- [Divers](#divers-1)
 		- [Lecture : articles, livres techniques (informatique, mathématiques)](#lecture--articles-livres-techniques-informatique-mathématiques)
 	- [Vendre](#vendre)
 		- [Vendre des templates](#vendre-des-templates)
@@ -1204,6 +1205,10 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 - [rclone](https://rclone.org/), *"The Swiss army knife of cloud storage"*, une interface en ligne de commande pour gérer (copier, déplacer, synchroniser) ses fichiers sur les hébergements distants (Dropbox, Google Drive, etc.)
 
+### `wwb`
+
+[writer's workbench (wwb)](https://en.wikipedia.org/wiki/Writer%27s_Workbench) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par [Lorinda Cherry](https://en.wikipedia.org/wiki/Lorinda_Cherry) et Nina Macdonald. [Cet outil a aidé le groupe UNIX a produire de la documentation technique et des articles de qualité](https://dspinellis.github.io/oral-history-of-unix/frs122/unixhist/text.htm). Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme [spell](https://manpages.debian.org/bookworm/spell/spell.1.en.html), [style](https://manpages.debian.org/bookworm/diction/style.1.en.html) et [diction](https://manpages.debian.org/bookworm/diction/diction.1.en.html). Une version en ligne est également accessible [via ce site web](https://www.writersworkbench.com/index.html)
+
 ### Manipulation de fichiers, documents
 
 Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.
@@ -1680,6 +1685,7 @@ Des heuristiques à la volée
 - [Vitrine linguistique](https://vitrinelinguistique.oqlf.gouv.qc.ca/), vitrine linguistique, sert de référence en ligne à de nombreux·ses correcteur·rices
 - [André jouette: dictionnaire d'orthographe et d'expression ecrite](https://www.amazon.fr/Dictionnaire-dorthographe-dexpression-%C3%A9crite-Jouette/dp/2850362247)
 - [ACLF](https://www.associationdescorrecteurs.fr/), Association des Correcteurs de la Langue Française. Vous y trouverez notamment les liens vers [les outils indispensables](https://www.associationdescorrecteurs.fr/outils/les-indispensables/) reconnus comme tels par toute la profession
+- [Voir l'entrée sur `wwb`](#boîte-à-outils)
   
 
 ## Trouver du boulot
@@ -1759,8 +1765,6 @@ Des heuristiques à la volée
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
 
 
-  
-
 #### Java
 
 - [Le didacticiel "Développons en Java"](https://www.jmdoudoux.fr/accueil_java.htm#dej), le site de la légende française de l'écosystème Java, [J.M. Doudoux](https://www.jmdoudoux.fr/presentation.htm). Il propose notamment un didacticiel *Développons en Java*, de 128 chapitres des bases jusqu'aux sujets les plus pointus, toujours mis à jour. Pour approfondir Java il est difficile de faire mieux dans la francophonie
@@ -1824,7 +1828,7 @@ Des heuristiques à la volée
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 - [markodenic/public-apis](https://github.com/markodenic/public-apis), un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
 
-### Inclassables
+### Divers
 
 - [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
 - [developer roadmap](https://github.com/kamranahmedse/developer-roadmap), un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
