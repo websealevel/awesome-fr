@@ -170,7 +170,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
 	- [Boîte à outils](#boîte-à-outils)
-		- [`Sed`](#sed)
+		- [`sed`](#sed)
 		- [`sloccount`](#sloccount)
 		- [`rclone`](#rclone)
 		- [`wwb`](#wwb)
@@ -1193,9 +1193,9 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 ## Boîte à outils
 
-### `Sed`
+### `sed`
 
-- [Sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
+- [sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
 
 ### `sloccount`
 
@@ -1207,7 +1207,7 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 ### `wwb`
 
-[writer's workbench (wwb)](https://en.wikipedia.org/wiki/Writer%27s_Workbench) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par [Lorinda Cherry](https://en.wikipedia.org/wiki/Lorinda_Cherry) et Nina Macdonald. [Cet outil a aidé le groupe UNIX a produire de la documentation technique et des articles de qualité](https://dspinellis.github.io/oral-history-of-unix/frs122/unixhist/text.htm). Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme [spell](https://manpages.debian.org/bookworm/spell/spell.1.en.html), [style](https://manpages.debian.org/bookworm/diction/style.1.en.html) et [diction](https://manpages.debian.org/bookworm/diction/diction.1.en.html). Une version en ligne est également accessible [via ce site web](https://www.writersworkbench.com/index.html)
+[writer's workbench (wwb)](https://en.wikipedia.org/wiki/Writer%27s_Workbench) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par [Lorinda Cherry](https://en.wikipedia.org/wiki/Lorinda_Cherry) et Nina Macdonald. [Cet outil a aidé le groupe UNIX a produire de la documentation technique et des articles de qualité](https://dspinellis.github.io/oral-history-of-unix/frs122/unixhist/text.htm). Un article complet y a été consacré dans le magazine Byte en 1983. [Vous pouvez y accéder grâce au travail précieux d'Internet Archives](https://archive.org/details/byte-magazine-1983-10/page/n241/mode/2up). Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme [spell](https://manpages.debian.org/bookworm/spell/spell.1.en.html), [style](https://manpages.debian.org/bookworm/diction/style.1.en.html) et [diction](https://manpages.debian.org/bookworm/diction/diction.1.en.html). Une version en ligne est également accessible [via ce site web](https://www.writersworkbench.com/index.html). 
 
 ### Manipulation de fichiers, documents
 
