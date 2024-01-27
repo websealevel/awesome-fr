@@ -193,7 +193,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 			- [Capture vidéo, audio](#capture-vidéo-audio)
-	- [Programmes linux en vrac](#programmes-linux-en-vrac)
 	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Un mot](#un-mot-1)
@@ -989,6 +988,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 ## Unix
 
 - [Unix programmer's manual Third Edition](https://dspinellis.github.io/unix-v3man/v3man.pdf), publié par K. Thompson et D. M. Ritchie, 1973
+- [Philosophie d'Unix](https://fr.wikipedia.org/wiki/Philosophie_d%27Unix)
 
 
 ## REST, *Architecture of the World Wide Web*
@@ -1178,7 +1178,7 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 - [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations), les différentes implémentations ou *parsers* Markdown
 - [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
 - [Apprendre CommonMark en quelques minutes](https://commonmark.org/help/)
-- [MultiMarkdown](https://fletcherpenney.net/multimarkdown/), superset de Markdown qui permet de produire des document complets bien formés. Ajoute des features utiles manquantes à Markdown, notamment la gestion de meta-données et tout ce qui touche à la connectivité entre documents Markdown
+- [MultiMarkdown](https://fletcherpenney.net/multimarkdown/), **superset de Markdown qui permet de produire des document complets bien formés**. Ajoute des features utiles manquantes à Markdown, notamment la gestion de meta-données et tout ce qui touche à la **connectivité entre documents Markdown**
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
 - [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown (proposée par John Gruber) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. Babel Mark 3 vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
@@ -1238,11 +1238,6 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 #### Capture vidéo, audio
 
 - [simplescreenrecorder](https://www.maartenbaert.be/simplescreenrecorder/), excellent logiciel libre de capture vidéo/audio (screencast), développé par Maarten Baert. Très simple à utiliser et à configurer
-
-## Programmes linux en vrac
-
-- [xdotool](https://www.semicomplete.com/projects/xdotool/), simule des inputs au clavier ou à la souris (clicks, déplacements de fenêtre, redimensionnement de fenêtre...) via le gestionnaire de fenêtres X11
-- [xbindkeys](https://www.nongnu.org/xbindkeys/xbindkeys.fr.html), est un programme qui permet de lancer des commandes shell avec le clavier ou la souris sous X Window. Il associe, à l'aide d'un fichier de configuration, une commande à une touche du clavier ou à un bouton de la souris.
 
 
 ## Androïd
@@ -1486,6 +1481,9 @@ A venir...
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/), d'Alexis King
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
+- [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
+
+
 
 ## Papiers en vrac
 
@@ -1524,7 +1522,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [Eli Bendersky website](https://eli.thegreenplace.net/)
 - [null program](https://nullprogram.com/), le blog de Chris Wellons
 - [computing the human experience](https://computingthehumanexperience.com/), le site de [Grady Booch](https://fr.wikipedia.org/wiki/Grady_Booch)
-
+- [Le blog de SQLpro](https://blog.developpez.com/sqlpro/), le blog de Brouard sur le SQL pour SQL Server, PostGreSQL et tous les autres SGBDR
 
 ## Podcasts en vrac
 
