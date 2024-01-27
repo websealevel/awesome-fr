@@ -1,4 +1,4 @@
-# Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es
+# Ressources *gratuites* pour les programmeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es
 
 ## *We're Using GitHub Under Protest*
 
@@ -6,26 +6,12 @@
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
-(FOSS).  We are deeply concerned about using a proprietary system like GitHub
-to develop our FOSS project.  We have an
-[open {bug ticket, mailing list thread, etc.} ](INSERT_LINK) where the
-project contributors are actively discussing how we can move away from GitHub
-in the long term.  We urge you to read about the
-[Give up GitHub](https://GiveUpGitHub.org) campaign from
-[the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
-
-If you are a contributor who personally has already quit using GitHub, please
-[check this resource](INSERT_LINK) for how to send us contributions without
-using GitHub directly.
-
-Any use of this project's code by GitHub Copilot, past or present, is done
-without our permission.  We do not consent to GitHub's use of this project's
-code in Copilot.
+(FOSS). 
 
 <img src="https://sfconservancy.org/img/GiveUpGitHub.png" alt="Logo of the GiveUpGitHub campaign)" width="600"/>
 
 ## En quelques mots
+
 Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** plutôt orientés web (en tout cas initialement). 
 
 Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
@@ -59,7 +45,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 <img src="img/./no%20time%20to%20lose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
-- [Ressources *gratuites* pour les développeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es](#ressources-gratuites-pour-les-développeureuses-designeureuses-web-indépendantes-bidouilleureuses-et-autres-intéressées)
+- [Ressources *gratuites* pour les programmeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es](#ressources-gratuites-pour-les-programmeureuses-designeureuses-web-indépendantes-bidouilleureuses-et-autres-intéressées)
 	- [*We're Using GitHub Under Protest*](#were-using-github-under-protest)
 	- [En quelques mots](#en-quelques-mots)
 	- [Des limites de la francophonie](#des-limites-de-la-francophonie)
