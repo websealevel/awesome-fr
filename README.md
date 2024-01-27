@@ -12,7 +12,7 @@ proprietary, trade-secret system that is not Free and Open Souce Software
 
 ## En quelques mots
 
-Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, conférences...) **gratuites** plutôt orientés web (en tout cas initialement). 
+Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, blogs, articles, conférences...) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps). 
 
 Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
 
@@ -26,11 +26,9 @@ Un effort sera fait pour retrouver des ressources traduites en français (par ex
 
 ## Conseils d'utilisation
 
-Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières, trouvez rapidement un outil qui peut vous aider.
+Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières, trouvez quelque chose qui peut vous aider ou vous intéresser.
 
-Choisissez parmi ces outils ceux que vous préférez et intégrez-les à votre *workflow* pour vous aider à produire plus efficacement du code ou du design de qualité. 
-
-*Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous paraît utile ou vous attire. Ce dépôt donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer dans le développement web.
+*Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous paraît utile ou vous attire. Ce dépôt donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer en programmation et/ou dans le développement web.
 
 Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clef et des hyperliens pour faciliter la navigation.
 
