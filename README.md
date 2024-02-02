@@ -143,6 +143,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
+			- [Quelques articles](#quelques-articles)
 		- [C](#c)
 		- [JavaScript](#javascript)
 	- [Suivi de projets](#suivi-de-projets)
@@ -180,9 +181,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Capture vidéo, audio](#capture-vidéo-audio)
 	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
-		- [Un mot](#un-mot-1)
 		- [Du bruit au bruit](#du-bruit-au-bruit)
-		- [Rust](#rust)
 		- [SmallTalk](#smalltalk)
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
@@ -190,7 +189,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
-		- [*Classiques*](#classiques)
+		- [*Classiques* (non exhaustive)](#classiques-non-exhaustive)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
 		- [Blog design](#blog-design)
@@ -203,7 +202,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Test driven development](#test-driven-development)
 		- [Programmation CGI](#programmation-cgi)
 		- [Haskell](#haskell-1)
-		- [Rust](#rust-1)
+		- [Rust](#rust)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
 		- [Algorithmes](#algorithmes-1)
@@ -215,21 +214,19 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Informatique et mathématiques et aspects bas niveau](#informatique-et-mathématiques-et-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
-	- [Articles / Billets de blog en vrac](#articles--billets-de-blog-en-vrac)
-	- [Papiers en vrac](#papiers-en-vrac)
-	- [Blogs en vrac](#blogs-en-vrac)
-	- [Podcasts en vrac](#podcasts-en-vrac)
-	- [Cours en vrac](#cours-en-vrac)
-	- [Vidéo](#vidéo)
-		- [Conférences en vrac](#conférences-en-vrac)
+	- [En vrac](#en-vrac)
+		- [Articles / Billets de blog](#articles--billets-de-blog)
+		- [Papiers](#papiers)
+		- [Blogs](#blogs)
+		- [Podcasts](#podcasts)
+		- [Cours](#cours)
+		- [Conférences](#conférences)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (GDC)](#game-developers-conference-gdc)
 		- [Chaînes YouTube](#chaînes-youtube)
 		- [Playlists](#playlists)
 		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
-		- [Programmation fonctionnelle](#programmation-fonctionnelle-1)
-			- [PHP](#php-1)
 		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 	- [Fondamentaux, radical](#fondamentaux-radical)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
@@ -247,11 +244,11 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Côté client (*Front-end*)](#côté-client-front-end)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Applications web et réseaux à héberger *soi-même*](#applications-web-et-réseaux-à-héberger-soi-même)
-		- [Conférences](#conférences)
+		- [Conférences](#conférences-1)
 		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
 		- [Machine learning](#machine-learning)
 		- [Spécifique à une techno](#spécifique-à-une-techno)
-			- [PHP](#php-2)
+			- [PHP](#php-1)
 			- [Java](#java)
 			- [JS](#js-2)
 			- [Typescript](#typescript)
@@ -804,8 +801,6 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 ## Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)
 
-Des outils (surtout des applications webs donc ca vient avec des inconvénients surtout en terme de dépendances et vendor lockin, pensez y) impressionants faut le dire où on n'a parfois même pas besoin d'une ligne de code pour faire quelque chose. Mais on en aura souvent besoin quand même. Mais surtout un mouvement avant tout.
-
 - [No Code Summit](https://www.nocode-summit.org/fr/), conférence organisée par l'Union Française des Professionnels du NoCode qui fédère et représente les professionnels du NoCode et du LowCode
 - [No-Code France](https://nocode-france.fr/), association et espace communautaire francophone dédié au No-Code (slack, chaîne YouTube, veille, meetups)
 - [Makerpad](https://makerpad.zapier.com/), communauté consacrée au NoCode (tutoriels, posts, veille), crée en 2018
@@ -901,7 +896,7 @@ XML s'accompagne d'autres standards comme
 - [XQuery](https://www.w3schools.com/xml/xml_xquery.asp), un standard qui permet de reqûeter l'abre via un *langage déclaratif* (le pied) comme le SQL
 - [XSLT](https://www.w3schools.com/xml/xml_xslt.asp), standard plus avancé que le CSS pour mettre en forme les données XML pour la publication (vers un autre fichier XML, le web, le papier, etc.). Permet également de modifier l'affichage d'éléments, de les réorganiser etc...
 - [DTD](https://www.w3schools.com/xml/xml_dtd.asp), pour la validation des données par un schéma
-- et d'autres encore...
+- et d'autres encore (XML Schema, etc.)...
 
 Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a besoin d'échanger ou de construire des structures de données complexes et *validables*, ou de produire des documents indépendemment de leurs usages (web, présentation, impression papier, etc.).
 
@@ -1008,11 +1003,22 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
 - [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
-- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence
+- [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
 - [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrankenPHP et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
+- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
+- [PHP Quality Assurance](https://qa.php.net/)
 
+#### Quelques articles
+
+- [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them.](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
+- [Elegant immutable object pattern in PHP ](https://dev.to/hbgl/elegant-immutable-object-pattern-in-php-1dg3)
+- [PHP Sessions in Depth](https://www.phparch.com/2018/01/php-sessions-in-depth/)
+- [Session timeouts in PHP: best practices](https://newbedev.com/session-timeouts-in-php-best-practices)
+- [Borrowing Functional Concepts from Clojure in PHP](https://www.codementor.io/@blackwood/borrowing-functional-concepts-from-clojure-in-php-tj19wofx6)
+- [Mastering binary and bitwise in PHP](https://thephp.website/en/issue/bitwise-php/)
+- [10 Tips and Best Practices To Improve PHP Security](https://www.yeahhub.com/10-tips-best-practices-improve-php-security/)
 
 ### C
 
@@ -1021,7 +1027,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 ### JavaScript
 
 - [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
-- [leaflet](https://leafletjs.com/SlavaUkraini/index.html), **le** projet open-source pour développer des cartes interactives et *mobile-friendly*.
+- [leaflet](https://leafletjs.com/SlavaUkraini/index.html), le projet open-source pour développer des cartes interactives et *mobile-friendly*.
 - [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
 
 ## Suivi de projets
@@ -1040,8 +1046,6 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
 - [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 - [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
-
-
 
 
 ## Quelques SGBD
@@ -1149,11 +1153,7 @@ Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement
 
 Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.).
 
-C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web, grâce aux *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web 1.0* : les liens hypertextes et un processus de publication simple et facile. 
-
-Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
-
-Écrire en Markdown c'est comme jouer à Tetris, ça fait du bien à la tête.
+C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web, grâce aux *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web* : les liens hypertextes et un processus de publication simple et facile. Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
 
 ### Supersets, frameworks
 
@@ -1238,30 +1238,11 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
   
 ## Langages/technos à découvrir
 
-### Un mot
-
-- Est ce que *X* est mort ? 
-- Apprendre *X* en <insérer l'année courante> ?
-
-On a tous déjà vu ces sujets abordés partout sur internet. La vérité c'est qu'on s'en moque, *apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un·e meilleur·e programmeur·se. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*, même si c'est sur des technos retombées aujourd'hui dans l'oubli. 
-
-Tomber *dans l'oubli* ne signifie pas nécessairement devenir obsolète. C'est bien souvent le contraire d'ailleurs. Par exemple, le *server side rendering* qui est tant à la mode ([tout ça pour ne pas utiliser JJQuery...](https://youtu.be/Uo3cL4nrGOk)) c'est le retour aux architectures des années 2000. Il arrive souvent d'ailleurs qu'une techno disparaisse tout simplement parce que le *monde n'y était pas encore préparé*, ou parce qu'une autre techno a bénéficié d'un marketing beaucoup plus agressif à la même époque ou par *pur accident* (contingence)...
-
-Le passé est rempli d'idées, de concepts, de méthodes, de technologies intéressantes et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la *hype*, sont en fait des vieilles idées des années 60 ou 80.
-
-Que je sois bien compris, *je n'ai rien contre les modes et la nouveauté*. Les modes sont toujours là et aucune personne n'y échappe, aussi condescendante soit-elle. Les frameworks JS sont des outils formidables, allez donc les apprendre (aussi). 
-
-Ce que je veux dire c'est qu'il faut apprendre à filtrer le signal, les modes c'est du *bruit* qu'il faut souvent filtrer pour en extraire la *vraie valeur*, *les idées de fond*. Les chercheurs sont mieux armés pour cela car ils pratiquent la bibliographie de manière assidue le vendredi matin, ils connaissent les références, les idées qui sont là depuis 50 ans dans leur domaine. 
-
-Ils se font (en général) moins avoir qu'un·e jeune de 20 ans qui débarque dans l'industrie du développement web à qui on *push* par tous les ports, via tous les canaux possibles, les derniers outils à la mode, dont la plupart seront morts dans quelques années pour laisser leur place à d'autres. Il faut avoir un biais pour ce qui est stable et éprouvé, et non pour ce qui est nouveau. Cela veut dire accueillir la nouveauté, la tester, mais toujours rester *soupçonneux*. Si demain je me lance dans un gros projet sur plusieurs années, est-ce que je prends cet outil qui est sorti le mois dernier ? (La réponse est non) .
-
-Il vaut mieux comprendre les principes du web par exemple, qui fait quoi, dans les grandes lignes, que le dernier framework `whatever.js` à la mode. `whatever.js` va disparaître, alors qu'une architecture client-serveur non. Il faut d'abord aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
+*Apprenez ce qui vous fait plaisir*. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un·e meilleur·e programmeur·se. Tout est transférable, *aucun chemin d'apprentissage n'est inutile*. Le passé est rempli d'idées, de concepts, de méthodes, de technologies intéressantes et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la *hype*, sont en fait des vieilles idées des années 60 ou 80. Il faut *d'abord* aller voir dans le passé, on est surpris d'y constater que *la plupart des idées nouvelles ne sont pas nouvelles*.
 
 ### Du bruit au bruit
 
-Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela représente un paradoxe assez connu de celles et ceux qui veulent apprendre le web et se retrouvent confronté·e·s à un flow de ressources complètement impossible à digérer. Ces questions sont d'ailleurs discutées dans ce podcast, consacré au sujet [Comment apprendre à devenir développeur web ?](https://www.htmlallthethings.com/podcasts/how-to-learn-web-development-skills)
-
-### Rust
+Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela représente un paradoxe assez connu de celles et ceux qui veulent apprendre le web et se retrouvent confronté·e·s à un flow de ressources complètement impossible à digérer. Ces questions sont d'ailleurs discutées dans ce podcast, consacré au sujet [Comment apprendre à devenir développeur web ?](https://www.htmlallthethings.com/podcasts/how-to-learn-web-development-skills)
 
 ### SmallTalk
 
@@ -1301,7 +1282,9 @@ Pour finir, ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*
 
 Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
-### *Classiques*
+### *Classiques* (non exhaustive)
+
+> En cours de construction...
 
 - [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996. Ce livre, et le cours du MIT qui se trouve derrière, est juste *à part*. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine, en introduisant le langage Scheme, un dialecte de Lisp. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1oonwoY6DAxWXVaQEHeA2D0AQFnoECA4QAQ&url=https%3A%2F%2Fkremlin.cc%2Fk%26r.pdf&usg=AOvVaw1XViDREs3vL9rDBT9kwwuN&opi=89978449), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan), publié chez Prentice Hall, 1978. Le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
@@ -1399,10 +1382,6 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 ### Algorithmes
 
-Soyons honnêtes, vous n'aurez jamais à coder un *binary tree* à la main dans la vraie vie, voir même en utiliser un durant votre carrière. Cette mode de connaître ces algorithmes par cœur, cette maladie, on la doit aux recruteurs qui pensent bêtement que ces méthodes de recrutement *c'est normal*. Vous pouvez avoir 15 ans d'expérience, maintenir du code legacy, savoir lire et vous retrouver dans le code d'autres développeurs (ce qui est une compétence largement sous-estimée et tellement vitale), refactorer, communiquer efficacement, modéliser de la logique métier, écrire de la documentation de qualité, prendre des décisions éclairées, si vous ne savez pas inverser une chaîne de caractères sur place de tête vous n'aurez pas le job ! C'est d'ailleurs un très bon premier avertissement que vous ne devriez peut être pas travailler là et passer votre chemin. 
-
-Cela dit, si on oublie cette tendance délétère, les algorithmes c'est hyper intéressant. C'est même fondamental, passionnant et ça peut vous permettre d'ouvrir de nouveaux horizons pour créer des systèmes intéressants. La différence c'est que vous pouvez vous y intéresser, les comprendre et les utiliser *sans* les apprendre par cœur. Tout le monde travaille avec un onglet ouvert (ou mille) ou un bouquin sur la table.
-
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 - [Introduction to Algorithms, 4th Edition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZh-_7_tSCAxViRaQEHbzNB1EQFnoECCMQAQ&url=https%3A%2F%2Fdl.ebooksworld.ir%2Fbooks%2FIntroduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf&usg=AOvVaw1FvA0IIbaxK-z6fPzdnF49&opi=89978449), de Thomas H. Cormen (Auteur), Charles E. Leiserson (Auteur), Ronald L. Rivest (Auteur), Clifford Stein, publié au MIT Press. Le lien est vers la 4e édition. Une référence rigoureuse et reconnue sur les algorithmes et leur analyze. Il est recommandé d'être un peu à l'aise en mathématiques pour l'apprécier pleinement. La 3e édition est facilement trouvable en ligne également.
 
@@ -1452,8 +1431,9 @@ A venir...
 - [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
 
+## En vrac
 
-## Articles / Billets de blog en vrac
+### Articles / Billets de blog
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
@@ -1475,7 +1455,7 @@ A venir...
 
 
 
-## Papiers en vrac
+### Papiers
 
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans la construction de systèmes d'information
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
@@ -1490,7 +1470,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 - [Forces in the Physics of Software the final word](https://drive.usercontent.google.com/download?id=1iy2Jopayt5MYetEiMg-XyJ_ZkXXVEDKV&export=download), de Carlo Pescio (draft). Une tentative de modélisation du développement et de l'architecture logicielle avec des concepts empruntés à la mécanique.
 
 
-## Blogs en vrac
+### Blogs
 
 Le coeur du web, c'est les blogs et les pages personnelles.
 
@@ -1516,7 +1496,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [Le site du livre *Software Engineering*](https://software-engineering-book.com/intro/), de Ian Sommerville. Slides, supports pour cours, études de cas
 
 
-## Podcasts en vrac
+### Podcasts
 
 - [podcasts sur wordpress (fr)](#podcasts-sur-wordpress)
 - [syntax (en)](https://syntax.fm/)
@@ -1529,13 +1509,12 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [Radio Devops](https://shows.acast.com/radio-devops), le podcast des Compagnons du DevOps
 
 
-## Cours en vrac
+### Cours 
 
 - [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
 
-## Vidéo
 
-### Conférences en vrac
+### Conférences
 
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
@@ -1608,14 +1587,6 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
 - [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
-
-### Programmation fonctionnelle
-
-A venir...
-
-#### PHP
-
-- [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
 
 ### Créativité, modèles mentaux
 
