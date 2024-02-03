@@ -170,6 +170,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
+	- [Expressions régulières (regex)](#expressions-régulières-regex)
 	- [Boîte à outils](#boîte-à-outils)
 		- [`sed`](#sed)
 		- [`sloccount`](#sloccount)
@@ -1191,11 +1192,16 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 - [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents technique
 - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
 
+## Expressions régulières (regex)
+
+- [Regular Expressions](https://www.grymoire.com/Unix/Regular.html), par [Bruce Barnett](https://grymoire.wordpress.com/). Excellente couverture des expressions régulières (regex)
+- [regexr](https://regexr.com/), tester et construire des regex dans un environnement web pédagogique
+
 ## Boîte à outils
 
 ### `sed`
 
-- [sed, an introduction and Tutorial, Bruce Barnett](https://www.grymoire.com/Unix/Sed.html#uh-0), l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, sed est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
+- [sed, an introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html#uh-0), par Bruce Barnett. sed (*`s`tream `ed`itor*) est l'éditeur de flux par excellence. Comme l'indique l'auteur de ce site web, `sed` est un outil merveilleux mais sa documentation laisse à désirer. Privilégiez ce site pour vous y initier
 
 ### `sloccount`
 
