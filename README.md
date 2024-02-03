@@ -175,7 +175,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [`sed`](#sed)
 		- [`sloccount`](#sloccount)
 		- [`rclone`](#rclone)
-		- [`wwb`](#wwb)
+		- [`wwb` (et descendants)](#wwb-et-descendants)
 		- [Manipulation de fichiers, documents](#manipulation-de-fichiers-documents)
 			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
@@ -1205,13 +1205,13 @@ Markdown est un standard *extensible*, et se fond très bien dans de nombreux é
 
 ### `sloccount`
 
-- [un outil open-source](https://dwheeler.com/sloccount/) pour estimer le nombre de lignes de codes d'un projet. Intègre des modèles pour estimer le coût de la codebase (jours-hommes, argent, etc.). Développé par [David A. Wheeler](https://dwheeler.com/)
+- [un outil open-source](https://dwheeler.com/sloccount/) pour *estimer* le nombre de lignes de codes d'un projet. Intègre des modèles pour estimer le coût de la codebase (jours-hommes, argent, etc.). Développé par [David A. Wheeler](https://dwheeler.com/)
 
 ### `rclone`
 
 - [rclone](https://rclone.org/), *"The Swiss army knife of cloud storage"*, une interface en ligne de commande pour gérer (copier, déplacer, synchroniser) ses fichiers sur les hébergements distants (Dropbox, Google Drive, etc.)
 
-### `wwb`
+### `wwb` (et descendants)
 
 [writer's workbench (wwb)](https://en.wikipedia.org/wiki/Writer%27s_Workbench) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par [Lorinda Cherry](https://en.wikipedia.org/wiki/Lorinda_Cherry) et Nina Macdonald. [Cet outil a aidé le groupe UNIX à produire de la documentation technique et des documents de meilleure qualité](https://dspinellis.github.io/oral-history-of-unix/frs122/unixhist/text.htm). Un article complet y a été consacré dans le magazine [*Byte*](https://fr.wikipedia.org/wiki/Byte_(magazine)) en 1983. [Vous pouvez y accéder grâce au précieux travail d'Internet Archive](https://archive.org/details/byte-magazine-1983-10/page/n241/mode/2up). Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme [spell](https://manpages.debian.org/bookworm/spell/spell.1.en.html), [style](https://manpages.debian.org/bookworm/diction/style.1.en.html) et [diction](https://manpages.debian.org/bookworm/diction/diction.1.en.html). Une version en ligne est également accessible [via ce site web](https://www.writersworkbench.com/index.html). 
 
