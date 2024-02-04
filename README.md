@@ -132,6 +132,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
 			- [Applications XML de prestige](#applications-xml-de-prestige)
 		- [Standard SQL et bases de données relationnelles](#standard-sql-et-bases-de-données-relationnelles)
+	- [Réseau](#réseau)
 	- [Protocoles](#protocoles)
 		- [TCP/IP](#tcpip)
 		- [SSH](#ssh)
@@ -435,6 +436,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 ### Courbes de Bézier
 
 - [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+- [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks), de Alex Harri (2019), décrivant l'approche unique utilisée par Figma pour leur outil de courbes de Bézier. Contient une section très ludique sur le fonctionnement des courbes de Bézier
 
 ### JS
 
@@ -928,6 +930,11 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - Une [sélection de livres](https://sgbd.developpez.com/livres/) par les membres de developpez.com
 - [Other MySQL Documentation](https://dev.mysql.com/doc/index-other.html), documentation de MySQL sur des aspects plus avancés ainsi que **des liens pour télécharger des bases de données avec des grand volumes de données** pour pratiquer sa compréhension du standard, de MySQL et des performances 
 
+
+## Réseau
+
+- [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
+- [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml), le registre d'assignations des ports utilisateurs par l'*Internet Assigned Numbers Regisitry* (IANA). Les numéros de port sont assignés de différentes façons, répartis en 3 catégories : Ports Système (0-1023), Ports Utilisateurs (1024-49151), Ports dynamiques ou privés (49152-65535)
 
 ## Protocoles
 
@@ -1461,6 +1468,7 @@ A venir...
 
 
 
+
 ### Papiers
 
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans la construction de systèmes d'information
@@ -1518,7 +1526,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 ### Cours 
 
 - [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
-
+- [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
 
 ### Conférences
 
