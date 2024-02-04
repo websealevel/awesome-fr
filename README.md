@@ -110,13 +110,12 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
-	- [Logiciels/applis pour un meilleur workflow](#logicielsapplis-pour-un-meilleur-workflow)
+	- [Starterpacks](#starterpacks)
 		- [Environement de développement](#environement-de-développement)
-		- [Administration de base de données](#administration-de-base-de-données)
+	- [Git](#git-1)
 		- [Client git](#client-git)
-		- [Déploiement](#déploiement)
-		- [Simulateur de terminal](#simulateur-de-terminal)
-		- [Design](#design)
+	- [Déploiement](#déploiement)
+	- [Simulateur de terminal](#simulateur-de-terminal)
 	- [Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)](#mouvement-nocode-outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
@@ -153,6 +152,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Quelques SGBD](#quelques-sgbd)
 	- [Modélisation de bases de données relationnelles](#modélisation-de-bases-de-données-relationnelles)
 	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
+	- [Outils d'administration (et conception parfois) de base de données](#outils-dadministration-et-conception-parfois-de-base-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
 	- [Développement informatique et écologie (ecoconception)](#développement-informatique-et-écologie-ecoconception)
@@ -258,7 +258,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Node.js](#nodejs)
 			- [Flutter](#flutter)
 		- [Projets open-source](#projets-open-source)
-		- [Design](#design-1)
+		- [Design](#design)
 		- [Architecture logicielle](#architecture-logicielle-1)
 		- [Apprendre](#apprendre)
 		- [API](#api)
@@ -765,42 +765,35 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
 
-## Logiciels/applis pour un meilleur workflow
+## Starterpacks
 
 ### Environement de développement
 
-- [Environement de développement docker+reverse proxy pour un workflow multiprojets aux petits oignons + starter pack canonical](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
-- [replit](https://replit.com/), un IDE collaboratif dans le navigateur pour travailler sur des projets à plusieurs dans plus de 50 langagues sans passer une seconde à configurer son environnement de dev
+- [Environement de développement docker+reverse proxy pour un workflow multiprojets + starter pack](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
 
-### Administration de base de données
 
-- [dbeaver](https://dbeaver.io/), multiplateforme, multi-sgb, open-source que demande le peuple
-- [adminer](https://www.adminer.org/), une alternative open-source a phpMyAdmin (aussi open source) qui commence à être chargé historiquement. Plus légèr, plus performant, plus sécurisé, plus user-friendly. Prend en charge les base de données MySQL, SQLite, PostgreSQL, MS SQL et Oracle
-- [pgAdmin](https://www.pgadmin.org/), le système d'administration open-source le plus poussé pour Postgresql
-- [pspg - Postgres Pager](https://github.com/okbob/pspg), pspg est un navigateur Unix pour naviguer dans les tables d'une base de données relationnelle
+## Git
+
+- [inside .git](https://wizardzines.com/comics/inside-git/), comic strip de [Julia Evans](https://twitter.com/b0rk) sur le système de fichiers interne de git
 
 ### Client git
 
-Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commencer en mode CLI pour bien se familiariser avec son fonctionnement) on a plus envie de taper tout un tas de commandes
+Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commencer en mode CLI pour bien se familiariser avec son fonctionnement), si on a plus envie de taper tout un tas de commandes
 
 - [github desktop](https://desktop.github.com/), un client git développé par github, naturellement adapté pour vos dépots remote sur github mais pas que. Windows/Mac
 - [github desktop-linux fork](https://github.com/shiftkey/desktop), la même mais porté sur linux
 - [sourceTree](https://www.sourcetreeapp.com/), un autre client mais dispo que sur Windows et Mac :/
 
 
-### Déploiement
+## Déploiement
 
 - [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez de devoir déployer en ftp, il y a de meilleures alternatives pour moins de charge mentale). ça dépanne toujours
 - [Capistrano](https://capistranorb.com/), un outil pour déployer automatiquement sur un serveur distant, avec gestion de version, rollbacks etc... Pour un déploiement sans stress
 
-### Simulateur de terminal
+## Simulateur de terminal
 
 - [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows. **On lui préférera aujourd'hui le** [WSL2](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
-### Design
-
-- [Figma](https://www.figma.com/), on ne le présente plus
-- [PenPot](https://penpot.app/), plateforme open source de design et de prototypage, alternative  à Figma
 
 ## Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)
 
@@ -1082,6 +1075,14 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 - [AnalyseSI](https://launchpad.net/analysesi), un outil open-source *distraction-free* basé sur Merise 1 pour modéliser une base de données (MCD) et produire un MPD et scripts SQL
 - [Oracle SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/), outil graphique complet et plus complexe pour la conception de base de données, proposé par Oracle. La documentation accessible depuis le logiciel est de bonne qualité, [le blog d'helifromfinland](https://helifromfinland.blog/) est rempli d'articles utiles sur l'outil
+
+
+## Outils d'administration (et conception parfois) de base de données
+
+- [dbeaver](https://dbeaver.io/), multiplateforme, multi-sgb, open-source que demande le peuple
+- [adminer](https://www.adminer.org/), une alternative open-source a phpMyAdmin (aussi open source) qui commence à être chargé historiquement. Plus légèr, plus performant, plus sécurisé, plus user-friendly. Prend en charge les base de données MySQL, SQLite, PostgreSQL, MS SQL et Oracle
+- [pgAdmin](https://www.pgadmin.org/), le système d'administration open-source le plus poussé pour Postgresql
+- [pspg - Postgres Pager](https://github.com/okbob/pspg), pspg est un navigateur Unix pour naviguer dans les tables d'une base de données relationnelle
 
 ## Architecture logicielle
 
@@ -1465,6 +1466,7 @@ A venir...
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
 - [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
+- [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
 
 
 
@@ -1489,6 +1491,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 Le coeur du web, c'est les blogs et les pages personnelles.
 
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
+- [Simon Willison’s Weblog](https://simonwillison.net/), le blog de Simon Willison, co-créateur du framework Django, développeur open source. Excellente curation et ligne éditoriale
 - [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
 - [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
 - [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
