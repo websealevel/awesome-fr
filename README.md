@@ -123,8 +123,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Principes généraux et fondamentaux de programmation](#principes-généraux-et-fondamentaux-de-programmation)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
-		- [HTML](#html)
-			- [Éléments HTML5 pour une meilleure sémantique](#éléments-html5-pour-une-meilleure-sémantique)
 		- [SGML](#sgml)
 		- [XML](#xml)
 			- [Un mot sur le XML](#un-mot-sur-le-xml)
@@ -146,6 +144,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Quelques articles](#quelques-articles)
 		- [C](#c)
 		- [JavaScript](#javascript)
+		- [Docker](#docker)
 	- [Suivi de projets](#suivi-de-projets)
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
 	- [Dessin](#dessin)
@@ -167,7 +166,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Rich Hickey](#rich-hickey)
 	- [Défis](#défis)
 	- [Markdown](#markdown)
-		- [Supersets, frameworks](#supersets-frameworks)
+		- [Markdown ecosystème](#markdown-ecosystème)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
@@ -191,7 +190,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
-		- [*Classiques* (non exhaustive)](#classiques-non-exhaustive)
+		- [Quelques *classiques* (non exhaustif)](#quelques-classiques-non-exhaustif)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
 		- [Blog design](#blog-design)
@@ -861,12 +860,8 @@ Une liste non exhaustive d'organismes qui implémentent et maintiennent les stan
 - [W3C](https://www.w3.org/), le *World Wide Web Consortium*, en charge de maintenir et développer les standards ouverts du Web.
 - [WHATWG](https://whatwg.org/), le *Web Hypertext Application Technology Working Group* est un groupe de collaboration qui travaille sur la standardisation des navigateurs webs ([voir ici les standards](https://spec.whatwg.org/) sur lesquels ce groupe travaille) et des standards associés comme le protocole WebSocket, le Storage, XMLHttpRequest, etc. C'est un groupe qui a été formé en 2004, suite à un atelier organisé par le W3C, par des personnes travaillant chez Apple, Mozilla et Opera. Il a été crée en réponse au fait que le W3C partait un peu en cavalier seul sur le futur du standard HTML avec XHTML (qui au final a donné HTML5) sans prendre assez en compte l'état de l'industrie du développement informatique. Il représente surtout le côté industrie du web et les *vendor* de navigateur web, et cherche à accélérer le développement des standards pour les implémenter rapidement, *pour le meilleur et pour le pire* (surtout le pire). Aujourd'hui Google et Microsoft ont rejoint ce groupe et il travaille en collaboration avec le W3C dont certains membres en font également partie.
 - [Internet Engineering Task Force (IETF)](https://www.ietf.org/), L’[Internet Engineering Task Force (IETF)](https://fr.wikipedia.org/wiki/Internet_Engineering_Task_Force), élabore et promeut des standards Internet, en particulier les standards qui composent la suite de protocoles Internet (TCP/IP). L'IETF produit la plupart des nouveaux standards d'Internet. Le but du groupe est généralement la rédaction d'une ou plusieurs [Request for comments (RFC)](#request-for-comments-rfc-drafts-et-w3c), nom donné aux documents de spécification à la base d’Internet. 
+- [Open Container Initiative (OCI)](https://opencontainers.org/), gouvernance pour maintenir et garantir des standards ouverts sur les formats de conteneurs et de leurs environnement d'exécution. En font partie Docker Inc., Red Hat, Google, etc.
 
-### HTML
-
-#### Éléments HTML5 pour une meilleure sémantique
-
-- [dfn](https://developer.mozilla.org/fr/docs/Web/HTML/Element/dfn), élément de définition
 
 ### SGML
 
@@ -1031,6 +1026,17 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), le projet open-source pour développer des cartes interactives et *mobile-friendly*.
 - [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
 
+
+### Docker
+
+- [Un conteneur Linux, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/containers/whats-a-linux-container), publié par RedHat
+- [Docker Tag Guide | Purpose, Usage, and Examples](https://ioflood.com/blog/docker-tag-guide-purpose-usage-and-examples/), un article et guide sur la manière de tag correctement les images pour implémenter un versionnement sémantique 
+- [Simplify the Smallest Possible Docker Image](https://medium.com/@adriaandejonge/simplify-the-smallest-possible-docker-image-62c0e0d342ef), de Adriaan de Jonge
+- [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.smga9216i), de Kesley Highttower
+- [Best Practices Around Production Ready Web Apps with Docker Compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose), de [Nick Janetakis](https://nickjanetakis.com/about). Publié en 2021, des choses ont changé sur docker compose depuis mais reste pertinent sur de nombreux points
+- [La sécurité des conteneurs, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/security/container-security), un très bon article de RedHat sur la sécurité des conteneurs, de l'application conteneurisée à l’infrastructure sur laquelle le conteneur est déployée
+- [Guide pour la programmation réseaux de Beej's](http://vidalc.chez.com/lf/socket.html), sur les différents types de sockets
+
 ## Suivi de projets
 
 - [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
@@ -1158,16 +1164,13 @@ Apprenez à coder via des défis
 
 <img src="img/markdown%20everywhere.jpg" alt="Markdown, Markdown everywhere !" width="600"/>
 
-Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur outil pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. *Facile à lire, facile à écrire*. Il a été pensé originellement pour écrire *pour* le web.
+Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur format pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. *Facile à lire, facile à écrire*. Il a été pensé originellement pour écrire *pour* le web.
 
-Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.).
+Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.). C'est *le markup ultime pour écrire*, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web. Markdown refait apprécier le goût du *web* : *content first*, les hyperliens et un processus de publication simple et facile. 
 
-C'est l'arme ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web, grâce aux *[hyperliens](https://fr.wikipedia.org/wiki/Hypertexte)* tout simplement. Markdown refait apprécier le goût du *web* : les liens hypertextes et un processus de publication simple et facile. Si vous voulez que je m'étale encore davantage sur les qualités du Markdown et trouver des références sur le sujet, [jetez un coup d'oeil à ce dépot](https://github.com/websealevel/doc-markdown).
+### Markdown ecosystème
 
-### Supersets, frameworks
-
-Markdown est un standard *extensible*, et se fond très bien dans de nombreux écosystèmes. Aussi, des supersets Markdown ont été crées ainsi que des frameworks.
-
+Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place à de nombreuses implémentations différentes. 
 
 - [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations), les différentes implémentations ou *parsers* Markdown
 - [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
@@ -1296,7 +1299,7 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
-### *Classiques* (non exhaustive)
+### Quelques *classiques* (non exhaustif)
 
 > En cours de construction...
 
@@ -1308,6 +1311,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs), de [Niklaus Writh](https://en.wikipedia.org/wiki/Niklaus_Wirth), publié chez Prentice Hall, 1976.
 - [The Art of Computer Programming (TAOCP)](https://cs.stanford.edu/~knuth/taocp.html), de Donald E. Knuth, publié chez Addison-Wesley, 1968-1969
 - [Software Engineering, Tenth Edition](https://software-engineering-book.com/), un livre canonique sur l'architecture logicielle et l'ingénieurie logicielle (conduite de grands projets informatiques), de [Ian Sommerville](https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer))
+- [Operating Systems, three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), ou le *Comet OS Book*, de Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison), publié par l'université du Wisconsin, 2008, continuellement mis à jour. Accessible en ligne. *Une référence* sur les systèmes d'exploitation.
 
 ### Refactoring, travailler sur du code legacy
 
@@ -1386,11 +1390,8 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ### Génération procédurale et *game design*
 
 - [The Art of Game Design, 2nd edition (en)](https://www.pdfdrive.com/the-art-of-game-design-a-book-of-lenses-2nd-edition-e157699641.html)
-  
 - [Level Up! The guide to great video game design (en)](https://www.pdfdrive.com/level-up-the-guide-to-great-video-game-design-e157921744.html)
-  
 - [Procedural generation in game design (en)](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
-  
 - [Curating Simulated Storyworlds (en)](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), le manuscrit de thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, de l'interaction entre l'intelligence artificielle et l'experience ludique et des stratégies de "nettoyage" des artefacts. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
 
 
