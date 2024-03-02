@@ -8,7 +8,7 @@ This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS). 
 
-<img src="https://sfconservancy.org/img/GiveUpGitHub.png" alt="Logo of the GiveUpGitHub campaign)" width="600"/>
+<img src="https://sfconservancy.org/img/GiveUpGitHub.png" alt="Logo of the GiveUpGitHub campaign)" width="300"/>
 
 ## En quelques mots
 
