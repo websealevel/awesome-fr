@@ -120,7 +120,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
 	- [Capture/Édition vidéo](#captureédition-vidéo)
-	- [Principes généraux et fondamentaux de programmation](#principes-généraux-et-fondamentaux-de-programmation)
+	- [Principes généraux et fondamentaux](#principes-généraux-et-fondamentaux)
 	- [Standards](#standards)
 		- [Organismes](#organismes)
 		- [SGML](#sgml)
@@ -209,8 +209,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Algorithmes](#algorithmes-1)
 	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
-		- [Public enfant](#public-enfant)
-		- [Public adulte](#public-adulte)
 	- [*Hacker* culture](#hacker-culture)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Informatique et mathématiques et aspects bas niveau](#informatique-et-mathématiques-et-aspects-bas-niveau)
@@ -613,6 +611,7 @@ Aller sur le dépôt puis
 ## SEO
 
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
+- [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
 
 ## Analytics
 
@@ -846,7 +845,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), un très bon logiciel, simple et complet, de capture vidéo de son écran et du son, parfait pour enregistrer des screencasts et des tutos.
 - [OBS Studio](https://obsproject.com/fr), logiciel libre d'enregistremetn vidéo et de streaming en direct multiplateforme
 
-## Principes généraux et fondamentaux de programmation
+## Principes généraux et fondamentaux
 
 - [What Every Programmer Should Know About Floating-Point Arithmetic](https://floating-point-gui.de/)
 
@@ -1036,6 +1035,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [Best Practices Around Production Ready Web Apps with Docker Compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose), de [Nick Janetakis](https://nickjanetakis.com/about). Publié en 2021, des choses ont changé sur docker compose depuis mais reste pertinent sur de nombreux points
 - [La sécurité des conteneurs, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/security/container-security), un très bon article de RedHat sur la sécurité des conteneurs, de l'application conteneurisée à l’infrastructure sur laquelle le conteneur est déployée
 - [Guide pour la programmation réseaux de Beej's](http://vidalc.chez.com/lf/socket.html), sur les différents types de sockets
+- [Docker Bench for Security](https://github.com/docker/docker-bench-security), ensemble de scripts open-source qui permet d'auditer de manière automatique l'installation et la configuration du serveur Docker en environnement de production
 
 ## Suivi de projets
 
@@ -1410,16 +1410,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 - [1,2,3... codez !](https://fondation-lamap.org/projet/123-codez#guide), Le projet « 1, 2, 3… codez ! » vise à initier élèves et enseignants aux sciences informatiques, de la maternelle au collège. Il propose à la fois des activités branchées (nécessitant un ordinateur, une tablette ou un robot) permettant d’introduire les bases de la programmation et des activités débranchées (informatique sans ordinateur) permettant d’aborder des concepts de base de la science informatique (algorithme, langage, représentation de l’information…)
 
-### Public enfant
-
-A venir...
-
-### Public adulte
-
-A venir...
-
 ## *Hacker* culture
-
 
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html), manuel et synthèse de Eric S Raymond sur la culture du [hacking](http://www.catb.org/jargon/html/meaning-of-hack.html) (au sens original du mot)
 - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/), de Eric S Raymond
@@ -1468,7 +1459,7 @@ A venir...
 - [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
 - [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
 - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
-
+- [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
 
 
 
@@ -1512,6 +1503,8 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 - [computing the human experience](https://computingthehumanexperience.com/), le site de [Grady Booch](https://fr.wikipedia.org/wiki/Grady_Booch)
 - [Le blog de SQLpro](https://blog.developpez.com/sqlpro/), le blog de Brouard sur le SQL pour SQL Server, PostGreSQL et tous les autres SGBDR
 - [Le site du livre *Software Engineering*](https://software-engineering-book.com/intro/), de Ian Sommerville. Slides, supports pour cours, études de cas
+- [Dennis M. Ritchie (in memoriam)](https://www.bell-labs.com/usr/dmr/www/), site web personnel de Dennis Ritchie (posthume)
+- [SQL Short Reads](https://sqlshortreads.com/), de Chris Perry. De nombreux articles sur des cas d'utilisation de SQL en situation réelle
 
 
 ### Podcasts
