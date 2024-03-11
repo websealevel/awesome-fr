@@ -1075,7 +1075,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [La méthode MERISE](http://tcosnuau.free.fr/COURS/MERISE/MERISE.HTM), par tcosnuau
 - [Clefs auto-incrémentées](https://sqlpro.developpez.com/cours/clefs/), article complet de Brouard sur la génération de la valeur des clefs primaires permettant d'identifier chaque enregisterment de manière unique dans une table
 - [Les 10 meilleures pratiques pour développer avec un SGBDR](https://blog.developpez.com/sqlpro/p6507/ms-sql-server/les_10_meilleures_pratiques_sur_ms_sql_s), les 10 commandements positifs ou règles impératives à suivre pour que votre SGBDR soit performant, efficace et précis ! valable pour tous les SGBDR, avec des exemples pour MS SQL Server, de Frédéric Brouard
-
+- [Bases de données relationnelles et normalisation : de la première à la sixième forme normale](https://fsmrel.developpez.com/basesrelationnelles/normalisation/), excellente série d'articles sur les formes normales et l'algèbre relationnelle de François de Sainte Marie
 
 ## Outils de conception de base de données
 
