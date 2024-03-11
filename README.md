@@ -1622,10 +1622,11 @@ Par où commencer ? Comment faire ?
 
 ## Rester informé·e
 
-- [hacker news](https://news.ycombinator.com/)
+- [Hacker News](https://news.ycombinator.com/)
 - [daily.dev](https://daily.dev/), créez votre feed d'actualités, posts sur des thématiques qui vous intéressent et suivez des gens qui publient des articles intéressant
 - [Le Journal du Net](https://www.journaldunet.com/)
 - [w3techs](https://w3techs.com/), des études sur l'usage des différentes technologies du web
+- [La newsletter de developpez.com](https://www.developpez.com/newsletter/)
 
 
 ## Prendre soin de soi
