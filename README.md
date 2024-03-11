@@ -1102,7 +1102,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 Voir aussi [les approches radicales et les fondements du web](#fondamentaux-radical)
 
-- [Comment minimiser l’impact des vidéos dans nos sites web ?](https://www.editions-eni.fr/blog/comment-minimiser-limpact-des-videos-dans-nos-sites-web/), un excellent article d'[Hervé Boisgontier](https://www.editions-eni.fr/herve-boisgontier) et Boris Butaeye sur les moyens à mettre en oeuvre pour limiter l'impact environnemental des contenus vidéos distribués sur le web. Écrit 
+- [Comment minimiser l’impact des vidéos dans nos sites web ?](https://www.editions-eni.fr/blog/comment-minimiser-limpact-des-videos-dans-nos-sites-web/), un excellent article d'[Hervé Boisgontier](https://www.editions-eni.fr/herve-boisgontier) et Boris Butaeye sur les moyens à mettre en oeuvre pour limiter l'impact environnemental des contenus vidéos distribués sur le web. 
 
 ## Perl
 
