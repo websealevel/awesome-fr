@@ -552,6 +552,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 - [Premiers pas pour rendre un site Web accessible](https://www.w3.org/WAI/gettingstarted/Overview), une liste de tutoriels de la W3C pour rendre votre site web plus accessible
 - [Design and Develop Overview ](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes handicapées
+- [Sensible Forms: A Form Usability Checklist](https://alistapart.com/article/sensibleforms/)
 
 
 #### Perfs et config
