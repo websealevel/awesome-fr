@@ -549,7 +549,7 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 #### Accessibilité
 
-L'accessibilité du web est la problématique de l'accès aux contenus et services web par les personnes handicapées et plus généralement par tous les utilisateurs, quels que soient leurs dispositifs d’accès ou leurs conditions d’environnement.
+> L'[accessibilité du web](https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_du_web) est la problématique de l'accès aux contenus et services web par les personnes handicapées et plus généralement par tous les utilisateurs, quels que soient leurs dispositifs d’accès ou leurs conditions d’environnement.
 
 - [Premiers pas pour rendre un site Web accessible](https://www.w3.org/WAI/gettingstarted/Overview), une liste de tutoriels de la W3C pour rendre votre site web plus accessible
 - [Design and Develop Overview ](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
