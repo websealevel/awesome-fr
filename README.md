@@ -141,7 +141,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
-			- [Quelques articles](#quelques-articles)
 		- [C](#c)
 		- [JavaScript](#javascript)
 		- [Docker et conteneurs](#docker-et-conteneurs)
@@ -186,7 +185,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [SmallTalk](#smalltalk)
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
-		- [Scheme (List dialect)](#scheme-list-dialect)
+		- [Scheme (Lisp dialect)](#scheme-lisp-dialect)
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
@@ -1008,15 +1007,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
 - [PHP Quality Assurance](https://qa.php.net/)
 
-#### Quelques articles
-
-- [Stop using old-fashioned closures in modern PHP. There are 4* ways to replace them.](https://medium.com/@vlreshet/stop-using-old-fashioned-closures-in-modern-php-there-are-4-ways-to-replace-them-51d8661e2f7e)
-- [Elegant immutable object pattern in PHP ](https://dev.to/hbgl/elegant-immutable-object-pattern-in-php-1dg3)
-- [PHP Sessions in Depth](https://www.phparch.com/2018/01/php-sessions-in-depth/)
-- [Session timeouts in PHP: best practices](https://newbedev.com/session-timeouts-in-php-best-practices)
-- [Borrowing Functional Concepts from Clojure in PHP](https://www.codementor.io/@blackwood/borrowing-functional-concepts-from-clojure-in-php-tj19wofx6)
-- [Mastering binary and bitwise in PHP](https://thephp.website/en/issue/bitwise-php/)
-- [10 Tips and Best Practices To Improve PHP Security](https://www.yeahhub.com/10-tips-best-practices-improve-php-security/)
+[Voir le dépôt dédié à la veille PHP](https://github.com/paul-schuhm/veille-php).
 
 ### C
 
@@ -1276,7 +1267,7 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 - [swi-prolog](https://www.swi-prolog.org/)
 
-### Scheme (List dialect)
+### Scheme (Lisp dialect)
 
 [Scheme](https://fr.wikipedia.org/wiki/Scheme) est un dialecte de Lisp, crée au MIT dans les années 70 par Gerald Jay Sussman et Guy L. Steele. Il conserve les aspects essentiels de Lisp, il est particulièrement adapté pour apprendre la programmation et ses concepts essentiels.
 
@@ -1556,6 +1547,7 @@ Le coeur du web, c'est les blogs et les pages personnelles.
 
 - [*The Hustle*, Krazam](https://youtu.be/_o7qjN3KF8U)
 - [*Microservices*, Krazam](https://www.youtube.com/watch?v=y8OnoxKotPQ)
+- [*Positive Affirmations for Site Reliability Engineers*, Krazam](https://www.youtube.com/watch?v=ia8Q51ouA_s)
 - [*Interview with Senior JS Developer in 2022*,  Programmers are also human
 ](https://youtu.be/Uo3cL4nrGOk)
 - [Wat, Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat), exploration des arcanes de l'implémentation de différents langages
