@@ -614,6 +614,7 @@ Aller sur le dépôt puis
 
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 - [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
+- [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch de SEOKEY. 
 
 ## Analytics
 
