@@ -1321,8 +1321,10 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 
 ### Blog design
 
-- [Are you making these design mistakes on your blog?](https://kevquirk.com/blog-design-mistakes/), très bon article qui résume les points importants à considérer et les erreurs à ne pas faire lorsque l'on designe son blog
-- [Thoughts on Editing Posts](https://kevquirk.com/thoughts-on-editing-posts/), très bon article de Kev quirk sur l'édition de contenus publiés dans le passé
+- [Are you making these design mistakes on your blog?](https://kevquirk.com/blog-design-mistakes/), très bon article de Kev Quirk qui résume les points importants à considérer et les erreurs à ne pas faire lorsque l'on designe son blog
+- [Thoughts on Editing Posts](https://kevquirk.com/thoughts-on-editing-posts/), très bon article de Kev Quirk sur l'édition de contenus publiés dans le passé
+- [Ideas for my dream CMS](https://daverupert.com/2024/04/ideas-for-my-dream-cms/), de Dave Rupert
+- [What Would My Dream CMS Be?](https://kevquirk.com/what-would-my-dream-cms-be), de Kev Quirk
 
 ### Architecture de l'information / Recherche d'information
 
