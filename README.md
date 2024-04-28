@@ -210,7 +210,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 	- [*Hacker* culture](#hacker-culture)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
-	- [Informatique et mathématiques et aspects bas niveau](#informatique-et-mathématiques-et-aspects-bas-niveau)
+	- [Mathématiques, mathématiques et informatiques et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatiques-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [En vrac](#en-vrac)
 		- [Articles / Billets de blog](#articles--billets-de-blog)
@@ -1195,7 +1195,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 
 - [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
 - [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
-- [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents technique
+- [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents techniques
 - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
 
 ## Expressions régulières (regex)
@@ -1306,7 +1306,8 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs), de [Niklaus Writh](https://en.wikipedia.org/wiki/Niklaus_Wirth), publié chez Prentice Hall, 1976.
 - [The Art of Computer Programming (TAOCP)](https://cs.stanford.edu/~knuth/taocp.html), de Donald E. Knuth, publié chez Addison-Wesley, 1968-1969
 - [Software Engineering, Tenth Edition](https://software-engineering-book.com/), un livre canonique sur l'architecture logicielle et l'ingénieurie logicielle (conduite de grands projets informatiques), de [Ian Sommerville](https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer))
-- [Operating Systems, three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), ou le *Comet OS Book*, de Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison), publié par l'université du Wisconsin, 2008, continuellement mis à jour. Accessible en ligne. *Une référence* sur les systèmes d'exploitation.
+- [Operating Systems, three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), ou le *Comet OS Book*, de Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison), publié par l'université du Wisconsin, depuis 2008 (continuellement mis à jour). Accessible en ligne (version HTML). *Une référence* sur les systèmes d'exploitation.
+- [Etudes for Programmers](https://github.com/archermarx/etudes/blob/main/Etudes%20for%20Programmers.pdf), de Charles Wetherell, publié chez Prentice-Hall, 1978
 
 ### Refactoring, travailler sur du code legacy
 
@@ -1368,7 +1369,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 ### Haskell
 
-- [Haskell, The Craft of Functional Programming](https://www.pdfdrive.com/haskell-the-craft-of-functional-programming-e158848677.html)
+- [Haskell, The Craft of Functional Programming, 3rd edition](https://simonjohnthompson.github.io/craft3e/craft3e.pdf), de Simon Thompson
 
 ### Rust
 
@@ -1418,14 +1419,15 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj), le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
 - [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur actif du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
 
-## Informatique et mathématiques et aspects bas niveau
+## Mathématiques, mathématiques et informatiques et autres aspects *bas niveau*
 
 - [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007 
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
 - [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](https://www.amazon.fr/Annotated-Turing-Turing%E2%80%B2s-Historic-Computability/dp/0470229055), de Charles Petzold, publié chez Wiley, 2008. Un excellent livre qui accompagne le lecteur dans le papier fondateur de Turing de 36 pages sur le fondement de l'informatique. Passionnant  
 - [Méthodes mathématiques pour l'informatique - 5e édition](https://www.dunod.com/sciences-techniques/methodes-mathematiques-pour-informatique-cours-et-exercices-corriges), Jacques Vélu, Geneviève Avérous, publié chez Dunod, 2019. Ce manuel explique en profondeur tous les thèmes qui constituent le socle des connaissances mathématiques indispensables à tout informaticien. Avec exercices corrigés.
 - [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf), de Bartosz Milewski
-
+- [200+ Useful Free Math Books for Lifelong Learners](https://abakcus.com/useful-free-math-books-for-lifelong-learners/), un catalogue de livre téléchargeables gratuitement sur différents sujets de mathématiques (analyse, géométrie, mathématiques discrètes, algèbre, etc.)
+- [Calculus Made Easy](http://calculusmadeeasy.org/), de Silvanus P. Thompson. Une introduction accessible à l'analyse mathématique 
 
 ## Ressources pour formateur·trice
 
@@ -1455,6 +1457,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
 - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
 - [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
 
 
 
@@ -1657,6 +1660,8 @@ Des heuristiques à la volée
 ## Géométrie, art génératif, algorithmes, procédural
 
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+
+
 
 ## Correction
 
