@@ -988,7 +988,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [The stateless blog](https://blog.stateless.co/), de [Mike Kelly](https://blog.stateless.co/about) :
   - [JSON Linking with HAL](https://blog.stateless.co/post/13296666138/json-linking-with-hal);
   - [The case for hyperlinks in APIs](https://blog.stateless.co/post/68259564511/the-case-for-hyperlinks-in-apis)
-
+- [HAL Explorer](https://github.com/toedter/hal-explorer), with HAL Explorer you can browse and explore HAL and HAL-FORMS based RESTful Hypermedia APIs. HAL Explorer was inspired by Mike Kelly’s HAL-Browser. HAL Explorer also supports Spring Profiles.
 
 ## Spécifiques à un langage/écosystème
 
