@@ -639,7 +639,8 @@ Aller sur le dépôt puis
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/), une api qui sert du JSON pour le test/dev
 - [rapid api](https://rapidapi.com/blog/most-popular-api/), recense et documente tout un tas d'api à utiliser, pour aller en trouver encore d'autres
 - [open food facts](https://fr.openfoodfacts.org/data), API de produits alimentaires
-- [Open library API](https://openlibrary.org/developers/api), l'API d'[Open Library](https://openlibrary.org/), un projet d'[Internet Archive](https://archive.org/), pour travailler sur les livres, auteurs, couvertures de livres, etc.
+- [open library API](https://openlibrary.org/developers/api), l'API d'[Open Library](https://openlibrary.org/), un projet d'[Internet Archive](https://archive.org/), pour travailler sur les livres, auteurs, couvertures de livres, etc.
+- [the Keanu Reeves Whoa API](whoa.onrender.com), une API JSON très complète pour chaque "whoa" prononcé par l'acteur Keanu Reeves dans ses films
 
 ### Opendata/France
 
@@ -647,8 +648,8 @@ Aller sur le dépôt puis
 - [api.gouv.fr](https://api.gouv.fr/rechercher-api), rechercher une api parmi toutes les api du service publique
 - [Données temps réel pour les transports en commun](https://api.gouv.fr/les-api/temps_reel_transport), un exemple d'api publique (voir lien précédent) sur les données du transport en commun
 - [pappers](https://www.pappers.fr/api), une api pour les données sur les entreprises
-
 - [voir depot plus bas](#api)
+
 
 ## Générateur de fausses données
 
