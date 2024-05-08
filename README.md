@@ -233,6 +233,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
+	- [Analyse et conception : UML et alternatives](#analyse-et-conception--uml-et-alternatives)
 	- [Correction](#correction)
 	- [Trouver du boulot](#trouver-du-boulot)
 		- [A distance (*remote*)](#a-distance-remote)
@@ -1060,7 +1061,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [PostgreSQL](https://www.postgresql.org/), le choix à faire lorsqu'on part sur une base de données relationnelle. Projet open-source maintenu depuis 30ans, le SGBD qui va le plus loin sur l'implémentation du standard SQL
 - [Dalibo, l'expertise PostgreSQL](https://dalibo.com/), ressources gratuites pour se former sur PostgreSQL
 - [ClickHouse](https://clickhouse.com/), base de données relationnelle orientée colonnes. Optimisé pour l'[OLAP](https://www.oracle.com/fr/database/olap-definition.html). Vérifiez bien avant de vous en servir pour votre projet que [ce système soit adapté à votre cas d'utilisation](https://clickhouse.com/docs/en/#key-properties-of-olap-scenario)
-- [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native.
+- [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native. Depuis avril 2023, [Datomic est accessible gratuitement](https://blog.datomic.com/2023/04/datomic-is-free.html)
 - [SQLite](https://www.sqlite.org/index.html), un SGBDR qui contrairement à la plupart des autres systèmes n'utilise pas l'architecture client/serveur et permet de disposer d'une base de données relationnelles dans un simple fichier. On peut utiliser [DB Browser for SQLite](https://sqlitebrowser.org/) pour avoir un gestionnaire et inspecteur de bases de données avec GUI.
 
 
@@ -1465,8 +1466,9 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
 - [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
-
-
+- [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
+- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
+- [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
 
 ### Papiers
 
@@ -1669,6 +1671,9 @@ Des heuristiques à la volée
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
 
+## Analyse et conception : UML et alternatives
+
+- [DRAKON](https://drakonhub.com/read/docs), [un langage visuel de spécification logicielle](https://fr.wikipedia.org/wiki/DRAKON) développé par l'Agence Aérospatiale Fédérale de Russie et l'Académie des Sciences de Russie à la fin des années 90.
 
 ## Correction
 
@@ -1730,6 +1735,8 @@ Des heuristiques à la volée
 - [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modélisation de systèmes économiques dans un jeu vidéo.
 - [Game Loop, game programming pattern](https://gameprogrammingpatterns.com/game-loop.html), un article complet sur l'implémentation d'une game loop et ses différentes variantes
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/), un classique de Glenn Fiedler sur son site [Gaffer On Games](https://gafferongames.com/)
+- [Twine](https://twinery.org/), outil open-source pour développer des jeux narratifs interactifs
+- [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
 
 
 ### Applications web et réseaux à héberger *soi-même*
