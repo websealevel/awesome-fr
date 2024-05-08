@@ -1467,7 +1467,6 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
 - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
-- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 
@@ -1807,20 +1806,16 @@ Des heuristiques à la volée
 
 ### Apprendre
 
+
+- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
 - [The design system primer](https://github.com/donnemartin/system-design-primer), dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens
-
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
-
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
-
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
-
 - [professional-programming](https://github.com/charlax/professional-programming), collection de ressources pour apprendre sur tout un tas de sujets liés aux webs
-
 - [system-design-primer](https://github.com/donnemartin/system-design-primer), apprendre comment designer des grands systèmes d'information
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines), les standards d'écriture adapotés par chaque communauté (langage/techno)
-
--[app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
+- [app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
 
 ### API
 
