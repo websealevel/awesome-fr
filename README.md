@@ -1469,6 +1469,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
+- [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 
 ### Papiers
 
