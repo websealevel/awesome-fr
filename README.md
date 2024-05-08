@@ -1485,6 +1485,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Modèle de données et d'API pour la gestion de graphes représentant des réseaux sociaux
 - [The Paperboy, The Wallet, and The Law Of Demeter](https://t.co/kidvfZghjE), de David Bock, sur la "Loi de Demeter" en POO
 - [Forces in the Physics of Software the final word](https://drive.usercontent.google.com/download?id=1iy2Jopayt5MYetEiMg-XyJ_ZkXXVEDKV&export=download), de Carlo Pescio (draft). Une tentative de modélisation du développement et de l'architecture logicielle avec des concepts empruntés à la mécanique.
+- [The Power of Two Random Choices: A Survey of Techniques and Results (Server Load Balancing)](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf), de Michael Mitzenmacher, Andrea W. Richa, Ramesh Sitaraman (Harvard)
 
 
 ### Blogs
