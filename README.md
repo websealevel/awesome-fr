@@ -150,6 +150,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Quelques SGBD](#quelques-sgbd)
 	- [Modélisation de bases de données relationnelles](#modélisation-de-bases-de-données-relationnelles)
 	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
+	- [Analyse, conception : UML et alternatives](#analyse-conception--uml-et-alternatives)
 	- [Outils d'administration (et conception parfois) de base de données](#outils-dadministration-et-conception-parfois-de-base-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
@@ -233,7 +234,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
-	- [Analyse et conception : UML et alternatives](#analyse-et-conception--uml-et-alternatives)
 	- [Correction](#correction)
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
 		- [Général](#général-1)
@@ -1082,6 +1082,9 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [AnalyseSI](https://launchpad.net/analysesi), un outil open-source *distraction-free* basé sur Merise 1 pour modéliser une base de données (MCD) et produire un MPD et scripts SQL
 - [Oracle SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/), outil graphique complet et plus complexe pour la conception de base de données, proposé par Oracle. La documentation accessible depuis le logiciel est de bonne qualité, [le blog d'helifromfinland](https://helifromfinland.blog/) est rempli d'articles utiles sur l'outil
 
+## Analyse, conception : UML et alternatives
+
+- [DRAKON](https://drakonhub.com/read/docs), [un langage visuel de spécification logicielle](https://fr.wikipedia.org/wiki/DRAKON) développé par l'Agence Aérospatiale Fédérale de Russie et l'Académie des Sciences de Russie à la fin des années 90.
 
 ## Outils d'administration (et conception parfois) de base de données
 
@@ -1670,9 +1673,7 @@ Des heuristiques à la volée
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
 
-## Analyse et conception : UML et alternatives
 
-- [DRAKON](https://drakonhub.com/read/docs), [un langage visuel de spécification logicielle](https://fr.wikipedia.org/wiki/DRAKON) développé par l'Agence Aérospatiale Fédérale de Russie et l'Académie des Sciences de Russie à la fin des années 90.
 
 ## Correction
 
