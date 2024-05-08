@@ -235,8 +235,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Analyse et conception : UML et alternatives](#analyse-et-conception--uml-et-alternatives)
 	- [Correction](#correction)
-	- [Trouver du boulot](#trouver-du-boulot)
-		- [A distance (*remote*)](#a-distance-remote)
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
 		- [Général](#général-1)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
@@ -261,10 +259,11 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [API](#api)
 		- [Divers](#divers-1)
 		- [Lecture : articles, livres techniques (informatique, mathématiques)](#lecture--articles-livres-techniques-informatique-mathématiques)
-	- [Vendre](#vendre)
+	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
+	- [Vivre de son travail](#vivre-de-son-travail)
 		- [Vendre des templates](#vendre-des-templates)
 		- [Vendre des articles](#vendre-des-articles)
-	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
+		- [Trouver du boulot à distance (*remote*)](#trouver-du-boulot-à-distance-remote)
 
 ## Frontend
 
@@ -1684,18 +1683,7 @@ Des heuristiques à la volée
 - [Voir l'entrée sur `wwb`](#boîte-à-outils)
   
 
-## Trouver du boulot
 
-### A distance (*remote*)
-
-- [AngelListTalent](https://angel.co/)
-- [REMOTE.CO](https://remote.co/)
-- [We Work Remotely](https://weworkremotely.com/)
-- [flexjobs](https://www.flexjobs.com/)
-- [authentic jobs](https://authenticjobs.com/)
-- [homajob](https://homajob.com/)
-- [remoteok](https://remoteok.com/)
-- [remotive](https://remotive.com/)
 
 ## Banques de ressources, dépôts, cours
 
@@ -1846,7 +1834,18 @@ Des heuristiques à la volée
 - [Programming Books: An Ordered and Curated Reading List for Software Craftsmanship Growth](https://www.programmingbooks.dev/), une liste de livres d'informatique classée par niveaux, par [Cenny Davidsson](https://www.programmingbooks.dev/about/)
 - [200+ Useful Free Math Books for Lifelong Learners](https://abakcus.com/useful-free-math-books-for-lifelong-learners/), une liste de livres de mathématiques disponibles gratuitement en PDF
 
-## Vendre
+## Trouver des livres techniques d'occasion pas cher
+
+Les livres ça coute cher. Heureusement on en trouve plein en ligne gratuitement. Mais certain·e·s aiment bien le papier, vivre parmi les livres et en devenir familier pour retrouver facilement un chapitre dans un bouquin au pied levé, entourer, surligner, mettre des marque pages partout etc...
+
+Pour cela on peut trouver pas mal de vieux livres mais qui restent toujours pertinent sur [recyclelivre.com](https://www.recyclivre.com/shop/11600-), une recyclerie de livres en ligne. On peut facilement repartir avec des livres de qualité pour quelques euro. En plus recyclelivre fait de la réinsertion sociale et verse une partie de ses bénéfices à des associations écolos.
+
+Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly. 
+
+Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement [dès qu'on s'éloigne de la capitale](https://www.chienlit.com/librairies-paris-litterature-informatique/)...
+
+
+## Vivre de son travail
 
 ### Vendre des templates
 
@@ -1874,13 +1873,15 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 - [honeybadger](https://www.honeybadger.io/blog/write-for-us/), php, ruby, python
 - [linode](https://www.linode.com/lp/write-for-linode/)
 
-## Trouver des livres techniques d'occasion pas cher
+### Trouver du boulot à distance (*remote*)
 
-Les livres ça coute cher. Heureusement on en trouve plein en ligne gratuitement. Mais certain·e·s aiment bien le papier, vivre parmi les livres et en devenir familier pour retrouver facilement un chapitre dans un bouquin au pied levé, entourer, surligner, mettre des marque pages partout etc...
+- [AngelListTalent](https://angel.co/)
+- [REMOTE.CO](https://remote.co/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [flexjobs](https://www.flexjobs.com/)
+- [authentic jobs](https://authenticjobs.com/)
+- [homajob](https://homajob.com/)
+- [remoteok](https://remoteok.com/)
+- [remotive](https://remotive.com/)
 
-Pour cela on peut trouver pas mal de vieux livres mais qui restent toujours pertinent sur [recyclelivre.com](https://www.recyclivre.com/shop/11600-), une recyclerie de livres en ligne. On peut facilement repartir avec des livres de qualité pour quelques euro. En plus recyclelivre fait de la réinsertion sociale et verse une partie de ses bénéfices à des associations écolos.
-
-Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly. 
-
-Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement [dès qu'on s'éloigne de la capitale](https://www.chienlit.com/librairies-paris-litterature-informatique/)...
 
