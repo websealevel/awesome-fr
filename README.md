@@ -1286,6 +1286,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 ### Sur le web
 
 - [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
+- [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003
 
 ### Quelques *classiques* (non exhaustif)
 
@@ -1479,7 +1480,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 
 ### Blogs
 
-Le coeur du web, c'est les blogs et les pages personnelles.
+Le coeur du web
 
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
 - [Simon Willison’s Weblog](https://simonwillison.net/), le blog de Simon Willison, co-créateur du framework Django, développeur open source. Excellente curation et ligne éditoriale
@@ -1663,8 +1664,6 @@ Des heuristiques à la volée
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 
 
-
-
 ## Correction
 
 - [Lexique des règles typographiques en usage à l’Imprimerie nationale](https://www.eyrolles.com/Audiovisuel/Livre/lexique-des-regles-typographiques-en-usage-a-l-imprimerie-nationale-9782743304829/), l’ouvrage de référence de base du correcteur appelé aussi *code typo*.
@@ -1673,8 +1672,6 @@ Des heuristiques à la volée
 - [ACLF](https://www.associationdescorrecteurs.fr/), Association des Correcteurs de la Langue Française. Vous y trouverez notamment les liens vers [les outils indispensables](https://www.associationdescorrecteurs.fr/outils/les-indispensables/) reconnus comme tels par toute la profession
 - [Voir l'entrée sur `wwb`](#boîte-à-outils)
   
-
-
 
 ## Banques de ressources, dépôts, cours
 
@@ -1814,7 +1811,11 @@ Des heuristiques à la volée
 
 ### Lecture : articles, livres techniques (informatique, mathématiques)
 
+Lisez
+
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
+- [Become a Programmer, Motherfucker](https://programming-motherfucker.com/become.html)
+- [Best Books for GATE CSE with Relevant Chapters to Read](https://gatecse.in/best-books-for-gatecse/), suggestions de livres avec une emphase salutaire sur les chapitres *à lire* (il est rare que tous les chapitres d'un *bon* livre soient bons)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
 - [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md), même dépôt que précédemment mais listant que des livres de programmation en français !
 - [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique. Edit: non fonctionnel actuellement (07/2023)
