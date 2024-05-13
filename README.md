@@ -1439,6 +1439,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf), de Bartosz Milewski
 - [200+ Useful Free Math Books for Lifelong Learners](https://abakcus.com/useful-free-math-books-for-lifelong-learners/), un catalogue de livre téléchargeables gratuitement sur différents sujets de mathématiques (analyse, géométrie, mathématiques discrètes, algèbre, etc.)
 - [Calculus Made Easy](http://calculusmadeeasy.org/), de Silvanus P. Thompson. Une introduction accessible à l'analyse mathématique 
+- [tiny-gpu](https://github.com/adam-maj/tiny-gpu), une implémentation GPU minimale pour apprendre le fonctionnement des GPU
 
 ## Ressources pour formateur·trice
 
@@ -1707,6 +1708,7 @@ Des heuristiques à la volée
 - [le site de E. Thirion](http://cours.thirion.free.fr/Cours/BaseDeDonnees1/index.php), les cours de E. Thirion sur MySQL. E. Thirion est un chercheur et enseignant en informatique depuis des années et a développé un site pour réunir et partager ses cours sur tout un tas de sujets liés au développement informatique (bases de la programmation, POO, UI, développement web, [bases de données relationnelles](http://cours.thirion.free.fr/Cours/BaseDeDonnees1/index.php), [Merise](http://cours.thirion.free.fr/Cours/Merise/index.php), etc.). Et on l'en remercie.
 - [My knowledge wiki (en)](https://wiki.nikiv.dev/), de [Nikita](https://twitter.com/nikitavoloboev), un développeur qui partage toute sa veille sous forme de wiki hébergé sur Github. De quoi creuser dans toutes les directions. Une mine de ressources commentée.
 - [My favorite technical blogs](https://lists.eatonphil.com/blogs.html), une liste filtrée de blogs techniques proposée par Phil Eaton
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit), une liste de sites web utiles pour les programmeur·ses
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
@@ -1719,6 +1721,7 @@ Des heuristiques à la volée
 - [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks), une liste de ressources de qualité pour les développeurs frontend
 - [css-protips](https://github.com/AllThingsSmitty/css-protips), un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui
 - [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist), liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
+- [Frontend stuff](https://github.com/moklick/frontend-stuff), liste de tous les frameworks et libs côté client (CSS et JS surtout) 
 
 
 ### Développement de jeux vidéos
