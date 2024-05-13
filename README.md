@@ -954,7 +954,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 - [Unix programmer's manual Third Edition](https://dspinellis.github.io/unix-v3man/v3man.pdf), publié par K. Thompson et D. M. Ritchie, 1973
 - [Philosophie d'Unix](https://fr.wikipedia.org/wiki/Philosophie_d%27Unix)
-
+- [Basics of the Unix Philosophy](http://catb.org/esr/writings/taoup/html/ch01s06.html), extrait de [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003, Chapter 1
 
 ## REST, *Architecture of the World Wide Web*
 
@@ -1461,7 +1461,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 - [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
 - [The Two Edged Sword](https://www.cs.tufts.edu/~nr/cs257/archive/jim-gettys/X.html), de [Jimmy Getty](https://gettys.wordpress.com/), co auteur du système [X Windows](https://en.wikipedia.org/wiki/X_Window_System) et a travaillé sur la spécification [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2068.txt) avec Roy Fielding à l'[IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
-- [Basics of the Unix Philosophy](http://catb.org/esr/writings/taoup/html/ch01s06.html), extrait de [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003, Chapter 1
+
 
 ### Papiers
 
