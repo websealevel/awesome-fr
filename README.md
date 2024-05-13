@@ -212,7 +212,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Mathématiques, mathématiques et informatiques et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatiques-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [En vrac](#en-vrac)
-		- [Articles / Billets de blog](#articles--billets-de-blog)
+		- [Articles, Billets de blog, Extraits](#articles-billets-de-blog-extraits)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
@@ -1434,7 +1434,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## En vrac
 
-### Articles / Billets de blog
+### Articles, Billets de blog, Extraits
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
@@ -1460,6 +1460,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 - [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
+- [The Two Edged Sword](https://www.cs.tufts.edu/~nr/cs257/archive/jim-gettys/X.html), de [Jimmy Getty](https://gettys.wordpress.com/), co auteur du système [X Windows](https://en.wikipedia.org/wiki/X_Window_System) et a travaillé sur la spécification [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2068.txt) avec Roy Fielding à l'[IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
+- [Basics of the Unix Philosophy](http://catb.org/esr/writings/taoup/html/ch01s06.html), extrait de [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003, Chapter 1
 
 ### Papiers
 
