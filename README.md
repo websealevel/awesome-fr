@@ -34,7 +34,7 @@ Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir
 
 ## Contribuez et partagez
 
-Un lien mort ? Une typo ? Votre ressource préférée n'est pas présente ici et vous voulez la partager ? 
+Un lien mort ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ? 
 
 Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soumettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
 
