@@ -12,11 +12,11 @@ proprietary, trade-secret system that is not Free and Open Souce Software
 
 ## En quelques mots
 
-Une liste d'outils et de ressources culturelles (sites/applications webs, ebooks, podcasts, vidéos, blogs, articles, conférences...) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps). 
+Une liste d'outils et de ressources culturelles (sites web, ebooks, podcasts, vidéos, blogs, articles, conférences, guides, programmes, etc.) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps). 
 
 Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
 
-Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à vous d'y adhérer ou non.
+> Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à vous d'y adhérer ou non.
 
 ## Des limites de la francophonie
 
