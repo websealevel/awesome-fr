@@ -72,7 +72,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Composants](#composants)
 		- [UI/UX](#uiux)
 		- [Sitemap](#sitemap)
-		- [DOM](#dom)
 		- [Quelques références tierces](#quelques-références-tierces)
 		- [Apprendre le web design](#apprendre-le-web-design)
 		- [Check, check, check](#check-check-check)
@@ -84,12 +83,12 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Contraste](#contraste)
 	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
 	- [Environnements d'apprentissage interactifs](#environnements-dapprentissage-interactifs)
+		- [Document Object Model (DOM)](#document-object-model-dom)
 		- [git](#git)
 		- [CSS grid](#css-grid)
 		- [JS](#js-1)
 		- [Algorithmes](#algorithmes)
 	- [SEO](#seo)
-	- [Analytics](#analytics)
 	- [API publiques](#api-publiques)
 		- [Divers](#divers)
 		- [Opendata/France](#opendatafrance)
@@ -155,7 +154,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Architecture logicielle](#architecture-logicielle)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
 	- [Développement informatique et écologie (ecoconception)](#développement-informatique-et-écologie-ecoconception)
-	- [Perl](#perl)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
 		- [Général](#général)
 		- [Haskell](#haskell)
@@ -166,7 +164,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Rich Hickey](#rich-hickey)
 	- [Défis](#défis)
 	- [Markdown](#markdown)
-		- [Markdown ecosystème](#markdown-ecosystème)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
@@ -190,6 +187,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
+		- [Sur le web](#sur-le-web)
 		- [Quelques *classiques* (non exhaustif)](#quelques-classiques-non-exhaustif)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
@@ -199,7 +197,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Sécurité des applications webs](#sécurité-des-applications-webs)
 		- [Webmaster](#webmaster)
 		- [HTTP](#http-1)
-		- [Perl](#perl-1)
+		- [Perl](#perl)
 		- [Test driven development](#test-driven-development)
 		- [Programmation CGI](#programmation-cgi)
 		- [Haskell](#haskell-1)
@@ -275,7 +273,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 
 ### Templates
 
-Templates HTML5/CSS3 à télécharger, utiliser, modifier
+Templates HTML5/CSS3 à télécharger, utiliser, modifier :
 
 - [btemplates.com](https://btemplates.com/), des templates old school de blog pour Blogger a la base
 - [html5webtemplates.co](https://www.html5webtemplates.co.uk/templates)
@@ -301,7 +299,7 @@ Templates HTML5/CSS3 à télécharger, utiliser, modifier
 
 Les *designers* se moqueront de vous si vous utilisez le mot typographie ou *typeface* au lieu de police de caractères ou *font*, et inversement. C'est du pur mépris de classe, comme lorsqu'on on vous corrige sur la différence entre URI et URL. Ne vous laissez pas faire. 
 
-Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Font* c'est l'implémentation de ce design en informatique. Pour faire une analogie, la *Typeface* c'est le plan d'architecte de la maison, la *Font* c'est la maison.
+Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Font* c'est l'implémentation de ce design en informatique.
 
 - [typescale](https://type-scale.com/), créer facilement un système de tailles de font à suivre
 - [typography principles](https://typographyprinciples.obys.agency/alignments/), un guide pour apprendre les principes de la typo
@@ -315,15 +313,13 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [Typeoff.de](https://www.typeoff.de/), le blog de Dan Reynolds, un designer et historien des typographies 
 
 
-Quelques lectures sur des aspects techniques de la typographie:
+Quelques lectures utiles sur des aspects techniques de la typographie :
 
 - [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
 - [Rule of Thirds Web Design: Using Layout Secrets ](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
 - [Readability and Typesetting Basics: Kerning, Tracking, Leading, and More!](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
 
 ### Palettes de couleurs
-
-Faites votre choix
 
 - [open color](https://yeun.github.io/open-color/), le *dictionnaire Larousse* des couleurs
 - [coloors](https://coolors.co/), fouiller ce site il vous offre toute une palette d'outils incroyables autre que les palettes de couleurs
@@ -340,7 +336,7 @@ Faites votre choix
 
 ### Pack d’icônes/favicons
 
-Des îcones, des icônes et encore des icônes. Faites votre choix :
+Des icônes, des icônes et encore des icônes. Faites votre choix :
 
 - [favicon generator](https://favicon.io/)
 - [icomoon](https://icomoon.io/)
@@ -409,8 +405,6 @@ Expérimenter et créer des animations CSS
 
 
 ### Extraits de code sur étagère
-
-Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [codepad](https://codepad.co/), code snippets dans tout un tas de langages et composants pour le front (html,css,js)
 - [snipplr](https://snipplr.com/)
@@ -512,10 +506,6 @@ Marre de réinventer la pelouse ? Besoin d'être productif ou d'inspiration ?
 
 - [octopus](https://octopus.do/), un outil en ligne pour construire le sitemap (architectures des pages, composants) de son projet
 
-### DOM
-
-- [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
-
 ### Quelques références tierces
 
 - [w3schools](https://www.w3schools.com/), une bonne référence. On y trouve toutes les ressources pour apprendre le développement web, surtout côté navigateur
@@ -593,6 +583,10 @@ Aller sur le dépôt puis
 
 ## Environnements d'apprentissage interactifs
 
+### Document Object Model (DOM)
+
+- [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
+
 ### git
 
 - [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR), apprendre git via une appli web interactive
@@ -615,14 +609,6 @@ Aller sur le dépôt puis
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 - [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
 - [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch de SEOKEY. 
-
-## Analytics
-
-- [splitbee](https://splitbee.io/)
-- [clearbit](https://clearbit.com/resources/tools/visitor-report)
-- [fathom](https://usefathom.com/), analytique de site web simple, privacy-first, sans cookie et respecant la GDPR, bonne alternative à Google Analytics
-- [calendly](https://calendly.com/fr/), planification de rendez-vous et réunions
-- [Pirsch](https://pirsch.io/), une solution analytics open souce et sans cookie pour votre site web
 
 
 ## API publiques
@@ -1039,7 +1025,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 ## Suivi de projets
 
-- [clickup](https://clickup.com/), alternative gratuite à Figma, plus facile à prendre en main et bourrée de toutes les fonctionnalités nécessaires 
+- [clickup](https://clickup.com/), (de plus en plus *bloated*...)
 - [Mattermost](https://mattermost.com/), alternative open source à Trello, outil de workflow, travail collaboratif, suivi de tâches, etc.
 
 
@@ -1050,7 +1036,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 ## Dessin
 
-- [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*
+- [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*, en local ou sur le web
 - [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 - [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
 
@@ -1107,9 +1093,6 @@ Voir aussi [les approches radicales et les fondements du web](#fondamentaux-radi
 
 - [Comment minimiser l’impact des vidéos dans nos sites web ?](https://www.editions-eni.fr/blog/comment-minimiser-limpact-des-videos-dans-nos-sites-web/), un excellent article d'[Hervé Boisgontier](https://www.editions-eni.fr/herve-boisgontier) et Boris Butaeye sur les moyens à mettre en oeuvre pour limiter l'impact environnemental des contenus vidéos distribués sur le web. 
 
-## Perl
-
-A venir...
 
 ## Programmation fonctionnelle
 
@@ -1170,8 +1153,6 @@ Apprenez à coder via des défis
 Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur format pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. *Facile à lire, facile à écrire*. Il a été pensé originellement pour écrire *pour* le web.
 
 Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.). C'est *le markup ultime pour écrire*, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web. Markdown refait apprécier le goût du *web* : *content first*, les hyperliens et un processus de publication simple et facile. 
-
-### Markdown ecosystème
 
 Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place à de nombreuses implémentations différentes. 
 
@@ -1301,6 +1282,10 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 ## Ebooks
 
 Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
+
+### Sur le web
+
+- [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
 
 ### Quelques *classiques* (non exhaustif)
 
