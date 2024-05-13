@@ -1405,6 +1405,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 - [Introduction to Algorithms, 4th Edition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZh-_7_tSCAxViRaQEHbzNB1EQFnoECCMQAQ&url=https%3A%2F%2Fdl.ebooksworld.ir%2Fbooks%2FIntroduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf&usg=AOvVaw1FvA0IIbaxK-z6fPzdnF49&opi=89978449), de Thomas H. Cormen (Auteur), Charles E. Leiserson (Auteur), Ronald L. Rivest (Auteur), Clifford Stein, publié au MIT Press. Le lien est vers la 4e édition. Une référence rigoureuse et reconnue sur les algorithmes et leur analyze. Il est recommandé d'être un peu à l'aise en mathématiques pour l'apprécier pleinement. La 3e édition est facilement trouvable en ligne également.
+- [All ▲lgorithms](https://allalgorithms.com/docs/dbscan), un dépôt collectif couvrant la majorité des algorithmes, avec exemples et implémentations. [Voir le dépôt associé](https://github.com/AllAlgorithms/algorithms)
 
 
 ## Le projet *Open Books* de O'Reilly 
@@ -1471,6 +1472,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
+- [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
 
 ### Papiers
 
@@ -1486,6 +1488,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 - [The Paperboy, The Wallet, and The Law Of Demeter](https://t.co/kidvfZghjE), de David Bock, sur la "Loi de Demeter" en POO
 - [Forces in the Physics of Software the final word](https://drive.usercontent.google.com/download?id=1iy2Jopayt5MYetEiMg-XyJ_ZkXXVEDKV&export=download), de Carlo Pescio (draft). Une tentative de modélisation du développement et de l'architecture logicielle avec des concepts empruntés à la mécanique.
 - [The Power of Two Random Choices: A Survey of Techniques and Results (Server Load Balancing)](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf), de Michael Mitzenmacher, Andrea W. Richa, Ramesh Sitaraman (Harvard)
+- [Taking ASCII Drawings Seriously: How Programmers Diagram Code](https://pg.ucsd.edu/publications/how-programmers-ASCII-diagram-code_CHI-2024.pdf), de Devamardeep Hayatpur, Brian Hempel, Kathy Chen, William Duan, Philip J. Guo, Haijun Xia (2024)
 
 
 ### Blogs
