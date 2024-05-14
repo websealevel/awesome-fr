@@ -235,6 +235,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Correction](#correction)
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
 		- [Général](#général-1)
+		- [Sécurité](#sécurité)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
 		- [Côté client (*Front-end*)](#côté-client-front-end)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
@@ -1693,6 +1694,10 @@ Des heuristiques à la volée
 - [My knowledge wiki (en)](https://wiki.nikiv.dev/), de [Nikita](https://twitter.com/nikitavoloboev), un développeur qui partage toute sa veille sous forme de wiki hébergé sur Github. De quoi creuser dans toutes les directions. Une mine de ressources commentée.
 - [My favorite technical blogs](https://lists.eatonphil.com/blogs.html), une liste filtrée de blogs techniques proposée par Phil Eaton
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit), une liste de sites web utiles pour les programmeur·ses
+
+### Sécurité
+
+- [DAMN VULNERABLE WEB APPLICATION](https://github.com/digininja/DVWA), une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
