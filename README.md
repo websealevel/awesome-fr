@@ -993,6 +993,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [PHP Documentor](https://docs.phpdoc.org/), produire de la documentation directement à partir des sources
 - [FrankenPHP](https://frankenphp.dev/), un serveur PHP moderne écrit en C et Go, maintenu par Kevin Dunglas, qui permet d'utiliser HTTP 1.1, 2 et 3, et supporte des réponses HTTP multiples. Remplace PHP-FPM
 - [NativePHP](https://nativephp.com/docs/1/getting-started/introduction), framework PHP pour déployer des applications desktop, maintenu par Marcel Pociot. **Attention, outil toujours en alpha** (2023)
+- [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
