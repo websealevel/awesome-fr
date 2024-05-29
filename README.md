@@ -152,6 +152,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Analyse, conception : UML et alternatives](#analyse-conception--uml-et-alternatives)
 	- [Outils d'administration (et conception parfois) de base de données](#outils-dadministration-et-conception-parfois-de-base-de-données)
 	- [Architecture logicielle](#architecture-logicielle)
+	- [Maintenabilité](#maintenabilité)
 	- [Développement informatique et science académique](#développement-informatique-et-science-académique)
 	- [Développement informatique et écologie (ecoconception)](#développement-informatique-et-écologie-ecoconception)
 	- [Programmation fonctionnelle](#programmation-fonctionnelle)
@@ -996,6 +997,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [psalm](https://psalm.dev/), analyseur statique de code, notamment inspiré de Hack
 - [phpStan](https://phpstan.org/), l'analyseur statique (*at compile time*) du code PHP par excellence. *Find bugs without writing tests*
 - [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer), l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
+- [phpBench](https://phpbench.readthedocs.io/en/latest/), un framework de benchmark pour PHP, inspiré de PHPUnit
 - [Le blog de Fabien Potencier](http://fabien.potencier.org/)
 - [Le blog de Kévin Dunglas](https://dunglas.dev/), membre core de Symfony, mainteneur de FrankenPHP et du [protocole Mercure](https://mercure.rocks/) (entre autres). Un grand développeur et contributeur de l'écosystème PHP notamment, plein d'humilité
 - [Functional Programming in PHP](https://youtu.be/LZh4_q04aKo)
@@ -1084,6 +1086,11 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 ## Architecture logicielle
 
 - [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog), un catalogue en ligne inspiré du GoF sur les Design Patterns. Bien fait, ludique avec de nombreux exemples, schémas et implémentations dans différents langages
+
+## Maintenabilité
+
+- [Refactoring.com](https://refactoring.com/), le site de Martin Fowler dédié au refactoring
+- [Refactoring, catalog](https://refactoring.com/catalog/), le catalogue des refactorings identifiés et décrits par Martin Fowler
 
 ## Développement informatique et science académique
 
