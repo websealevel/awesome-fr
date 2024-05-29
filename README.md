@@ -210,7 +210,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 	- [*Hacker* culture](#hacker-culture)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
-	- [Mathématiques, mathématiques et informatiques et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatiques-et-autres-aspects-bas-niveau)
+	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [En vrac](#en-vrac)
 		- [Articles, Billets de blog, Extraits](#articles-billets-de-blog-extraits)
@@ -1425,7 +1425,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj), le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
 - [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur actif du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
 
-## Mathématiques, mathématiques et informatiques et autres aspects *bas niveau*
+## Mathématiques, mathématiques et informatique et autres aspects *bas niveau*
 
 - [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007 
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
