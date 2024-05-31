@@ -1311,6 +1311,8 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [Software Engineering, Tenth Edition](https://software-engineering-book.com/), un livre canonique sur l'architecture logicielle et l'ingénieurie logicielle (conduite de grands projets informatiques), de [Ian Sommerville](https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer))
 - [Operating Systems, three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), ou le *Comet OS Book*, de Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison), publié par l'université du Wisconsin, depuis 2008 (continuellement mis à jour). Accessible en ligne (version HTML). *Une référence* sur les systèmes d'exploitation.
 - [Etudes for Programmers](https://github.com/archermarx/etudes/blob/main/Etudes%20for%20Programmers.pdf), de Charles Wetherell, publié chez Prentice-Hall, 1978
+- [The Art of Plain Talk](https://dc135.files.wordpress.com/2012/11/flesch-the-art-of-plain-talk.pdf), de Rudolf Flesch, publié chez Harper & Row, 1946. Sur comment écrire de manière à être compris par son audience. Idéal pour améliorer ses compétences en écriture technique (spécifications, documentation)
+- [Code Complete, 2nd Edition](https://github.com/media-lib/prog_lib/blob/master/general/Steve%20McConnell%20-%20Code%20Complete%20(2nd%20edition).pdf), de Steve McConnell, publié chez Microsoft, 2004. Un classique *tout en un* sur la construction de programmes. A pour ambition de faire le pont entre la recherche académique et l'industrie sur les techniques pour programmer de manière efficace
 
 ### Refactoring, travailler sur du code legacy
 
