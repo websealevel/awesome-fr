@@ -1320,8 +1320,8 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 
 ### Software design
 
-- [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html) de John Ousterhout, publié par la Stanford University, 2018. Excellent ouvrage clair et concis sur la complexité logicielle (sa nature et ses origines) et sur des principes de design généraux. Plein d'humilité et de partage d'experience avisée.
-- [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html) de Eric Evans, publié chez Addison Wesley, 2003
+- [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html), de John Ousterhout, publié par la Stanford University, 2018. Excellent ouvrage clair et concis sur la complexité logicielle (sa nature et ses origines) et sur des principes de design généraux. Plein d'humilité et de partage d'experience avisée.
+- [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html), de Eric Evans, publié chez Addison Wesley, 2003
 
 
 ### Blog design
