@@ -914,9 +914,11 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ### Sécurité des applications web / Audit
 
-- [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste, documente et classifie l'ensemble de risques reconnus comme critiques pour les applications web 
+- [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste et classifie l'ensemble de risques reconnus comme critiques pour les applications web 
 - [Sécurité : Chiffrement, hachage, signature ](https://www.cnil.fr/fr/securite-chiffrement-hachage-signature), publié par la CNIL
+- [NIST Special Publication 800-63B : Digital Identity Guidelines, Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html), document de référence publié par [le National Institute of Standards and Technology (NIST)](https://fr.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) sur les recommandations liées à la gestion de l'identité en ligne et des systèmes d'authentification. 
 - [KeePassXC Application Security Review](https://molotnikov.de/keepassxc-review), de [Zaur Molotnikov](https://molotnikov.de/cv). Un audit du gestionnaire de mots de passe open source [KeePassXC](https://github.com/keepassxreboot/keepassxc). Contient de nombreuses informations utiles sur son fonctionnement et ses détails d'implémentation. [Télécharger le PDF (version 1.2)](https://molotnikov.de/docs/KeePassXC-Review-V1-Molotnikov.pdf)
+- [RFC 7519 : JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519), publié par l'IETF. Le document décrivant le standard JWT
 
 
 ## Réseau
@@ -1355,7 +1357,11 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 
 ### Sécurité des applications webs
 
-- [The Web Application Hacker's Handbook, 2nd Edition](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
+- [Essential PHP Security](https://www.oreilly.com/library/view/essential-php-security/059600656X/), de Shiflett, publié chez O'Reilly, 2005. LP++
+- [The Web Application Hackers Handbook](https://www.amazon.fr/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470), de  Dafydd Stuttard et Marcus Pinto, publié chez John Wiley & Sons Inc, 2011. LE+
+- [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.fr/dp/1593271441/), de Jon Erickson, publié chez No Starch Press, 2008. LE++
+- [Writing secure code, 2nd edition](https://www.amazon.com/Writing-Secure-Second-Developer-Practices/dp/0735617228), de  Michael Howard et David LeBlanc, publié chez Microsoft Press, 2003. LP++
+- [Threat Modeling: Designing for Security, 1st Edition ](https://www.amazon.fr/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998), d'Adam Shostack, publié chez Wiley, 2014. LI++. Voir également l'introduction au *threat modeling* dans le chapitre 4 de *Writing Secure code* 
 
 
 ### Webmaster
