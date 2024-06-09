@@ -128,6 +128,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Apprendre le XML et ses standards associés](#apprendre-le-xml-et-ses-standards-associés)
 			- [Applications XML de prestige](#applications-xml-de-prestige)
 		- [Standard SQL et bases de données relationnelles](#standard-sql-et-bases-de-données-relationnelles)
+		- [Sécurité des applications web / Audit](#sécurité-des-applications-web--audit)
 	- [Réseau](#réseau)
 	- [Protocoles](#protocoles)
 		- [TCP/IP](#tcpip)
@@ -909,6 +910,12 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - Une [sélection de livres](https://sgbd.developpez.com/livres/) par les membres de developpez.com
 - [Other MySQL Documentation](https://dev.mysql.com/doc/index-other.html), documentation de MySQL sur des aspects plus avancés ainsi que **des liens pour télécharger des bases de données avec des grand volumes de données** pour pratiquer sa compréhension du standard, de MySQL et des performances 
 
+### Sécurité des applications web / Audit
+
+- [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste, documente et classifie l'ensemble de risques reconnus comme critiques pour les applications web 
+- [Sécurité : Chiffrement, hachage, signature ](https://www.cnil.fr/fr/securite-chiffrement-hachage-signature), publié par la CNIL
+- [KeePassXC Application Security Review](https://molotnikov.de/keepassxc-review), de [Zaur Molotnikov](https://molotnikov.de/cv). Un audit du gestionnaire de mots de passe open source [KeePassXC](https://github.com/keepassxreboot/keepassxc). Contient de nombreuses informations utiles sur son fonctionnement et ses détails d'implémentation. [Télécharger le PDF (version 1.2)](https://molotnikov.de/docs/KeePassXC-Review-V1-Molotnikov.pdf)
+
 
 ## Réseau
 
@@ -1346,7 +1353,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 
 ### Sécurité des applications webs
 
-- [The web application hacker's handbook](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
+- [The Web Application Hacker's Handbook, 2nd Edition](https://www.pdfdrive.com/the-web-application-hackers-handbook-wordpresscom-e12194346.html)
 
 
 ### Webmaster
@@ -1709,7 +1716,8 @@ Des heuristiques à la volée
 
 ### Sécurité
 
-- [DAMN VULNERABLE WEB APPLICATION](https://github.com/digininja/DVWA), une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.
+
+- [Damn Vulnerable Web Application](https://github.com/digininja/DVWA), une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
