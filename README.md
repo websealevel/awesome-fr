@@ -1474,7 +1474,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [The Two Edged Sword](https://www.cs.tufts.edu/~nr/cs257/archive/jim-gettys/X.html), de [Jimmy Getty](https://gettys.wordpress.com/), co auteur du système [X Windows](https://en.wikipedia.org/wiki/X_Window_System) et a travaillé sur la spécification [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2068.txt) avec Roy Fielding à l'[IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
 - [Queueing : An interactive study of queueing strategies](https://encore.dev/blog/queueing), de Sam Rose. Un excellent article interactif pour comprendre les différentes techniques de file
 - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
-
+- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
 
 ### Papiers
 
