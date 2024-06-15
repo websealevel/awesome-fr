@@ -195,13 +195,14 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Software design](#software-design)
 		- [Blog design](#blog-design)
 		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
-		- [Wordpress](#wordpress-1)
+		- [WordPress](#wordpress-1)
 		- [Sécurité des applications webs](#sécurité-des-applications-webs)
 		- [Webmaster](#webmaster)
 		- [HTTP](#http-1)
 		- [Perl](#perl)
 		- [Test driven development](#test-driven-development)
 		- [Programmation CGI](#programmation-cgi)
+		- [Functional programming](#functional-programming)
 		- [Haskell](#haskell-1)
 		- [Rust](#rust)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
@@ -1351,7 +1352,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 - [Search Patterns: Design for Discovery](https://www.pdfdrive.com/search-patterns-design-for-discovery-e159084430.html)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html), le site du livre éponyme *Introduction to Information Retrieval*, de Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze,  Cambridge University Press. 2008. La version en ligne est *gratuite*. Une bonne référence sur les méthodes et différents modèles de recherche d'information
 
-### Wordpress
+### WordPress
 
 - [voir ici](#livres-de-développement-wordpress)
 
@@ -1388,6 +1389,10 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [CGI programming with Perl](https://www.pdfdrive.com/cgi-programming-with-perl-2nd-ed-e187832058.html)
 
+
+### Functional programming
+
+- [Introduction to functional programming](https://archive.org/details/introductiontofu0000bird), de Bird et Richard, publié chez Prentice-Hall, 1988. Un classique avec le SICP
 
 ### Haskell
 
