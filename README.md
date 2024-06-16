@@ -1712,6 +1712,7 @@ Des heuristiques à la volée
 
 ### Général
 
+- [awesome](https://github.com/sindresorhus/awesome), le dépôt originel des dépôts listant des bonnes ressources sur des sujets intéressants
 - [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
 - [webcode.tools](https://webcode.tools/)
 - [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources), un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
@@ -1779,7 +1780,7 @@ Des heuristiques à la volée
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
-
+- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
 
 #### Java
 
