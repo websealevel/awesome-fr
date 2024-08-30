@@ -1500,6 +1500,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Queueing : An interactive study of queueing strategies](https://encore.dev/blog/queueing), de Sam Rose. Un excellent article interactif pour comprendre les différentes techniques de file
 - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
 - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
+- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la hype autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge des requêtes
 
 ### Papiers
 
@@ -1654,6 +1655,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
 - [Hypermedia Systems](https://hypermedia.systems/), retour aux idées fondamentales du web pour designer des sites web pilotés par les hypermedia et les contraintes REST. [Accesible en ligne gratuitement](https://hypermedia.systems/book/contents/)
+- [The Monospace Web](https://owickstrom.github.io/the-monospace-web/), [d'Oskar Wickström](https://wickstrom.tech/). Une exploration légèrement provocatrice d'un design minimaliste du web basé sur des fonts monospace.
 
 ## Contribuer à des projets open-source
 
