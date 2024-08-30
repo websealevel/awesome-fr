@@ -1030,6 +1030,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), le projet open-source pour développer des cartes interactives et *mobile-friendly*.
 - [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
+- [Vanilla JS](http://vanilla-js.com/), le site web qui promeut le *vanilla* JS
 
 
 ### Docker et conteneurs
@@ -1652,6 +1653,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [The Duct Tape Programmer (en)](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), article
 - [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
+- [Hypermedia Systems](https://hypermedia.systems/), retour aux idées fondamentales du web pour designer des sites web pilotés par les hypermedia et les contraintes REST. [Accesible en ligne gratuitement](https://hypermedia.systems/book/contents/)
 
 ## Contribuer à des projets open-source
 
