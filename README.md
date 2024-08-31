@@ -973,6 +973,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Unix programmer's manual Third Edition](https://dspinellis.github.io/unix-v3man/v3man.pdf), publié par K. Thompson et D. M. Ritchie, 1973
 - [Philosophie d'Unix](https://fr.wikipedia.org/wiki/Philosophie_d%27Unix)
 - [Basics of the Unix Philosophy](http://catb.org/esr/writings/taoup/html/ch01s06.html), extrait de [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003, Chapter 1
+- [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/), un jeu de cartes que l'on peut imprimer pour apprendre à manipuler les pipes UNIX et les programmes UNIX fondamentaux (grep, cat, tail, etc.)
 
 ## REST, *Architecture of the World Wide Web*
 
