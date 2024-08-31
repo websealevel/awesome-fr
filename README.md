@@ -1430,6 +1430,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
 - [Introduction to Algorithms, 4th Edition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZh-_7_tSCAxViRaQEHbzNB1EQFnoECCMQAQ&url=https%3A%2F%2Fdl.ebooksworld.ir%2Fbooks%2FIntroduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf&usg=AOvVaw1FvA0IIbaxK-z6fPzdnF49&opi=89978449), de Thomas H. Cormen (Auteur), Charles E. Leiserson (Auteur), Ronald L. Rivest (Auteur), Clifford Stein, publié au MIT Press. Le lien est vers la 4e édition. Une référence rigoureuse et reconnue sur les algorithmes et leur analyze. Il est recommandé d'être un peu à l'aise en mathématiques pour l'apprécier pleinement. La 3e édition est facilement trouvable en ligne également.
 - [All ▲lgorithms](https://allalgorithms.com/docs/dbscan), un dépôt collectif couvrant la majorité des algorithmes, avec exemples et implémentations. [Voir le dépôt associé](https://github.com/AllAlgorithms/algorithms)
+- [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), de [Jeff Erickson](http://jeffe.cs.illinois.edu/) de l'université d'Illinois. Livre sur les algorithmes auto-publié entièrement accessible en ligne
 
 
 ## Le projet *Open Books* de O'Reilly 
