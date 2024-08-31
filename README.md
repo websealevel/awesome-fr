@@ -1465,6 +1465,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [200+ Useful Free Math Books for Lifelong Learners](https://abakcus.com/useful-free-math-books-for-lifelong-learners/), un catalogue de livre téléchargeables gratuitement sur différents sujets de mathématiques (analyse, géométrie, mathématiques discrètes, algèbre, etc.)
 - [Calculus Made Easy](http://calculusmadeeasy.org/), de Silvanus P. Thompson. Une introduction accessible à l'analyse mathématique 
 - [tiny-gpu](https://github.com/adam-maj/tiny-gpu), une implémentation GPU minimale pour apprendre le fonctionnement des GPU
+- [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/) 
 
 ## Ressources pour formateur·trice
 
@@ -1549,6 +1550,7 @@ Le coeur du web
 - [Le site du livre *Software Engineering*](https://software-engineering-book.com/intro/), de Ian Sommerville. Slides, supports pour cours, études de cas
 - [Dennis M. Ritchie (in memoriam)](https://www.bell-labs.com/usr/dmr/www/), site web personnel de Dennis Ritchie (posthume)
 - [SQL Short Reads](https://sqlshortreads.com/), de Chris Perry. De nombreux articles sur des cas d'utilisation de SQL en situation réelle
+- [gingerBill](https://www.gingerbill.org/), le blog du créateur du langage [Odin](https://odin-lang.org/)
 
 
 ### Podcasts
