@@ -1025,7 +1025,9 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 
 ### C
 
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
+- [Beej's Guide to C Programming (en)](https://beej.us/guide/bgc/), un excellent cours complet (au ton personnel) sur le langage C, complètement accessible sur le web
+- [Introduction To C course (en)](https://bible.malcore.io/readme/the-beginning/introduction-to-c), un cours d'indtroduction au C
+- [The GNU C Reference Manual (en)](https://www.c-asm.com/gnu-c-manual.html), le manuel sur le C publié par le projet GNU est une bonne ressource pour apprendre et approfondir ses connaissances en C
 
 ### JavaScript
 
