@@ -1028,6 +1028,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 - [Beej's Guide to C Programming (en)](https://beej.us/guide/bgc/), un excellent cours complet (au ton personnel) sur le langage C, complètement accessible sur le web
 - [Introduction To C course (en)](https://bible.malcore.io/readme/the-beginning/introduction-to-c), un cours d'indtroduction au C
 - [The GNU C Reference Manual (en)](https://www.c-asm.com/gnu-c-manual.html), le manuel sur le C publié par le projet GNU est une bonne ressource pour apprendre et approfondir ses connaissances en C
+- [comp.lang.c Frequently Asked Questions (clc FAQ)](https://c-faq.com/index.html), faq sur le langage C, issue du groupe Usened comp.lang.c. Composée et rafinée depuis 1990. A même [été publiée sous forme de livre par Addison-Wesley](https://c-faq.com/book/)
 
 ### JavaScript
 
