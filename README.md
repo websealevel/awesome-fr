@@ -1026,7 +1026,7 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
 ### C
 
 - [Beej's Guide to C Programming (en)](https://beej.us/guide/bgc/), un excellent cours complet (au ton personnel) sur le langage C, complètement accessible sur le web
-- [Introduction To C course (en)](https://bible.malcore.io/readme/the-beginning/introduction-to-c), un cours d'indtroduction au C
+- [Introduction To C course (en)](https://bible.malcore.io/readme/the-beginning/introduction-to-c), un cours d'introduction au C
 - [The GNU C Reference Manual (en)](https://www.c-asm.com/gnu-c-manual.html), le manuel sur le C publié par le projet GNU est une bonne ressource pour apprendre et approfondir ses connaissances en C
 - [comp.lang.c Frequently Asked Questions (clc FAQ)](https://c-faq.com/index.html), faq sur le langage C, issue du groupe Usenet `comp.lang.c`. Composée et rafinée *depuis 1990*. A même [été publiée sous forme de livre par Addison-Wesley](https://c-faq.com/book/)
 
@@ -1214,6 +1214,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 ## Écriture technique
 
 - [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
+- [Texinfo](https://www.gnu.org/software/texinfo/), le format officiel de la documentation du projet GNU. [Voir la doc de texinfo](https://savannah.gnu.org/projects/texinfo), [voir le manuel de texinfo](https://www.gnu.org/software/texinfo/manual/texinfo/texinfo.html) (écrit avec texinfo bien entendu)
 - [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 - [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents techniques
 - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
