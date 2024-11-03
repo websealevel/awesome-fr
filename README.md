@@ -987,16 +987,15 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [JSON Hypertext Application Language draft-kelly-json-hal-08](https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08#section-8.1), HAL representation pour les modèles de données. Une proposition de standard
 - [API RESTful, spécification des schémas de données *HAL*](http://amundsen.com/hypermedia/), les différents types d'hypermédia définis pour le protocole HTTP et pour construire des API plus robustes. Le livre de l'auteur [Building Hypermedia APIs with HTML5 and Node](https://learning.oreilly.com/library/view/building-hypermedia-apis/9781449309497/), Amundsen, a l'air très intéressant
 - [API RESTful, spécification des schémas de données *JSON-LD 1.1*, *A JSON-based Serialization for Linked Data*](https://www.w3.org/TR/json-ld/), une autre spécification des données renvoyées par une API, soutenue et recommandée par le W3C
-- [The stateless blog](https://blog.stateless.co/), de [Mike Kelly](https://blog.stateless.co/about) :
-  - [JSON Linking with HAL](https://blog.stateless.co/post/13296666138/json-linking-with-hal);
-  - [The case for hyperlinks in APIs](https://blog.stateless.co/post/68259564511/the-case-for-hyperlinks-in-apis)
+- [JSON Linking with HAL](https://blog.stateless.co/post/13296666138/json-linking-with-hal);
+- [The case for hyperlinks in APIs](https://blog.stateless.co/post/68259564511/the-case-for-hyperlinks-in-apis)
 - [HAL Explorer](https://github.com/toedter/hal-explorer), with HAL Explorer you can browse and explore HAL and HAL-FORMS based RESTful Hypermedia APIs. HAL Explorer was inspired by Mike Kelly’s HAL-Browser. HAL Explorer also supports Spring Profiles.
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/), guide et recommandations pour concevoir des API RESTful
 - [The Vision of Kay and Fielding: Growable Systems that Last for Decades](https://www.devx.com/enterprise-zone/the-vision-of-kay-and-fielding-growable-systems-that-last-for-decades/)
-- [SIREN](https://github.com/kevinswiber/siren#siren-a-hypermedia-specification-for-representing-entities),
-- [Collection+JSON](http://amundsen.com/media-types/collection/)
+- [SIREN](https://github.com/kevinswiber/,siren#siren-a-hypermedia-specification-for-representing-entities), media type
+- [Collection+JSON](http://amundsen.com/media-types/collection/), media type
 - [IANA Media Types Registry](https://www.iana.org/assignments/media-types/media-types.xhtml), liste de formats sérieux, recensés par l'[IANA](https://fr.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority). Si vous cherchez un format pour les réponses de votre service vous pouvez parcourir cette liste.
-
+- [Fielding, Roy Thomas. Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine, 2000.](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf), la thèse de Roy qui a "coin" le terme *REST*. Un document sur l'architecture logicielle distribuée
 
 ## Spécifiques à un langage/écosystème
 
@@ -1559,7 +1558,7 @@ Le coeur du web
 - [Dennis M. Ritchie (in memoriam)](https://www.bell-labs.com/usr/dmr/www/), site web personnel de Dennis Ritchie (posthume)
 - [SQL Short Reads](https://sqlshortreads.com/), de Chris Perry. De nombreux articles sur des cas d'utilisation de SQL en situation réelle
 - [gingerBill](https://www.gingerbill.org/), le blog du créateur du langage [Odin](https://odin-lang.org/)
-
+- [The stateless blog](https://blog.stateless.co/), de [Mike Kelly](https://blog.stateless.co/about)
 
 ### Podcasts
 
