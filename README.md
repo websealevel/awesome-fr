@@ -1512,6 +1512,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Papiers
 
+
+
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans le logiciel et la construction de systèmes d'information
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf), un papier de Brian Kernighan sur la thèse perdue de Dennis Ritchie et comment a-t-il pu la mettre en page étant donné sa complexité typographique et les programmes de préparation de document de l'époque
@@ -1525,6 +1527,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 - [Forces in the Physics of Software the final word](https://drive.usercontent.google.com/download?id=1iy2Jopayt5MYetEiMg-XyJ_ZkXXVEDKV&export=download), de Carlo Pescio (draft). Une tentative de modélisation du développement et de l'architecture logicielle avec des concepts empruntés à la mécanique.
 - [The Power of Two Random Choices: A Survey of Techniques and Results (Server Load Balancing)](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf), de Michael Mitzenmacher, Andrea W. Richa, Ramesh Sitaraman (Harvard)
 - [Taking ASCII Drawings Seriously: How Programmers Diagram Code](https://pg.ucsd.edu/publications/how-programmers-ASCII-diagram-code_CHI-2024.pdf), de Devamardeep Hayatpur, Brian Hempel, Kathy Chen, William Duan, Philip J. Guo, Haijun Xia (2024)
+- [The Vision of Kay and Fielding: Growable Systems that Last for Decades](https://www.devx.com/enterprise-zone/the-vision-of-kay-and-fielding-growable-systems-that-last-for-decades/), de Charlie Frank
 
 
 ### Blogs
