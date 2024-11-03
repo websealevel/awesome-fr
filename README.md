@@ -977,11 +977,8 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 ## REST, *Architecture of the World Wide Web*
 
-Ressources sur les contraintes REST à la base de l'architecture du web et sur le design de web API *RESTful*
-
-- [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), une synthèse de David Gayerie sur REST de grande qualité, avec une bibliographie utile
+- [REST](https://gayerie.dev/epsi-poe-201703/web-services/07_rest.html), une synthèse de David Gayerie sur REST de qualité, avec une bibliographie utile
 - [Welcome to the REST CookBook](https://restcookbook.com/)
-- [How to get a cup of coffe (in REST)](https://www.infoq.com/articles/webber-rest-workflow/)
 - [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), publié par le W3C, 2004. La *bible* sur l'architecture du web et sur les technologies du web (HTTP, HTML et URL)
 - [Schema.org](https://schema.org/), *Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for *structured data* on the Internet*. Propose une liste de schémas à suivre pour différents modèles de données
 - [Microformats wiki](http://microformats.org/wiki/Main_Page), un wiki qui décrit des specifications de structure de données interopérables 
@@ -995,6 +992,10 @@ Ressources sur les contraintes REST à la base de l'architecture du web et sur l
   - [The case for hyperlinks in APIs](https://blog.stateless.co/post/68259564511/the-case-for-hyperlinks-in-apis)
 - [HAL Explorer](https://github.com/toedter/hal-explorer), with HAL Explorer you can browse and explore HAL and HAL-FORMS based RESTful Hypermedia APIs. HAL Explorer was inspired by Mike Kelly’s HAL-Browser. HAL Explorer also supports Spring Profiles.
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/), guide et recommandations pour concevoir des API RESTful
+- [The Vision of Kay and Fielding: Growable Systems that Last for Decades](https://www.devx.com/enterprise-zone/the-vision-of-kay-and-fielding-growable-systems-that-last-for-decades/)
+- [SIREN](https://github.com/kevinswiber/siren#siren-a-hypermedia-specification-for-representing-entities),
+- [Collection+JSON](http://amundsen.com/media-types/collection/)
+- [IANA Media Types Registry](https://www.iana.org/assignments/media-types/media-types.xhtml), liste de formats sérieux, recensés par l'[IANA](https://fr.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority). Si vous cherchez un format pour les réponses de votre service vous pouvez parcourir cette liste.
 
 
 ## Spécifiques à un langage/écosystème
