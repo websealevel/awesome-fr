@@ -139,6 +139,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
 	- [Unix](#unix)
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
+	- [OpenAPI Specification](#openapi-specification)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
 		- [C](#c)
@@ -996,7 +997,16 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
   - [HAL](https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08#section-8.1)
 - [Schema.org](https://schema.org/), *Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for *structured data* on the Internet*. Propose une liste de schémas à suivre pour différents modèles de données
 - [Microformats wiki](http://microformats.org/wiki/Main_Page), un wiki qui décrit des specifications de structure de données interopérables 
+- [Design Guidelines](https://apistylebook.com/design/guidelines/), une liste filtrée de guidelines de design d'API publiées par plusieurs entreprises
 
+## OpenAPI Specification
+
+- [Le guide officiel pour démarrer avec OpenAPI](https://learn.openapis.org/) ;
+- [OpenAPI tooling](https://tools.openapis.org/), liste tous les outils développés par la communauté pour travailler avec la spécification ;
+- [The OpenAPI Specification Explained](https://learn.openapis.org/specification/), **le guide**
+- [OpenAPI Specification](https://spec.openapis.org/oas/v3.1.0#openapi-specification), **la référence complète**
+- [OpenAPI Best Practices](https://learn.openapis.org/best-practices.html), un guide de bonnes pratiques et de recommandations pour travailler avec la spécification OpenAPI
+- [OpenAPI Initiative](https://www.openapis.org/), le site web officiel de la spécification OpenAPI, une description standardisée de web API;
 
 ## Spécifiques à un langage/écosystème
 
