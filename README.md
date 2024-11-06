@@ -139,7 +139,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
 	- [Unix](#unix)
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
-	- [OpenAPI Specification](#openapi-specification)
+	- [Spécification OpenAPI](#spécification-openapi)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
 		- [PHP](#php)
 		- [C](#c)
@@ -983,7 +983,6 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Welcome to the REST CookBook](https://restcookbook.com/)
 - [Fielding, Roy Thomas. Architectural Styles and the Design of Network-based Software Architectures. Doctoral dissertation, University of California, Irvine, 2000.](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf), la thèse de Roy qui a "coin" le terme *REST*. Un document sur l'architecture logicielle distribuée. [Voir la traduction Chapitre 5 sur REST en français](http://opikanoba.org/tr/fielding/rest/), mais ne pas s'arrêter qu'à ce chapitre;
 - [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/2004/REC-webarch-20041215/), publié par le W3C, 2004. La *bible* sur l'architecture du web et sur les technologies du web (HTTP, HTML et URL)
-- [OpenAPI Specification](https://spec.openapis.org/oas/latest.html), *The OpenAPI Specification (OAS)* defines a standard, programming language-agnostic interface description for HTTP APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic. C'est la spécification que suit l'outil [Swagger](https://swagger.io/)
 - [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven), billet de blog de Roy T. Fiedling très intéressant sur le fait qu'une API RESTful doit être orientée *hypertexte* (ou de manière générale par les *hypermédia*)
 - [Hypermedia Types](http://amundsen.com/hypermedia/), les différents types d'hypermédia définis pour le protocole HTTP et pour construire des API plus robustes. Le livre de l'auteur [Building Hypermedia APIs with HTML5 and Node](https://learning.oreilly.com/library/view/building-hypermedia-apis/9781449309497/), Amundsen, a l'air très intéressant
 - [JSON-LD, A JSON-based Serialization for Linked Data*](https://www.w3.org/TR/json-ld/)
@@ -1000,7 +999,11 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Microformats wiki](http://microformats.org/wiki/Main_Page), un wiki qui décrit des specifications de structure de données interopérables 
 - [Design Guidelines](https://apistylebook.com/design/guidelines/), une liste filtrée de guidelines de design d'API publiées par plusieurs entreprises
 
-## OpenAPI Specification
+## Spécification OpenAPI 
+
+- [La spécification OpenAPI](https://www.openapis.org/what-is-openapi) est une description formelle et standardisée d'une web API au format texte (JSON ou Yaml). Elle est maintenue et développée par l'[OpenAPI Initiative (OAI](https://www.openapis.org/about)), un consortium ouvert d'experts de l'industrie. Ce projet collaboratif est porté par la [Linux Foundation](https://www.linuxfoundation.org/).  
+- La spécification ouverte OpenAPI a été crée à l'origine par [Wordnik](https://en.wikipedia.org/wiki/Wordnik) en 2010, sous le nom de *Swagger specification*. SmartBear et d'autres acteurs ont repris la spécification à partir de 2015. Le projet est devenu l'*OpenAPI Specification*.
+- [Swagger](https://en.wikipedia.org/wiki/Swagger_(software)) désigne aujourd'hui une suite d'outils pour le développement d'API, publiés par [SmartBear Software](https://en.wikipedia.org/wiki/SmartBear_Software). Cette enterprise est membre du comité de l'OpenAPI Initiative et développe des produits autour de la spécification, comme [Swagger Hub](https://swagger.io/tools/swaggerhub/). Elle maintient et [développe également de nombreux produits open source](https://swagger.io/tools/open-source/) autour de la spécification, [comme Swagger UI](https://swagger.io/tools/swagger-ui/).
 
 - [Le guide officiel pour démarrer avec OpenAPI](https://learn.openapis.org/) ;
 - [OpenAPI tooling](https://tools.openapis.org/), liste tous les outils développés par la communauté pour travailler avec la spécification ;
