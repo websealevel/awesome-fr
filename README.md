@@ -167,6 +167,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Rich Hickey](#rich-hickey)
 	- [Défis](#défis)
 	- [Markdown](#markdown)
+	- [Présentations (slides) avec Markdown](#présentations-slides-avec-markdown)
 	- [CV](#cv)
 	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
@@ -1205,8 +1206,11 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
 - [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown (proposée par John Gruber) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. Babel Mark 3 vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
+
+## Présentations (slides) avec Markdown
+
 - [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
-- [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de marp
+- [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de Marp
 - [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. créer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
 - [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI, Slides est une application web qui vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
 
