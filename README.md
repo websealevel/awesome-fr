@@ -43,6 +43,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 <img src="img/./no%20time%20to%20lose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
 
 ## Table des matières
+
 - [Ressources *gratuites* pour les programmeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es](#ressources-gratuites-pour-les-programmeureuses-designeureuses-web-indépendantes-bidouilleureuses-et-autres-intéressées)
 	- [*We're Using GitHub Under Protest*](#were-using-github-under-protest)
 	- [En quelques mots](#en-quelques-mots)
@@ -50,7 +51,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Conseils d'utilisation](#conseils-dutilisation)
 	- [Contribuez et partagez](#contribuez-et-partagez)
 	- [Table des matières](#table-des-matières)
-	- [Frontend](#frontend)
+	- [Côté client, Frontend](#côté-client-frontend)
 		- [Agrégateurs de ressources pour le *front*](#agrégateurs-de-ressources-pour-le-front)
 		- [Templates](#templates)
 		- [Typographies/Fonts](#typographiesfonts)
@@ -217,7 +218,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
 	- [En vrac](#en-vrac)
-		- [Articles, Billets de blog, Extraits](#articles-billets-de-blog-extraits)
+		- [Articles, Billets de blog](#articles-billets-de-blog)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
@@ -269,7 +270,9 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Vendre des articles](#vendre-des-articles)
 		- [Trouver du boulot à distance (*remote*)](#trouver-du-boulot-à-distance-remote)
 
-## Frontend
+
+
+## Côté client, Frontend
 
 ### Agrégateurs de ressources pour le *front*
 
