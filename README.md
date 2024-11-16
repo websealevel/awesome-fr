@@ -1238,6 +1238,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 - [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 - [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents techniques
 - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
+- [Se former à l'écriture technique](https://github.com/paul-schuhm/ecriture-technique), liste de bonnes ressources pour se former
 
 ## Expressions régulières (regex)
 
