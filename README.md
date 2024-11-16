@@ -1495,7 +1495,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## En vrac
 
-### Articles, Billets de blog, Extraits
+### Articles, Billets de blog
 
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
@@ -1526,12 +1526,17 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
 - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
 - [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la hype autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge des requêtes
+- [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices
+- [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
+- [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
+- [Your Database Skills Are Not 'Good to Have'](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
+- [Understanding MySQL CPU Usage: Tools and Techniques ](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a), de Roman Agabekov
+- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator), de Ryan Fleury. Sur la gestion de la mémoire en C
+- [Cognitive load is what matters](https://zakirullin.md/cognitive), de [Artem Zakirullin](https://zakirullin.md/)
 
 ### Papiers
 
-
-
-- [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans le logiciel et la construction de systèmes d'information
+- [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans le logiciel et la construction de systèmes d'information. **LP++**
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf), un papier de Brian Kernighan sur la thèse perdue de Dennis Ritchie et comment a-t-il pu la mettre en page étant donné sa complexité typographique et les programmes de préparation de document de l'époque
 - [Document preparation archeology](https://www.cs.princeton.edu/~bwk/202/index.html), Brian Kernighan explore les premiers travaux et programmes dédiés à la préparation de document et à la typographie informatique
