@@ -1533,7 +1533,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices
 - [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
 - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
-- [Your Database Skills Are Not 'Good to Have'](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
+- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
 - [Understanding MySQL CPU Usage: Tools and Techniques ](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a), de Roman Agabekov
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator), de Ryan Fleury. Sur la gestion de la mémoire en C
 - [Cognitive load is what matters](https://zakirullin.md/cognitive), de [Artem Zakirullin](https://zakirullin.md/)
