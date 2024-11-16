@@ -955,8 +955,9 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ## OS
 
 - [Minix 3](https://www.minix3.org/), OS développé par S. Tanenbaum dont s'est inspiré Linus Torvalds pour créer le noyau Linux. OS destiné au départ à des fins pédagogiques, notamment via le livre [Operating Systems Design and Implementation, 3rd edition](https://www.pearson.com/en-us/subject-catalog/p/operating-systems-design-and-implementation/P200000003167?view=educator)
-
 - [Minix 3, background](https://wiki.minix3.org/doku.php?id=www:documentation:brown), un article très intéressant de Tanenbaum sur l'histoire des OS *Unix-like*, de Minix, de ses rapports avec l'équipe Unix du Bell Labs (Ken Thompson, Dennis Ritchie, Weinberger, etc.) et de Linux.
+- [Operating Systems, three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), ou le *Comet OS Book*, de Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison), publié par l'université du Wisconsin, depuis 2008 (continuellement mis à jour). Accessible en ligne (version HTML). *Une référence* sur les systèmes d'exploitation.
+- [Operating System Concepts, 9th edition](https://t.co/pa5kJwtSFs)
 
 ## Infrastructure
 
@@ -1125,6 +1126,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 ## Architecture logicielle
 
 - [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog), un catalogue en ligne inspiré du GoF sur les Design Patterns. Bien fait, ludique avec de nombreux exemples, schémas et implémentations dans différents langages
+- [Software Architecture Guide](https://martinfowler.com/architecture/), de Martin Fowler. Qu'est ce que l'architecture logicielle ? À quoi ça sert ? Pourquoi ça compte ?
 
 ## Maintenabilité
 
@@ -1491,6 +1493,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Calculus Made Easy](http://calculusmadeeasy.org/), de Silvanus P. Thompson. Une introduction accessible à l'analyse mathématique 
 - [tiny-gpu](https://github.com/adam-maj/tiny-gpu), une implémentation GPU minimale pour apprendre le fonctionnement des GPU
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/) 
+- [MIT's "Mathematics for Computer Science". (PDF)](https://t.co/nBGwfsUM2G), cours compilé en PDF
 
 ## Ressources pour formateur·trice
 
@@ -1554,7 +1557,8 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 - [The Power of Two Random Choices: A Survey of Techniques and Results (Server Load Balancing)](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf), de Michael Mitzenmacher, Andrea W. Richa, Ramesh Sitaraman (Harvard)
 - [Taking ASCII Drawings Seriously: How Programmers Diagram Code](https://pg.ucsd.edu/publications/how-programmers-ASCII-diagram-code_CHI-2024.pdf), de Devamardeep Hayatpur, Brian Hempel, Kathy Chen, William Duan, Philip J. Guo, Haijun Xia (2024)
 - [The Vision of Kay and Fielding: Growable Systems that Last for Decades](https://www.devx.com/enterprise-zone/the-vision-of-kay-and-fielding-growable-systems-that-last-for-decades/), de Charlie Frank
-
+- [If At First You Don’t Succeed, Try, Try, Again...?](https://t.co/JsmfVDhTcp), sur le traitement des échecs et sur les patterns des nouveaux essais en logiciel
+- [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://t.co/RaKt9nk1vZ)
 
 ### Blogs
 
@@ -1743,6 +1747,7 @@ Des heuristiques à la volée
 ## Géométrie, art génératif, algorithmes, procédural
 
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+- [3DMATH.XYZ](https://endesga.xyz/), un site web pédagogigque sur les mathématiques de la 3D
 
 
 ## Correction
@@ -1881,6 +1886,7 @@ Des heuristiques à la volée
 - [system-design-primer](https://github.com/donnemartin/system-design-primer), apprendre comment designer des grands systèmes d'information
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines), les standards d'écriture adapotés par chaque communauté (langage/techno)
 - [app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html), de Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
 
 ### API
 
