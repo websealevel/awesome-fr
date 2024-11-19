@@ -51,6 +51,17 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Conseils d'utilisation](#conseils-dutilisation)
 	- [Contribuez et partagez](#contribuez-et-partagez)
 	- [Table des matières](#table-des-matières)
+	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
+	- [Environnements d'apprentissage interactifs](#environnements-dapprentissage-interactifs)
+		- [Document Object Model (DOM)](#document-object-model-dom)
+		- [git](#git)
+		- [CSS grid](#css-grid)
+		- [JS](#js)
+		- [Algorithmes](#algorithmes)
+	- [SEO](#seo)
+	- [API publiques](#api-publiques)
+		- [Divers](#divers)
+		- [Opendata/France](#opendatafrance)
 	- [Côté client, Frontend](#côté-client-frontend)
 		- [Agrégateurs de ressources pour le *front*](#agrégateurs-de-ressources-pour-le-front)
 		- [Templates](#templates)
@@ -66,7 +77,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / *layouts*](#générateur-de-mise-en-page--layouts)
 		- [Courbes de Bézier](#courbes-de-bézier)
-		- [JS](#js)
+		- [JS](#js-1)
 		- [Backgrounds](#backgrounds)
 		- [Pixel art](#pixel-art)
 		- [Agrégateurs de design, inspiration](#agrégateurs-de-design-inspiration)
@@ -82,18 +93,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Perfs et config](#perfs-et-config)
 			- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
-	- [Comme évaluer la *santé* d'un dépôt ?](#comme-évaluer-la-santé-dun-dépôt-)
-	- [Environnements d'apprentissage interactifs](#environnements-dapprentissage-interactifs)
-		- [Document Object Model (DOM)](#document-object-model-dom)
-		- [git](#git)
-		- [CSS grid](#css-grid)
-		- [JS](#js-1)
-		- [Algorithmes](#algorithmes)
-	- [SEO](#seo)
-	- [API publiques](#api-publiques)
-		- [Divers](#divers)
-		- [Opendata/France](#opendatafrance)
-	- [Générateur de fausses données](#générateur-de-fausses-données)
 	- [Wordpress](#wordpress)
 		- [Un mot](#un-mot)
 		- [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
@@ -110,12 +109,9 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
-	- [Starterpacks](#starterpacks)
-		- [Environement de développement](#environement-de-développement)
 	- [Git](#git-1)
 		- [Client git](#client-git)
 	- [Déploiement](#déploiement)
-	- [Simulateur de terminal](#simulateur-de-terminal)
 	- [Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)](#mouvement-nocode-outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
@@ -270,6 +266,78 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Trouver du boulot à distance (*remote*)](#trouver-du-boulot-à-distance-remote)
 
 
+
+## Comme évaluer la *santé* d'un dépôt ?
+
+Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
+
+Aller sur le dépôt puis
+- Regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
+- Regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir.
+- Regarder la date du dernier commit
+- Regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
+- Regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
+- Regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
+- Regarder le nombre de contributeurs
+- Regarder le nombre de pull requests en attente, idem que pour les issues
+- Trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation, peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
+- Essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
+- Est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
+
+## Environnements d'apprentissage interactifs
+
+### Document Object Model (DOM)
+
+- [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
+
+### git
+
+- [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR), apprendre git via une appli web interactive
+
+### CSS grid
+
+- [griddy](https://griddy.io/)
+
+### JS
+
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/), apprendre JS en visualisant le fonctionnement de son moteur (queue, stack, event loop etc.)
+
+### Algorithmes
+
+- [algorithm-visualizer](https://algorithm-visualizer.org/), apprendre à programmer des algorithmes tout en les visualisant
+
+
+## SEO
+
+- [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
+- [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
+- [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch de SEOKEY. 
+
+
+## API publiques
+
+### Divers
+
+- [weatherstack](https://weatherstack.com/)
+- [fakerapi](https://fakerapi.it/en/)
+- [wordsapi](https://www.wordsapi.com/)
+- [catfacts](https://alexwohlbruck.github.io/cat-facts/)
+- [openweather](https://t.co/pi4UPqQfMx),
+- [nasa api](https://api.nasa.gov/), photos prises par la NASA
+- [movieDB api](https://www.themoviedb.org/documentation/api), api pour les films, séries, émissions
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/), une api qui sert du JSON pour le test/dev
+- [rapid api](https://rapidapi.com/blog/most-popular-api/), recense et documente tout un tas d'api à utiliser, pour aller en trouver encore d'autres
+- [open food facts](https://fr.openfoodfacts.org/data), API de produits alimentaires
+- [open library API](https://openlibrary.org/developers/api), l'API d'[Open Library](https://openlibrary.org/), un projet d'[Internet Archive](https://archive.org/), pour travailler sur les livres, auteurs, couvertures de livres, etc.
+- [the Keanu Reeves Whoa API](whoa.onrender.com), une API JSON très complète pour chaque "whoa" prononcé par l'acteur Keanu Reeves dans ses films
+
+### Opendata/France
+
+- [data.gouv](https://www.data.gouv.fr/fr/), liste des apis de données publiques maintenues par l'état
+- [api.gouv.fr](https://api.gouv.fr/rechercher-api), rechercher une api parmi toutes les api du service publique
+- [Données temps réel pour les transports en commun](https://api.gouv.fr/les-api/temps_reel_transport), un exemple d'api publique (voir lien précédent) sur les données du transport en commun
+- [pappers](https://www.pappers.fr/api), une api pour les données sur les entreprises
+- [voir depot plus bas](#api)
 
 ## Côté client, Frontend
 
@@ -572,84 +640,6 @@ Expérimenter et créer des animations CSS
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 - [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 
-## Comme évaluer la *santé* d'un dépôt ?
-
-Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
-
-Aller sur le dépôt puis
-- Regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
-- Regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir.
-- Regarder la date du dernier commit
-- Regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
-- Regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
-- Regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
-- Regarder le nombre de contributeurs
-- Regarder le nombre de pull requests en attente, idem que pour les issues
-- Trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation, peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
-- Essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
-- Est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
-
-## Environnements d'apprentissage interactifs
-
-### Document Object Model (DOM)
-
-- [testing playground](https://testing-playground.com/), tester vos interactions avec le DOM dans un environnement dédié
-
-### git
-
-- [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR), apprendre git via une appli web interactive
-
-### CSS grid
-
-- [griddy](https://griddy.io/)
-
-### JS
-
-- [JavaScript Visualizer 9000](https://www.jsv9000.app/), apprendre JS en visualisant le fonctionnement de son moteur (queue, stack, event loop etc.)
-
-### Algorithmes
-
-- [algorithm-visualizer](https://algorithm-visualizer.org/), apprendre à programmer des algorithmes tout en les visualisant
-
-
-## SEO
-
-- [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
-- [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
-- [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch de SEOKEY. 
-
-
-## API publiques
-
-### Divers
-
-- [weatherstack](https://weatherstack.com/)
-- [fakerapi](https://fakerapi.it/en/)
-- [wordsapi](https://www.wordsapi.com/)
-- [catfacts](https://alexwohlbruck.github.io/cat-facts/)
-- [openweather](https://t.co/pi4UPqQfMx),
-- [nasa api](https://api.nasa.gov/), photos prises par la NASA
-- [movieDB api](https://www.themoviedb.org/documentation/api), api pour les films, séries, émissions
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/), une api qui sert du JSON pour le test/dev
-- [rapid api](https://rapidapi.com/blog/most-popular-api/), recense et documente tout un tas d'api à utiliser, pour aller en trouver encore d'autres
-- [open food facts](https://fr.openfoodfacts.org/data), API de produits alimentaires
-- [open library API](https://openlibrary.org/developers/api), l'API d'[Open Library](https://openlibrary.org/), un projet d'[Internet Archive](https://archive.org/), pour travailler sur les livres, auteurs, couvertures de livres, etc.
-- [the Keanu Reeves Whoa API](whoa.onrender.com), une API JSON très complète pour chaque "whoa" prononcé par l'acteur Keanu Reeves dans ses films
-
-### Opendata/France
-
-- [data.gouv](https://www.data.gouv.fr/fr/), liste des apis de données publiques maintenues par l'état
-- [api.gouv.fr](https://api.gouv.fr/rechercher-api), rechercher une api parmi toutes les api du service publique
-- [Données temps réel pour les transports en commun](https://api.gouv.fr/les-api/temps_reel_transport), un exemple d'api publique (voir lien précédent) sur les données du transport en commun
-- [pappers](https://www.pappers.fr/api), une api pour les données sur les entreprises
-- [voir depot plus bas](#api)
-
-
-## Générateur de fausses données
-
-- [random users](https://xsgames.co/randomusers/)
-
-
 ## Wordpress
 
 ### Un mot
@@ -728,6 +718,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèmes*. Cela dit certains plugins stables et bien maintenus sont souvent de la partie pour des sites en production
 
+- [Advanced Custom Fields](https://www.advancedcustomfields.com/), et non [SCF](https://www.lemondeinformatique.fr/actualites/lire-wordpress-s-attaque-au-plugin-acf-de-wp-engine-94979.html)
 - [ewww image optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
 - [bulletProof Security](https://wordpress.org/plugins/bulletproof-security/), bonne alternative à WordFence
 - [carbon fields](https://carbonfields.net/), alternative gratuite à ACF Pro
@@ -761,13 +752,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [xkpasswd](https://xkpasswd.net/s/), créer des mots de passes sécurisés ET faciles à retenir (si vous devez le faire)
 
-## Starterpacks
-
-### Environement de développement
-
-- [Environement de développement docker+reverse proxy pour un workflow multiprojets + starter pack](https://github.com/websealevel/starterpack-front-php8-postgresql-adminer)
-
-
 ## Git
 
 - [inside .git](https://wizardzines.com/comics/inside-git/), comic strip de [Julia Evans](https://twitter.com/b0rk) sur le système de fichiers interne de git
@@ -785,10 +769,6 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 - [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez de devoir déployer en ftp, il y a de meilleures alternatives pour moins de charge mentale). ça dépanne toujours
 - [Capistrano](https://capistranorb.com/), un outil pour déployer automatiquement sur un serveur distant, avec gestion de version, rollbacks etc... Pour un déploiement sans stress
-
-## Simulateur de terminal
-
-- [cmder](https://cmder.net/), un émulateur de console rassurant pour Windows. **On lui préférera aujourd'hui le** [WSL2](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 
 
 ## Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)
