@@ -1504,6 +1504,10 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, Billets de blog
 
+
+- [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
+- [Qu’est-ce que la dette technique ? Comment la maîtriser ?](https://www.premaccess.com/qu-est-ce-que-dette-technique-comment-la-maitriser/)
+- [Une étude révèle que les correctifs apportés aux logiciels automobiles représentent désormais plus de 20 % des rappels,](https://embarque.developpez.com/actu/363226/Une-etude-revele-que-les-correctifs-apportes-aux-logiciels-automobiles-representent-desormais-plus-de-20-pourcent-des-rappels-les-defaillances-logicielles-s-accelerent-et-compromettent-la-securite-des-vehicules/), de Mathis Lucas
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
