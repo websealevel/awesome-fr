@@ -223,7 +223,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
 		- [Cours](#cours)
-		- [Conférences](#conférences)
+		- [Conférences et séries notables](#conférences-et-séries-notables)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (GDC)](#game-developers-conference-gdc)
@@ -236,7 +236,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Rester informé·e](#rester-informée)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
-	- [*Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"](#makers-partage-de-guides-de-tutoriels-sur-la-fabrication-et-lartisanat---do-it-yourself)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Correction](#correction)
 	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
@@ -246,7 +245,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Côté client (*Front-end*)](#côté-client-front-end)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos-1)
 		- [Applications web et réseaux à héberger *soi-même*](#applications-web-et-réseaux-à-héberger-soi-même)
-		- [Conférences](#conférences-1)
+		- [Conférences](#conférences)
 		- [Revues et magazines informatiques](#revues-et-magazines-informatiques)
 		- [Machine learning](#machine-learning)
 		- [Spécifique à une techno](#spécifique-à-une-techno)
@@ -1127,6 +1126,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 - [Le catalogue des patrons de conception (POO)](https://refactoring.guru/fr/design-patterns/catalog), un catalogue en ligne inspiré du GoF sur les Design Patterns. Bien fait, ludique avec de nombreux exemples, schémas et implémentations dans différents langages
 - [Software Architecture Guide](https://martinfowler.com/architecture/), de Martin Fowler. Qu'est ce que l'architecture logicielle ? À quoi ça sert ? Pourquoi ça compte ?
+- [Software Architecture Premier](https://github.com/sivaprasadreddy/software-architecture-premier), liste de ressources pour apprendre l'architecture logicielle
 
 ## Maintenabilité
 
@@ -1504,7 +1504,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, Billets de blog
 
-
+- [Happy 50th birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/), de Geoff Huston
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
 - [Qu’est-ce que la dette technique ? Comment la maîtriser ?](https://www.premaccess.com/qu-est-ce-que-dette-technique-comment-la-maitriser/)
 - [Une étude révèle que les correctifs apportés aux logiciels automobiles représentent désormais plus de 20 % des rappels,](https://embarque.developpez.com/actu/363226/Une-etude-revele-que-les-correctifs-apportes-aux-logiciels-automobiles-representent-desormais-plus-de-20-pourcent-des-rappels-les-defaillances-logicielles-s-accelerent-et-compromettent-la-securite-des-vehicules/), de Mathis Lucas
@@ -1612,7 +1612,7 @@ Le coeur du web
 - [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
 
-### Conférences
+### Conférences et séries notables
 
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
@@ -1743,10 +1743,6 @@ Des heuristiques à la volée
 - [Stacer](https://github.com/oguzhaninan/Stacer), optimisation et monitoring de votre machine linux, avec une interface graphique sympa
 - [backup-manager](https://github.com/sukria/Backup-Manager), un programme [configurable](https://doc.ubuntu-fr.org/backup-manager), scriptable, simple et puissant pour faire des backups automatiques ou manuels, complets/incrémentaux, de vos données et vos bases de données. Que vous utilisiez ce logiciel ou un autre, peu importe, la première sécurité c'est de ne pas perdre vos données. *Tape is cheap, and `rm` is forever*.
 
-## *Makers*, partage de guides, de tutoriels sur la fabrication et l'artisanat - "Do it yourself"
-
-- [instructables](https://www.instructables.com/), explorer, documenter et partager vos créations artisanales
-
 
 ## Géométrie, art génératif, algorithmes, procédural
 
@@ -1820,6 +1816,7 @@ Des heuristiques à la volée
 ### Conférences
 
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), un dépôt maintenant une liste de conférences tech, sacré taff
+- [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda), agenda des conférences tech dans le monde
 
 ### Revues et magazines informatiques
 
