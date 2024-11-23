@@ -1726,9 +1726,11 @@ Des heuristiques à la volée
 
 ## Géométrie, art génératif, algorithmes, procédural
 
-- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de pathfinding. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de *pathfinding*. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 - [3DMATH.XYZ](https://endesga.xyz/), un site web pédagogigque sur les mathématiques de la 3D
-
+- [Gorilla Sun Blog](https://www.gorillasun.de/), un blog dédié à l'art génératif
+- [An Algorithm for Irregular Grids](https://www.gorillasun.de/blog/an-algorithm-for-irregular-grids/?ref=gorillasun.de), d'Ahmad Moussa, Gorrila Sun Blog
+- [The Art of Vera Molnar 1947-1974](https://www.gorillasun.de/blog/the-art-of-vera-molnar/), de Gorrila Sun blog. Un bel article hommage au travail pionnier de [Vera Molnar](https://fr.wikipedia.org/wiki/Vera_Moln%C3%A1r) dans l'art algorithmique
 
 ## Correction
 
