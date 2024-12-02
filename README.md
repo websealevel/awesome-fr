@@ -225,8 +225,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Game Developers Conference (GDC)](#game-developers-conference-gdc)
 		- [Chaînes YouTube](#chaînes-youtube)
 		- [Playlists](#playlists)
-		- [Computer graphics et art génératif](#computer-graphics-et-art-génératif)
-		- [Créativité, modèles mentaux](#créativité-modèles-mentaux)
 	- [Fondamentaux, radical](#fondamentaux-radical)
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Rester informé·e](#rester-informée)
@@ -234,7 +232,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Correction](#correction)
-	- [Banques de ressources, dépôts, cours](#banques-de-ressources-dépôts-cours)
+	- [Dépôts](#dépôts)
 		- [Général](#général-1)
 		- [Sécurité](#sécurité)
 		- [Outils "*no code*", "*low code*" ou plutot *visual code*](#outils-no-code-low-code-ou-plutot-visual-code)
@@ -1616,7 +1614,7 @@ Le coeur du web
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
-
+- [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
 
 ### La vérité par l'humour
@@ -1665,14 +1663,6 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [Forum PHP 2022 (AFUP)](https://www.youtube.com/watch?v=nxs55WKRyQs&list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj)
 - [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_), de Bartosz Milewski. Pour les programmeur·ses. Passionant ! [Voir le dépôt associé (livre)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-### Computer graphics et art génératif
-
-- [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
-- [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
-
-### Créativité, modèles mentaux
-
-- [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
 ## Fondamentaux, radical
 
@@ -1734,6 +1724,8 @@ Des heuristiques à la volée
 - [Gorilla Sun Blog](https://www.gorillasun.de/), un blog dédié à l'art génératif
 - [An Algorithm for Irregular Grids](https://www.gorillasun.de/blog/an-algorithm-for-irregular-grids/?ref=gorillasun.de), d'Ahmad Moussa, Gorrila Sun Blog
 - [The Art of Vera Molnar 1947-1974](https://www.gorillasun.de/blog/the-art-of-vera-molnar/), de Gorrila Sun blog. Un bel article hommage au travail pionnier de [Vera Molnar](https://fr.wikipedia.org/wiki/Vera_Moln%C3%A1r) dans l'art algorithmique
+- [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
+- [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
 
 ## Correction
 
@@ -1744,7 +1736,9 @@ Des heuristiques à la volée
 - [Voir l'entrée sur `wwb`](#boîte-à-outils)
   
 
-## Banques de ressources, dépôts, cours
+## Dépôts
+
+D'autres dépôts comme celui-ci
 
 ### Général
 
@@ -1765,7 +1759,6 @@ Des heuristiques à la volée
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit), une liste de sites web utiles pour les programmeur·ses
 
 ### Sécurité
-
 
 - [Damn Vulnerable Web Application](https://github.com/digininja/DVWA), une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.
 
@@ -1861,7 +1854,6 @@ Des heuristiques à la volée
 - [A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
 
 ### Apprendre
-
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
 - [The design system primer](https://github.com/donnemartin/system-design-primer), dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens
