@@ -195,7 +195,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Blog design](#blog-design)
 		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
 		- [WordPress](#wordpress-1)
-		- [Sécurité des applications webs](#sécurité-des-applications-webs)
+		- [Sécurité des applications web](#sécurité-des-applications-web)
 		- [Webmaster](#webmaster)
 		- [HTTP](#http-1)
 		- [Perl](#perl)
@@ -937,6 +937,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Minix 3, background](https://wiki.minix3.org/doku.php?id=www:documentation:brown), un article très intéressant de Tanenbaum sur l'histoire des OS *Unix-like*, de Minix, de ses rapports avec l'équipe Unix du Bell Labs (Ken Thompson, Dennis Ritchie, Weinberger, etc.) et de Linux.
 - [Operating Systems, three easy pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/), ou le *Comet OS Book*, de Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (University of Wisconsin-Madison), publié par l'université du Wisconsin, depuis 2008 (continuellement mis à jour). Accessible en ligne (version HTML). *Une référence* sur les systèmes d'exploitation.
 - [Operating System Concepts, 9th edition](https://t.co/pa5kJwtSFs)
+- [NOC:Introduction to Operating Systems, IIT Madras](https://nptel.ac.in/courses/106106144), de Chester Rebeiro, Indian Institute of Technology. Apprendre les fondamentaux des OS et bien maitriser le langage C. Vous pouvez télécharger les vidéos, les transcripts et le support complet du cours.
 
 ## Infrastructure
 
@@ -1370,7 +1371,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 
 - [voir ici](#livres-de-développement-wordpress)
 
-### Sécurité des applications webs
+### Sécurité des applications web
 
 - [Essential PHP Security](https://www.oreilly.com/library/view/essential-php-security/059600656X/), de Shiflett, publié chez O'Reilly, 2005. LP++
 - [The Web Application Hackers Handbook](https://www.amazon.fr/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470), de  Dafydd Stuttard et Marcus Pinto, publié chez John Wiley & Sons Inc, 2011. LE+
@@ -1543,6 +1544,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 - [The Vision of Kay and Fielding: Growable Systems that Last for Decades](https://www.devx.com/enterprise-zone/the-vision-of-kay-and-fielding-growable-systems-that-last-for-decades/), de Charlie Frank
 - [If At First You Don’t Succeed, Try, Try, Again...?](https://t.co/JsmfVDhTcp), sur le traitement des échecs et sur les patterns des nouveaux essais en logiciel
 - [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://t.co/RaKt9nk1vZ)
+- [It's time to replace TCP in the Datacenter, de Josh Ousterhout](https://t.co/b1mz5wzqsV). Proposition d'un autre protocole de communication dans le contexte de datacenter. [Accéder au contenu de la conférence donné sur le sujet](https://netdevconf.info/0x16/sessions/keynote/keynote-ousterhout.html) (netdevconf)
 
 ### Blogs
 
@@ -1614,6 +1616,7 @@ Le coeur du web
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
+
 
 
 ### La vérité par l'humour
