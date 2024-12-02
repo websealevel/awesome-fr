@@ -160,7 +160,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Clojure](#clojure)
 		- [Elm](#elm)
 		- [Racket, le *langage-oriented programming language*](#racket-le-langage-oriented-programming-language)
-		- [Langages Assembleur](#langages-assembleur)
+	- [Langages Assembleur](#langages-assembleur)
 	- [Rich Hickey](#rich-hickey)
 	- [Défis](#défis)
 	- [Markdown](#markdown)
@@ -1154,7 +1154,7 @@ Voir ce [bouquin de référence](#haskell-1).
 
 - [Racket, the Programming Language](https://racket-lang.org/), un *language orienté language*
 
-### Langages Assembleur
+## Langages Assembleur
 
 - [Reverse Engineering for Beginners](https://beginners.re/) aussi connu sous le nom RE4B et "Comprendre le langage Assembleur"
 
