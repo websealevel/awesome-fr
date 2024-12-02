@@ -483,6 +483,7 @@ Expérimenter et créer des animations CSS
 ### Composants, extraits de code
 
 - [Magic UI](https://magicui.design/), composants
+- [shadcn/ui](https://ui.shadcn.com/), composants
 - [codepad](https://codepad.co/), code snippets dans tout un tas de langages et composants pour le front (html,css,js)
 - [snipplr](https://snipplr.com/)
 - [web code tools](https://webcode.tools/), des outils clés en mains pour le développement web
