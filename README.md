@@ -73,7 +73,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Générateur d'assets au format SVG](#générateur-dassets-au-format-svg)
 		- [Motifs](#motifs)
 		- [Animations CSS (keyframes API) ou JS](#animations-css-keyframes-api-ou-js)
-		- [Extraits de code sur étagère](#extraits-de-code-sur-étagère)
+		- [Composants, extraits de code](#composants-extraits-de-code)
 		- [Gradients](#gradients)
 		- [Générateur de mise en page / *layouts*](#générateur-de-mise-en-page--layouts)
 		- [Courbes de Bézier](#courbes-de-bézier)
@@ -341,9 +341,11 @@ Aller sur le dépôt puis
 
 ### Agrégateurs de ressources pour le *front*
 
+
 - [uxtools.co](https://uxtools.co/), un hub des outils, tendances, design pour les designer. Organisent des sondages tous les ans.
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
 - [webcode.tools](https://webcode.tools/), collection d'outils en ligne pour le développement web (générateurs de code)
+
 
 ### Templates
 
@@ -478,8 +480,9 @@ Expérimenter et créer des animations CSS
 - [haikuanimator](https://www.haikuanimator.com/)
 
 
-### Extraits de code sur étagère
+### Composants, extraits de code
 
+- [Magic UI](https://magicui.design/), composants
 - [codepad](https://codepad.co/), code snippets dans tout un tas de langages et composants pour le front (html,css,js)
 - [snipplr](https://snipplr.com/)
 - [web code tools](https://webcode.tools/), des outils clés en mains pour le développement web
@@ -1483,6 +1486,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, Billets de blog
 
+
+- [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
 - [Happy 50th birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/), de Geoff Huston
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
 - [Qu’est-ce que la dette technique ? Comment la maîtriser ?](https://www.premaccess.com/qu-est-ce-que-dette-technique-comment-la-maitriser/)
