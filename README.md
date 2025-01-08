@@ -1549,6 +1549,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 - [If At First You Don’t Succeed, Try, Try, Again...?](https://t.co/JsmfVDhTcp), sur le traitement des échecs et sur les patterns des nouveaux essais en logiciel
 - [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://t.co/RaKt9nk1vZ)
 - [It's time to replace TCP in the Datacenter, de Josh Ousterhout](https://t.co/b1mz5wzqsV). Proposition d'un autre protocole de communication dans le contexte de datacenter. [Accéder au contenu de la conférence donné sur le sujet](https://netdevconf.info/0x16/sessions/keynote/keynote-ousterhout.html) (netdevconf)
+- [Programming as theory building](http://pages.cs.wisc.edu/~remzi/Naur.pdf), de [Peter Naur](https://en.wikipedia.org/wiki/Peter_Naur), Computer Sciences: School of Computer, Data & Information Sciences. University of Wisconsin, Madison. 2 September 2020. Peter Naur défend dans ce papier que programmer est avant tout le développement d'une théorie mentale à propos d'un domaine, d'un problème.
 
 ### Blogs
 
