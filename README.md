@@ -212,7 +212,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [*Hacker* culture](#hacker-culture)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
-	- [Ressources pour formateur·trice](#ressources-pour-formateurtrice)
+	- [Ressources pour formateur·trices](#ressources-pour-formateurtrices)
 	- [En vrac](#en-vrac)
 		- [Articles, Billets de blog](#articles-billets-de-blog)
 		- [Papiers](#papiers)
@@ -1220,8 +1220,10 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 
 - [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
 - [Texinfo](https://www.gnu.org/software/texinfo/), le format officiel de la documentation du projet GNU. [Voir la doc de texinfo](https://savannah.gnu.org/projects/texinfo), [voir le manuel de texinfo](https://www.gnu.org/software/texinfo/manual/texinfo/texinfo.html) (écrit avec texinfo bien entendu)
+- [typst](https://github.com/typst/typst), langage markup destiné à produire des documents complets. Se place sur le même terrain que LaTeX.
 - [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 - [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents techniques
+- [Wikipédia:Style encyclopédique](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Style_encyclop%C3%A9dique), guidelines de Wikipédia pour écrire dans un style encyclopédique (factuel);
 - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
 - [Se former à l'écriture technique](https://github.com/paul-schuhm/ecriture-technique), liste de bonnes ressources pour se former
 
@@ -1478,7 +1480,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/) 
 - [MIT's "Mathematics for Computer Science". (PDF)](https://t.co/nBGwfsUM2G), cours compilé en PDF
 
-## Ressources pour formateur·trice
+## Ressources pour formateur·trices
 
 - [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
@@ -1489,7 +1491,9 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, Billets de blog
 
-
+- [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
+- [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
+- [Un rapport sur le financement des logiciels open source révèle que 86 % des contributions des entreprises correspondent au temps de travail des employés](https://linux.developpez.com/actu/366078/Un-rapport-sur-le-financement-des-logiciels-open-source-revele-que-86-pourcent-des-contributions-des-entreprises-correspondent-au-temps-de-travail-des-employes/), publié par developpez.com 
 - [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
 - [Happy 50th birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/), de Geoff Huston
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
@@ -1898,7 +1902,8 @@ Lisez
 - [Best Books for GATE CSE with Relevant Chapters to Read](https://gatecse.in/best-books-for-gatecse/), suggestions de livres avec une emphase salutaire sur les chapitres *à lire* (il est rare que tous les chapitres d'un *bon* livre soient bons)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
 - [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md), même dépôt que précédemment mais listant que des livres de programmation en français !
-- [pdfdrive](https://www.pdfdrive.com/), une appli web qui scrap le web en quête de pdf pour vous. Application de service publique. Edit: non fonctionnel actuellement (07/2023)
+- [pdfdrive](https://www.pdfdrive.com/), un site web web qui scrap le web en quête de PDF pour vous. Application de service publique
+- [ZLibary](https://z-library.sk/), base documentaire (livres, articles)
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
 - [papers we love](https://github.com/papers-we-love/papers-we-love), un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
