@@ -216,7 +216,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trices](#ressources-pour-formateurtrices)
 	- [En vrac](#en-vrac)
-		- [Articles, Billets de blog](#articles-billets-de-blog)
+		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
@@ -1501,8 +1501,11 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## En vrac
 
-### Articles, Billets de blog
+### Articles, News, Billets de blog
 
+
+- [Un professeur d'informatique du MIT teste l'impact de l'IA sur la formation des programmeurs : « Il faut toujours les bases pour être des informaticiens et des ingénieurs logiciels efficaces »](https://intelligence-artificielle.developpez.com/actu/362467/Un-professeur-d-informatique-du-MIT-teste-l-impact-de-l-IA-sur-la-formation-des-programmeurs-Il-faut-toujours-les-bases-pour-etre-des-informaticiens-et-des-ingenieurs-logiciels-efficaces/), publié par developpez.com
+- [Les détecteurs d'IA obligent les étudiants à adopter un style d'écriture dépourvu d'originalité pour éviter d'être accusés de tricherie](https://intelligence-artificielle.developpez.com/actu/362403/Les-detecteurs-d-IA-obligent-les-etudiants-a-adopter-un-style-d-ecriture-depourvu-d-originalite-pour-eviter-d-etre-accuses-de-tricherie-l-essor-de-ces-outils-cause-des-problemes-inattendus/), publié par developpez.com
 - [The Trough of Despair](https://tidyfirst.substack.com/p/the-trough-of-despair), de Kent Beck
 - [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
 - [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
