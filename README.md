@@ -1482,6 +1482,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 - [Pédagogie (Tenors)](https://www.tenors.fr/blog/categories/p%C3%A9dagogie), différents articles sur les ressources pédagogiques
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
+- [Pratiques pédagogiques et méthodologiques](https://www.reseau-canope.fr/pratiques-pedagogiques-et-methodologiques), publié par le réseau canopé (tutelle du Ministère de l'Éducation Nationale);
+- [Du « formateur-transmetteur » au « formateur-facilitateur » : cela change quoi ?](https://www.blog-formation-entreprise.fr/formateur-transmetteur-formateur-facilitateur-quest-change/), Marc Dennery
 
 ## En vrac
 
