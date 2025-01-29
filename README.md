@@ -114,7 +114,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Déploiement](#déploiement)
 	- [DevOps](#devops)
 	- [Tests](#tests)
-	- [Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)](#mouvement-nocode-outils-visual-code-no-code-ou-low-code)
+	- [Mouvement "NoCode", outils *visual code* (*no-code* ou *low-code*)](#mouvement-nocode-outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
 	- [Capture/Édition vidéo](#captureédition-vidéo)
@@ -771,7 +771,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 
 ## Déploiement
 
-- [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez de devoir déployer en ftp, il y a de meilleures alternatives pour moins de charge mentale). ça dépanne toujours
+- [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez déployer en ftp sur un projet complexe, il y a de meilleures alternatives pour moins de charge mentale). Dépanne toujours et fonctionne très bien pour des sites web simples.
 - [Capistrano](https://capistranorb.com/), un outil pour déployer automatiquement sur un serveur distant, avec gestion de version, rollbacks etc... Pour un déploiement sans stress
 
 ## DevOps
@@ -785,7 +785,7 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 - [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934), de Kent Beck;
 - [Test Desiderata](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3), de Kent Beck
 
-## Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)
+## Mouvement "NoCode", outils *visual code* (*no-code* ou *low-code*)
 
 - [No Code Summit](https://www.nocode-summit.org/fr/), conférence organisée par l'Union Française des Professionnels du NoCode qui fédère et représente les professionnels du NoCode et du LowCode
 - [No-Code France](https://nocode-france.fr/), association et espace communautaire francophone dédié au No-Code (slack, chaîne YouTube, veille, meetups)
