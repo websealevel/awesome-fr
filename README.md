@@ -1636,7 +1636,7 @@ Le coeur du web
 
 - [*The Hustle*, Krazam](https://youtu.be/_o7qjN3KF8U)
 - [*Microservices*, Krazam](https://www.youtube.com/watch?v=y8OnoxKotPQ)
-- [*Positive Affirmations for Site Reliability Engineers*, Krazam](https://www.youtube.com/watch?v=ia8Q51ouA_s)
+- [*Positive Affirmations for Site Reliability Engineers*, Krazam](https://www.youtube.com/watch?v=ia8Q51ouA_s). [SRENITY ONLINE, le site web pour trouver la sérénité](https://www.srenity.online/)
 - [*Interview with Senior JS Developer in 2022*,  Programmers are also human
 ](https://youtu.be/Uo3cL4nrGOk)
 - [Wat, Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat), exploration des arcanes de l'implémentation de différents langages
