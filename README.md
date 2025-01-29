@@ -112,6 +112,8 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Git](#git-1)
 		- [Client git](#client-git)
 	- [Déploiement](#déploiement)
+	- [DevOps](#devops)
+	- [Tests](#tests)
 	- [Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)](#mouvement-nocode-outils-visual-code-no-code-ou-low-code)
 	- [Quitter Github](#quitter-github)
 	- [Logiciels *open-source* et *logiciels libres* (free software)](#logiciels-open-source-et-logiciels-libres-free-software)
@@ -772,6 +774,16 @@ Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commenc
 - [FileZilla](https://filezilla-project.org/), le client ftp/sftp open source par excellence (évitez de devoir déployer en ftp, il y a de meilleures alternatives pour moins de charge mentale). ça dépanne toujours
 - [Capistrano](https://capistranorb.com/), un outil pour déployer automatiquement sur un serveur distant, avec gestion de version, rollbacks etc... Pour un déploiement sans stress
 
+## DevOps
+
+> "DevOps is a meaningful term"
+
+- [Pourquoi notre workflow Devops est le plus efficace et rentable que vous puissiez trouver aujourd'hui (1ère partie)](https://bearstech.com/societe/blog/pourquoi-mettre-en-oeuvre-un-workflow-devops), de [bearstech](https://bearstech.com/)
+
+## Tests
+
+- [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934), de Kent Beck;
+- [Test Desiderata](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3), de Kent Beck
 
 ## Mouvement NoCode, outils *visual code* (*no-code* ou *low-code*)
 
@@ -1742,6 +1754,7 @@ Des heuristiques à la volée
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
 - [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
 - [bob.farm](https://bob.farm/), des pages animées et interactives originales
+- [🍋 🍋 🍒](http://davidliebermann.de/), la page web de David Lierbermann
 
 ## Correction
 
