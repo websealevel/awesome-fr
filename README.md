@@ -1741,6 +1741,7 @@ Des heuristiques à la volée
 - [The Art of Vera Molnar 1947-1974](https://www.gorillasun.de/blog/the-art-of-vera-molnar/), de Gorrila Sun blog. Un bel article hommage au travail pionnier de [Vera Molnar](https://fr.wikipedia.org/wiki/Vera_Moln%C3%A1r) dans l'art algorithmique
 - [Building Collision Simulations: An Introduction to Computer Graphics](https://youtu.be/eED4bSkYCB8)
 - [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
+- [bob.farm](https://bob.farm/), des pages animées et interactives originales
 
 ## Correction
 
