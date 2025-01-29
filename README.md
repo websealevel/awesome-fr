@@ -1491,6 +1491,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, Billets de blog
 
+- [The Trough of Despair](https://tidyfirst.substack.com/p/the-trough-of-despair), de Kent Beck
+- [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
 - [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
 - [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
 - [Un rapport sur le financement des logiciels open source révèle que 86 % des contributions des entreprises correspondent au temps de travail des employés](https://linux.developpez.com/actu/366078/Un-rapport-sur-le-financement-des-logiciels-open-source-revele-que-86-pourcent-des-contributions-des-entreprises-correspondent-au-temps-de-travail-des-employes/), publié par developpez.com 
