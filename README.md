@@ -722,7 +722,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 
 Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèmes*. Cela dit certains plugins stables et bien maintenus sont souvent de la partie pour des sites en production
 
-- [Advanced Custom Fields](https://www.advancedcustomfields.com/), et non [SCF](https://www.lemondeinformatique.fr/actualites/lire-wordpress-s-attaque-au-plugin-acf-de-wp-engine-94979.html)
+- [Advanced Custom Fields](https://www.advancedcustomfields.com/), et non [SCF](https://www.lemondeinformatique.fr/actualites/lire-wordpress-s-attaque-au-plugin-acf-de-wp-engine-94979.html) !
 - [ewww image optimizer](https://wordpress.org/plugins/ewww-image-optimizer/)
 - [bulletProof Security](https://wordpress.org/plugins/bulletproof-security/), bonne alternative à WordFence
 - [carbon fields](https://carbonfields.net/), alternative gratuite à ACF Pro
@@ -742,7 +742,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
-- [Free web hosting](https://www.infinityfree.net/), héberger vos sites webs **PHP,MySQL** (ou HTML) hébergé gratuitement et sans pub. Pas de limites de sites, nom de domaine gratuit ou ajouter le votre. 5GB d'espace libre, bande passante illimitée, SSL gratuit
 - [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
 
 
