@@ -104,7 +104,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Starter themes](#starter-themes)
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
-	- [Articles sur la pratique de WordPress et son évolution vers le FSE](#articles-sur-la-pratique-de-wordpress-et-son-évolution-vers-le-fse)
+		- [Articles sur la pratique de WordPress et son évolution vers le FSE...](#articles-sur-la-pratique-de-wordpress-et-son-évolution-vers-le-fse)
 	- [Hébergement gratuit](#hébergement-gratuit)
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
@@ -733,7 +733,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
 
-## Articles sur la pratique de WordPress et son évolution vers le FSE
+### Articles sur la pratique de WordPress et son évolution vers le FSE...
 
 - [Testing and Feedback for using block based template parts in classic themes](https://make.wordpress.org/themes/2022/09/12/testing-and-feedback-for-using-block-based-template-parts-in-classic-themes/)
 - [The Imaginary Block-vs-Classic Battle in WordPress](https://masterwp.com/the-imaginary-block-vs-classic-battle-in-wordpress/)
