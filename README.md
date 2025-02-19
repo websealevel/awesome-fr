@@ -1236,12 +1236,14 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 - [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
 - [Texinfo](https://www.gnu.org/software/texinfo/), le format officiel de la documentation du projet GNU. [Voir la doc de texinfo](https://savannah.gnu.org/projects/texinfo), [voir le manuel de texinfo](https://www.gnu.org/software/texinfo/manual/texinfo/texinfo.html) (écrit avec texinfo bien entendu)
 - [reStructuredText + Sphinx](https://www.sphinx-doc.org/en/master/), création de documents structurés à partir d'un langage markup simple. Utilisé par l'équipe du noyau Linux pour produire sa documentation. Sphinx permet aussi d'utiliser différentes implémentations de Markdown
+- [LaTeX](https://www.latex-project.org/), qu'on ne présente plus. Ensemble de macros TeX pour la production de documents de grande qualité typographique;
 - [typst](https://github.com/typst/typst), langage markup destiné à produire des documents complets. Se place sur le même terrain que LaTeX.
-- [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 
+> [Voir également les applications XML Docbook et Dita](#applications-xml-de-prestige)
 
 ### Apprentissage
 
+- [Diataxis](https://diataxis.fr/), un framework et une approche de qualité pour la rédaction de documentation technique. Diataxis identifie 4 modes de documentation et vous explique chacun d'entre eux
 - [Technical Writing Courses (Google)](https://developers.google.com/tech-writing), cours gratuits sur l'écriture technique, comment organiser et rédiger des documents techniques
 - [Wikipédia:Style encyclopédique](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Style_encyclop%C3%A9dique), guidelines de Wikipédia pour écrire dans un style encyclopédique (factuel);
 - [Rédaction durable avec Pandoc et Markdown](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown), un article et tutoriel de [the programming historian](https://programminghistorian.org/fr/) sur une méthodologie de publication avec Markdown et pandoc
