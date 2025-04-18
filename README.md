@@ -68,6 +68,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
 		- [Pack d’icônes/favicons](#pack-dicônesfavicons)
+		- [Classic gif](#classic-gif)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
 		- [Générateur d'assets au format SVG](#générateur-dassets-au-format-svg)
@@ -431,6 +432,10 @@ Des icônes, des icônes et encore des icônes. Faites votre choix :
 - [icons8](https://icons8.com/)
 - [pixelarticons](https://pixelarticons.com/), des icônes en pixelart
 
+### Classic gif
+
+- [The 88x31 GIF Collection: Part 1](https://cyber.dabamos.de/88x31/index.html), des vieux gifs des années 90/2000
+
 ### Images: photos, illustrations, svg
 
 - [unsplash](https://unsplash.com/)
@@ -559,7 +564,7 @@ Expérimenter et créer des animations CSS
 - [landing-page-examples](https://www.btw.so/marketing/landing-page-examples)
 - [cssnectar](https://cssnectar.com/), nectar du web design
 - [siteinspire](https://www.siteinspire.com)
-- [Le design Memphis : le mouvement qui a défini les années 80](https://99designs.fr/blog/histoire-design-genres-mouvements/design-memphis/), un bon article sur le design Menphis
+- [triPixel](https://tripixel.gay/main)
 
 ### Composants
 
@@ -602,6 +607,8 @@ Expérimenter et créer des animations CSS
 - [Learn Design](https://www.figma.com/resources/learn-design/), série de cours proposés par Figma
 - [hackdesign](https://hackdesign.org/)
 - [Web Design Tips for Beginners: The Ultimate Guide](https://studywebdevelopment.com/web-design-tips.html)
+- [Guidelines for Brutalist Web Design](https://brutalist-web.design/), guidelines pour développer des sites web *content first*
+- [Using color wisely](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Using_color_wisely), guide de la MDN sur l'usage des couleurs
 
 ### Check, check, check
 
@@ -1520,7 +1527,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, News, Billets de blog
 
-
+- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction), de Fernando Hurtado Cardenas;
 - [Un professeur d'informatique du MIT teste l'impact de l'IA sur la formation des programmeurs : « Il faut toujours les bases pour être des informaticiens et des ingénieurs logiciels efficaces »](https://intelligence-artificielle.developpez.com/actu/362467/Un-professeur-d-informatique-du-MIT-teste-l-impact-de-l-IA-sur-la-formation-des-programmeurs-Il-faut-toujours-les-bases-pour-etre-des-informaticiens-et-des-ingenieurs-logiciels-efficaces/), publié par developpez.com
 - [Les détecteurs d'IA obligent les étudiants à adopter un style d'écriture dépourvu d'originalité pour éviter d'être accusés de tricherie](https://intelligence-artificielle.developpez.com/actu/362403/Les-detecteurs-d-IA-obligent-les-etudiants-a-adopter-un-style-d-ecriture-depourvu-d-originalite-pour-eviter-d-etre-accuses-de-tricherie-l-essor-de-ces-outils-cause-des-problemes-inattendus/), publié par developpez.com
 - [The Trough of Despair](https://tidyfirst.substack.com/p/the-trough-of-despair), de Kent Beck
@@ -1595,6 +1602,9 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 
 Le coeur du web
 
+
+- [Adam Morse](https://mrmrs.cc/), le blog brutaliste du designer Adam Morse
+- [Robb Knight.](https://rknight.me/), le blog de rob knight (dev)
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
 - [Simon Willison’s Weblog](https://simonwillison.net/), le blog de Simon Willison, co-créateur du framework Django, développeur open source. Excellente curation et ligne éditoriale
 - [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
