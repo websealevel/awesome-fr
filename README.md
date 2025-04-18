@@ -137,6 +137,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Infrastructure](#infrastructure)
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
 	- [Unix](#unix)
+	- [Tâches planifiées](#tâches-planifiées)
 	- [REST, *Architecture of the World Wide Web*](#rest-architecture-of-the-world-wide-web)
 	- [Spécification OpenAPI](#spécification-openapi)
 	- [Spécifiques à un langage/écosystème](#spécifiques-à-un-langageécosystème)
@@ -975,6 +976,11 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Philosophie d'Unix](https://fr.wikipedia.org/wiki/Philosophie_d%27Unix)
 - [Basics of the Unix Philosophy](http://catb.org/esr/writings/taoup/html/ch01s06.html), extrait de [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003, Chapter 1
 - [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/), un jeu de cartes que l'on peut imprimer pour apprendre à manipuler les pipes UNIX et les programmes UNIX fondamentaux (grep, cat, tail, etc.)
+
+## Tâches planifiées
+
+- [cron](https://fr.wikipedia.org/wiki/Cron)
+- [Supervisor](https://supervisord.org/introduction.html)
 
 ## REST, *Architecture of the World Wide Web*
 
