@@ -225,7 +225,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
 			- [Partage d'experiences](#partage-dexperiences)
 			- [Design](#design)
-			- [Misc](#misc)
+			- [Misc et à classer](#misc-et-à-classer)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
@@ -1527,7 +1527,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/) 
 - [MIT's "Mathematics for Computer Science". (PDF)](https://t.co/nBGwfsUM2G), cours compilé en PDF
 - [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/), apprendre à apprendre
-
+- [A brief introduction to interval arithmetic](https://buttondown.com/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 
 ## Ressources pour formateur·trices
 
@@ -1566,6 +1566,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Use plaintext email](https://useplaintext.email/)
 - [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
 - [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
+- [Git Workflows for API Technical Writers](https://bump.sh/blog/git-workflows-for-api-technical-writers/), comment maintenir la documentation d'une API cohérente
 
 
 #### Design
@@ -1586,7 +1587,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 
 
-#### Misc
+#### Misc et à classer
 
 - [Computing (Concepts)](https://booch.com/computing/concepts.html), dictionnaire des concepts de l'informatique par Booch
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
