@@ -1550,6 +1550,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
 - [“Wait, not like that”: Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
+- [Pourquoi je n’utilise pas ChatGPT](https://academia.hypotheses.org/58766), de  Florence Maraninchi, enseignante-chercheuse en informatique
 
 #### Partage d'experiences
 
@@ -1587,6 +1588,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 #### Misc
 
+- [Computing (Concepts)](https://booch.com/computing/concepts.html), dictionnaire des concepts de l'informatique par Booch
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html), de Martin Fowler. Conseils pour celleux qui écrivent
 - [Efficient Data Handling in PHP with Generators](https://sandeeppant.medium.com/efficient-data-handling-in-php-with-generators-dad0cbfb063c), sur l'usage des générateurs pour un programme performant
@@ -1614,6 +1616,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Understanding MySQL CPU Usage: Tools and Techniques ](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a), de Roman Agabekov
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator), de Ryan Fleury. Sur la gestion de la mémoire en C
 - [Cognitive load is what matters](https://zakirullin.md/cognitive), de [Artem Zakirullin](https://zakirullin.md/)
+- [Le piège JavaScript](https://www.gnu.org/philosophy/javascript-trap.html), de Richard Stallman
+
 
 ### Papiers
 
@@ -1823,6 +1827,7 @@ Des heuristiques à la volée
 - [generativeartistry](https://generativeartistry.com/), un superbe site regroupant une multitude de tutoriels sur de l'art génératif
 - [bob.farm](https://bob.farm/), des pages animées et interactives originales
 - [🍋 🍋 🍒](http://davidliebermann.de/), la page web de David Lierbermann
+- [Generating Voronoi Diagrams using Fortune’s Algorithm](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html?ref=gorillasun.de)
 
 ## Correction
 
