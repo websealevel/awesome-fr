@@ -1585,10 +1585,11 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
 - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
-
+- [The Interfaces With Which We Think](https://alexanderobenauer.com/think/), d'Alexander Obenauer. Reflexion sur les abstractions avec lesquelles nous travaillons
 
 #### Misc et à classer
 
+- [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html), de Marc Brooker
 - [Computing (Concepts)](https://booch.com/computing/concepts.html), dictionnaire des concepts de l'informatique par Booch
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html), de Martin Fowler. Conseils pour celleux qui écrivent
@@ -1691,6 +1692,7 @@ Le coeur du web
 
 - [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
+- [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), de Ginger Bill
 
 ### Conférences et séries notables
 
