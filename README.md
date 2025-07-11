@@ -1551,6 +1551,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
 - [“Wait, not like that”: Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
 - [Pourquoi je n’utilise pas ChatGPT](https://academia.hypotheses.org/58766), de  Florence Maraninchi, enseignante-chercheuse en informatique
+- [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/), reflexion provocatrice sur le codage assisté par des agents IA
 
 #### Partage d'experiences
 
