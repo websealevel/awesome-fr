@@ -213,6 +213,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
 		- [Algorithmes](#algorithmes-1)
+		- [IA, LLMs](#ia-llms)
 	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 	- [*Hacker* culture](#hacker-culture)
@@ -221,6 +222,9 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Ressources pour formateur·trices](#ressources-pour-formateurtrices)
 	- [En vrac](#en-vrac)
 		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
+			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
+			- [Partage d'experiences](#partage-dexperiences)
+			- [Misc](#misc)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
@@ -1060,6 +1064,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 - [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), le projet open-source pour développer des cartes interactives et *mobile-friendly*.
+- [openlayers](https://openlayers.org/), bibliothèque pour couvrir les besoins en carthographie
 - [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
 - [Vanilla JS](http://vanilla-js.com/), le site web qui promeut le *vanilla* JS
 
@@ -1481,6 +1486,11 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), de [Jeff Erickson](http://jeffe.cs.illinois.edu/) de l'université d'Illinois. Livre sur les algorithmes auto-publié entièrement accessible en ligne
 - [Generating Voronoi Diagrams using Fortune’s Algorithm](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 
+
+### IA, LLMs
+
+- [Co-intelligence - Vivre et travailler avec l'IA ](https://passy.librairiesfontaine.com/livre/24302811-co-intelligence-vivre-et-travailler-avec-l-ia-ethan-mollick-first-interactive)
+
 ## Le projet *Open Books* de O'Reilly 
 
 L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
@@ -1515,6 +1525,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [tiny-gpu](https://github.com/adam-maj/tiny-gpu), une implémentation GPU minimale pour apprendre le fonctionnement des GPU
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/) 
 - [MIT's "Mathematics for Computer Science". (PDF)](https://t.co/nBGwfsUM2G), cours compilé en PDF
+- [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/), apprendre à apprendre
+
 
 ## Ressources pour formateur·trices
 
@@ -1527,17 +1539,39 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ### Articles, News, Billets de blog
 
-- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction), de Fernando Hurtado Cardenas;
+#### IA génératives, LLMs : reflexions et ressources utiles
+
+- [I still care about the code](https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html), de [Birgitta Böckeler](https://birgitta.info/), quel rapport au code à l'heure des assistants IA
+- [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai/13-role-of-developer-skills.html), de [Birgitta Böckeler](https://birgitta.info/)
+- [L'IA fabrique-t-elle des développeurs incapables de coder par eux-mêmes ?](https://www-programmez-com.cdn.ampproject.org/c/s/www.programmez.com/actualites/lia-fabrique-t-elle-des-developpeurs-incapables-de-coder-par-eux-memes-37466?amp), un article du journal [programmez.com](https://www.programmez.com/)
 - [Un professeur d'informatique du MIT teste l'impact de l'IA sur la formation des programmeurs : « Il faut toujours les bases pour être des informaticiens et des ingénieurs logiciels efficaces »](https://intelligence-artificielle.developpez.com/actu/362467/Un-professeur-d-informatique-du-MIT-teste-l-impact-de-l-IA-sur-la-formation-des-programmeurs-Il-faut-toujours-les-bases-pour-etre-des-informaticiens-et-des-ingenieurs-logiciels-efficaces/), publié par developpez.com
 - [Les détecteurs d'IA obligent les étudiants à adopter un style d'écriture dépourvu d'originalité pour éviter d'être accusés de tricherie](https://intelligence-artificielle.developpez.com/actu/362403/Les-detecteurs-d-IA-obligent-les-etudiants-a-adopter-un-style-d-ecriture-depourvu-d-originalite-pour-eviter-d-etre-accuses-de-tricherie-l-essor-de-ces-outils-cause-des-problemes-inattendus/), publié par developpez.com
+- [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
+- [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
+
+
+#### Partage d'experiences
+
+- [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/), retour d'experience sur l'amélioration des performances des backups et pourquoi c'est important
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
+- [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
+- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la hype autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge des requêtes
+- [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
+- [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
+- [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
+
+
+#### Misc
+
+- [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
+- [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html), de Martin Fowler. Conseils pour celleux qui écrivent
+- [Efficient Data Handling in PHP with Generators](https://sandeeppant.medium.com/efficient-data-handling-in-php-with-generators-dad0cbfb063c), sur l'usage des générateurs pour un programme performant
+- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction), de Fernando Hurtado Cardenas;
 - [The Trough of Despair](https://tidyfirst.substack.com/p/the-trough-of-despair), de Kent Beck
 - [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
 - [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
-- [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
 - [Un rapport sur le financement des logiciels open source révèle que 86 % des contributions des entreprises correspondent au temps de travail des employés](https://linux.developpez.com/actu/366078/Un-rapport-sur-le-financement-des-logiciels-open-source-revele-que-86-pourcent-des-contributions-des-entreprises-correspondent-au-temps-de-travail-des-employes/), publié par developpez.com 
-- [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
 - [Happy 50th birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/), de Geoff Huston
-- [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
 - [Qu’est-ce que la dette technique ? Comment la maîtriser ?](https://www.premaccess.com/qu-est-ce-que-dette-technique-comment-la-maitriser/)
 - [Une étude révèle que les correctifs apportés aux logiciels automobiles représentent désormais plus de 20 % des rappels,](https://embarque.developpez.com/actu/363226/Une-etude-revele-que-les-correctifs-apportes-aux-logiciels-automobiles-representent-desormais-plus-de-20-pourcent-des-rappels-les-defaillances-logicielles-s-accelerent-et-compromettent-la-securite-des-vehicules/), de Mathis Lucas
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
@@ -1552,23 +1586,18 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/), un excellent article de [Joel Spolsky](https://www.joelonsoftware.com/about-me/) (2003) sur l'Unicode, l'encodage UTF-8 et les characters sets
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
 - [Use plaintext email](https://useplaintext.email/)
-- [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/), d'Alexis King
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
 - [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
 - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
 - [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
-- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
-- [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
 - [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
-- [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
 - [The Two Edged Sword](https://www.cs.tufts.edu/~nr/cs257/archive/jim-gettys/X.html), de [Jimmy Getty](https://gettys.wordpress.com/), co auteur du système [X Windows](https://en.wikipedia.org/wiki/X_Window_System) et a travaillé sur la spécification [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2068.txt) avec Roy Fielding à l'[IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
 - [Queueing : An interactive study of queueing strategies](https://encore.dev/blog/queueing), de Sam Rose. Un excellent article interactif pour comprendre les différentes techniques de file
 - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
 - [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
-- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la hype autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge des requêtes
 - [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices
 - [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
 - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
