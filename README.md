@@ -224,6 +224,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
 			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
 			- [Partage d'experiences](#partage-dexperiences)
+			- [Design](#design)
 			- [Misc](#misc)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
@@ -261,7 +262,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Node.js](#nodejs)
 			- [Flutter](#flutter)
 		- [Projets open-source](#projets-open-source)
-		- [Design](#design)
+		- [Design](#design-1)
 		- [Architecture logicielle](#architecture-logicielle-1)
 		- [Apprendre](#apprendre)
 		- [API](#api)
@@ -1548,7 +1549,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Les détecteurs d'IA obligent les étudiants à adopter un style d'écriture dépourvu d'originalité pour éviter d'être accusés de tricherie](https://intelligence-artificielle.developpez.com/actu/362403/Les-detecteurs-d-IA-obligent-les-etudiants-a-adopter-un-style-d-ecriture-depourvu-d-originalite-pour-eviter-d-etre-accuses-de-tricherie-l-essor-de-ces-outils-cause-des-problemes-inattendus/), publié par developpez.com
 - [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
-
+- [“Wait, not like that”: Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
 
 #### Partage d'experiences
 
@@ -1559,6 +1560,29 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
 - [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
 - [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
+- [When Imperfect Systems are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
+- [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices
+- [Use plaintext email](https://useplaintext.email/)
+- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
+- [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
+
+
+#### Design
+
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), de  Joel Spolsky. Sur le contrôle des imperfections de nos abstractions
+- [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/), de Victor Bret. Une approche systématique du design de systèmes que l'on ne comprend pas encore bien
+- [Avoid Passing Booleans to Functions](https://alexkondov.com/should-you-pass-boolean-to-functions/)
+- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction), de Fernando Hurtado Cardenas;
+- [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
+- [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
+- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
+- [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
+- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
+- [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
+- [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
+- [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
+- [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
+- [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 
 
 #### Misc
@@ -1566,10 +1590,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html), de Martin Fowler. Conseils pour celleux qui écrivent
 - [Efficient Data Handling in PHP with Generators](https://sandeeppant.medium.com/efficient-data-handling-in-php-with-generators-dad0cbfb063c), sur l'usage des générateurs pour un programme performant
-- [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction), de Fernando Hurtado Cardenas;
 - [The Trough of Despair](https://tidyfirst.substack.com/p/the-trough-of-despair), de Kent Beck
-- [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
-- [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
 - [Un rapport sur le financement des logiciels open source révèle que 86 % des contributions des entreprises correspondent au temps de travail des employés](https://linux.developpez.com/actu/366078/Un-rapport-sur-le-financement-des-logiciels-open-source-revele-que-86-pourcent-des-contributions-des-entreprises-correspondent-au-temps-de-travail-des-employes/), publié par developpez.com 
 - [Happy 50th birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/), de Geoff Huston
 - [Qu’est-ce que la dette technique ? Comment la maîtriser ?](https://www.premaccess.com/qu-est-ce-que-dette-technique-comment-la-maitriser/)
@@ -1577,31 +1598,19 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
-- [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
-- [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
 - [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/amp/)
 - [Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/), de [Ben Hoyt](https://benhoyt.com/)
 - [Java at 20: How it changed programming forever](https://www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html), un article de Elliote Rusty Harold qui revient sur les apports de Java a l'occasion de ses 20 ans d'existence
 - [Rust for the Brave and True (en)](https://dev.to/gruberb/rust-for-the-brave-and-true-4766), un article qui décrit un chemin d'apprentissage de Rust avec une envie de se créer un environnement sans distraction, proche de la machine
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/), un excellent article de [Joel Spolsky](https://www.joelonsoftware.com/about-me/) (2003) sur l'Unicode, l'encodage UTF-8 et les characters sets
-- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
-- [Use plaintext email](https://useplaintext.email/)
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/), d'Alexis King
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
 - [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
-- [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html), de Ned Batchelder (2024). "*Find a level of abstraction that works for what you need to do. When you have trouble there, look beneath that abstraction. You won’t be seeing how things really work, you’ll be seeing a lower-level abstraction that could be helpful. Sometimes what you need will be an abstraction one level up*"
 - [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
-- [Why mocking is a bad idea](https://cs-syd.eu/posts/2021-10-22-why-mocking-is-a-bad-idea), de Tom Sydney Kerckhove
 - [The Two Edged Sword](https://www.cs.tufts.edu/~nr/cs257/archive/jim-gettys/X.html), de [Jimmy Getty](https://gettys.wordpress.com/), co auteur du système [X Windows](https://en.wikipedia.org/wiki/X_Window_System) et a travaillé sur la spécification [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2068.txt) avec Roy Fielding à l'[IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
 - [Queueing : An interactive study of queueing strategies](https://encore.dev/blog/queueing), de Sam Rose. Un excellent article interactif pour comprendre les différentes techniques de file
-- [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
-- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
-- [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices
-- [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
-- [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
-- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
 - [Understanding MySQL CPU Usage: Tools and Techniques ](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a), de Roman Agabekov
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator), de Ryan Fleury. Sur la gestion de la mémoire en C
 - [Cognitive load is what matters](https://zakirullin.md/cognitive), de [Artem Zakirullin](https://zakirullin.md/)
