@@ -148,7 +148,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Docker et conteneurs](#docker-et-conteneurs)
 	- [Suivi de projets](#suivi-de-projets)
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
-	- [Dessin](#dessin)
+	- [Dessin, diagrammes](#dessin-diagrammes)
 	- [Quelques SGBD](#quelques-sgbd)
 	- [Modélisation de bases de données relationnelles](#modélisation-de-bases-de-données-relationnelles)
 	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
@@ -1092,8 +1092,11 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Philippe Bourgau's XP Coaching Blog](https://philippe.bourgau.net/), des articles sur la gestion de projets et de la veille en pratique (comment travailler en accord avec les principes de l'extrem programmaing, gérer du code legacy, organisation des équipes, apprentissage et veille, etc.), par Philippe Bourgau versé dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
 - [Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading), des articles sur l'extrem reading et comment le mettre en pratique, par [Yoan Thirion](https://www.yoan-thirion.com/#home) versé aussi dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
 
-## Dessin
+## Dessin, diagrammes
 
+
+- [Umlet](https://www.umlet.com/), meilleur outil crossplatform pour réaliser des diagrammes UML rapidement, faciles à partager et éditer (dans l'esprit UML 1)
+- [dia](http://dia-installer.de/), programme opensource et crossplatform pour dessiner des diagrammes structurés
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*, en local ou sur le web
 - [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 - [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
