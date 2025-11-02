@@ -863,6 +863,8 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 
 [source](https://xkcd.com/927/)
 
+> "The good thing about standards is that there are so many to choose from." ([Andrew Tanenbaum](https://fr.wikipedia.org/wiki/Andrew_Tanenbaum))
+
 ### Organismes
 
 Une liste non exhaustive d'organismes qui implémentent et maintiennent les standards ouverts dans différents domaines de l'informatique.
@@ -1555,6 +1557,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 #### IA génératives, LLMs : reflexions et ressources utiles
 
 
+- [Déléguer la lecture à l’IA : quels savoirs et plaisirs sacrifions-nous ? ](https://theconversation.com/deleguer-la-lecture-a-lia-quels-savoirs-et-plaisirs-sacrifions-nous-263282), de Naomi S. Baron (Professor Emerita of Linguistics, American University), sur [theconversation.com](https://theconversation.com/fr)
+- [Une utilisation fréquente de l'IA, comme ChatGPT, dans les cours de programmation est corrélée à une baisse des notes des étudiants, car elle nuit à l'apprentissage approfondi et à la pensée critique](https://intelligence-artificielle.developpez.com/actu/375553/Une-utilisation-frequente-de-l-IA-comme-ChatGPT-dans-les-cours-de-programmation-est-correlee-a-une-baisse-des-notes-des-etudiants-car-elle-nuit-a-l-apprentissage-approfondi-et-a-la-pensee-critique/), de Jade Emy, developpez.com
 - [I’m a High Schooler. AI Is Demolishing My Education.](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/), par Ashanty Rosario. Retour d'experience d'un enseignant à l'arrivée de l'usage de l'IA générative en salle de cours
 - [Why Prompt Engineering Should Not Be Taken Seriously](https://msukhareva.substack.com/p/why-prompt-engineering-should-not), de Maria Sukhareva
 - [I still care about the code](https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html), de [Birgitta Böckeler](https://birgitta.info/), quel rapport au code à l'heure des assistants IA
@@ -1576,15 +1580,15 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/), retour d'experience sur l'amélioration des performances des backups et pourquoi c'est important
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
 - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
-- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la hype autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge des requêtes
-- [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production.
+- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la *hype* autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge de la demande
+- [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production
 - [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
 - [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
 - [When Imperfect Systems are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
-- [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices
+- [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices. **LP++**
+- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL. **LP++**
 - [Use plaintext email](https://useplaintext.email/)
-- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL 
-- [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de hype
+- [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de *hype*
 - [Git Workflows for API Technical Writers](https://bump.sh/blog/git-workflows-for-api-technical-writers/), comment maintenir la documentation d'une API cohérente
 
 
@@ -1720,6 +1724,7 @@ Le coeur du web
 
 ### Conférences et séries
 
+- [Conférences sur l'informatique](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une liste curatée de conférences sur tous types de sujet liés à l'informatique, à la programmation et au design
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
