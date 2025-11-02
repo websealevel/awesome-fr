@@ -2033,12 +2033,12 @@ D'autres dépôts comme celui-ci
 
 Lisez
 
+- [welib (anciennement PDFDrive)](https://welib.org/), un site web qui scrap le web en quête de livres dans de nombreux formats pour vous permettre de les télécharger. Application de **service publique**
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
 - [Become a Programmer, Motherfucker](https://programming-motherfucker.com/become.html)
 - [Best Books for GATE CSE with Relevant Chapters to Read](https://gatecse.in/best-books-for-gatecse/), suggestions de livres avec une emphase salutaire sur les chapitres *à lire* (il est rare que tous les chapitres d'un *bon* livre soient bons)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books),  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
 - [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md), même dépôt que précédemment mais listant que des livres de programmation en français !
-- [pdfdrive](https://www.pdfdrive.com/), un site web web qui scrap le web en quête de PDF pour vous. Application de service publique
 - [ZLibary](https://z-library.sk/), base documentaire (livres, articles)
 - [internet archives](https://archive.org/), une bibliothèque en ligne à but non lucratif. Des tonnes et des tonnes de livres à retrouver, explorer, télécharger gratuitement
 - [framabook](https://archives.framabook.org/category/manuels/index.html), des livres livres de droit, projet porté par [framasoft](https://framasoft.org/fr/)
