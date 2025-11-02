@@ -1602,6 +1602,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 #### Design
 
+- [Learnable Programming : Designing a programming system for understanding programs](https://worrydream.com/LearnableProgramming/), de Bret Victor
 - [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), de Joe Armstrong. Qu'est ce que *réellement* un MVP ? Illustration éloquente avec *The Erlang Ticket System*. **LP++**
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), de  Joel Spolsky. Sur le contrôle des imperfections de nos abstractions
 - [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/), de Victor Bret. Une approche systématique du design de systèmes que l'on ne comprend pas encore bien
