@@ -133,6 +133,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [TCP/IP](#tcpip)
 		- [SSH](#ssh)
 		- [HTTP](#http)
+		- [BitTorrent](#bittorrent)
 	- [OS](#os)
 	- [Infrastructure](#infrastructure)
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
@@ -389,6 +390,7 @@ Les *designers* se moqueront de vous si vous utilisez le mot typographie ou *typ
 
 Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Font* c'est l'implémentation de ce design en informatique.
 
+- [wakamai](https://wakamaifondue.com/), upload votre font pour connaître ses propriétés
 - [typescale](https://type-scale.com/), créer facilement un système de tailles de font à suivre
 - [typography principles](https://typographyprinciples.obys.agency/alignments/), un guide pour apprendre les principes de la typo
 - [fontjoy](https://fontjoy.com/), trouver facilement des combinaisons de fonts qui fonctionnent
@@ -957,6 +959,11 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 - [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching), une synthèse sur l'implémentation du cache du protocole HTTP. Attention, [tous les navigateurs n'implémentent pas le standard au même point](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control#browser_compatibility).
 - [Un tutoriel de la mise en cache](https://www.mnot.net/cache_docs/), un très bon tutoriel en français de Mark Nottingham sur la mise en cache du protocole HTTP
+- [Content-Security-Policy (CSP) header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy), header important qui permet aux administrateurs d'un site web de contrôler les ressources que l'agent utilisateur est autorisé à charger pour une page donnée
+
+### BitTorrent
+
+- [Peer-to-peer networking with BitTorrent (PDF)](https://drive.google.com/file/d/1VS37P6J3v_trRCHzCOWtS-9lGGcaVq4a/view), de Jahn Arne Johnsen, Lars Erik Karlsen et Sebjørn Sæther Birkeland
 
 ## OS
 
@@ -1669,18 +1676,17 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 
 ### Blogs
 
-Le *coeur* du web :
+Le *coeur* (ou l'âme ?) du web :
 
+- [Arpit Bhayani](https://arpitbhayani.me/blogs), le blog d'Arpit Bhayani (software, architecture systèmes, protocoles, base de données)
 - [Cybercultural](https://cybercultural.com/), des chroniques sur l'histoire d'internet et du web
-- [de Kent Beck (substack)](https://substack.com/@kentbeck/posts), ses posts
+- [Kent Beck (substack)](https://substack.com/@kentbeck/posts), ses posts
 - [Adam Morse](https://mrmrs.cc/), le blog brutaliste du designer Adam Morse
 - [Robb Knight.](https://rknight.me/), le blog de rob knight (dev)
-- [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
 - [Simon Willison’s Weblog](https://simonwillison.net/), le blog de Simon Willison, co-créateur du framework Django, développeur open source. Excellente curation et ligne éditoriale
-- [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog au look brutaliste (*content first !*) passionant, qui pointe sur tout un tas de sites tout aussi intriguant et passionants 
+- [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog passionant
 - [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
 - [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
-- [Tech Blogs, une liste de blogs techs du feu (en)](https://tech-blogs.dev/)
 - [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
 - [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
 - [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
@@ -1700,6 +1706,11 @@ Le *coeur* du web :
 - [SQL Short Reads](https://sqlshortreads.com/), de Chris Perry. De nombreux articles sur des cas d'utilisation de SQL en situation réelle
 - [gingerBill](https://www.gingerbill.org/), le blog du créateur du langage [Odin](https://odin-lang.org/)
 - [The stateless blog](https://blog.stateless.co/), de [Mike Kelly](https://blog.stateless.co/about)
+
+Listes : 
+
+- [Tech Blogs, une liste filtrée de blogs techs (en)](https://tech-blogs.dev/)
+- [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs
 
 ### Podcasts
 
