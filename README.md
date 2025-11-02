@@ -148,7 +148,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Docker et conteneurs](#docker-et-conteneurs)
 	- [Suivi de projets](#suivi-de-projets)
 	- [Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe](#gestion-de-projet-gestion-de-lapprentissage-et-des-connaissances-déquipe)
-	- [Dessin, diagrammes](#dessin-diagrammes)
+	- [Dessin et diagrammes](#dessin-et-diagrammes)
 	- [Quelques SGBD](#quelques-sgbd)
 	- [Modélisation de bases de données relationnelles](#modélisation-de-bases-de-données-relationnelles)
 	- [Outils de conception de base de données](#outils-de-conception-de-base-de-données)
@@ -184,6 +184,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Convertir des documents, éditer des pdf](#convertir-des-documents-éditer-des-pdf)
 			- [Compresser, optimiser des documents (images, pdf etc..)](#compresser-optimiser-des-documents-images-pdf-etc)
 			- [Capture vidéo, audio](#capture-vidéo-audio)
+	- [IA Génératives](#ia-génératives)
 	- [Androïd](#androïd)
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Du bruit au bruit](#du-bruit-au-bruit)
@@ -195,7 +196,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [RGPD](#rgpd)
 	- [Ebooks](#ebooks)
 		- [Sur le web](#sur-le-web)
-		- [Quelques *classiques* (non exhaustif)](#quelques-classiques-non-exhaustif)
+		- [Quelques *classiques* (liste non exhaustive, en construction...)](#quelques-classiques-liste-non-exhaustive-en-construction)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
 		- [Blog design](#blog-design)
@@ -223,14 +224,14 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [En vrac](#en-vrac)
 		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
 			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
-			- [Partage d'experiences](#partage-dexperiences)
+			- [Partage d'experiences et opinions](#partage-dexperiences-et-opinions)
 			- [Design](#design)
 			- [Misc et à classer](#misc-et-à-classer)
 		- [Papiers](#papiers)
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
 		- [Cours](#cours)
-		- [Conférences et séries notables](#conférences-et-séries-notables)
+		- [Conférences et séries](#conférences-et-séries)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (GDC)](#game-developers-conference-gdc)
@@ -240,7 +241,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Contribuer à des projets open-source](#contribuer-à-des-projets-open-source)
 	- [Rester informé·e](#rester-informée)
 	- [Prendre soin de soi](#prendre-soin-de-soi)
-	- [Prendre soin de sa machine et de ce qu'il y a dessus au quotidien](#prendre-soin-de-sa-machine-et-de-ce-quil-y-a-dessus-au-quotidien)
+	- [Prendre soin de sa machine](#prendre-soin-de-sa-machine)
 	- [Géométrie, art génératif, algorithmes, procédural](#géométrie-art-génératif-algorithmes-procédural)
 	- [Correction](#correction)
 	- [Dépôts](#dépôts)
@@ -280,18 +281,19 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 
 Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
 
-Aller sur le dépôt puis
+Aller sur le dépôt puis :
+
 - Regarder s'il y a une documentation. S'il n'y en a pas, fuyez !
 - Regarder si la documentation est à jour. Si ce n'est pas le cas, vous allez souffrir.
 - Regarder la date du dernier commit
-- Regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas vraiment un problème. Au contraire, cela témoigne de l'activité du dépot, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*
+- Regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas un problème. Au contraire, cela témoigne de l'activité du dépôt, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*, sont-elles traitées ?
+- Regarder le nombre de *Pull Requests* en attente, idem que pour les issues
 - Regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
-- Regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
-- Regarder le nombre de contributeurs
-- Regarder le nombre de pull requests en attente, idem que pour les issues
-- Trouver une coquille dans le README et faites une Pull Request pour la corriger (un espace qui manque, une ponctuation, peu importe). Observer le temps de réaction des contributeurs du dépôt. Cela donne une bonne mesure de son activité. (Merci à [@frozar](https://github.com/frozar) pour cette technique) Essayez donc sur ce dépôt !
+- Regarder le nombre de contributeur·ices 
+- Mesurer le temps de réaction à l'ouverture d'une issue (utile et bien formulée !)
 - Essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
-- Est-ce que le projet est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
+- Est-ce que le projet (ses livrables) est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
+- Regarder le nombre de stars/fav (attention, métrique pas toujours pertinente)
 
 ## Environnements d'apprentissage interactifs
 
@@ -857,6 +859,10 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 
 ## Standards
 
+<img src="./img/standards_2x.png" width=500>
+
+[source](https://xkcd.com/927/)
+
 ### Organismes
 
 Une liste non exhaustive d'organismes qui implémentent et maintiennent les standards ouverts dans différents domaines de l'informatique.
@@ -1060,6 +1066,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Introduction To C course (en)](https://bible.malcore.io/readme/the-beginning/introduction-to-c), un cours d'introduction au C
 - [The GNU C Reference Manual (en)](https://www.c-asm.com/gnu-c-manual.html), le manuel sur le C publié par le projet GNU est une bonne ressource pour apprendre et approfondir ses connaissances en C
 - [comp.lang.c Frequently Asked Questions (clc FAQ)](https://c-faq.com/index.html), faq sur le langage C, issue du groupe Usenet `comp.lang.c`. Composée et rafinée *depuis 1990*. A même [été publiée sous forme de livre par Addison-Wesley](https://c-faq.com/book/)
+- [The Definitive C Book Guide and List](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list), discussion sur StackOverflow sur les bons ouvrages pour apprendre le C à différents niveaux.
 
 ### JavaScript
 
@@ -1092,8 +1099,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Philippe Bourgau's XP Coaching Blog](https://philippe.bourgau.net/), des articles sur la gestion de projets et de la veille en pratique (comment travailler en accord avec les principes de l'extrem programmaing, gérer du code legacy, organisation des équipes, apprentissage et veille, etc.), par Philippe Bourgau versé dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
 - [Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading), des articles sur l'extrem reading et comment le mettre en pratique, par [Yoan Thirion](https://www.yoan-thirion.com/#home) versé aussi dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
 
-## Dessin, diagrammes
-
+## Dessin et diagrammes
 
 - [Umlet](https://www.umlet.com/), meilleur outil crossplatform pour réaliser des diagrammes UML rapidement, faciles à partager et éditer (dans l'esprit UML 1)
 - [dia](http://dia-installer.de/), programme opensource et crossplatform pour dessiner des diagrammes structurés
@@ -1314,6 +1320,10 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 - [simplescreenrecorder](https://www.maartenbaert.be/simplescreenrecorder/), excellent logiciel libre de capture vidéo/audio (screencast), développé par Maarten Baert. Très simple à utiliser et à configurer
 
 
+## IA Génératives
+
+- [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/), une collection documentée de patterns dont s'inspirer dans un workflow basé sur l'interaction/intégration d'un LLM, guide/retex initialement écrit par [Lada Kesseler](https://github.com/lexler/augmented-coding-patterns);
+
 ## Androïd
 
 - [F-droid](https://duckduckgo.com/?q=fdroid&t=newext&atb=v319-1&ia=web), gestionnaire et catalogue de logiciels libres pour la plateforme Android. Paquets vérifiés, mis à jour. Idéal pour vous débarasser petit à petit des applis propriéataires sur votre smartphone. Il n'y a qu'à fouiller et essayer
@@ -1372,9 +1382,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
 - [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003
 
-### Quelques *classiques* (non exhaustif)
-
-> En cours de construction...
+### Quelques *classiques* (liste non exhaustive, en construction...)
 
 - [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996. Ce livre, et le cours du MIT qui se trouve derrière, est juste *à part*. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine, en introduisant le langage Scheme, un dialecte de Lisp. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1oonwoY6DAxWXVaQEHeA2D0AQFnoECA4QAQ&url=https%3A%2F%2Fkremlin.cc%2Fk%26r.pdf&usg=AOvVaw1XViDREs3vL9rDBT9kwwuN&opi=89978449), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan), publié chez Prentice Hall, 1978. Le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
@@ -1401,6 +1409,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 
 ### Blog design
 
+- [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss), de [Paolo Amoroso](https://paoloamoroso.com/)
 - [Are you making these design mistakes on your blog?](https://kevquirk.com/blog-design-mistakes/), très bon article de Kev Quirk qui résume les points importants à considérer et les erreurs à ne pas faire lorsque l'on designe son blog
 - [Thoughts on Editing Posts](https://kevquirk.com/thoughts-on-editing-posts/), très bon article de Kev Quirk sur l'édition de contenus publiés dans le passé
 - [Ideas for my dream CMS](https://daverupert.com/2024/04/ideas-for-my-dream-cms/), de Dave Rupert
@@ -1545,6 +1554,9 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 #### IA génératives, LLMs : reflexions et ressources utiles
 
+
+- [I’m a High Schooler. AI Is Demolishing My Education.](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/), par Ashanty Rosario. Retour d'experience d'un enseignant à l'arrivée de l'usage de l'IA générative en salle de cours
+- [Why Prompt Engineering Should Not Be Taken Seriously](https://msukhareva.substack.com/p/why-prompt-engineering-should-not), de Maria Sukhareva
 - [I still care about the code](https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html), de [Birgitta Böckeler](https://birgitta.info/), quel rapport au code à l'heure des assistants IA
 - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai/13-role-of-developer-skills.html), de [Birgitta Böckeler](https://birgitta.info/)
 - [L'IA fabrique-t-elle des développeurs incapables de coder par eux-mêmes ?](https://www-programmez-com.cdn.ampproject.org/c/s/www.programmez.com/actualites/lia-fabrique-t-elle-des-developpeurs-incapables-de-coder-par-eux-memes-37466?amp), un article du journal [programmez.com](https://www.programmez.com/)
@@ -1556,8 +1568,11 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Pourquoi je n’utilise pas ChatGPT](https://academia.hypotheses.org/58766), de  Florence Maraninchi, enseignante-chercheuse en informatique
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/), reflexion provocatrice sur le codage assisté par des agents IA
 
-#### Partage d'experiences
+#### Partage d'experiences et opinions
 
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/), de [lyra](https://lyra.horse/blog/). Remplacer la majorité du JS par du CSS moderne (par pitié)
+- [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
+- [You already have a git server:](https://maurycyz.com/misc/easy_git/), de maurycyz
 - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/), retour d'experience sur l'amélioration des performances des backups et pourquoi c'est important
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
 - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
@@ -1593,6 +1608,9 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 #### Misc et à classer
 
+
+- [How modern browsers work](https://addyo.substack.com/p/how-modern-browsers-work), comment fonctionnent vraiment les navigateurs (modèle détaillé), par Addy Osmani 
+- [Richard Feynman and The Connection Machine](https://longnow.org/ideas/richard-feynman-and-the-connection-machine/), un article vraiment passionant de Danny Hillis, qui retrace l'implication du célèbre physicien et professeur Richard Feynman dans le développement de la [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine), pionniere dans les machines de traitement massivement parallèle
 - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html), de Marc Brooker
 - [Computing (Concepts)](https://booch.com/computing/concepts.html), dictionnaire des concepts de l'informatique par Booch
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
@@ -1651,6 +1669,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 Le coeur du web
 
 
+- [Cybercultural](https://cybercultural.com/), des chroniques sur l'histoire d'internet et du web
 - [Adam Morse](https://mrmrs.cc/), le blog brutaliste du designer Adam Morse
 - [Robb Knight.](https://rknight.me/), le blog de rob knight (dev)
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
@@ -1697,8 +1716,9 @@ Le coeur du web
 - [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), de Ginger Bill
+- [CSE 240: Introduction to Computer Architecture (Autumn 2005)](https://acg.cis.upenn.edu/milom/cse240-Fall05/), un cours (et exercices) accessible en ligne sur l'architecture et le fonctionnement des ordinateurs, *"from Bits and Gates to C and beyond"*, de Pen Engineering (University of Pennsylvania), cours assuré par [Joe Devietti](https://www.cis.upenn.edu/~devietti/)
 
-### Conférences et séries notables
+### Conférences et séries
 
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
@@ -1721,16 +1741,18 @@ Le coeur du web
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
 - [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
-
+- [Data Modeling for Software Engineers](https://www.youtube.com/watch?v=QuOUBwABqIA), par Scott Sosna, NDC Oslo 2025. [Accéder au support de présentation](https://fr.slideshare.net/slideshow/data-modelling-for-software-engineers-full-key-pdf/278916456)
 
 ### La vérité par l'humour
 
-- [*The Hustle*, Krazam](https://youtu.be/_o7qjN3KF8U)
-- [*Microservices*, Krazam](https://www.youtube.com/watch?v=y8OnoxKotPQ)
-- [*Positive Affirmations for Site Reliability Engineers*, Krazam](https://www.youtube.com/watch?v=ia8Q51ouA_s). [SRENITY ONLINE, le site web pour trouver la sérénité](https://www.srenity.online/)
-- [*Interview with Senior JS Developer in 2022*,  Programmers are also human
+- [*The Hustle*](https://youtu.be/_o7qjN3KF8U), de Krazam
+- [*Microservices*](https://www.youtube.com/watch?v=y8OnoxKotPQ), de Krazam
+- [*Positive Affirmations for Site Reliability Engineers*](https://www.youtube.com/watch?v=ia8Q51ouA_s), de Krazam. Et [SRENITY ONLINE, le site web pour trouver la sérénité](https://www.srenity.online/)
+- [*Interview with Senior JS Developer in 2022*, de [Kai Lentit (Programmers are also human)](https://www.youtube.com/@programmersarealsohuman5909/videos)
 ](https://youtu.be/Uo3cL4nrGOk)
-- [Wat, Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat), exploration des arcanes de l'implémentation de différents langages
+- [Wat](https://www.destroyallsoftware.com/talks/wat), de Gary Bernhardt. Exploration des arcanes de l'implémentation de différents langages
+- [ServerlessHorrors](https://serverlesshorrors.com/), une compilation d'histoires d'horreur d'utilisateurs de services *serverless*
+- [xkcd](https://xkcd.com/)
 
 ### Génération procédurale
 
@@ -1761,6 +1783,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 ### Playlists
 
+- [Engineering Blogs Dissections](https://www.youtube.com/playlist?app=desktop&list=PLsdq-3Z1EPT0RrDebPvBNlmuXDfT6Qs2T), d'[Arpit Bhayani](https://arpitbhayani.me/). Série de vidéos qui *review* des articles techniques présentant la solution trouvée à des problèmes pratiques de design et de systèmes
 - [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [Playlist de conférences et vidéos informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
@@ -1800,7 +1823,7 @@ Par où commencer ? Comment faire ?
 
 ## Prendre soin de soi
 
-Des heuristiques à la volée
+Des heuristiques à la volée :
 
 - **La reconnaissance, ça passe avant tout par le salaire**. Même si on aime notre boulot, un boulot c'est un boulot. Faites-vous payer convenablement. C'est plus facile à dire qu'à faire, c'est un rapport de force à négocier, mais tout s'apprend, notamment à se (faire) respecter.
 - Programmer c'est cool mais y'a autre chose dans la vie
@@ -1813,7 +1836,7 @@ Des heuristiques à la volée
 - [Faire (très) attention au burnout et identifier les symptômes le plus tôt possible](https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=epuisement_professionnel_pm). Vous n'avez pas envie de vivre ça (votre conjoint·e/chat·te/chien·ne non plus). Un [témoignage d'un dev](https://www.jesuisundev.com/burnout/)
 - [[DevFest Nantes 2022] Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU), une très bonne et courageuse conf/partage d'expérience sur la dépression et le burnout, donnée par Manon Gruaz au DevFest de Nantes 2022.
 
-## Prendre soin de sa machine et de ce qu'il y a dessus au quotidien
+## Prendre soin de sa machine
 
 - [Lynis](https://cisofy.com/lynis/), outil d'audit open-source pour les systèmes d'exploitation Unix/Linux. Il vous fera un audit complet des vulnérabilités (configuration, binaires, droits et autorisations des utilisateurs, vulnérabilités de l'OS, etc.) de votre machine à partir duquel vous pouvez prendre les mesures nécessaires.
 - [rkhunter](http://rootkit.nl/), outil pour détecter et supprimer les [rootkits](https://fr.wikipedia.org/wiki/Rootkit) (logiciels malveillants donnant un accès non autorisé à un ordinateur de manière furtive) qui pourraient s'être faufilés sur votre machine.
