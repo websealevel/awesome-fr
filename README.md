@@ -1417,7 +1417,7 @@ Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable
 - [Thoughts on Editing Posts](https://kevquirk.com/thoughts-on-editing-posts/), très bon article de Kev Quirk sur l'édition de contenus publiés dans le passé
 - [Ideas for my dream CMS](https://daverupert.com/2024/04/ideas-for-my-dream-cms/), de Dave Rupert
 - [What Would My Dream CMS Be?](https://kevquirk.com/what-would-my-dream-cms-be), de Kev Quirk
-- [Sam Rose on Technical Blogging](https://writethatblog.substack.com/p/sam-rose-on-technical-blogging)
+- [Write that Blog ! Sam Rose on Technical Blogging](https://writethatblog.substack.com/p/sam-rose-on-technical-blogging)
 
 ### Architecture de l'information / Recherche d'information
 
