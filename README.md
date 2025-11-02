@@ -111,7 +111,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 		- [Générateur de mots de passe](#générateur-de-mots-de-passe)
 	- [Git](#git-1)
-		- [Client git](#client-git)
 	- [Déploiement](#déploiement)
 	- [DevOps](#devops)
 	- [Tests](#tests)
@@ -775,15 +774,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 ## Git
 
 - [inside .git](https://wizardzines.com/comics/inside-git/), comic strip de [Julia Evans](https://twitter.com/b0rk) sur le système de fichiers interne de git
-
-### Client git
-
-Une fois qu'on maîtrise git dans ses grandes lignes (c'est important de commencer en mode CLI pour bien se familiariser avec son fonctionnement), si on a plus envie de taper tout un tas de commandes
-
-- [github desktop](https://desktop.github.com/), un client git développé par github, naturellement adapté pour vos dépots remote sur github mais pas que. Windows/Mac
-- [github desktop-linux fork](https://github.com/shiftkey/desktop), la même mais porté sur linux
-- [sourceTree](https://www.sourcetreeapp.com/), un autre client mais dispo que sur Windows et Mac :/
-
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), une spécification pour ajouter une signification lisible par l'humain et par la machine aux messages de commit, pour s'en servir de base à des outils d'automatisation
 
 ## Déploiement
 
@@ -1728,6 +1719,7 @@ Le *coeur* du web :
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
 - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), de Ginger Bill
 - [CSE 240: Introduction to Computer Architecture (Autumn 2005)](https://acg.cis.upenn.edu/milom/cse240-Fall05/), un cours (et exercices) accessible en ligne sur l'architecture et le fonctionnement des ordinateurs, *"from Bits and Gates to C and beyond"*, de Pen Engineering (University of Pennsylvania), cours assuré par [Joe Devietti](https://www.cis.upenn.edu/~devietti/)
+- [Supports de cours et exercices (Web, Réseau, Développement, Gestion de projet)](http://tvaira.free.fr/), de Thierry Vaira (Cycle BTS, Avignon)
 
 ### Conférences et séries
 
