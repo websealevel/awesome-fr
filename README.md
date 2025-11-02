@@ -1672,6 +1672,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 Le *coeur* du web :
 
 - [Cybercultural](https://cybercultural.com/), des chroniques sur l'histoire d'internet et du web
+- [de Kent Beck (substack)](https://substack.com/@kentbeck/posts), ses posts
 - [Adam Morse](https://mrmrs.cc/), le blog brutaliste du designer Adam Morse
 - [Robb Knight.](https://rknight.me/), le blog de rob knight (dev)
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs (comme ce dépot essaie de lister des bonnes ressources gratuites). Dès qu'un ecosystème se cree, il y a toujours un objet hyper méta qui a pour but de produire de la métadonnée sur ses compagnons. C'est le cas de blogroll. Attention, c'est en anglais par contre, sorry mais il fallait le mentionner
