@@ -224,7 +224,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [En vrac](#en-vrac)
 		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
 			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
-			- [Partage d'experiences et opinions](#partage-dexperiences-et-opinions)
+			- [Partage d'experiences, argumentaires, essais](#partage-dexperiences-argumentaires-essais)
 			- [Design](#design)
 			- [Misc et à classer](#misc-et-à-classer)
 		- [Papiers](#papiers)
@@ -1069,6 +1069,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [The GNU C Reference Manual (en)](https://www.c-asm.com/gnu-c-manual.html), le manuel sur le C publié par le projet GNU est une bonne ressource pour apprendre et approfondir ses connaissances en C
 - [comp.lang.c Frequently Asked Questions (clc FAQ)](https://c-faq.com/index.html), faq sur le langage C, issue du groupe Usenet `comp.lang.c`. Composée et rafinée *depuis 1990*. A même [été publiée sous forme de livre par Addison-Wesley](https://c-faq.com/book/)
 - [The Definitive C Book Guide and List](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list), discussion sur StackOverflow sur les bons ouvrages pour apprendre le C à différents niveaux.
+- [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html#), style guide C utilisé par les contributeurs de Linux
 
 ### JavaScript
 
@@ -1530,6 +1531,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 ## Mathématiques, mathématiques et informatique et autres aspects *bas niveau*
 
+- [That XOR Trick](https://florian.github.io//xor-trick/), de Florian Hartmann
 - [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007 
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
 - [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](https://www.amazon.fr/Annotated-Turing-Turing%E2%80%B2s-Historic-Computability/dp/0470229055), de Charles Petzold, publié chez Wiley, 2008. Un excellent livre qui accompagne le lecteur dans le papier fondateur de Turing de 36 pages sur le fondement de l'informatique. Passionnant  
@@ -1556,7 +1558,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 #### IA génératives, LLMs : reflexions et ressources utiles
 
-
+- [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay), de Charity Majors
+- [Quick but worthwhile links](https://martinfowler.com/articles/20250806-links.html), compilation d'articles sur l'usage de l'IA en informatique, Martin Fowler
 - [Déléguer la lecture à l’IA : quels savoirs et plaisirs sacrifions-nous ? ](https://theconversation.com/deleguer-la-lecture-a-lia-quels-savoirs-et-plaisirs-sacrifions-nous-263282), de Naomi S. Baron (Professor Emerita of Linguistics, American University), sur [theconversation.com](https://theconversation.com/fr)
 - [Une utilisation fréquente de l'IA, comme ChatGPT, dans les cours de programmation est corrélée à une baisse des notes des étudiants, car elle nuit à l'apprentissage approfondi et à la pensée critique](https://intelligence-artificielle.developpez.com/actu/375553/Une-utilisation-frequente-de-l-IA-comme-ChatGPT-dans-les-cours-de-programmation-est-correlee-a-une-baisse-des-notes-des-etudiants-car-elle-nuit-a-l-apprentissage-approfondi-et-a-la-pensee-critique/), de Jade Emy, developpez.com
 - [I’m a High Schooler. AI Is Demolishing My Education.](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/), par Ashanty Rosario. Retour d'experience d'un enseignant à l'arrivée de l'usage de l'IA générative en salle de cours
@@ -1572,8 +1575,13 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Pourquoi je n’utilise pas ChatGPT](https://academia.hypotheses.org/58766), de  Florence Maraninchi, enseignante-chercheuse en informatique
 - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/), reflexion provocatrice sur le codage assisté par des agents IA
 
-#### Partage d'experiences et opinions
+#### Partage d'experiences, argumentaires, essais
 
+- [The Curse and Blessings of Dynamic SQL ](https://www.sommarskog.se/dynamic_sql.html), d'Erland Sommarskog
+- [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html), d'Alex Molas
+- [Écrire des scénarios de test de charge performants : le guide étape par étape](https://bearstech.com/blog/ecrire-des-scenarios-de-test-de-charge-performants-le-guide-etape-par-etape), de L'équipe Bearstech
+- [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), Joel Spolsky
+- [Why I Write Games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/), de Jonathan Whiting
 - [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/), de [lyra](https://lyra.horse/blog/). Remplacer la majorité du JS par du CSS moderne (par pitié)
 - [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
 - [You already have a git server:](https://maurycyz.com/misc/easy_git/), de maurycyz
@@ -1590,10 +1598,11 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Use plaintext email](https://useplaintext.email/)
 - [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de *hype*
 - [Git Workflows for API Technical Writers](https://bump.sh/blog/git-workflows-for-api-technical-writers/), comment maintenir la documentation d'une API cohérente
-
+- [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html), de Marc Brooker
 
 #### Design
 
+- [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), de Joe Armstrong. Qu'est ce que *réellement* un MVP ? Illustration éloquente avec *The Erlang Ticket System*. **LP++**
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), de  Joel Spolsky. Sur le contrôle des imperfections de nos abstractions
 - [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/), de Victor Bret. Une approche systématique du design de systèmes que l'on ne comprend pas encore bien
 - [Avoid Passing Booleans to Functions](https://alexkondov.com/should-you-pass-boolean-to-functions/)
@@ -1602,7 +1611,7 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
 - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
-- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/)
+- [Always use [closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/). **LP++**
 - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
 - [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
 - [Alan Kay and OO Programming](http://curtispoe.org/articles/alan-kay-and-oo-programming.html), de [Curtis “Ovid” Poe](http://curtispoe.org/index.html)
@@ -1612,10 +1621,8 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 #### Misc et à classer
 
-
 - [How modern browsers work](https://addyo.substack.com/p/how-modern-browsers-work), comment fonctionnent vraiment les navigateurs (modèle détaillé), par Addy Osmani 
-- [Richard Feynman and The Connection Machine](https://longnow.org/ideas/richard-feynman-and-the-connection-machine/), un article vraiment passionant de Danny Hillis, qui retrace l'implication du célèbre physicien et professeur Richard Feynman dans le développement de la [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine), pionniere dans les machines de traitement massivement parallèle
-- [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal.html), de Marc Brooker
+- [Richard Feynman and The Connection Machine](https://longnow.org/ideas/richard-feynman-and-the-connection-machine/), un article vraiment passionant de Danny Hillis, qui retrace l'implication du célèbre physicien et professeur Richard Feynman dans le développement de la [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine), pionniere dans les machines de traitement massivement parallèle. **LP++**
 - [Computing (Concepts)](https://booch.com/computing/concepts.html), dictionnaire des concepts de l'informatique par Booch
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html), de Martin Fowler. Conseils pour celleux qui écrivent
@@ -1670,8 +1677,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 
 ### Blogs
 
-Le coeur du web
-
+Le *coeur* du web :
 
 - [Cybercultural](https://cybercultural.com/), des chroniques sur l'histoire d'internet et du web
 - [Adam Morse](https://mrmrs.cc/), le blog brutaliste du designer Adam Morse
@@ -1800,15 +1806,14 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 ## Fondamentaux, radical
 
-- [suckless](http://suckless.org/philosophy/)
-- [POSSE](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité
+- [suckless.org](https://suckless.org/philosophy/), manifeste pour créer du meilleur software
+- [*Publish On your Own Site, Syndicate Elsewhere*(POSSE)](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité, et garder le contrôle sur votre contenu
 - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente 
 - [mother fucking websites](https://duckduckgo.com/?q=motherfuckung+website+&t=fpas&ia=web), les forks de l'original qui surencherissent avec humour
-- [The Duct Tape Programmer (en)](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), article
-- [Minimal Viable Programs (en)](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), article
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
 - [Hypermedia Systems](https://hypermedia.systems/), retour aux idées fondamentales du web pour designer des sites web pilotés par les hypermedia et les contraintes REST. [Accesible en ligne gratuitement](https://hypermedia.systems/book/contents/)
 - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/), [d'Oskar Wickström](https://wickstrom.tech/). Une exploration légèrement provocatrice d'un design minimaliste du web basé sur des fonts monospace.
+
 
 ## Contribuer à des projets open-source
 
@@ -1853,6 +1858,8 @@ Des heuristiques à la volée :
 
 ## Géométrie, art génératif, algorithmes, procédural
 
+
+- [cables](https://cables.gl/), un toolkit pour générer du contenu interactif
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de *pathfinding*. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
 - [3DMATH.XYZ](https://endesga.xyz/), un site web pédagogigque sur les mathématiques de la 3D
 - [Gorilla Sun Blog](https://www.gorillasun.de/), un blog dédié à l'art génératif
