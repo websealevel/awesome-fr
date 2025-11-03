@@ -12,17 +12,19 @@ proprietary, trade-secret system that is not Free and Open Souce Software
 
 ## En quelques mots
 
-Une liste d'outils et de ressources culturelles (sites web, ebooks, podcasts, vidéos, blogs, articles, conférences, guides, programmes, etc.) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps). 
+Une liste d'outils et de ressources (sites web, ebooks, podcasts, vidéos, blogs, articles, conférences, guides, programmes, etc.) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps). 
 
 Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
 
-> Ce dépôt contient **évidemment des opinions** sur certains sujets. Libre à vous d'y adhérer ou non.
+> Ce dépôt contient (est) **évidemment des opinions** (de moins en moins) sur certains sujets
 
 ## Des limites de la francophonie
 
-La liste en elle-même est francophone, cependant bon nombre de ressources listées ici ne sont malheureusement que disponibles en anglais. Il serait idiot de ne sélectionner que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratuité) et permettra au moins de proposer un panorama en français de différentes ressources.
+La liste en elle-même est francophone, cependant bon nombre de ressources listées ici sont malheureusement uniquement disponibles en anglais. Il serait idiot de ne sélectionner que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratuité) et permettra au moins de proposer un panorama en français de différentes ressources.
 
-Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de le recommander aveuglément.
+Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. 
+
+> Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de la recommander aveuglément.
 
 ## Conseils d'utilisation
 
@@ -30,11 +32,11 @@ Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table
 
 *Spoiler alert* : vous n'avez pas besoin *- et de toute manière n'aurez pas assez d'une vie -* d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. *Naviguez* la conscience tranquille vers ce qui vous paraît utile ou vous attire. Ce dépôt donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'[ajouter du bruit au bruit](#du-bruit-au-bruit) pour toutes celles et ceux qui cherchent à démarrer en programmation et/ou dans le développement web.
 
-Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clef et des hyperliens pour faciliter la navigation.
+Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon, il y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clef et des hyperliens pour faciliter la navigation.
 
 ## Contribuez et partagez
 
-Un lien mort ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ? 
+Des liens morts ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ? 
 
 Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soumettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
 
