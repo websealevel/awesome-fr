@@ -202,6 +202,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Quelques *classiques* (liste non exhaustive, en construction...)](#quelques-classiques-liste-non-exhaustive-en-construction)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
+		- [Spécifications, design](#spécifications-design)
 		- [Base de données](#base-de-données)
 		- [Architecture de l'information/Recherche d'information](#architecture-de-linformationrecherche-dinformation)
 		- [WordPress](#wordpress-1)
@@ -224,7 +225,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trices](#ressources-pour-formateurtrices)
-	- [Spécifications](#spécifications)
 	- [En vrac](#en-vrac)
 		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
 			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
@@ -1409,6 +1409,15 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html), de Eric Evans, publié chez Addison Wesley, 2003
 - [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
 
+### Spécifications, design
+
+- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils **LP++** 
+- [More About Software Requirements: Thorny Issues and Practical Advice](https://welib.org/search?page=1&q=More+About+Software+Requirements%3A+Thorny+Issues+and+Practic), de Karl Wiegers, publié par Microsoft (2011)
+- [Expression des besoins pour le SI : Guide d'élaboration du cahier des charges](https://www.scholarvox.com/catalog/book/docid/88935607?searchterm=Expression%20des%20besoins%20pour%20le%20SI), d'Yves Constantinidis, publié chez Eyrolles (2022). Un classique qui vous donne un ensemble d'outils, de conseils pratiques éprouvées pour recueillir et formaliser les besoins. **LP++**
+- [De Merise à UML, 2nd Edition](https://www.eyrolles.com/Informatique/Livre/de-merise-a-uml-9782212110319/), publié chez Eyrolles (2001)
+- [The Design of Design: Essays from a Computer Scientist](https://welib.org/search?page=1&q=the+design+of+design), de P. Jr. Brooks, publié chez Pearson Education (2010). **LP++**
+
+
 ### Base de données
 
 - [Database Systems : The Complete Book, 2nd edition](https://people.inf.elte.hu/kiss/DB/ullman_the_complete_book.pdf), du Department of Computer Science Stanford University, publié par *Pearson Prentice Hall*. Basé sur les cours dispensés à Standford. Distribué gratuitement. **LP++** 
@@ -1551,12 +1560,6 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Du « formateur-transmetteur » au « formateur-facilitateur » : cela change quoi ?](https://www.blog-formation-entreprise.fr/formateur-transmetteur-formateur-facilitateur-quest-change/), Marc Dennery
 
 
-## Spécifications
-
-- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils **LP++** 
-- [More About Software Requirements: Thorny Issues and Practical Advice](https://welib.org/search?page=1&q=More+About+Software+Requirements%3A+Thorny+Issues+and+Practic), de Karl Wiegers, publié par Microsoft (2011)
-- [Expression des besoins pour le SI : Guide d'élaboration du cahier des charges](https://www.scholarvox.com/catalog/book/docid/88935607?searchterm=Expression%20des%20besoins%20pour%20le%20SI), d'Yves Constantinidis, publié chez Eyrolles (2022). Un classique qui vous donne un ensemble d'outils, de conseils pratiques éprouvées pour recueillir et formaliser les besoins. **LP++**
-- [De Merise à UML, 2nd Edition](https://www.eyrolles.com/Informatique/Livre/de-merise-a-uml-9782212110319/), publié chez Eyrolles (2001)
 
 
 ## En vrac
