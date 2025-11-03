@@ -1747,7 +1747,7 @@ Listes :
 
 ### Conférences, vidéos et séries
 
-> Toutes les conférences mises en avant ici sont regroupées dans [cette playlist](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3) [Conférences sur l'informatique], liste curatée de conférences sur tous types de sujet liés à l'informatique, à la programmation et au design
+> Toutes les conférences mises en avant ici sont regroupées dans [cette playlist](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), liste curatée de conférences sur tous types de sujet liés à l'informatique, à la programmation et au design
 
 - [How I program C](https://www.youtube.com/watch?v=443UNeGrFoM&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=10), d'Eskil Steenberg
 - [You should finish your software](https://www.youtube.com/watch?v=EGLoKbBn-VI&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=9), d'Eskil Steenberg, BSC 2025
