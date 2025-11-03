@@ -194,12 +194,12 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Scheme (Lisp dialect)](#scheme-lisp-dialect)
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
+	- [Blog design](#blog-design)
 	- [Livres](#livres)
 		- [Quelques *classiques* (liste non exhaustive, en construction...)](#quelques-classiques-liste-non-exhaustive-en-construction)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
-	- [Base de données](#base-de-données)
-		- [Blog design](#blog-design)
+		- [Base de données](#base-de-données)
 		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
 		- [WordPress](#wordpress-1)
 		- [Sécurité des applications web](#sécurité-des-applications-web)
@@ -1374,6 +1374,17 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 - [Guide RGPD du développeur](https://www.cnil.fr/fr/guide-rgpd-du-developpeur), le guide pour rendre son système en accord avec les principes règlementaires du RGPD, publié par la CNIL
 
+
+## Blog design
+
+- [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss), de [Paolo Amoroso](https://paoloamoroso.com/)
+- [Are you making these design mistakes on your blog?](https://kevquirk.com/blog-design-mistakes/), très bon article de Kev Quirk qui résume les points importants à considérer et les erreurs à ne pas faire lorsque l'on designe son blog
+- [Thoughts on Editing Posts](https://kevquirk.com/thoughts-on-editing-posts/), très bon article de Kev Quirk sur l'édition de contenus publiés dans le passé
+- [Ideas for my dream CMS](https://daverupert.com/2024/04/ideas-for-my-dream-cms/), de Dave Rupert
+- [What Would My Dream CMS Be?](https://kevquirk.com/what-would-my-dream-cms-be), de Kev Quirk
+- [Write that Blog ! Sam Rose on Technical Blogging](https://writethatblog.substack.com/p/sam-rose-on-technical-blogging)
+
+
 ## Livres
 
 Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez. 
@@ -1382,7 +1393,7 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 
 ### Quelques *classiques* (liste non exhaustive, en construction...)
 
-- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils
+- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utiliser les *Data Flow Diagrams* et autres outils
 - [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996. Ce livre, et le cours du MIT qui se trouve derrière, est juste *à part*. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine, en introduisant le langage Scheme, un dialecte de Lisp. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1oonwoY6DAxWXVaQEHeA2D0AQFnoECA4QAQ&url=https%3A%2F%2Fkremlin.cc%2Fk%26r.pdf&usg=AOvVaw1XViDREs3vL9rDBT9kwwuN&opi=89978449), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan), publié chez Prentice Hall, 1978. Le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
 - [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française publiée chez Dunod, 2007. Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
@@ -1406,18 +1417,11 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html), de Eric Evans, publié chez Addison Wesley, 2003
 - [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
 
-## Base de données
+### Base de données
 
 - [Modélisation des bases de données : UML et les modèles entité-association](https://www.eyrolles.com/Informatique/Livre/modelisation-des-bases-de-donnees-9782416007507/), de Christian Soutou (et Frédéric Brouard), publié chez Eyrolles (2022). S'il y a un livre francophone à se procurer sur la conception de bases de données relationnelles, c'est celui-ci. Une référence. **LP++**
 
-### Blog design
 
-- [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss), de [Paolo Amoroso](https://paoloamoroso.com/)
-- [Are you making these design mistakes on your blog?](https://kevquirk.com/blog-design-mistakes/), très bon article de Kev Quirk qui résume les points importants à considérer et les erreurs à ne pas faire lorsque l'on designe son blog
-- [Thoughts on Editing Posts](https://kevquirk.com/thoughts-on-editing-posts/), très bon article de Kev Quirk sur l'édition de contenus publiés dans le passé
-- [Ideas for my dream CMS](https://daverupert.com/2024/04/ideas-for-my-dream-cms/), de Dave Rupert
-- [What Would My Dream CMS Be?](https://kevquirk.com/what-would-my-dream-cms-be), de Kev Quirk
-- [Write that Blog ! Sam Rose on Technical Blogging](https://writethatblog.substack.com/p/sam-rose-on-technical-blogging)
 
 ### Architecture de l'information / Recherche d'information
 
