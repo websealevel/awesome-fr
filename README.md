@@ -195,10 +195,10 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Livres](#livres)
-		- [Sur le web](#sur-le-web)
 		- [Quelques *classiques* (liste non exhaustive, en construction...)](#quelques-classiques-liste-non-exhaustive-en-construction)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
+	- [Base de données](#base-de-données)
 		- [Blog design](#blog-design)
 		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
 		- [WordPress](#wordpress-1)
@@ -217,10 +217,11 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [IA, LLMs](#ia-llms)
 	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
-	- [*Hacker* culture](#hacker-culture)
+	- [*Hacker* culture, Unix](#hacker-culture-unix)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trices](#ressources-pour-formateurtrices)
+	- [Spécifications](#spécifications)
 	- [En vrac](#en-vrac)
 		- [Articles, News, Billets de blog](#articles-news-billets-de-blog)
 			- [IA génératives, LLMs : reflexions et ressources utiles](#ia-génératives-llms--reflexions-et-ressources-utiles)
@@ -1375,17 +1376,13 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 ## Livres
 
-Allez fouiller sur [welib.org (anciennemeent pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez. 
+Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez. 
 
 > Si un livre vous parle, il est utile de s'en procurer une copie pour l'avoir à portée, le feuilleter, l'annoter, y placer des marque-pages, etc. et de vivre avec.
 
-### Sur le web
-
-- [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
-- [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003
-
 ### Quelques *classiques* (liste non exhaustive, en construction...)
 
+- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils
 - [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996. Ce livre, et le cours du MIT qui se trouve derrière, est juste *à part*. Les auteurs vont au coeur de ce que signifie *programmer* en tant qu'activité humaine, en introduisant le langage Scheme, un dialecte de Lisp. Ce livre va rajeunir avec le temps. Son objectif est de montrer ce que sont réellement les programmes et comment gérer la complexité intellectuelle des grands systèmes d'information. Et comme il est tout de suite dit dans l'intro du cours "*Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers" (Harold Abelson)*
 - [The C programming language](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1oonwoY6DAxWXVaQEHeA2D0AQFnoECA4QAQ&url=https%3A%2F%2Fkremlin.cc%2Fk%26r.pdf&usg=AOvVaw1XViDREs3vL9rDBT9kwwuN&opi=89978449), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan), publié chez Prentice Hall, 1978. Le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
 - [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française publiée chez Dunod, 2007. Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
@@ -1407,7 +1404,11 @@ Allez fouiller sur [welib.org (anciennemeent pdfdrive)](https://welib.org/), **s
 
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html), de John Ousterhout, publié par la Stanford University, 2018. Excellent ouvrage clair et concis sur la complexité logicielle (sa nature et ses origines) et sur des principes de design généraux. Plein d'humilité et de partage d'experience avisée.
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html), de Eric Evans, publié chez Addison Wesley, 2003
+- [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
 
+## Base de données
+
+- [Modélisation des bases de données : UML et les modèles entité-association](https://www.eyrolles.com/Informatique/Livre/modelisation-des-bases-de-donnees-9782416007507/), de Christian Soutou (et Frédéric Brouard), publié chez Eyrolles (2022). S'il y a un livre francophone à se procurer sur la conception de bases de données relationnelles, c'est celui-ci. Une référence. **LP++**
 
 ### Blog design
 
@@ -1514,12 +1515,13 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 
 - [1,2,3... codez !](https://fondation-lamap.org/projet/123-codez#guide), Le projet « 1, 2, 3… codez ! » vise à initier élèves et enseignants aux sciences informatiques, de la maternelle au collège. Il propose à la fois des activités branchées (nécessitant un ordinateur, une tablette ou un robot) permettant d’introduire les bases de la programmation et des activités débranchées (informatique sans ordinateur) permettant d’aborder des concepts de base de la science informatique (algorithme, langage, représentation de l’information…)
 
-## *Hacker* culture
+## *Hacker* culture, Unix
 
 - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html), manuel et synthèse de Eric S Raymond sur la culture du [hacking](http://www.catb.org/jargon/html/meaning-of-hack.html) (au sens original du mot)
 - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/), de Eric S Raymond
-- [ Eric's Random Writings ](http://www.catb.org/~esr/writings/), la liste des textes et essais publiés par Eric S Raymond, célèbre hacker, porteur du mouvement open-source et auteur de l'essai [La cathédrale et le bazar](http://www.catb.org/~esr/writings/cathedral-bazaar/), une synthèse sur la dynamique, la culture et les principes des hackers dans le mouvement de l'open source
-  
+- [Eric's Random Writings](http://www.catb.org/~esr/writings/), la liste des textes et essais publiés par Eric S Raymond, célèbre hacker, porteur du mouvement open-source et auteur de l'essai [La cathédrale et le bazar](http://www.catb.org/~esr/writings/cathedral-bazaar/), une synthèse sur la dynamique, la culture et les principes des hackers dans le mouvement de l'open source
+- [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003
+
 
 ## Compilateurs, interpréteurs
 
@@ -1549,6 +1551,15 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
 - [Pratiques pédagogiques et méthodologiques](https://www.reseau-canope.fr/pratiques-pedagogiques-et-methodologiques), publié par le réseau canopé (tutelle du Ministère de l'Éducation Nationale);
 - [Du « formateur-transmetteur » au « formateur-facilitateur » : cela change quoi ?](https://www.blog-formation-entreprise.fr/formateur-transmetteur-formateur-facilitateur-quest-change/), Marc Dennery
+
+
+## Spécifications
+
+- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils **LP++** 
+- [More About Software Requirements: Thorny Issues and Practical Advice](https://welib.org/search?page=1&q=More+About+Software+Requirements%3A+Thorny+Issues+and+Practic), de Karl Wiegers, publié par Microsoft (2011)
+- [Expression des besoins pour le SI : Guide d'élaboration du cahier des charges](https://www.scholarvox.com/catalog/book/docid/88935607?searchterm=Expression%20des%20besoins%20pour%20le%20SI), d'Yves Constantinidis, publié chez Eyrolles (2022). Un classique qui vous donne un ensemble d'outils, de conseils pratiques éprouvées pour recueillir et formaliser les besoins. **LP++**
+- [De Merise à UML, 2nd Edition](https://www.eyrolles.com/Informatique/Livre/de-merise-a-uml-9782212110319/), publié chez Eyrolles (2001)
+
 
 ## En vrac
 
