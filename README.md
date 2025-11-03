@@ -194,7 +194,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Scheme (Lisp dialect)](#scheme-lisp-dialect)
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
-	- [Ebooks](#ebooks)
+	- [Livres](#livres)
 		- [Sur le web](#sur-le-web)
 		- [Quelques *classiques* (liste non exhaustive, en construction...)](#quelques-classiques-liste-non-exhaustive-en-construction)
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
@@ -1373,9 +1373,11 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 - [Guide RGPD du développeur](https://www.cnil.fr/fr/guide-rgpd-du-developpeur), le guide pour rendre son système en accord avec les principes règlementaires du RGPD, publié par la CNIL
 
-## Ebooks
+## Livres
 
-Allez fouiller sur [welib.org (anciennemeent pdfdrive)](https://welib.org/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
+Allez fouiller sur [welib.org (anciennemeent pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez. 
+
+> Si un livre vous parle, il est utile de s'en procurer une copie pour l'avoir à portée, le feuilleter, l'annoter, y placer des marque-pages, etc. et de vivre avec.
 
 ### Sur le web
 
