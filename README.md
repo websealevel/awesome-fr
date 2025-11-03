@@ -1754,25 +1754,25 @@ Listes :
 - [Debugging and the art of avoiding bugs](https://www.youtube.com/watch?v=sfrnU3-EpPI&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=8), d'[Eskil Steenberg](https://www.youtube.com/@eskilsteenberg), programmeur C invétéré
 - [Mystères mathématiques d’intelligences pas si artificielles](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), de Stéphane Mallat, récemment médaille d'or du CNRS
 - [Data Modeling for Software Engineers](https://www.youtube.com/watch?v=QuOUBwABqIA), par Scott Sosna, NDC Oslo 2025. [Accéder au support de présentation](https://fr.slideshare.net/slideshow/data-modelling-for-software-engineers-full-key-pdf/278916456)
+- [Design in Practice](https://www.youtube.com/watch?v=c5QF2HjHLSE&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=65), Rich Hickey
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
-- [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
-- [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
-- [The value of values, Rich Hickey [vostfr]](https://youtu.be/VJi1vOwu2SM)
-- [Are we there yet ?, Rich Hickey](https://youtu.be/ScEPu1cs4l0)
-- [Hammock Driven Development, Rich Hickey](https://youtu.be/f84n5oFoZBc)
-- [Is Software Engineering Still an Oxymoron? GOTO 2021 ](https://www.youtube.com/watch?v=D43PlUr1x_E), conférence organique et transdisciplinaire d'Alan Key le lien entre le développement informatique, l'ingénieurie et la science.
+- [The language of the system](https://youtu.be/ROor6_NGIWU), Rich Hickey
+- [Database as a value](https://youtu.be/EKdV1IgAaFc), Rich Hickey
+- [The value of values [vostfr]](https://youtu.be/VJi1vOwu2SM), Rich Hickey
+- [Are we there yet ?](https://youtu.be/ScEPu1cs4l0), Rich Hickey
+- [Hammock Driven Development](https://youtu.be/f84n5oFoZBc), Rich Hickey
+- [Is Software Engineering Still an Oxymoron?](https://www.youtube.com/watch?v=D43PlUr1x_E), conférence organique et transdisciplinaire d'Alan Key (GOTO 2021), le lien entre le développement informatique, l'ingénieurie et la science.
 - [Rethinking CS Education | Alan Kay, CrossRoads 2015 ](https://www.youtube.com/watch?v=N9c7_8Gp7gI), conférence d'Alan Key sur le système éducatif et la manière de former au développement informatique avec beaucoup de recul
 - [The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY),  Alan Kay at OOPSLA 1997, toujours très transversal, sur les origines de l'OOP et ses ambitions initiales (produire des sytèmes à grande échelle)
-- [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la SOP (Same Origin Policy) merveilleusement bien expliquée. La vidéo de référence sur le sujet. Une spécification implémentée par les navigateurs, à connaître (au moins vaguement) pour tous les développeurs (front ou back)
-- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), je passerai pas un weekend avec Linus Torvald (le type est insupportable) mais faut avouer qu'il est vraiment intéressant
+- [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la Same Origin Policy (*SOP*) merveilleusement bien expliquée. La vidéo de **référence sur le sujet**. Une spécification implémentée par les navigateurs, à connaître (au moins vaguement) pour tous les développeur·ses web
+- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), Linus Torvalds présente Git chez Google. Un classique.
 - [Noise based RNG](https://youtu.be/LWFzPP8ZbdU), une conférence intéressante sur la manière de produire de l'aléatoire de manière satisfaisante
-- [I used Elm in production and it cost me my job, Annaia Berry](https://youtu.be/RFrKffrKCeU)
+- [I used Elm in production and it cost me my job](https://youtu.be/RFrKffrKCeU), Annaia Berry
 - [Assignment, State, and Side-effects](https://youtu.be/dO1aqPBJCPg)
-- [The Art of Code, Dylan Beattie](https://youtu.be/6avJHaC3C2U)
+- [The Art of Code](https://youtu.be/6avJHaC3C2U), de Dylan Beattie
 - [Building the ultimate login and signup](https://www.youtube.com/watch?v=E25KxLKwY-M&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=17&t=1270s), vous pensiez que construire un formulaire de connexion/inscription à une appli web est trivial ? Ici vous verrez que non, un décorticage méthodique de toutes les potentielles failles de sécurité à prévoir quand on design un système de login. Donné par Matt Cotterelll, un ingénieur en sécurité basé en Nouvelle Zélande
 - [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38&t=1s), conférence de Rich Harris, le créateur de Svelte sur la réactivité en programmation client. A croire que pour être un génie il faut commencer par s'appeler Rich.
 - [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=38), une conférence vraiment intéressante sur la pratique et l'histoire des LISP, et bien sûr avec un humour pudique hyper agréable
-- [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
 - [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
 
@@ -1824,7 +1824,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [DevFest Nantes 2022](https://www.youtube.com/watch?v=rQaEzZIZIRg&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
 - [Forum PHP 2022 (AFUP)](https://www.youtube.com/watch?v=nxs55WKRyQs&list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj)
 - [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_), de Bartosz Milewski. Pour les programmeur·ses. Passionant ! [Voir le dépôt associé (livre)](https://github.com/hmemcpy/milewski-ctfp-pdf)
-
+- [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 
 ## Fondamentaux, radical
 
