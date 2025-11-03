@@ -1421,7 +1421,7 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 ### Base de données
 
 - [Database Systems : The Complete Book, 2nd edition](https://people.inf.elte.hu/kiss/DB/ullman_the_complete_book.pdf), du Department of Computer Science Stanford University, publié par *Pearson Prentice Hall*. Basé sur les cours dispensés à Standford. Distribué gratuitement. **LP++** 
-- [Database system concepts 7th edition](https://welib.org/search?page=1&q=database+system), A., Korth H.F., Sudarshan S
+- [Database system concepts, 7th edition](https://welib.org/search?page=1&q=database+system), de A., Korth H.F., Sudarshan S, publié chez McGraw-Hill international edition
 - [Modélisation des bases de données : UML et les modèles entité-association](https://www.eyrolles.com/Informatique/Livre/modelisation-des-bases-de-donnees-9782416007507/), de Christian Soutou (et Frédéric Brouard), publié chez Eyrolles (2022). S'il y a un livre francophone à se procurer sur la conception de bases de données relationnelles, c'est celui-ci. Une référence. **LP++**
 
 ### Architecture de l'information/Recherche d'information
