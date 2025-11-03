@@ -20,11 +20,13 @@ Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'inté
 
 ## Des limites de la francophonie
 
-La liste en elle-même est francophone, cependant bon nombre de ressources listées ici sont malheureusement uniquement disponibles en anglais. Il serait idiot de ne sélectionner que des outils ayant l'amabilité de nous fournir des traductions fr. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratuité) et permettra au moins de proposer un panorama en français de différentes ressources.
+La liste en elle-même est francophone, cependant de nombreuses ressources répertoriées ici sont (malheureusement) uniquement disponibles en anglais. 
 
-Un effort sera fait pour retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible. 
+Il serait idiot de ne sélectionner que des ressources ayant l'amabilité d'être traduites en français. L'*accessibilité aux francophones reste néanmoins une priorité sur ce dépôt* (au même titre que la gratuité) et permettra au moins de proposer un panorama *en français* de différentes ressources.
 
-> Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de la recommander aveuglément.
+Un effort est fait pour mettre en avant des ressources francophones et retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible*. 
+
+> *Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de la recommander aveuglément.
 
 ## Conseils d'utilisation
 
