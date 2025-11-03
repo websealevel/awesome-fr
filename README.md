@@ -94,7 +94,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Perfs et config](#perfs-et-config)
 			- [Analyse de texte](#analyse-de-texte)
 			- [Contraste](#contraste)
-	- [Wordpress](#wordpress)
+	- [WordPress](#wordpress)
 		- [Un mot](#un-mot)
 		- [Doc officielle wordpress.org](#doc-officielle-wordpressorg)
 		- [Articles](#articles)
@@ -170,7 +170,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Markdown](#markdown)
 	- [Présentations (slides) avec Markdown](#présentations-slides-avec-markdown)
 	- [CV](#cv)
-	- [Éditeurs de texte](#éditeurs-de-texte)
 	- [Écriture technique](#écriture-technique)
 		- [Outils d'écriture et de publication](#outils-décriture-et-de-publication)
 		- [Apprentissage](#apprentissage)
@@ -303,7 +302,7 @@ Aller sur le dépôt puis :
 
 ### git
 
-- [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR), apprendre git via une appli web interactive
+- [learngitbranching](https://learngitbranching.js.org/?locale=fr_FR), apprendre git via une appli web interactive. Excellent site web.
 
 ### CSS grid
 
@@ -662,17 +661,17 @@ Expérimenter et créer des animations CSS
 - [color contrast checker](https://coolors.co/contrast-checker/495057-ffffff)
 - [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 
-## Wordpress
+## WordPress
 
 ### Un mot
 
-En 2021 on comptait [environ 455 000 000 sites Wordpress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais en réalité plutôt *40%* (estimation haute).
+En 2021 on comptait [environ 455 000 000 sites WordPress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais en réalité plutôt *40%* (estimation haute).
 
-Wordpress est un framework parfaitement adapté pour *gérer et publier* du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si Wordpress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée ! 
+WordPress est un framework parfaitement adapté pour *gérer et publier* du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si WordPress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée ! 
 
 Ce framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité. 
 
-Wordpress est développé et pensé *pour l'utilisateur* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. Wordpress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non-techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
+WordPress est développé et pensé *pour l'utilisateur final* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. WordPress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non-techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
 
 
 ### Doc officielle wordpress.org
@@ -760,7 +759,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
-- [AwardSpace](https://www.awardspace.com/free-hosting/), plans d'hébergement gratuits chez [awardspace](https://www.awardspace.com/), même idée que précédent
 
 
 ## Mots de passe
@@ -1091,9 +1089,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 ## Suivi de projets
 
-- [clickup](https://clickup.com/), (de plus en plus *bloated*...)
 - [Mattermost](https://mattermost.com/), alternative open source à Trello, outil de workflow, travail collaboratif, suivi de tâches, etc.
-
 
 ## Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe
 
@@ -1249,14 +1245,6 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 ## CV
 
 - [resume.md](https://github.com/mikepqr/resume.md), écrivez votre CV en Markdown, stylisez le en CSS, exportez le en PDF/HTML
-
-
-## Éditeurs de texte
-
-- [emacs](https://www.gnu.org/software/emacs/), le projet open-source le plus célèbre après Linux. Faut-il encore le présenter ? Bonne alternative à Vim si vous n'aimez pas les *modes*.
-- [Learn Vim for the last time: A tutorial and Primer](https://danielmiessler.com/study/vim/)
-- [ReText](https://github.com/retext-project/retext), un éditeur petit et puissant pour le Markdown et les langages Markup.
-- [Ghostwriter](https://wereturtle.github.io/ghostwriter/index.html), un éditeur markdown open-source *distraction-free*, très agréable, minimaliste et configurable.
 
 ## Écriture technique
 
