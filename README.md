@@ -231,7 +231,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Blogs](#blogs)
 		- [Podcasts](#podcasts)
 		- [Cours](#cours)
-		- [Conférences et séries](#conférences-et-séries)
+		- [Conférences, vidéos et séries](#conférences-vidéos-et-séries)
 		- [La vérité par l'humour](#la-vérité-par-lhumour)
 		- [Génération procédurale](#génération-procédurale)
 		- [Game Developers Conference (GDC)](#game-developers-conference-gdc)
@@ -263,10 +263,9 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 			- [Node.js](#nodejs)
 			- [Flutter](#flutter)
 		- [Projets open-source](#projets-open-source)
-		- [Design](#design-1)
-		- [Architecture logicielle](#architecture-logicielle-1)
+		- [Design et architecture logicielle](#design-et-architecture-logicielle)
 		- [Apprendre](#apprendre)
-		- [API](#api)
+		- [API web publiques](#api-web-publiques)
 		- [Divers](#divers-1)
 		- [Lecture : articles, livres techniques (informatique, mathématiques)](#lecture--articles-livres-techniques-informatique-mathématiques)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
@@ -1376,7 +1375,7 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 ## Ebooks
 
-Allez fouiller sur [pdfdrive](https://www.pdfdrive.com/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
+Allez fouiller sur [welib.org (anciennemeent pdfdrive)](https://welib.org/), ce site est incroyable. Vous trouverez certainement ici le bouquin que vous cherchez.
 
 ### Sur le web
 
@@ -1443,12 +1442,11 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 
 Pour apprendre les bases du web, mettre en prod, configurer un serveur, la programmation CGI
 
-- [Webmaster in a Nutshell](https://www.pdfdrive.com/webmaster-in-a-nutshell-a-desktop-quick-reference-e106392581.html)
-- [Linux en concentré](https://www.pdfdrive.com/linux-in-a-nutshell-6th-editionpdf-e18844861.html)
+- [Linux en concentré](https://welib.org/search?page=1&q=linux+in+a+nutshell)
 
 ### HTTP
 
-- [HTTP: The Definitive Guide](https://www.pdfdrive.com/http-the-definitive-guide-e156760262.html)
+- [HTTP: The Definitive Guide](https://welib.org/search?page=1&q=HTTP%3A+The+Definitive+Guide)
 
 ### Perl
 
@@ -1733,9 +1731,15 @@ Listes :
 - [CSE 240: Introduction to Computer Architecture (Autumn 2005)](https://acg.cis.upenn.edu/milom/cse240-Fall05/), un cours (et exercices) accessible en ligne sur l'architecture et le fonctionnement des ordinateurs, *"from Bits and Gates to C and beyond"*, de Pen Engineering (University of Pennsylvania), cours assuré par [Joe Devietti](https://www.cis.upenn.edu/~devietti/)
 - [Supports de cours et exercices (Web, Réseau, Développement, Gestion de projet)](http://tvaira.free.fr/), de Thierry Vaira (Cycle BTS, Avignon)
 
-### Conférences et séries
+### Conférences, vidéos et séries
 
-- [Conférences sur l'informatique](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une liste curatée de conférences sur tous types de sujet liés à l'informatique, à la programmation et au design
+> Toutes les conférences mises en avant ici sont regroupées dans [cette playlist](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3) [Conférences sur l'informatique], liste curatée de conférences sur tous types de sujet liés à l'informatique, à la programmation et au design
+
+- [How I program C](https://www.youtube.com/watch?v=443UNeGrFoM&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=10), d'Eskil Steenberg
+- [You should finish your software](https://www.youtube.com/watch?v=EGLoKbBn-VI&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=9), d'Eskil Steenberg, BSC 2025
+- [Debugging and the art of avoiding bugs](https://www.youtube.com/watch?v=sfrnU3-EpPI&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=8), d'[Eskil Steenberg](https://www.youtube.com/@eskilsteenberg), programmeur C invétéré
+- [Mystères mathématiques d’intelligences pas si artificielles](https://www.youtube.com/watch?v=xdDKq59MaxU&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), de Stéphane Mallat, récemment médaille d'or du CNRS
+- [Data Modeling for Software Engineers](https://www.youtube.com/watch?v=QuOUBwABqIA), par Scott Sosna, NDC Oslo 2025. [Accéder au support de présentation](https://fr.slideshare.net/slideshow/data-modelling-for-software-engineers-full-key-pdf/278916456)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY), Douglas Engelbart (1968)
 - [The language of the system, Rich Hickey](https://youtu.be/ROor6_NGIWU)
 - [Database as a value, Rich Hickey](https://youtu.be/EKdV1IgAaFc)
@@ -1757,7 +1761,6 @@ Listes :
 - [Conférences de Web2day](https://www.youtube.com/c/Web2daynantesOrgweb2day/videos), conférences du festival Web2day tous les ans à Nantes
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), Patrick Winston (MIT) propose quelques heuristiques sur la manière de parler en public, de se présenter et de présenter ses idées
 - [John Cleese on Creativity In Management](https://youtu.be/Pb5oIIPO62g), le célèbre membre des Monty Python donne son point de vue sur le processus créatif en se basant sur ses expériences d'écriture avec les Monty Python
-- [Data Modeling for Software Engineers](https://www.youtube.com/watch?v=QuOUBwABqIA), par Scott Sosna, NDC Oslo 2025. [Accéder au support de présentation](https://fr.slideshare.net/slideshow/data-modelling-for-software-engineers-full-key-pdf/278916456)
 
 ### La vérité par l'humour
 
@@ -1863,9 +1866,8 @@ Des heuristiques à la volée :
 
 ## Géométrie, art génératif, algorithmes, procédural
 
-
 - [cables](https://cables.gl/), un toolkit pour générer du contenu interactif
-- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. Un bijou de pédagogie sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de *pathfinding*. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité.
+- [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. **Un bijou de pédagogie** sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de *pathfinding*. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité. **++**
 - [3DMATH.XYZ](https://endesga.xyz/), un site web pédagogigque sur les mathématiques de la 3D
 - [Gorilla Sun Blog](https://www.gorillasun.de/), un blog dédié à l'art génératif
 - [An Algorithm for Irregular Grids](https://www.gorillasun.de/blog/an-algorithm-for-irregular-grids/?ref=gorillasun.de), d'Ahmad Moussa, Gorrila Sun Blog
@@ -1887,7 +1889,7 @@ Des heuristiques à la volée :
 
 ## Dépôts
 
-D'autres dépôts comme celui-ci
+D'autres dépôts comme celui-ci.
 
 ### Général
 
@@ -1923,7 +1925,6 @@ D'autres dépôts comme celui-ci
 - [css-protips](https://github.com/AllThingsSmitty/css-protips), un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui
 - [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist), liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
 - [Frontend stuff](https://github.com/moklick/frontend-stuff), liste de tous les frameworks et libs côté client (CSS et JS surtout) 
-
 
 ### Développement de jeux vidéos
 
@@ -1994,12 +1995,9 @@ D'autres dépôts comme celui-ci
 
 - [awesomo](https://github.com/lk-geimfari/awesomo), une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
-### Design
+### Design et architecture logicielle
 
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns), des solutions réutilisables face à des problèmes courants d'architecture logicielle
-
-### Architecture logicielle
-
 - [A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
 
 ### Apprendre
@@ -2015,14 +2013,14 @@ D'autres dépôts comme celui-ci
 - [app-ideas](https://github.com/florinpop17/app-ideas), des idées d'applications à développer si on est en panne d'inspiration
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html), de Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
 
-### API
+### API web publiques
 
 - [public-apis](https://github.com/public-apis/public-apis), une collection d'API publiques classées par thématique. Magnifique travail
 - [markodenic/public-apis](https://github.com/markodenic/public-apis), un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
 
 ### Divers
 
-- [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de[coding horror](https://blog.codinghorror.com/)
+- [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de [coding horror](https://blog.codinghorror.com/)
 - [developer roadmap](https://github.com/kamranahmedse/developer-roadmap), un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
 - [gitignore](https://github.com/github/gitignore), une collection de templates pour vos fichiers `.gitignore`
 - [big-list-of-naughty-string](https://github.com/minimaxir/big-list-of-naughty-strings), un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application
@@ -2031,7 +2029,7 @@ D'autres dépôts comme celui-ci
 
 ### Lecture : articles, livres techniques (informatique, mathématiques)
 
-Lisez
+Lisez !
 
 - [welib (anciennement PDFDrive)](https://welib.org/), un site web qui scrap le web en quête de livres dans de nombreux formats pour vous permettre de les télécharger. Application de **service publique**
 - [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books), un dépôt qui héberge une tonne de bouquins techniques au format PDF
