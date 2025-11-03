@@ -200,7 +200,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
 		- [Software design](#software-design)
 		- [Base de données](#base-de-données)
-		- [Architecture de l'information / Recherche d'information](#architecture-de-linformation--recherche-dinformation)
+		- [Architecture de l'information/Recherche d'information](#architecture-de-linformationrecherche-dinformation)
 		- [WordPress](#wordpress-1)
 		- [Sécurité des applications web](#sécurité-des-applications-web)
 		- [Webmaster](#webmaster)
@@ -1389,7 +1389,7 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez. 
 
-> Si un livre vous parle, il est utile de s'en procurer une copie pour l'avoir à portée, le feuilleter, l'annoter, y placer des marque-pages, etc. et de vivre avec.
+> Si un livre vous parle, il est utile de s'en procurer une copie pour l'avoir à portée, le feuilleter, l'annoter, y placer des marque-pages, etc. et *vivre* avec.
 
 ### Quelques *classiques* (liste non exhaustive, en construction...)
 
@@ -1419,13 +1419,13 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 
 ### Base de données
 
+- [Database Systems : The Complete Book, 2nd edition](https://people.inf.elte.hu/kiss/DB/ullman_the_complete_book.pdf), du Department of Computer Science Stanford University, publié par *Pearson Prentice Hall*. Basé sur les cours dispensés à Standford. Distribué gratuitement. **LP++** 
+- [Database system concepts 7th edition](https://welib.org/search?page=1&q=database+system), A., Korth H.F., Sudarshan S
 - [Modélisation des bases de données : UML et les modèles entité-association](https://www.eyrolles.com/Informatique/Livre/modelisation-des-bases-de-donnees-9782416007507/), de Christian Soutou (et Frédéric Brouard), publié chez Eyrolles (2022). S'il y a un livre francophone à se procurer sur la conception de bases de données relationnelles, c'est celui-ci. Une référence. **LP++**
 
+### Architecture de l'information/Recherche d'information
 
-
-### Architecture de l'information / Recherche d'information
-
-Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un pionnier de l'architecture informationnelle. Bibliothécaire de formation, il s'est ensuite intéressé au web. Hyper intéressant
+Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un pionnier de l'architecture informationnelle, sont des merveilles. Bibliothécaire de formation, il s'est ensuite intéressé au web.
 
 - [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.pdfdrive.com/information-architecture-for-the-world-wide-web-designing-large-scale-web-sites-e184621172.html)
 - [Information Architecture: For the Web and Beyond](https://www.pdfdrive.com/information-architecture-for-the-web-and-beyond-e158738770.html)
