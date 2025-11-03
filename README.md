@@ -219,8 +219,8 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Algorithmes](#algorithmes-1)
 		- [IA, LLMs](#ia-llms)
 	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
-	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 	- [*Hacker* culture, Unix](#hacker-culture-unix)
+	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
 	- [Mathématiques, mathématiques et informatique et autres aspects *bas niveau*](#mathématiques-mathématiques-et-informatique-et-autres-aspects-bas-niveau)
 	- [Ressources pour formateur·trices](#ressources-pour-formateurtrices)
@@ -1502,14 +1502,11 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [Co-intelligence - Vivre et travailler avec l'IA ](https://passy.librairiesfontaine.com/livre/24302811-co-intelligence-vivre-et-travailler-avec-l-ia-ethan-mollick-first-interactive)
 
+
 ## Le projet *Open Books* de O'Reilly 
 
 L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
 
-
-## Éducation, outils/langages pour initier à la programmation
-
-- [1,2,3... codez !](https://fondation-lamap.org/projet/123-codez#guide), Le projet « 1, 2, 3… codez ! » vise à initier élèves et enseignants aux sciences informatiques, de la maternelle au collège. Il propose à la fois des activités branchées (nécessitant un ordinateur, une tablette ou un robot) permettant d’introduire les bases de la programmation et des activités débranchées (informatique sans ordinateur) permettant d’aborder des concepts de base de la science informatique (algorithme, langage, représentation de l’information…)
 
 ## *Hacker* culture, Unix
 
@@ -1517,6 +1514,11 @@ L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media),
 - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/), de Eric S Raymond
 - [Eric's Random Writings](http://www.catb.org/~esr/writings/), la liste des textes et essais publiés par Eric S Raymond, célèbre hacker, porteur du mouvement open-source et auteur de l'essai [La cathédrale et le bazar](http://www.catb.org/~esr/writings/cathedral-bazaar/), une synthèse sur la dynamique, la culture et les principes des hackers dans le mouvement de l'open source
 - [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003
+
+
+## Éducation, outils/langages pour initier à la programmation
+
+- [1,2,3... codez !](https://fondation-lamap.org/projet/123-codez#guide), Le projet « 1, 2, 3… codez ! » vise à initier élèves et enseignants aux sciences informatiques, de la maternelle au collège. Il propose à la fois des activités branchées (nécessitant un ordinateur, une tablette ou un robot) permettant d’introduire les bases de la programmation et des activités débranchées (informatique sans ordinateur) permettant d’aborder des concepts de base de la science informatique (algorithme, langage, représentation de l’information…)
 
 
 ## Compilateurs, interpréteurs
