@@ -219,7 +219,6 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
 		- [Algorithmes](#algorithmes-1)
 		- [IA, LLMs](#ia-llms)
-	- [Le projet *Open Books* de O'Reilly](#le-projet-open-books-de-oreilly)
 	- [*Hacker* culture, Unix](#hacker-culture-unix)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
 	- [Compilateurs, interpréteurs](#compilateurs-interpréteurs)
@@ -1510,11 +1509,6 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ### IA, LLMs
 
 - [Co-intelligence - Vivre et travailler avec l'IA ](https://passy.librairiesfontaine.com/livre/24302811-co-intelligence-vivre-et-travailler-avec-l-ia-ethan-mollick-first-interactive)
-
-
-## Le projet *Open Books* de O'Reilly 
-
-L'excellent éditeur [O'Reilly](https://fr.wikipedia.org/wiki/O%27Reilly_Media), éditeur spécialisé en informatique depuis 1978, met en ligne gratuitement beaucoup d'anciennes éditions qui ne sont plus publiées via son projet de bilbliothèque ouverte. Vous pouvez retrouvez tous ces livres [ici](https://www.oreilly.com/openbook/), téléchargeables en PDF et/ou consultables en ligne.
 
 
 ## *Hacker* culture, Unix
