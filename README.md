@@ -195,29 +195,29 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Assembleur](#assembleur)
 		- [Prolog](#prolog)
 		- [Scheme (Lisp dialect)](#scheme-lisp-dialect)
+			- [Installtion](#installtion)
 		- [Tcl/Tk](#tcltk)
 	- [RGPD](#rgpd)
 	- [Blog design](#blog-design)
 	- [Livres](#livres)
 		- [Quelques *classiques* (liste non exhaustive, en construction...)](#quelques-classiques-liste-non-exhaustive-en-construction)
-		- [Refactoring, travailler sur du code legacy](#refactoring-travailler-sur-du-code-legacy)
-		- [Software design](#software-design)
+		- [Software design, architecture logicielle](#software-design-architecture-logicielle)
 		- [Spécifications, design](#spécifications-design)
 		- [Base de données](#base-de-données)
 		- [Architecture de l'information/Recherche d'information](#architecture-de-linformationrecherche-dinformation)
-		- [WordPress](#wordpress-1)
 		- [Sécurité des applications web](#sécurité-des-applications-web)
-		- [Webmaster](#webmaster)
+		- [Sysadmin](#sysadmin)
 		- [HTTP](#http-1)
 		- [Perl](#perl)
-		- [Test driven development](#test-driven-development)
-		- [Programmation CGI](#programmation-cgi)
-		- [Functional programming](#functional-programming)
-		- [Haskell](#haskell-1)
+		- [Test](#test)
+		- [Functional programming (Lisp, Scheme, Haskell)](#functional-programming-lisp-scheme-haskell)
+			- [Common Lisp](#common-lisp)
+			- [Scheme](#scheme)
+			- [Haskell](#haskell-1)
+		- [Algorithmes](#algorithmes-1)
 		- [Rust](#rust)
 		- [Développement de jeux vidéos](#développement-de-jeux-vidéos)
 		- [Génération procédurale et *game design*](#génération-procédurale-et-game-design)
-		- [Algorithmes](#algorithmes-1)
 		- [IA, LLMs](#ia-llms)
 	- [*Hacker* culture, Unix](#hacker-culture-unix)
 	- [Éducation, outils/langages pour initier à la programmation](#éducation-outilslangages-pour-initier-à-la-programmation)
@@ -1336,6 +1336,7 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 - [squeak](https://squeak.org/), implémentation open-source de SmallTalk
 - [pharo](https://pharo.org/web/), l'héritier direct de SmallTalk, à la fois langage purement orienté objet et environnement de développement
 - [Byte Magazine (1981)](https://archive.org/details/byte-magazine-1981-08/mode/2up), célèbre édition de Byte Magazine couvrant le langage SmallTalk
+- [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html), liste de lives gratuits à télécharger sur SmallTalk, de [Stéphane Ducasse (INRIA)](http://stephane.ducasse.free.fr/index.html)
 
 ### Assembleur
 
@@ -1345,17 +1346,20 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 ### Scheme (Lisp dialect)
 
-[Scheme](https://fr.wikipedia.org/wiki/Scheme) est un dialecte de Lisp, crée au MIT dans les années 70 par Gerald Jay Sussman et Guy L. Steele. Il conserve les aspects essentiels de Lisp, il est particulièrement adapté pour apprendre la programmation et ses concepts essentiels.
+[Scheme](https://fr.wikipedia.org/wiki/Scheme) est un dialecte de Lisp, crée au MIT dans les années 70 par Gerald Jay Sussman et Guy L. Steele. Il conserve les aspects essentiels de Lisp, il est particulièrement adapté pour apprendre la programmation (syntaxe minimale) et ses concepts essentiels.
 
 - [Site officiel de Scheme (sur gnu.org)](https://www.gnu.org/software/mit-scheme/)
 - [Scheme interpreter online](https://inst.eecs.berkeley.edu/~cs61a/fa14/assets/interpreter/scheme.html), un interpréteur Scheme mis en ligne par l'université de Berkeley. Pratique pour tester rapidement
 - [Why Scheme ?](https://www.shido.info/lisp/scheme1_e.html)
 - [Introduction aux fonctions en Scheme](https://www.shido.info/lisp/scheme4_e.html)
 - [Structure and interpretation of computer programs, 2nd edition, en ligne, HTML](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html), l'édition web gratuite et complète du très grand livre d'Abelson, Gerald Jay et Julie Sussman (MIT Press, 1996)
+- [The Scheme Programming Language, 4th edition](https://www.scheme.com/tspl4/), de R. Kent Dybvig
+
+#### Installtion
+
 - [Installation macOS: Homebrew Scheme](https://formulae.brew.sh/formula/mit-scheme), page d'intallation de Scheme sous macOS via le gestionnaire de paquets Homebrew
 - [Installation GNU/Linux](https://www.gnu.org/software/mit-scheme/), installation de Scheme sous GNU/Linux
 - [Installation sur Windows (via WSL)](https://www.gnu.org/software/mit-scheme/)
-
 
 ### Tcl/Tk
 
@@ -1398,12 +1402,9 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 - [The Art of Plain Talk](https://dc135.files.wordpress.com/2012/11/flesch-the-art-of-plain-talk.pdf), de Rudolf Flesch, publié chez Harper & Row, 1946. Sur comment écrire de manière à être compris par son audience. Idéal pour améliorer ses compétences en écriture technique (spécifications, documentation)
 - [Code Complete, 2nd Edition](https://github.com/media-lib/prog_lib/blob/master/general/Steve%20McConnell%20-%20Code%20Complete%20(2nd%20edition).pdf), de Steve McConnell, publié chez Microsoft, 2004. Un classique *tout en un* sur la construction de programmes. A pour ambition de faire le pont entre la recherche académique et l'industrie sur les techniques pour programmer de manière efficace
 
-### Refactoring, travailler sur du code legacy
+### Software design, architecture logicielle
 
 - [Refactoring: Improving the Design of Existing Code](https://www.pdfdrive.com/refactoring-improving-the-design-of-existing-code-e185896299.html), de Martin Fowler, publié chez Addison-Wesley, 1999
-
-### Software design
-
 - [A philosophy of software design](https://www.pdfdrive.com/a-philosophy-of-software-design-e195285924.html), de John Ousterhout, publié par la Stanford University, 2018. Excellent ouvrage clair et concis sur la complexité logicielle (sa nature et ses origines) et sur des principes de design généraux. Plein d'humilité et de partage d'experience avisée.
 - [Domain driven design](https://www.pdfdrive.com/domain-driven-design-e95986647.html), de Eric Evans, publié chez Addison Wesley, 2003
 - [How to Design Programs](https://htdp.org/2003-09-26/), de Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, publié chez MIT Press, 2014. 1st et 2nd edition disponible en ligne
@@ -1432,10 +1433,6 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 - [Search Patterns: Design for Discovery](https://www.pdfdrive.com/search-patterns-design-for-discovery-e159084430.html)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html), le site du livre éponyme *Introduction to Information Retrieval*, de Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze,  Cambridge University Press. 2008. La version en ligne est *gratuite*. Une bonne référence sur les méthodes et différents modèles de recherche d'information
 
-### WordPress
-
-- [voir ici](#livres-de-développement-wordpress)
-
 ### Sécurité des applications web
 
 - [Essential PHP Security](https://www.oreilly.com/library/view/essential-php-security/059600656X/), de Shiflett, publié chez O'Reilly, 2005. LP++
@@ -1444,8 +1441,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 - [Writing secure code, 2nd edition](https://www.amazon.com/Writing-Secure-Second-Developer-Practices/dp/0735617228), de  Michael Howard et David LeBlanc, publié chez Microsoft Press, 2003. LP++
 - [Threat Modeling: Designing for Security, 1st Edition ](https://www.amazon.fr/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998), d'Adam Shostack, publié chez Wiley, 2014. LI++. Voir également l'introduction au *threat modeling* dans le chapitre 4 de *Writing Secure code* 
 
-
-### Webmaster
+### Sysadmin
 
 Pour apprendre les bases du web, mettre en prod, configurer un serveur, la programmation CGI
 
@@ -1460,22 +1456,37 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [Intermediate Perl, 2nd Edition: Beyond The Basics of Learning Perl](https://www.pdfdrive.com/intermediate-perl-2nd-edition-beyond-the-basics-of-learning-perl-e166970357.html)
 - [Programming Perl, 4th Edition](https://www.pdfdrive.com/programming-perl-4e-e33432156.html)
 
-### Test driven development
+### Test
 
 - [Test-Driven Development By Example, Kent Beck](https://www.pdfdrive.com/test-driven-development-by-example-e50686597.html)
 
-### Programmation CGI
+### Functional programming (Lisp, Scheme, Haskell)
 
-- [CGI programming with Perl](https://www.pdfdrive.com/cgi-programming-with-perl-2nd-ed-e187832058.html)
-
-
-### Functional programming
-
+- [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996
 - [Introduction to functional programming](https://archive.org/details/introductiontofu0000bird), de Bird et Richard, publié chez Prentice-Hall, 1988. Un classique avec le SICP
 
-### Haskell
+#### Common Lisp
+
+- [COMMON LISP: An Interactive Approach](https://cse.buffalo.edu/~shapiro/Commonlisp/), de Stuart C. Shapiro
+- [Practical Common Lisp](https://gigamonkeys.com/book/), de Peter Seibel, publié chez Apress, 2005
+- [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html), de Guy L. Steele, publié che HP technologies 
+- [ANSI Common Lisp](https://www.paulgraham.com/acl.html), de Paul Graham, publié chez Prentice Hall, 1995,
+
+#### Scheme
+
+- [The Scheme Programming Language, 4th edition](https://www.scheme.com/tspl4/), de R. Kent Dybvig
+
+#### Haskell
 
 - [Haskell, The Craft of Functional Programming, 3rd edition](https://simonjohnthompson.github.io/craft3e/craft3e.pdf), de Simon Thompson
+
+### Algorithmes
+
+- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
+- [Introduction to Algorithms, 4th Edition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZh-_7_tSCAxViRaQEHbzNB1EQFnoECCMQAQ&url=https%3A%2F%2Fdl.ebooksworld.ir%2Fbooks%2FIntroduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf&usg=AOvVaw1FvA0IIbaxK-z6fPzdnF49&opi=89978449), de Thomas H. Cormen (Auteur), Charles E. Leiserson (Auteur), Ronald L. Rivest (Auteur), Clifford Stein, publié au MIT Press. Le lien est vers la 4e édition. Une référence rigoureuse et reconnue sur les algorithmes et leur analyze. Il est recommandé d'être un peu à l'aise en mathématiques pour l'apprécier pleinement. La 3e édition est facilement trouvable en ligne également.
+- [All ▲lgorithms](https://allalgorithms.com/docs/dbscan), un dépôt collectif couvrant la majorité des algorithmes, avec exemples et implémentations. [Voir le dépôt associé](https://github.com/AllAlgorithms/algorithms)
+- [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), de [Jeff Erickson](http://jeffe.cs.illinois.edu/) de l'université d'Illinois. Livre sur les algorithmes auto-publié entièrement accessible en ligne
+- [Generating Voronoi Diagrams using Fortune’s Algorithm](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 
 ### Rust
 
@@ -1488,23 +1499,12 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [Artificial Intelligence for games, 2n edition (en)](https://www.pdfdrive.com/artificial-intelligence-for-games-e25411627.html), un très beau livre très complet qui référence énormément de patterns, stratégies, techniques et algorithmes pour tous vos besoins en terme d'IA. Vient avec une bibliographie très complète pour approfondir un sujet qui a su retenir notre attention
 
-
 ### Génération procédurale et *game design*
 
 - [The Art of Game Design, 2nd edition (en)](https://www.pdfdrive.com/the-art-of-game-design-a-book-of-lenses-2nd-edition-e157699641.html)
 - [Level Up! The guide to great video game design (en)](https://www.pdfdrive.com/level-up-the-guide-to-great-video-game-design-e157921744.html)
 - [Procedural generation in game design (en)](https://www.pdfdrive.com/procedural-generation-in-game-design-e184787611.html)
 - [Curating Simulated Storyworlds (en)](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds), le manuscrit de thèse de [James Ryan](https://twitter.com/xfoml?s=20&t=fe7H8fGL0ox2vDtd6OOhnw) une référence sur les procédés de génération procédurale, de l'interaction entre l'intelligence artificielle et l'experience ludique et des stratégies de "nettoyage" des artefacts. Archéologue des travaux pionniers sur l'usage des machines pour produire des contenus culturels et artistiques
-
-
-### Algorithmes
-
-- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People, Eric Normand](https://www.pdfdrive.com/grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people-e158082191.html)
-- [Introduction to Algorithms, 4th Edition](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZh-_7_tSCAxViRaQEHbzNB1EQFnoECCMQAQ&url=https%3A%2F%2Fdl.ebooksworld.ir%2Fbooks%2FIntroduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf&usg=AOvVaw1FvA0IIbaxK-z6fPzdnF49&opi=89978449), de Thomas H. Cormen (Auteur), Charles E. Leiserson (Auteur), Ronald L. Rivest (Auteur), Clifford Stein, publié au MIT Press. Le lien est vers la 4e édition. Une référence rigoureuse et reconnue sur les algorithmes et leur analyze. Il est recommandé d'être un peu à l'aise en mathématiques pour l'apprécier pleinement. La 3e édition est facilement trouvable en ligne également.
-- [All ▲lgorithms](https://allalgorithms.com/docs/dbscan), un dépôt collectif couvrant la majorité des algorithmes, avec exemples et implémentations. [Voir le dépôt associé](https://github.com/AllAlgorithms/algorithms)
-- [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/), de [Jeff Erickson](http://jeffe.cs.illinois.edu/) de l'université d'Illinois. Livre sur les algorithmes auto-publié entièrement accessible en ligne
-- [Generating Voronoi Diagrams using Fortune’s Algorithm](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
-
 
 ### IA, LLMs
 
