@@ -210,7 +210,8 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [HTTP](#http-1)
 		- [Perl](#perl)
 		- [Test](#test)
-		- [Functional programming (Lisp, Scheme, Haskell)](#functional-programming-lisp-scheme-haskell)
+		- [Functional programming](#functional-programming)
+			- [Clojure](#clojure-1)
 			- [Common Lisp](#common-lisp)
 			- [Scheme](#scheme)
 			- [Haskell](#haskell-1)
@@ -1460,10 +1461,14 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 - [Test-Driven Development By Example, Kent Beck](https://www.pdfdrive.com/test-driven-development-by-example-e50686597.html)
 
-### Functional programming (Lisp, Scheme, Haskell)
+### Functional programming
 
 - [Structure and interpretation of computer programs (SICP), 2nd edition](https://web.mit.edu/6.001/6.037/sicp.pdf), de Harold Abelson, Gerald Jay and Julie Sussman, publié chez MIT Press, 1996
 - [Introduction to functional programming](https://archive.org/details/introductiontofu0000bird), de Bird et Richard, publié chez Prentice-Hall, 1988. Un classique avec le SICP
+
+#### Clojure
+
+- [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
 
 #### Common Lisp
 
