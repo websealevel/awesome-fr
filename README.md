@@ -499,6 +499,7 @@ Expérimenter et créer des animations CSS
 - [lottie](https://airbnb.design/lottie/)
 - [zzz.dog](https://zzz.dog/), des animations rondes, a plat, pseudo 3D
 - [haikuanimator](https://www.haikuanimator.com/)
+- [Animate.css](https://animate.style/), animations en pure CSS, à importer directement via un CDN
 
 
 ### Composants, extraits de code
