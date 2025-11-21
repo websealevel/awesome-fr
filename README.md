@@ -1242,6 +1242,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 
 ## Présentations (slides) avec Markdown
 
+- [pandoc](https://pandoc.org/MANUAL.html#slide-shows), créer une présentation directement avec pandoc
 - [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
 - [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de Marp
 - [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. créer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
