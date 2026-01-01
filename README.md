@@ -6,13 +6,13 @@
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
-(FOSS). 
+(FOSS).
 
 <img src="https://sfconservancy.org/img/GiveUpGitHub.png" alt="Logo of the GiveUpGitHub campaign)" width="300"/>
 
 ## En quelques mots
 
-Une liste d'outils et de ressources (sites web, ebooks, podcasts, vidéos, blogs, articles, conférences, guides, programmes, etc.) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps). 
+Une liste d'outils et de ressources (sites web, ebooks, podcasts, vidéos, blogs, articles, conférences, guides, programmes, etc.) **gratuites** plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps).
 
 Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).
 
@@ -20,11 +20,11 @@ Cette liste **n'est pas exhaustive par choix** (il y'a des choses qui ne m'inté
 
 ## Des limites de la francophonie
 
-La liste en elle-même est francophone, cependant de nombreuses ressources répertoriées ici sont (malheureusement) uniquement disponibles en anglais. 
+La liste en elle-même est francophone, cependant de nombreuses ressources répertoriées ici sont (malheureusement) uniquement disponibles en anglais.
 
 Il serait idiot de ne sélectionner que des ressources ayant l'amabilité d'être traduites en français. L'*accessibilité aux francophones reste néanmoins une priorité sur ce dépôt* (au même titre que la gratuité) et permettra au moins de proposer un panorama *en français* de différentes ressources.
 
-Un effort est fait pour mettre en avant des ressources francophones et retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible*. 
+Un effort est fait pour mettre en avant des ressources francophones et retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible*.
 
 > *Une traduction n'est pas qu'une opération automatique, il en résulte bien souvent un livre différent du livre de départ. Aussi il est parfois difficile de la recommander aveuglément.
 
@@ -38,7 +38,7 @@ Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir
 
 ## Contribuez et partagez
 
-Des liens morts ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ? 
+Des liens morts ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ?
 
 Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soumettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
 
@@ -109,7 +109,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Starter themes](#starter-themes)
 		- [Banque de thèmes](#banque-de-thèmes)
 		- [Plugins recommandés](#plugins-recommandés)
-		- [Articles sur la pratique de WordPress et son évolution vers le FSE...](#articles-sur-la-pratique-de-wordpress-et-son-évolution-vers-le-fse)
+		- [Articles sur la pratique de WordPress et son évolution vers le FSE](#articles-sur-la-pratique-de-wordpress-et-son-évolution-vers-le-fse)
 	- [Hébergement gratuit](#hébergement-gratuit)
 	- [Mots de passe](#mots-de-passe)
 		- [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
@@ -138,6 +138,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [SSH](#ssh)
 		- [HTTP](#http)
 		- [BitTorrent](#bittorrent)
+		- [Misc](#misc)
 	- [OS](#os)
 	- [Infrastructure](#infrastructure)
 	- [*Request For Comments* (RFC), *drafts* et W3C](#request-for-comments-rfc-drafts-et-w3c)
@@ -197,6 +198,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Scheme (Lisp dialect)](#scheme-lisp-dialect)
 			- [Installtion](#installtion)
 		- [Tcl/Tk](#tcltk)
+		- [Mumps/M](#mumpsm)
 	- [RGPD](#rgpd)
 	- [Blog design](#blog-design)
 	- [Livres](#livres)
@@ -278,11 +280,9 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Vendre des articles](#vendre-des-articles)
 		- [Trouver du boulot à distance (*remote*)](#trouver-du-boulot-à-distance-remote)
 
-
-
 ## Comme évaluer la *santé* d'un dépôt ?
 
-Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ? 
+Quelques conseils pour *se faire une idée* de la *santé* d'un dépôt ou d'une bibliothèque, à savoir est-ce que j'en ai vraiment besoin ? Si oui, pourquoi ? Est-ce que ce dépôt est maintenu ou abandonné ? Est-ce qu'il y a une communauté derrière active et prête à dépanner ? Est-ce que cette dépendance de mon projet va casser dans 6 mois ?
 
 Aller sur le dépôt puis :
 
@@ -291,8 +291,8 @@ Aller sur le dépôt puis :
 - Regarder la date du dernier commit
 - Regarder le nombre d'issues ouvertes et à quelles dates les dernières ont été ouvertes. Qu'il y ait un grand nombre d'issues en soit n'est pas un problème. Au contraire, cela témoigne de l'activité du dépôt, de son usage et peut-être de son utilité. Ce qui compte c'est *est-ce qu'on répond à ces issues*, sont-elles traitées ?
 - Regarder le nombre de *Pull Requests* en attente, idem que pour les issues
-- Regarder depuis combien de temps les contributeurs du dépot n'ont pas répondu à une issue
-- Regarder le nombre de contributeur·ices 
+- Regarder depuis combien de temps les contributeurs du dépôt n'ont pas répondu à une issue
+- Regarder le nombre de contributeur·ices
 - Mesurer le temps de réaction à l'ouverture d'une issue (utile et bien formulée !)
 - Essayer de trouver une communauté en ligne (site, wikis, IRC, Discord etc...) Dites bonjour, si on vous répond pas mieux vaut passer son chemin.
 - Est-ce que le projet (ses livrables) est versionné ? C'est important pour savoir exactement de quelle version dépend notre projet, traquer les changements rétrocompatibles ou non etc..
@@ -320,13 +320,12 @@ Aller sur le dépôt puis :
 
 - [algorithm-visualizer](https://algorithm-visualizer.org/), apprendre à programmer des algorithmes tout en les visualisant
 
-
 ## SEO
 
 - [siteliner](https://siteliner.com/), trouver le contenu dupliqué sur votre site (et supprimez le !)
 - [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
-- [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch de SEOKEY. 
-
+- [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch, de [SEOKEY](https://www.seo-key.fr/).
+- [Comment optimiser le référencement de son site WordPress : les 7 conseils d’un expert SEO](https://www.blogdumoderateur.com/optimiser-referencement-site-wordpress-7-conseils/), publié chez [BDM](https://www.blogdumoderateur.com/), avec le pertinent Daniel Roch
 
 ## API publiques
 
@@ -357,11 +356,9 @@ Aller sur le dépôt puis :
 
 ### Agrégateurs de ressources pour le *front*
 
-
 - [uxtools.co](https://uxtools.co/), un hub des outils, tendances, design pour les designer. Organisent des sondages tous les ans.
 - [devtooly](https://devtooly.com/), répertorie tout un tas de ressources frontend par catégories
 - [webcode.tools](https://webcode.tools/), collection d'outils en ligne pour le développement web (générateurs de code)
-
 
 ### Templates
 
@@ -389,7 +386,7 @@ Templates HTML5/CSS3 à télécharger, utiliser, modifier :
   
 ### Typographies/Fonts
 
-Les *designers* se moqueront de vous si vous utilisez le mot typographie ou *typeface* au lieu de police de caractères ou *font*, et inversement. C'est du pur mépris de classe, comme lorsqu'on on vous corrige sur la différence entre URI et URL. Ne vous laissez pas faire. 
+Les *designers* se moqueront de vous si vous utilisez le mot typographie ou *typeface* au lieu de police de caractères ou *font*, et inversement. C'est du pur mépris de classe, comme lorsqu'on on vous corrige sur la différence entre URI et URL. Ne vous laissez pas faire.
 
 Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Font* c'est l'implémentation de ce design en informatique.
 
@@ -403,13 +400,12 @@ Mais sachez en gros que la typographie, ou *Typeface*, c'est le design et la *Fo
 - [fontfabric](https://www.fontfabric.com/font-tester/), tester rapidement ses fonts
 - [FontZone](https://www.fontzone.net/), une archive de fonts téléchargeables et gratuites
 - [fontshare](https://www.fontshare.com/)
-- [Typeoff.de](https://www.typeoff.de/), le blog de Dan Reynolds, un designer et historien des typographies 
-
+- [Typeoff.de](https://www.typeoff.de/), le blog de Dan Reynolds, un designer et historien des typographies
 
 Quelques lectures utiles sur des aspects techniques de la typographie :
 
 - [CSS Baseline: The Good, The Bad And The Ugly](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
-- [Rule of Thirds Web Design: Using Layout Secrets ](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
+- [Rule of Thirds Web Design: Using Layout Secrets](https://designwebkit.com/web-design/rule-of-thirds-web-design/)
 - [Readability and Typesetting Basics: Kerning, Tracking, Leading, and More!](https://design.tutsplus.com/articles/readability-and-typesetting-basics-kerning-tracking-leading-and-more--cms-36859)
 
 ### Palettes de couleurs
@@ -462,7 +458,6 @@ Des icônes, des icônes et encore des icônes. Faites votre choix :
 - [story-set](https://storyset.com/), customization/animation d’illustrations
 - [dover collection series](https://fr.wikipedia.org/wiki/Dover_Publications), des séries de gravures sur bois magnifiques sur tous les thèmes (motifs, plantes, mobilier, ornements de toutes les époques et style, animaux etc...). Une vraie boîte de pandore, et la totalité de ces illustrations sont libérées du droit d'auteur, donc vous pouvez les utiliser, les modifier etc..
 
-
 ### Générateurs/Templates CSS
 
 - [gloweffect](https://codersblock.com/blog/creating-glow-effects-with-css/), générer des glow effects
@@ -501,7 +496,6 @@ Expérimenter et créer des animations CSS
 - [haikuanimator](https://www.haikuanimator.com/)
 - [Animate.css](https://animate.style/), animations en pure CSS, à importer directement via un CDN
 
-
 ### Composants, extraits de code
 
 - [Magic UI](https://magicui.design/), composants
@@ -511,7 +505,6 @@ Expérimenter et créer des animations CSS
 - [web code tools](https://webcode.tools/), des outils clés en mains pour le développement web
 - [code my ui](https://codemyui.com/), inspirations et code snippets pour le web design/ui
 - [cssui](https://www.cssui.dev/), composants interactifs en CSS (sans JS)
-
 
 ### Gradients
 
@@ -543,11 +536,9 @@ Expérimenter et créer des animations CSS
 - [pattern background](http://www.patternify.com/)
 - [stripes generator](https://stripesgenerator.com/)
 
-
 ### Pixel art
 
 - [pixel art to css](https://t.co/6eyHLm8PUE)
-
 
 ### Agrégateurs de design, inspiration
 
@@ -559,7 +550,7 @@ Expérimenter et créer des animations CSS
 - [Le design brutaliste (qui revient à la mode)](https://brutalist-web.design/)
 - [cern](https://worldwideweb.cern.ch/browser/), un aperçu du premier navigateur web WorldWideWeb
 - [first website](http://info.cern.ch/hypertext/WWW/TheProject.html), première page web publique du web
-- [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration 
+- [webpagesthatsuck](http://www.webpagesthatsuck.com/), des designs jugés horribles qui peuvent servir d'inspiration
 - [brutalistwebsites](https://brutalistwebsites.com/), une collection de sites dont le design se revendique du mouvement [brutaliste](https://fr.wikipedia.org/wiki/Brutalisme)
 - [land-book](https://land-book.com/)
 - [onepagelove](https://onepagelove.com/)
@@ -637,23 +628,21 @@ Expérimenter et créer des animations CSS
 - [Checklist Design](https://www.checklist.design/), une collection des meilleurs pratiques de design. Pour chaque composant, cochez une à une les cases d'un checklist pour voir si vous n'avez rien oublié (page login, page 404, flot de paiement, logo etc... )
 - [faviconcheck](https://faviconcheck.30apps.me/), vérifier comment rend vos favicons sur différents os, navigateurs ou thèmes
 
-
 #### Accessibilité
 
 > L'[accessibilité du web](https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_du_web) est la problématique de l'accès aux contenus et services web par les personnes handicapées et plus généralement par tous les utilisateurs, quels que soient leurs dispositifs d’accès ou leurs conditions d’environnement.
 
 - [Premiers pas pour rendre un site Web accessible](https://www.w3.org/WAI/gettingstarted/Overview), une liste de tutoriels de la W3C pour rendre votre site web plus accessible
-- [Design and Develop Overview ](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
+- [Design and Develop Overview](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes souffrant de handicap
 - [Sensible Forms: A Form Usability Checklist](https://alistapart.com/article/sensibleforms/), améliorer l'accessibilité des formulaires HTML
-
 
 #### Perfs et config
 
 - [pingdom](https://tools.pingdom.com), tester le temps de chartement d'une page et obtenir un diagnostic
-- [pingtest](https://tools.keycdn.com/ping), ping un nom de domaine depuis plusieurs positions sur le globe 
+- [pingtest](https://tools.keycdn.com/ping), ping un nom de domaine depuis plusieurs positions sur le globe
 - [whatsmydns.net](https://www.whatsmydns.net/), visualiser la propagation sur les serveurs DNS de votre enregistrement DNS
-- [intodns](https://intodns.com/), vérifier votre config DNS (serveur web, serveur mail,etc.) 
+- [intodns](https://intodns.com/), vérifier votre config DNS (serveur web, serveur mail,etc.)
 - [WebPageTest](https://www.webpagetest.org/), un projet open-source soutenu par Google avec un focus sur le network. Au top
 - [measuring page weight](https://mobiforge.com/design-development/measuring-page-weight), un article (en anglais sorry, j'essaierai de trouver un article équivalent en fr) qui discute de la façon dont est calculé le poids d'une page et la recherche d'un standard. Liste également tous les outils populaires pour faire des mesures
 
@@ -672,12 +661,11 @@ Expérimenter et créer des animations CSS
 
 En 2021 on comptait [environ 455 000 000 sites WordPress](https://techjury.net/blog/percentage-of-wordpress-websites/). Cela représente *au moins 30% du web*, mais en réalité plutôt *40%* (estimation haute).
 
-WordPress est un framework parfaitement adapté pour *gérer et publier* du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si WordPress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée ! 
+WordPress est un framework parfaitement adapté pour *gérer et publier* du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si WordPress peut être utilisé pour *tout faire*, il n'est pas *toujours* la solution la plus adaptée !
 
-Ce framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité. 
+Ce framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité.
 
 WordPress est développé et pensé *pour l'utilisateur final* (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. WordPress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non-techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.
-
 
 ### Doc officielle wordpress.org
 
@@ -718,7 +706,7 @@ A télécharger sur [pdfdrive](https://www.pdfdrive.com/):
 ### Formations
 
 - [Cours wordpress.org](https://learn.wordpress.org/courses)
-- [Building websites with WordPress](https://nmiletic.gumroad.com/l/kSrqD) 
+- [Building websites with WordPress](https://nmiletic.gumroad.com/l/kSrqD)
 - [Learn Wordpress](https://kinsta.com/learn/)
 - [Wordpress for beginners training](https://yoast.com/academy/free-training-wordpress-for-beginners/)
 - [How to Learn WordPress for Free in a Week (or Less)](https://twitter.com/natmiletic/status/1511711827398258695)
@@ -754,8 +742,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [bbPress](https://wordpress.org/plugins/bbpress/), gestionnaire de forums/fils de discussion
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/), un plugin pour optimiser les performances de Wordpress, complètement agnostique de l'hébergeur. Mise en cache des pages webs etc... Au final, améliore l'experience utilisateur et le SEO de votre site. Vérifiez que votre hébergeur ne vous propose pas déjà un plugin de mise en cache maison avant de l'installer sur votre site en prod
 
-
-### Articles sur la pratique de WordPress et son évolution vers le FSE...
+### Articles sur la pratique de WordPress et son évolution vers le FSE
 
 - [Testing and Feedback for using block based template parts in classic themes](https://make.wordpress.org/themes/2022/09/12/testing-and-feedback-for-using-block-based-template-parts-in-classic-themes/)
 - [The Imaginary Block-vs-Classic Battle in WordPress](https://masterwp.com/the-imaginary-block-vs-classic-battle-in-wordpress/)
@@ -764,7 +751,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
-
 
 ## Mots de passe
 
@@ -806,7 +792,6 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 - [Bubble Academy](https://bubble.io/academy), la source principale de guides pour développer avec Bubble
 - [La gazette du No-Code](https://gazette.nocode-france.fr/index.html), un média 100% NoCode dédiée au NoCode (portraits, actualitiés, interviews, tests d'outils, etc.)
 
-
 ## Quitter Github
 
 Le 29 Juin 2022, le *software freedom conservancy* [a publié un article incitant à abandonner GitHub](https://sfconservancy.org/GiveUpGitHub/) pour se tourner vers des plateformes d'hébèrgement de codebase plus respectueuses de l'open-source et des utilisateurs.
@@ -825,7 +810,6 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [gitea](https://gitea.io/en-us/)
 - [sourcehut](https://sourcehut.org)
 
-
 ## Logiciels *open-source* et *logiciels libres* (free software)
 
 - [gnu.org](https://www.gnu.org/), le site officiel de l'OS GNU/Linux et par extension du mouvement du logiciel libre. Vous y trouverez toutes les informations pratiques sur le libre
@@ -837,7 +821,6 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [librejs](https://www.gnu.org/software/librejs/), une extension pour navigateur pour bloquer uniquement l'execution du JavaScript non libre
 - [Le piège JavaScript, Richard Stallman (traduction fr)](https://www.gnu.org/philosophy/javascript-trap.html), article de Richard Stallman traduit en français sur les problèmes que posent l'execution de code Javascript dans le navigateur vis à vis du logiciel libre et de son éthique
 - [En quoi l'open source perd de vue l'éthique du logiciel libre](https://www.gnu.org/philosophy/open-source-misses-the-point.html), article originellement publié par Richard Stallman sous le titre *Why Open Source Misses the Point of Free Software*. Pour bien comprendre les différences philosophiques et pratiques dans des cas très concrets entre les deux mouvements
-
 
 ## Capture/Édition vidéo
 
@@ -852,6 +835,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 ## Principes généraux et fondamentaux
 
 - [What Every Programmer Should Know About Floating-Point Arithmetic](https://floating-point-gui.de/)
+- [Dive into Systems](https://diveintosystems.org/singlepage/), de Suzanne J. Matthews, Tia Newhall, Kevin C. Webb. Livre complet en ligne sur les fondamentaux avec de la programmation C, assembleur, architecture, multithreading
 
 ## Standards
 
@@ -868,7 +852,7 @@ Une liste non exhaustive d'organismes qui implémentent et maintiennent les stan
 - [OASIS OPEN](https://www.oasis-open.org/), groupe de collaboration (individus, entreprises, gouvernements, etc.) en charge de l'implémentation et de la maintenance de standards informatiques ouverts, comme DITA, DocBook, OData, OpenDocument, etc. [Voir tous les projets ici](https://www.oasis-open.org/projects-committees/).
 - [W3C](https://www.w3.org/), le *World Wide Web Consortium*, en charge de maintenir et développer les standards ouverts du Web.
 - [WHATWG](https://whatwg.org/), le *Web Hypertext Application Technology Working Group* est un groupe de collaboration qui travaille sur la standardisation des navigateurs webs ([voir ici les standards](https://spec.whatwg.org/) sur lesquels ce groupe travaille) et des standards associés comme le protocole WebSocket, le Storage, XMLHttpRequest, etc. C'est un groupe qui a été formé en 2004, suite à un atelier organisé par le W3C, par des personnes travaillant chez Apple, Mozilla et Opera. Il a été crée en réponse au fait que le W3C partait un peu en cavalier seul sur le futur du standard HTML avec XHTML (qui au final a donné HTML5) sans prendre assez en compte l'état de l'industrie du développement informatique. Il représente surtout le côté industrie du web et les *vendor* de navigateur web, et cherche à accélérer le développement des standards pour les implémenter rapidement, *pour le meilleur et pour le pire* (surtout le pire). Aujourd'hui Google et Microsoft ont rejoint ce groupe et il travaille en collaboration avec le W3C dont certains membres en font également partie.
-- [Internet Engineering Task Force (IETF)](https://www.ietf.org/), L’[Internet Engineering Task Force (IETF)](https://fr.wikipedia.org/wiki/Internet_Engineering_Task_Force), élabore et promeut des standards Internet, en particulier les standards qui composent la suite de protocoles Internet (TCP/IP). L'IETF produit la plupart des nouveaux standards d'Internet. Le but du groupe est généralement la rédaction d'une ou plusieurs [Request for comments (RFC)](#request-for-comments-rfc-drafts-et-w3c), nom donné aux documents de spécification à la base d’Internet. 
+- [Internet Engineering Task Force (IETF)](https://www.ietf.org/), L’[Internet Engineering Task Force (IETF)](https://fr.wikipedia.org/wiki/Internet_Engineering_Task_Force), élabore et promeut des standards Internet, en particulier les standards qui composent la suite de protocoles Internet (TCP/IP). L'IETF produit la plupart des nouveaux standards d'Internet. Le but du groupe est généralement la rédaction d'une ou plusieurs [Request for comments (RFC)](#request-for-comments-rfc-drafts-et-w3c), nom donné aux documents de spécification à la base d’Internet.
 - [Open Container Initiative (OCI)](https://opencontainers.org/), gouvernance pour maintenir et garantir des standards ouverts sur les formats de conteneurs et de leurs environnement d'exécution. En font partie Docker Inc., Red Hat, Google, etc.
 - [Web Developer Experience (WebDX) Community Group](https://www.w3.org/community/webdx/), groupe de travail de la [W3C](https://www.w3.org/) regroupant les principaux éditeurs de navigateurs web (Mozilla, Microsoft, Apple, Google ) pour créer un *ensemble connu de fonctionnalités sécurisées*. Le travail de ce groupe se retrouve sous la forme du [Web Platform Baseline](https://web.dev/baseline?hl=fr), un *ensemble d'informations claires* sur la compatibilité des navigateurs avec les fonctionnalités du web (actuelles et à venir) que l'on peut utiliser en sécurité (en production). Ces informations se retrouvent sur la [MDN Web Docs](https://developer.mozilla.org/en-US/).
 - [MDN Web Docs](https://developer.mozilla.org/en-US/), documentation open-source et collaborative de l'ensemble des technologies du web (CSS, HTML, Javascript, Wasm, Web API). C'est le projet de documentation de la *plateforme de développement web*. Maintenue par le groupe de travail [Open Web Docs (OWD)](https://opencollective.com/open-web-docs)
@@ -878,7 +862,7 @@ Une liste non exhaustive d'organismes qui implémentent et maintiennent les stan
 
 SGML est un métalangage à balise pour définir des langages à balise (markup langages). SGML est à l'origine de tous les langages à balise, comme HTML ou XML qui en sont des *applications*.
 
-- [A brief SGML tutorial ](https://www.w3.org/TR/WD-html40-970708/intro/sgmltut.html)
+- [A brief SGML tutorial](https://www.w3.org/TR/WD-html40-970708/intro/sgmltut.html)
 
 ### XML
 
@@ -890,7 +874,7 @@ XML est un format universel pouvant être lu facilement par des humains et par d
 
 Son but initial était de faire office de standard pour conserver les documents numériques dans un format indépendant des machines, des OS ou des supports physiques. L'idée du W3C était de créer un standard qui permettra de lire votre document sur une techno inconnue dans 2000 ans. C'est un projet fascinant. Il était avant tout destiné à des documents narratifs (rapports, articles, catalogues). Il est basé sur la séparation stricte du contenu et de la forme.
 
-Les développeurs s'en sont emparés ensuite pour faire du maintien d'enregistrement pour leurs applications, ce qui n'avait pas été envisagé dans sa conception initiale. 
+Les développeurs s'en sont emparés ensuite pour faire du maintien d'enregistrement pour leurs applications, ce qui n'avait pas été envisagé dans sa conception initiale.
 
 XML s'accompagne d'autres standards comme
 
@@ -909,11 +893,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [XML in a nutshell, A Desktop Quick Reference](https://www.pdfdrive.com/xml-in-a-nutshell-e54427253.html)
 - [La DTD et son langage XML](https://www.cairn.info/revue-ela-2005-1-page-73.htm), article publié par [cairn.info](https://www.cairn.info/), pour le domaine de l'édition
 
-
 #### Applications XML de prestige
 
 - [Docbook](https://docbook.org/), application XML dédiée à la publication de documents, principalement des articles et des livres d'informatique mais pas que. Le projet a originellement été développé par l'éditeur O'Reilly pour ses éditeurs, il est aujourd'hui maintenu par [OASIS OPEN](https://www.oasis-open.org/), un groupe de collaboration travaillant et maintenant des standards
-- [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du [standard Dita](https://fr.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.) 
+- [Dita Open Toolkit](https://www.dita-ot.org/), implémentation open-source du [standard Dita](https://fr.wikipedia.org/wiki/Darwin_Information_Typing_Architecture), *the Darwin Information Typing Architecture*, projet également maintenu par OASIS OPEN. C'est un framework de documentation et de publication technique où l'on va pouvoir développer et maintenir une source de vérité pour la publier vers différents formats (PDF, HTML, Markdown, etc.)
 
 ### Standard SQL et bases de données relationnelles
 
@@ -927,18 +910,18 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - [Cours complet pour apprendre les systèmes de gestion de bases de données](https://sgbd.developpez.com/tutoriels/cours-complet-bases-de-donnees/), un cours complet de [Georges Gardarin](https://www.eyrolles.com/Accueil/Auteur/georges-gardarin-34/) sur les bases relationnelles
 - [Les meilleurs cours et tutoriels pour apprendre le SQL](https://sql.developpez.com/), par les membres de developpez.com. Un grand nombre de cours, tutoriels, exercices sur le sujet
 - Une [sélection de livres](https://sgbd.developpez.com/livres/) par les membres de developpez.com
-- [Other MySQL Documentation](https://dev.mysql.com/doc/index-other.html), documentation de MySQL sur des aspects plus avancés ainsi que **des liens pour télécharger des bases de données avec des grand volumes de données** pour pratiquer sa compréhension du standard, de MySQL et des performances 
+- [Other MySQL Documentation](https://dev.mysql.com/doc/index-other.html), documentation de MySQL sur des aspects plus avancés ainsi que **des liens pour télécharger des bases de données avec des grand volumes de données** pour pratiquer sa compréhension du standard, de MySQL et des performances
 
 ### Sécurité des applications web / Audit
 
-- [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste et classifie l'ensemble de risques reconnus comme critiques pour les applications web 
+- [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste et classifie l'ensemble de risques reconnus comme critiques pour les applications web
 - [OWASP : Attacks](https://owasp.org/www-community/attacks/), la liste des attaques les mieux connues
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/), des synthèses sur les différents types d'attaque et leur prévention
 - [OWASP Secrets Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html), conseils sur la gestion des secrets;
 - [OWASP Cryptographic Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html), conseils sur le stockage de données chiffrées;
 - [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html), conseils sur le stockage de mots de passe;
-- [Sécurité : Chiffrement, hachage, signature ](https://www.cnil.fr/fr/securite-chiffrement-hachage-signature), publié par la CNIL
-- [NIST Special Publication 800-63B : Digital Identity Guidelines, Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html), document de référence publié par [le National Institute of Standards and Technology (NIST)](https://fr.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) sur les recommandations liées à la gestion de l'identité en ligne et des systèmes d'authentification. 
+- [Sécurité : Chiffrement, hachage, signature](https://www.cnil.fr/fr/securite-chiffrement-hachage-signature), publié par la CNIL
+- [NIST Special Publication 800-63B : Digital Identity Guidelines, Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html), document de référence publié par [le National Institute of Standards and Technology (NIST)](https://fr.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) sur les recommandations liées à la gestion de l'identité en ligne et des systèmes d'authentification.
 - [KeePassXC Application Security Review](https://molotnikov.de/keepassxc-review), de [Zaur Molotnikov](https://molotnikov.de/cv). Un audit du gestionnaire de mots de passe open source [KeePassXC](https://github.com/keepassxreboot/keepassxc). Contient de nombreuses informations utiles sur son fonctionnement et ses détails d'implémentation. [Télécharger le PDF (version 1.2)](https://molotnikov.de/docs/KeePassXC-Review-V1-Molotnikov.pdf)
 - [RFC 7519 : JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519), publié par l'IETF. Le document décrivant le standard JWT
 
@@ -967,6 +950,10 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 ### BitTorrent
 
 - [Peer-to-peer networking with BitTorrent (PDF)](https://drive.google.com/file/d/1VS37P6J3v_trRCHzCOWtS-9lGGcaVq4a/view), de Jahn Arne Johnsen, Lars Erik Karlsen et Sebjørn Sæther Birkeland
+
+### Misc
+
+- [Code de radiorecherche No 1 (POCSAG)](https://fr.wikipedia.org/wiki/Code_de_radiorecherche_No_1), un protocole de transmission radio utilisé pour les réseaux de radiomessagerie.
 
 ## OS
 
@@ -1022,10 +1009,10 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
   - [Collection+JSON](http://amundsen.com/media-types/collection/);
   - [HAL](https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08#section-8.1)
 - [Schema.org](https://schema.org/), *Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for *structured data* on the Internet*. Propose une liste de schémas à suivre pour différents modèles de données
-- [Microformats wiki](http://microformats.org/wiki/Main_Page), un wiki qui décrit des specifications de structure de données interopérables 
+- [Microformats wiki](http://microformats.org/wiki/Main_Page), un wiki qui décrit des specifications de structure de données interopérables
 - [Design Guidelines](https://apistylebook.com/design/guidelines/), une liste filtrée de guidelines de design d'API publiées par plusieurs entreprises
 
-## Spécification OpenAPI 
+## Spécification OpenAPI
 
 - [La spécification OpenAPI](https://www.openapis.org/what-is-openapi) est une description formelle et standardisée d'une web API au format texte (JSON ou Yaml). Elle est maintenue et développée par l'[OpenAPI Initiative (OAI](https://www.openapis.org/about)), un consortium ouvert d'experts de l'industrie. Ce projet collaboratif est porté par la [Linux Foundation](https://www.linuxfoundation.org/).  
 - La spécification ouverte OpenAPI a été crée à l'origine par [Wordnik](https://en.wikipedia.org/wiki/Wordnik) en 2010, sous le nom de *Swagger specification*. [SmartBear Software](https://en.wikipedia.org/wiki/SmartBear_Software) et d'autres acteurs ont repris la spécification à partir de 2015. Le projet est devenu l'*OpenAPI Specification*.
@@ -1071,20 +1058,20 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [comp.lang.c Frequently Asked Questions (clc FAQ)](https://c-faq.com/index.html), faq sur le langage C, issue du groupe Usenet `comp.lang.c`. Composée et rafinée *depuis 1990*. A même [été publiée sous forme de livre par Addison-Wesley](https://c-faq.com/book/)
 - [The Definitive C Book Guide and List](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list), discussion sur StackOverflow sur les bons ouvrages pour apprendre le C à différents niveaux.
 - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html#), style guide C utilisé par les contributeurs de Linux
+- [The C Book, 2nd edition](https://publications.gbdirect.co.uk/c_book/), de Mike Banahan, Declan Brady et Mark Doran, publié originellement chez Addison Wesley, 1991. Disponible gratuitement en ligne.
 
 ### JavaScript
 
-- [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants. 
+- [p5js](https://p5js.org/), une librairie JavaScript open-source pour le code créatif. Avec un focus pour rendre le code accessible et inclusif pour les artistes, designers, formateurs, débutants.
 - [leaflet](https://leafletjs.com/SlavaUkraini/index.html), le projet open-source pour développer des cartes interactives et *mobile-friendly*.
 - [openlayers](https://openlayers.org/), bibliothèque pour couvrir les besoins en carthographie
 - [jquery](https://learn.jquery.com/using-jquery-core/), jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est *morte*. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été [suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6](https://t.co/H9mKDqtydF). Idéalement, dans un monde parfait, jquery *devrait* disparaître tout comme JavaScript *devrait* disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde *post-jquery*, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici [un tout petit dépôt](https://github.com/websealevel/doc-jquery) où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. <img width="400px" src="img/jquery.jpeg" alt="jQuery chilling"> ([source de l'image](https://twitter.com/aschmelyun/status/1537393046244892672))
 - [Vanilla JS](http://vanilla-js.com/), le site web qui promeut le *vanilla* JS
 
-
 ### Docker et conteneurs
 
 - [Un conteneur Linux, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/containers/whats-a-linux-container), publié par RedHat
-- [Docker Tag Guide | Purpose, Usage, and Examples](https://ioflood.com/blog/docker-tag-guide-purpose-usage-and-examples/), un article et guide sur la manière de tag correctement les images pour implémenter un versionnement sémantique 
+- [Docker Tag Guide | Purpose, Usage, and Examples](https://ioflood.com/blog/docker-tag-guide-purpose-usage-and-examples/), un article et guide sur la manière de tag correctement les images pour implémenter un versionnement sémantique
 - [Simplify the Smallest Possible Docker Image](https://medium.com/@adriaandejonge/simplify-the-smallest-possible-docker-image-62c0e0d342ef), de Adriaan de Jonge
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.smga9216i), de Kesley Highttower
 - [Best Practices Around Production Ready Web Apps with Docker Compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose), de [Nick Janetakis](https://nickjanetakis.com/about). Publié en 2021, des choses ont changé sur docker compose depuis mais reste pertinent sur de nombreux points
@@ -1108,7 +1095,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*, en local ou sur le web
 - [minimator](https://minimator.app/), un éditeur graphique SVG minimaliste dans le navigateur. Dessinez à l'aide d'une grille et exportez facilement votre svg
 - [dddraw](https://fffuel.co/dddraw/), un éditeur graphique SVG gratuit en ligne
-
+- [nomnoml](https://github.com/skanaar/nomnoml), un outil pour script le rendu de diagrammes UML
 
 ## Quelques SGBD
 
@@ -1118,14 +1105,13 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 - [Datomic](https://www.datomic.com/), un SGBD développé par [Rich Hickey](#rich-hickey). En plus de concevoir la base de données comme *une valeur* ce modèle incorpore le temps de manière native. Depuis avril 2023, [Datomic est accessible gratuitement](https://blog.datomic.com/2023/04/datomic-is-free.html)
 - [SQLite](https://www.sqlite.org/index.html), un SGBDR qui contrairement à la plupart des autres systèmes n'utilise pas l'architecture client/serveur et permet de disposer d'une base de données relationnelles dans un simple fichier. On peut utiliser [DB Browser for SQLite](https://sqlitebrowser.org/) pour avoir un gestionnaire et inspecteur de bases de données avec GUI.
 
-
 ## Modélisation de bases de données relationnelles
 
 - [Initiation à la conception de bases de données relationnelles avec MERISE](https://ineumann.developpez.com/tutoriels/merise/initiation-merise/)
 - [Petit guide d'analyse des données à l'aide de la méthode MERISE](https://sqlpro.developpez.com/cours/modelisation/merise/), par Frédéric Brouard
 - [Règle de gestion bien écrite => Modélisation des données facile](https://blog.developpez.com/cinephil/p10397/bases-de-donnees/regle_de_gestion_bien_ecrite_g_modelisat), par CinéPhil, modérateur actif de developpez.com
 - [Le Dictionnaire des données](https://www.univ-constantine2.dz/CoursOnLine/Benelhadj-Mohamed/co/grain3_2.html), article utile de Pr. Nacer-Eddine Zarour et Dr. Mohamed El Hadi Benelhadj sur l'écriture du dictionnaire de données
-- [Associations réflexives](http://cours.thirion.free.fr/Cours/Merise/Asso-Refl-Cours.php), très bonne page web sur les associations réflexives en Merise, par E. Thirion 
+- [Associations réflexives](http://cours.thirion.free.fr/Cours/Merise/Asso-Refl-Cours.php), très bonne page web sur les associations réflexives en Merise, par E. Thirion
 - [Normalisation des noms des objets des bases de données](https://sqlpro.developpez.com/cours/standards/), une proposition de standardisation interne à l'organisation de l'ensemble des éléments composant une base de données, par Frédéric Brouard. Propose un standard sur le nommage, les domaines de validité, la documentation, l'ergonomie et l'écriture des requêtes. Indépendant du SGBDR. Ne pas hésiter à s'en servir.
 - [La méthode MERISE](http://tcosnuau.free.fr/COURS/MERISE/MERISE.HTM), par tcosnuau
 - [Clefs auto-incrémentées](https://sqlpro.developpez.com/cours/clefs/), article complet de Brouard sur la génération de la valeur des clefs primaires permettant d'identifier chaque enregisterment de manière unique dans une table
@@ -1167,15 +1153,15 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 Voir aussi [les approches radicales et les fondements du web](#fondamentaux-radical)
 
-- [Comment minimiser l’impact des vidéos dans nos sites web ?](https://www.editions-eni.fr/blog/comment-minimiser-limpact-des-videos-dans-nos-sites-web/), un excellent article d'[Hervé Boisgontier](https://www.editions-eni.fr/herve-boisgontier) et Boris Butaeye sur les moyens à mettre en oeuvre pour limiter l'impact environnemental des contenus vidéos distribués sur le web. 
-
+- [Comment minimiser l’impact des vidéos dans nos sites web ?](https://www.editions-eni.fr/blog/comment-minimiser-limpact-des-videos-dans-nos-sites-web/), un excellent article d'[Hervé Boisgontier](https://www.editions-eni.fr/herve-boisgontier) et Boris Butaeye sur les moyens à mettre en oeuvre pour limiter l'impact environnemental des contenus vidéos distribués sur le web.
 
 ## Programmation fonctionnelle
 
 ### Général
 
-- [Eric Normand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet.
+- [Introduction to Functional Programming (1996)](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/), par John Harisson
 - [Mostly adequate guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+- [Eric Normand](https://ericnormand.me/), Eric Normand est une référence en programmation fonctionnelle, en tant que développeur mais aussi professeur. Il a écrit des livres de qualité sur le sujet.
 
 ### Haskell
 
@@ -1186,7 +1172,7 @@ Voir ce [bouquin de référence](#haskell-1).
 
 ### Clojure
 
-- [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
+- [Clojure for the Brave and True](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
 - [clojuredocs](https://clojuredocs.org/), un dépôt regroupant documentation et exemples pour Clojure
 - [How to earn your Clojure white belt](https://www.notamonadtutorial.com/how-to-earn-your-clojure-white-belt/)
 - [4clojure](https://4clojure.oxal.org/), un site d'exercice classer par difficulté pour apprendre Clojure
@@ -1214,13 +1200,12 @@ Apprenez à coder via des défis
 - [Root Me](https://www.root-me.org/?lang=fr), testez vos compétences en hacking
 - [Sad Servers](https://sadservers.com/), like leetcode for linux
 - [codewars](https://www.codewars.com/), affutez votre lame en réalisant/publiant des katas
-- [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme 
+- [codinGame](https://www.codingame.com/start), on ne présente plus cette plateforme
 - [Flexbox froggy](https://flexboxfroggy.com/#fr), apprendre CSS flexbox via des challenges
 - [Flexbox defense](http://www.flexboxdefense.com/), un tower defense où l'on joue en CSS
 - [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/), un jeu pour apprendre Tailwind CSS
 - [Guess CSS](https://www.guess-css.app/), deviner le HTML/CSS utilisés dans des puzzle games
-- [Tenix](https://tainix.fr/), challenges originaux et corrigés pédagogiques pour découvrir de nouveaux concepts et progresser. PHP, javascript et Python. 
-
+- [Tenix](https://tainix.fr/), challenges originaux et corrigés pédagogiques pour découvrir de nouveaux concepts et progresser. PHP, javascript et Python.
 
 ## Markdown
 
@@ -1228,9 +1213,9 @@ Apprenez à coder via des défis
 
 Le [Markdown](https://daringfireball.net/projects/markdown/) est tout simplement le meilleur format pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. *Facile à lire, facile à écrire*. Il a été pensé originellement pour écrire *pour* le web.
 
-Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.). C'est *le markup ultime pour écrire*, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web. Markdown refait apprécier le goût du *web* : *content first*, les hyperliens et un processus de publication simple et facile. 
+Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.). C'est *le markup ultime pour écrire*, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web. Markdown refait apprécier le goût du *web* : *content first*, les hyperliens et un processus de publication simple et facile.
 
-Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place à de nombreuses implémentations différentes. 
+Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place à de nombreuses implémentations différentes.
 
 - [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations), les différentes implémentations ou *parsers* Markdown
 - [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
@@ -1243,7 +1228,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 ## Présentations (slides) avec Markdown
 
 - [pandoc](https://pandoc.org/MANUAL.html#slide-shows), créer une présentation directement avec pandoc
-- [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/), 
+- [Marp](https://marp.app/), créer ses diapos dans un écosystème full Markdown. Réutiliser ainsi facilement le contenu structuré de vos présentations pour les publier en PDF ou HTML, ou inversement. Basé sur [Marpit](https://marpit.marp.app/),
 - [poc Marp](https://github.com/websealevel/poc-marp), un dépôt simple qui sert de référence sur l'usage de Marp
 - [Revealjs](https://revealjs.com/), un autre outil, plus lourd mais permettant de faire des présentations plus complexes, basé sur javascript. créer des présentations pour le web mais pas que. Et surtout générer des présentations directement à partir de vos notes en Markdown.
 - [Slides](https://slides.com/), si vous êtes plutôt éditeur graphique/GUI, Slides est une application web qui vous permet de créer vos présentations à la main grâce à un éditeur de qualité, et vous les heberge en ligne.
@@ -1293,7 +1278,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 
 ### `wwb` (et descendants)
 
-[writer's workbench (wwb)](https://en.wikipedia.org/wiki/Writer%27s_Workbench) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par [Lorinda Cherry](https://en.wikipedia.org/wiki/Lorinda_Cherry) et Nina Macdonald. [Cet outil a aidé le groupe UNIX à produire de la documentation technique et des documents de meilleure qualité](https://dspinellis.github.io/oral-history-of-unix/frs122/unixhist/text.htm). Un article complet y a été consacré dans le magazine [*Byte*](https://fr.wikipedia.org/wiki/Byte_(magazine)) en 1983. [Vous pouvez y accéder grâce au précieux travail d'Internet Archive](https://archive.org/details/byte-magazine-1983-10/page/n241/mode/2up). Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme [spell](https://manpages.debian.org/bookworm/spell/spell.1.en.html), [style](https://manpages.debian.org/bookworm/diction/style.1.en.html) et [diction](https://manpages.debian.org/bookworm/diction/diction.1.en.html). Une version en ligne est également accessible [via ce site web](https://www.writersworkbench.com/index.html). 
+[writer's workbench (wwb)](https://en.wikipedia.org/wiki/Writer%27s_Workbench) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par [Lorinda Cherry](https://en.wikipedia.org/wiki/Lorinda_Cherry) et Nina Macdonald. [Cet outil a aidé le groupe UNIX à produire de la documentation technique et des documents de meilleure qualité](https://dspinellis.github.io/oral-history-of-unix/frs122/unixhist/text.htm). Un article complet y a été consacré dans le magazine [*Byte*](https://fr.wikipedia.org/wiki/Byte_(magazine)) en 1983. [Vous pouvez y accéder grâce au précieux travail d'Internet Archive](https://archive.org/details/byte-magazine-1983-10/page/n241/mode/2up). Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme [spell](https://manpages.debian.org/bookworm/spell/spell.1.en.html), [style](https://manpages.debian.org/bookworm/diction/style.1.en.html) et [diction](https://manpages.debian.org/bookworm/diction/diction.1.en.html). Une version en ligne est également accessible [via ce site web](https://www.writersworkbench.com/index.html).
 
 ### Manipulation de fichiers, documents
 
@@ -1305,7 +1290,6 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 - [ImageMagick](https://imagemagick.org/index.php), L'éditeur d'images par excellence. Exemple, convertir une image en pdf au format A4 `convert input.jpg -page a4 output.pdf`
 - [pdftk (the pdf toolkit)](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): concaténer/découper des pdf. Par exemple `pdftk input1.pdf input2.pdf output.pdf`
 
-
 #### Compresser, optimiser des documents (images, pdf etc..)
 
 - [jpegoptim](https://github.com/tjko/jpegoptim), un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : `jpegoptim -m50 *.jpeg` va compresser tous les fichiers `.jpeg` du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel `man jpegoptim`
@@ -1313,7 +1297,6 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 #### Capture vidéo, audio
 
 - [simplescreenrecorder](https://www.maartenbaert.be/simplescreenrecorder/), excellent logiciel libre de capture vidéo/audio (screencast), développé par Maarten Baert. Très simple à utiliser et à configurer
-
 
 ## IA Génératives
 
@@ -1366,12 +1349,17 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 
 ### Tcl/Tk
 
-[Tcl](https://www.tcl.tk/) (Tool Command language) est un langage open-source versatile permettant de développer des applications Desktop, web, CLI, etc. Il vient avec Tk, un GUI toolkit pour développer des applications natives pour toutes les plateformes. [Visiter le wiki](https://wiki.tcl-lang.org/welcome) pour en savoir plus. 
+[Tcl](https://www.tcl.tk/) (Tool Command language) est un langage open-source versatile permettant de développer des applications Desktop, web, CLI, etc. Il vient avec Tk, un GUI toolkit pour développer des applications natives pour toutes les plateformes. [Visiter le wiki](https://wiki.tcl-lang.org/welcome) pour en savoir plus.
+
+### Mumps/M
+
+- [MUMPS (Massachusetts General Hospital Utility Multi-Programming System)](https://fr.wikipedia.org/wiki/MUMPS), langage et environnement complet pour la production d'application multi-utilisateurs à destination organismes de santé (toujours utilisé par de nombreux hopitaux notamment aux USA).
+- [Implémentation open source du standard](https://gitlab.com/Reference-Standard-M/rsm), une implémentation du langage de programmation M et de la base de données associée, qui met en œuvre la dernière norme M publiée par le M Development Committee (MDC)
+- Regarder l'excellente vidéo YouTube d'[Asianometry](https://www.youtube.com/@Asianometry) sur le sujet :  [The Curious Database Powering America's Hospitals](https://www.youtube.com/watch?v=7g1K-tLEATw)
 
 ## RGPD
 
 - [Guide RGPD du développeur](https://www.cnil.fr/fr/guide-rgpd-du-developpeur), le guide pour rendre son système en accord avec les principes règlementaires du RGPD, publié par la CNIL
-
 
 ## Blog design
 
@@ -1381,11 +1369,11 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 - [Ideas for my dream CMS](https://daverupert.com/2024/04/ideas-for-my-dream-cms/), de Dave Rupert
 - [What Would My Dream CMS Be?](https://kevquirk.com/what-would-my-dream-cms-be), de Kev Quirk
 - [Write that Blog ! Sam Rose on Technical Blogging](https://writethatblog.substack.com/p/sam-rose-on-technical-blogging)
-
+- [Statische Site Generators](https://janvandenberg.blog/statische-site-generators/), de Jan van den Berg. Et si les générateurs de sites statiques n'étaient pas si simples que cela ?
 
 ## Livres
 
-Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez. 
+Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **site indispensable**, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez.
 
 > Si un livre vous parle, il est utile de s'en procurer une copie pour l'avoir à portée, le feuilleter, l'annoter, y placer des marque-pages, etc. et *vivre* avec.
 
@@ -1396,7 +1384,7 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 - [The C programming language](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1oonwoY6DAxWXVaQEHeA2D0AQFnoECA4QAQ&url=https%3A%2F%2Fkremlin.cc%2Fk%26r.pdf&usg=AOvVaw1XViDREs3vL9rDBT9kwwuN&opi=89978449), *the white book*, écrit par les deux géants [Dennis Ritchie](https://fr.wikipedia.org/wiki/Dennis_Ritchie), créateur du langage et [Brian Kernighan](https://fr.wikipedia.org/wiki/Brian_Kernighan), publié chez Prentice Hall, 1978. Le livre décrit, avec un ton unique, tout le langage C avec des exemples et la concision des grandes heures. La tout première référence sur le langage C. A noter que l'ouvrage a eu droit à une deuxième édition dix ans plus tard (1988), lorsque le langage C a été normalisé par l'[ANSI](https://fr.wikipedia.org/wiki/American_National_Standards_Institute) (1989) sous le nom équivoque d'*ANSI C*.
 - [Programmation: Concepts, techniques et modèles](https://www.info.ucl.ac.be/~pvr/coursfrancais.html), écrit par [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) et Seif Haridi, traduction française publiée chez Dunod, 2007. Un livre fondamental sur les principes de la programmation. Excellent support pour réaliser de nombreux cours sur la programmation (cours, exercices, tp). Peter Van Roy a également initié le développement de [la plateforme Mozart](http://mozart2.org/), un environnemment de développement dédié à la pédagogie et à la recherche
 - [Designing data intensive applications](https://www.pdfdrive.com/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems-e167514656.html), de Martin Kleppmann, publié chez O'Reilly, 2017.
-- [RESTful Web Services](https://learning.oreilly.com/library/view/restful-web-services/9780596529260/), de Leonard Richardson, Sam Ruby, O'Reilly, 2007. S'il y a un livre à lire/étudier/feuilleter/avoir sur REST c'est celui-ci. Ce livre est passé sous licence *Creative Commons* dans le cadre du projet [O'Reilly Open Books](https://www.oreilly.com/openbook/). [Accéder à la version en ligne/PDF gratuite](http://restfulwebapis.org/rws.html) 
+- [RESTful Web Services](https://learning.oreilly.com/library/view/restful-web-services/9780596529260/), de Leonard Richardson, Sam Ruby, O'Reilly, 2007. S'il y a un livre à lire/étudier/feuilleter/avoir sur REST c'est celui-ci. Ce livre est passé sous licence *Creative Commons* dans le cadre du projet [O'Reilly Open Books](https://www.oreilly.com/openbook/). [Accéder à la version en ligne/PDF gratuite](http://restfulwebapis.org/rws.html)
 - [Algorithms + Data Structures = Programs](https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs), de [Niklaus Writh](https://en.wikipedia.org/wiki/Niklaus_Wirth), publié chez Prentice Hall, 1976.
 - [The Art of Computer Programming (TAOCP)](https://cs.stanford.edu/~knuth/taocp.html), de Donald E. Knuth, publié chez Addison-Wesley, 1968-1969
 - [Software Engineering, Tenth Edition](https://software-engineering-book.com/), un livre canonique sur l'architecture logicielle et l'ingénieurie logicielle (conduite de grands projets informatiques), de [Ian Sommerville](https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer))
@@ -1414,16 +1402,15 @@ Allez fouiller sur [welib.org (anciennement pdfdrive)](https://welib.org/), **si
 
 ### Spécifications, design
 
-- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils **LP++** 
+- [Structured Analysis and System Specification](https://welib.org/search?page=1&q=Structured+Analysis+and+System+Specification), de [Tom DeMarco](https://en.wikipedia.org/wiki/Tom_DeMarco), publié chez Pentice Hall (1978). Un joyau. Ce livre remarquable et concis sur les méthodes et outils pour la spécification de systèmes informatiques (*Structured analysis*). Pour mieux comprendre et utilise les *Data Flow Diagrams* et autres outils **LP++**
 - [More About Software Requirements: Thorny Issues and Practical Advice](https://welib.org/search?page=1&q=More+About+Software+Requirements%3A+Thorny+Issues+and+Practic), de Karl Wiegers, publié par Microsoft (2011)
 - [Expression des besoins pour le SI : Guide d'élaboration du cahier des charges](https://www.scholarvox.com/catalog/book/docid/88935607?searchterm=Expression%20des%20besoins%20pour%20le%20SI), d'Yves Constantinidis, publié chez Eyrolles (2022). Un classique qui vous donne un ensemble d'outils, de conseils pratiques éprouvées pour recueillir et formaliser les besoins. **LP++**
 - [De Merise à UML, 2nd Edition](https://www.eyrolles.com/Informatique/Livre/de-merise-a-uml-9782212110319/), publié chez Eyrolles (2001)
 - [The Design of Design: Essays from a Computer Scientist](https://welib.org/search?page=1&q=the+design+of+design), de P. Jr. Brooks, publié chez Pearson Education (2010). **LP++**
 
-
 ### Base de données
 
-- [Database Systems : The Complete Book, 2nd edition](https://people.inf.elte.hu/kiss/DB/ullman_the_complete_book.pdf), du Department of Computer Science Stanford University, publié par *Pearson Prentice Hall*. Basé sur les cours dispensés à Standford. Distribué gratuitement. **LP++** 
+- [Database Systems : The Complete Book, 2nd edition](https://people.inf.elte.hu/kiss/DB/ullman_the_complete_book.pdf), du Department of Computer Science Stanford University, publié par *Pearson Prentice Hall*. Basé sur les cours dispensés à Standford. Distribué gratuitement. **LP++**
 - [Database system concepts, 7th edition](https://welib.org/search?page=1&q=database+system), de A., Korth H.F., Sudarshan S, publié chez McGraw-Hill international edition
 - [Modélisation des bases de données : UML et les modèles entité-association](https://www.eyrolles.com/Informatique/Livre/modelisation-des-bases-de-donnees-9782416007507/), de Christian Soutou (et Frédéric Brouard), publié chez Eyrolles (2022). S'il y a un livre francophone à se procurer sur la conception de bases de données relationnelles, c'est celui-ci. Une référence. **LP++**
 
@@ -1442,7 +1429,7 @@ Les livres de [Peter Morville](https://fr.wikipedia.org/wiki/Peter_Morville), un
 - [The Web Application Hackers Handbook](https://www.amazon.fr/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470), de  Dafydd Stuttard et Marcus Pinto, publié chez John Wiley & Sons Inc, 2011. LE+
 - [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.fr/dp/1593271441/), de Jon Erickson, publié chez No Starch Press, 2008. LE++
 - [Writing secure code, 2nd edition](https://www.amazon.com/Writing-Secure-Second-Developer-Practices/dp/0735617228), de  Michael Howard et David LeBlanc, publié chez Microsoft Press, 2003. LP++
-- [Threat Modeling: Designing for Security, 1st Edition ](https://www.amazon.fr/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998), d'Adam Shostack, publié chez Wiley, 2014. LI++. Voir également l'introduction au *threat modeling* dans le chapitre 4 de *Writing Secure code* 
+- [Threat Modeling: Designing for Security, 1st Edition](https://www.amazon.fr/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998), d'Adam Shostack, publié chez Wiley, 2014. LI++. Voir également l'introduction au *threat modeling* dans le chapitre 4 de *Writing Secure code*
 
 ### Sysadmin
 
@@ -1470,13 +1457,13 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### Clojure
 
-- [Clojure for the Brave and True ](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
+- [Clojure for the Brave and True](https://www.braveclojure.com/foreword/), un livre complet, hyper pédagogique, accessible en ligne pour s'initier à la programmation fonctionnelle avec Clojure.
 
 #### Common Lisp
 
 - [COMMON LISP: An Interactive Approach](https://cse.buffalo.edu/~shapiro/Commonlisp/), de Stuart C. Shapiro
 - [Practical Common Lisp](https://gigamonkeys.com/book/), de Peter Seibel, publié chez Apress, 2005
-- [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html), de Guy L. Steele, publié che HP technologies 
+- [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html), de Guy L. Steele, publié che HP technologies
 - [ANSI Common Lisp](https://www.paulgraham.com/acl.html), de Paul Graham, publié chez Prentice Hall, 1995,
 
 #### Scheme
@@ -1515,8 +1502,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 ### IA, LLMs
 
-- [Co-intelligence - Vivre et travailler avec l'IA ](https://passy.librairiesfontaine.com/livre/24302811-co-intelligence-vivre-et-travailler-avec-l-ia-ethan-mollick-first-interactive)
-
+- [Co-intelligence - Vivre et travailler avec l'IA](https://passy.librairiesfontaine.com/livre/24302811-co-intelligence-vivre-et-travailler-avec-l-ia-ethan-mollick-first-interactive)
 
 ## *Hacker* culture, Unix
 
@@ -1525,11 +1511,9 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [Eric's Random Writings](http://www.catb.org/~esr/writings/), la liste des textes et essais publiés par Eric S Raymond, célèbre hacker, porteur du mouvement open-source et auteur de l'essai [La cathédrale et le bazar](http://www.catb.org/~esr/writings/cathedral-bazaar/), une synthèse sur la dynamique, la culture et les principes des hackers dans le mouvement de l'open source
 - [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/), d'Eric Steven Raymond, 2003
 
-
 ## Éducation, outils/langages pour initier à la programmation
 
 - [1,2,3... codez !](https://fondation-lamap.org/projet/123-codez#guide), Le projet « 1, 2, 3… codez ! » vise à initier élèves et enseignants aux sciences informatiques, de la maternelle au collège. Il propose à la fois des activités branchées (nécessitant un ordinateur, une tablette ou un robot) permettant d’introduire les bases de la programmation et des activités débranchées (informatique sans ordinateur) permettant d’aborder des concepts de base de la science informatique (algorithme, langage, représentation de l’information…)
-
 
 ## Compilateurs, interpréteurs
 
@@ -1540,15 +1524,15 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ## Mathématiques, mathématiques et informatique et autres aspects *bas niveau*
 
 - [That XOR Trick](https://florian.github.io//xor-trick/), de Florian Hartmann
-- [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007 
+- [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
 - [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](https://www.amazon.fr/Annotated-Turing-Turing%E2%80%B2s-Historic-Computability/dp/0470229055), de Charles Petzold, publié chez Wiley, 2008. Un excellent livre qui accompagne le lecteur dans le papier fondateur de Turing de 36 pages sur le fondement de l'informatique. Passionnant  
 - [Méthodes mathématiques pour l'informatique - 5e édition](https://www.dunod.com/sciences-techniques/methodes-mathematiques-pour-informatique-cours-et-exercices-corriges), Jacques Vélu, Geneviève Avérous, publié chez Dunod, 2019. Ce manuel explique en profondeur tous les thèmes qui constituent le socle des connaissances mathématiques indispensables à tout informaticien. Avec exercices corrigés.
 - [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf), de Bartosz Milewski
 - [200+ Useful Free Math Books for Lifelong Learners](https://abakcus.com/useful-free-math-books-for-lifelong-learners/), un catalogue de livre téléchargeables gratuitement sur différents sujets de mathématiques (analyse, géométrie, mathématiques discrètes, algèbre, etc.)
-- [Calculus Made Easy](http://calculusmadeeasy.org/), de Silvanus P. Thompson. Une introduction accessible à l'analyse mathématique 
+- [Calculus Made Easy](http://calculusmadeeasy.org/), de Silvanus P. Thompson. Une introduction accessible à l'analyse mathématique
 - [tiny-gpu](https://github.com/adam-maj/tiny-gpu), une implémentation GPU minimale pour apprendre le fonctionnement des GPU
-- [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/) 
+- [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/), ensemble d'articles sur les stratégies d'allocation mémoire, de [Ginger Bill](https://www.gingerbill.org/)
 - [MIT's "Mathematics for Computer Science". (PDF)](https://t.co/nBGwfsUM2G), cours compilé en PDF
 - [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/), apprendre à apprendre
 - [A brief introduction to interval arithmetic](https://buttondown.com/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
@@ -1559,9 +1543,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [Malette pédagogique (EduServices)](https://view.genial.ly/63218dc0e4749a0011f32037/guide-la-mallette-pedagogique), une collection de ressources pour former un kit de départ pour la formation
 - [Pratiques pédagogiques et méthodologiques](https://www.reseau-canope.fr/pratiques-pedagogiques-et-methodologiques), publié par le réseau canopé (tutelle du Ministère de l'Éducation Nationale);
 - [Du « formateur-transmetteur » au « formateur-facilitateur » : cela change quoi ?](https://www.blog-formation-entreprise.fr/formateur-transmetteur-formateur-facilitateur-quest-change/), Marc Dennery
-
-
-
+- [Pratiques pédagogiques et méthodologiques](https://www.reseau-canope.fr/pratiques-pedagogiques-et-methodologiques), publié par le [réseau CANOPÉ](https://www.reseau-canope.fr/)
 
 ## En vrac
 
@@ -1569,9 +1551,10 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### IA génératives, LLMs : reflexions et ressources utiles
 
+- [The Future Of Refactoring, Part 1 : Meta-Dialog with AI](https://alexbunardzic.substack.com/p/the-future-of-refactoring-part-1), d'Alex Bunardzic
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay), de Charity Majors
 - [Quick but worthwhile links](https://martinfowler.com/articles/20250806-links.html), compilation d'articles sur l'usage de l'IA en informatique, Martin Fowler
-- [Déléguer la lecture à l’IA : quels savoirs et plaisirs sacrifions-nous ? ](https://theconversation.com/deleguer-la-lecture-a-lia-quels-savoirs-et-plaisirs-sacrifions-nous-263282), de Naomi S. Baron (Professor Emerita of Linguistics, American University), sur [theconversation.com](https://theconversation.com/fr)
+- [Déléguer la lecture à l’IA : quels savoirs et plaisirs sacrifions-nous ?](https://theconversation.com/deleguer-la-lecture-a-lia-quels-savoirs-et-plaisirs-sacrifions-nous-263282), de Naomi S. Baron (Professor Emerita of Linguistics, American University), sur [theconversation.com](https://theconversation.com/fr)
 - [Une utilisation fréquente de l'IA, comme ChatGPT, dans les cours de programmation est corrélée à une baisse des notes des étudiants, car elle nuit à l'apprentissage approfondi et à la pensée critique](https://intelligence-artificielle.developpez.com/actu/375553/Une-utilisation-frequente-de-l-IA-comme-ChatGPT-dans-les-cours-de-programmation-est-correlee-a-une-baisse-des-notes-des-etudiants-car-elle-nuit-a-l-apprentissage-approfondi-et-a-la-pensee-critique/), de Jade Emy, developpez.com
 - [I’m a High Schooler. AI Is Demolishing My Education.](https://www.theatlantic.com/technology/archive/2025/09/high-school-student-ai-education/684088/), par Ashanty Rosario. Retour d'experience d'un enseignant à l'arrivée de l'usage de l'IA générative en salle de cours
 - [Why Prompt Engineering Should Not Be Taken Seriously](https://msukhareva.substack.com/p/why-prompt-engineering-should-not), de Maria Sukhareva
@@ -1580,7 +1563,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [L'IA fabrique-t-elle des développeurs incapables de coder par eux-mêmes ?](https://www-programmez-com.cdn.ampproject.org/c/s/www.programmez.com/actualites/lia-fabrique-t-elle-des-developpeurs-incapables-de-coder-par-eux-memes-37466?amp), un article du journal [programmez.com](https://www.programmez.com/)
 - [Un professeur d'informatique du MIT teste l'impact de l'IA sur la formation des programmeurs : « Il faut toujours les bases pour être des informaticiens et des ingénieurs logiciels efficaces »](https://intelligence-artificielle.developpez.com/actu/362467/Un-professeur-d-informatique-du-MIT-teste-l-impact-de-l-IA-sur-la-formation-des-programmeurs-Il-faut-toujours-les-bases-pour-etre-des-informaticiens-et-des-ingenieurs-logiciels-efficaces/), publié par developpez.com
 - [Les détecteurs d'IA obligent les étudiants à adopter un style d'écriture dépourvu d'originalité pour éviter d'être accusés de tricherie](https://intelligence-artificielle.developpez.com/actu/362403/Les-detecteurs-d-IA-obligent-les-etudiants-a-adopter-un-style-d-ecriture-depourvu-d-originalite-pour-eviter-d-etre-accuses-de-tricherie-l-essor-de-ces-outils-cause-des-problemes-inattendus/), publié par developpez.com
-- [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com 
+- [Les mainteneurs de logiciels libres sont noyés dans des rapports de bogues inutiles rédigés par l'IA.](https://intelligence-artificielle.developpez.com/actu/365686/Les-mainteneurs-de-logiciels-libres-sont-noyes-dans-des-rapports-de-bogues-inutiles-rediges-par-l-IA-Ces-systemes-ne-sont-pas-encore-capable-de-comprendre-le-code-estime-un-developpeur/), publié par developpez.com
 - [Les assistants d'IA de codage font-ils vraiment gagner du temps aux développeurs ? Une étude suggère que ces outils n'augmentent pas la vitesse de codage, mais augmentent significativement le taux de bogues](https://intelligence-artificielle.developpez.com/actu/363279/Les-assistants-d-IA-de-codage-font-ils-vraiment-gagner-du-temps-aux-developpeurs-Une-etude-suggere-que-ces-outils-n-augmentent-pas-la-vitesse-de-codage-mais-augmentent-significativement-le-taux-de-bogues/), de Mathis Lucas
 - [“Wait, not like that”: Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
 - [Pourquoi je n’utilise pas ChatGPT](https://academia.hypotheses.org/58766), de  Florence Maraninchi, enseignante-chercheuse en informatique
@@ -1588,7 +1571,12 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### Partage d'experiences, argumentaires, essais
 
-- [The Curse and Blessings of Dynamic SQL ](https://www.sommarskog.se/dynamic_sql.html), d'Erland Sommarskog
+- [La gestion des erreurs côté front : approches modernes avec JavaScript, TypeScript et React](https://les-tilleuls.coop/blog/la-gestion-des-erreurs-cote-front-approches-modernes-avec-javascript-typescript-et-react), publié par Fabien Kovacic , Les-Tilleuls.coop
+- [Developer Productivity Metrics: Education Necessary](https://tidyfirst.substack.com/p/developer-productivity-metrics-education), Kent Beck, Abi Noda
+- [Écologie, performance et coûts – un comparatif PostGreSQL vs SQL Server](http://mssqlserver.fr/ecologie-performance-et-couts-un-comparatif-postgresql-vs-sql-server/), de SQLPro
+- [Threat Modeling Guide for Software Teams : Secure software — design little and often](https://martinfowler.com/articles/agile-threat-modelling.html), de [Gayathri Mohan](https://www.linkedin.com/in/gaya3manoj/), sur le blog de [Martin Fowler](https://martinfowler.com/tags/)
+- [Email Is Amazing, but People Try Their Best to Ruin It.](https://thatalexguy.dev/posts/my-love-of-email/), d'Alex White. Utiliser les emails pour avoir des longues conversations intéressantes, dans le temps long, pour entretenir une correspondance
+- [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html), d'Erland Sommarskog
 - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html), d'Alex Molas
 - [Écrire des scénarios de test de charge performants : le guide étape par étape](https://bearstech.com/blog/ecrire-des-scenarios-de-test-de-charge-performants-le-guide-etape-par-etape), de L'équipe Bearstech
 - [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), Joel Spolsky
@@ -1599,13 +1587,13 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/), retour d'experience sur l'amélioration des performances des backups et pourquoi c'est important
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler), retour d'experience sur l'écriture de compilateurs, par [Fernando Boretti](https://borretti.me/)
 - [How I stopped worrying and loved Makefiles](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), de [Tomasz Gągor](https://gagor.pro/about/)
-- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity ](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la *hype* autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge de la demande
+- [Scaling One Million Checkboxes to 650,000,000 checks : Dealing with unexpected popularity](https://eieio.games/essays/scaling-one-million-checkboxes/). Article intéressant de [Nolen Royalty](https://eieio.games/) revenant sur la *hype* autour de son site [One Million Checboxes](https://onemillioncheckboxes.com/) (désormais désactivé) et sur comment il a du l'adapter pour qu'il puisse encaisser la montée en charge de la demande
 - [Docker en production : le cas d'usage de Bearstech](https://bearstech.com/societe/blog/docker-en-production-le-cas-dusage-de-bearstech/), Bearstech expose dans cet article les principales raisons pour lesquelles ils ne font pas le choix de Docker pour les environnements de production
 - [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html), de Geoff Wozniak
 - [Migrating a 2TB database in 7.5 minutes](https://usefathom.com/blog/migrating-our-database)
 - [When Imperfect Systems are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
-- [Death By a Thousand Microservices ](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices. **LP++**
-- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers ](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL. **LP++**
+- [Death By a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html), d'Andrei Taranchenko. Retours et critiques de l'architecture microservices. **LP++**
+- [Your Database Skills Are Not 'Good to Have' and a hateful ode to Object-Relational Mappers](https://renegadeotter.com/2023/11/12/your-database-skills-are-not-good-to-have.html), de Andrei Taranchenko. Apprenez à vous servir de SQL. **LP++**
 - [Use plaintext email](https://useplaintext.email/)
 - [XML is the future](https://www.bitecode.dev/p/hype-cycles), de Bite Code, sur les cycles de *hype*
 - [Git Workflows for API Technical Writers](https://bump.sh/blog/git-workflows-for-api-technical-writers/), comment maintenir la documentation d'une API cohérente
@@ -1613,6 +1601,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### Design
 
+- [Clean Code or Dirty code ? Afup Day Poitiers 2024](https://fr.slideshare.net/slideshow/clean-code-or-dirty-code-afup-day-poitiers-2024/269390098), slides de Frederic Bouchery
 - [Learnable Programming : Designing a programming system for understanding programs](https://worrydream.com/LearnableProgramming/), de Bret Victor
 - [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html), de Joe Armstrong. Qu'est ce que *réellement* un MVP ? Illustration éloquente avec *The Erlang Ticket System*. **LP++**
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), de  Joel Spolsky. Sur le contrôle des imperfections de nos abstractions
@@ -1621,8 +1610,8 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction), de Fernando Hurtado Cardenas;
 - [“Best” Practices Ain’t...](https://tidyfirst.substack.com/p/best-practices-aint?triedRedirect=true), de Kent Beck
 - [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple=)
-- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html) 
-- [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée 
+- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
+- [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html?m=1), de Dan Maksimovich. Sur pourquoi il ne faut pas appliquer la stratégie *Don't Repeat Yourself* (DRY) de manière prématurée et inconsidérée
 - [\[Always use \[closed, open) intervals](https://fhur.me/posts/always-use-closed-open-intervals), de [Fernando Hurtado Cardenas](https://fhur.me/). **LP++**
 - [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html), de Ted Neward
 - [Reducing Coupling, Martin Fowler](https://martinfowler.com/ieeeSoftware/coupling.pdf)
@@ -1633,18 +1622,18 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### Misc et à classer
 
-- [How modern browsers work](https://addyo.substack.com/p/how-modern-browsers-work), comment fonctionnent vraiment les navigateurs (modèle détaillé), par Addy Osmani 
+- [How modern browsers work](https://addyo.substack.com/p/how-modern-browsers-work), comment fonctionnent vraiment les navigateurs (modèle détaillé), par Addy Osmani
 - [Richard Feynman and The Connection Machine](https://longnow.org/ideas/richard-feynman-and-the-connection-machine/), un article vraiment passionant de Danny Hillis, qui retrace l'implication du célèbre physicien et professeur Richard Feynman dans le développement de la [Connection Machine](https://en.wikipedia.org/wiki/Connection_Machine), pionniere dans les machines de traitement massivement parallèle. **LP++**
 - [Computing (Concepts)](https://booch.com/computing/concepts.html), dictionnaire des concepts de l'informatique par Booch
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge), sur le processus de debugage
 - [Say Your Writing](https://martinfowler.com/bliki/SayYourWriting.html), de Martin Fowler. Conseils pour celleux qui écrivent
 - [Efficient Data Handling in PHP with Generators](https://sandeeppant.medium.com/efficient-data-handling-in-php-with-generators-dad0cbfb063c), sur l'usage des générateurs pour un programme performant
 - [The Trough of Despair](https://tidyfirst.substack.com/p/the-trough-of-despair), de Kent Beck
-- [Un rapport sur le financement des logiciels open source révèle que 86 % des contributions des entreprises correspondent au temps de travail des employés](https://linux.developpez.com/actu/366078/Un-rapport-sur-le-financement-des-logiciels-open-source-revele-que-86-pourcent-des-contributions-des-entreprises-correspondent-au-temps-de-travail-des-employes/), publié par developpez.com 
+- [Un rapport sur le financement des logiciels open source révèle que 86 % des contributions des entreprises correspondent au temps de travail des employés](https://linux.developpez.com/actu/366078/Un-rapport-sur-le-financement-des-logiciels-open-source-revele-que-86-pourcent-des-contributions-des-entreprises-correspondent-au-temps-de-travail-des-employes/), publié par developpez.com
 - [Happy 50th birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/), de Geoff Huston
 - [Qu’est-ce que la dette technique ? Comment la maîtriser ?](https://www.premaccess.com/qu-est-ce-que-dette-technique-comment-la-maitriser/)
 - [Une étude révèle que les correctifs apportés aux logiciels automobiles représentent désormais plus de 20 % des rappels,](https://embarque.developpez.com/actu/363226/Une-etude-revele-que-les-correctifs-apportes-aux-logiciels-automobiles-representent-desormais-plus-de-20-pourcent-des-rappels-les-defaillances-logicielles-s-accelerent-et-compromettent-la-securite-des-vehicules/), de Mathis Lucas
-- [Developer Task Automation – It’s Easier Than You Think ](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
+- [Developer Task Automation – It’s Easier Than You Think](https://spin.atomicobject.com/2020/03/18/dev-task-automation/),*starterpack* pour mettre en place les bases de votre workflow d'automatisation en shell
 - [Semantic Versioning 2.0.0](https://semver.org/), standard de versionnement expliqué et détaillé pour la gestion des dépendances dans les systèmes
 - [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/), améliorer sa capacité de *pull*
 - [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/amp/)
@@ -1656,24 +1645,24 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 - [Webperf: Boost Your PHP Apps With 103 Early Hints](https://dunglas.dev/2023/10/webperf-boost-your-php-apps-with-103-early-hints/), de Kévin Dunglas sur l'usage du code status 103 pour améliorer les performences des services web (minimiser la latence perçue)
 - [File upload security and good practices checklist](https://github.com/dilaouid/shitshit/blob/main/backend-good-practices-security/FILE_UPLOAD.md)
 - [Why History Needs Software Piracy](https://technologizer.com/2012/01/23/why-history-needs-software-piracy/), de Benj Edwards, publié sur [Technologiser](https://technologizer.com/)
-- [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations 
+- [Advice From The CIA: How To Sabotage Your Workplace](https://www.corporate-rebels.com/blog/cia-field-manual), de Joost Minnaar. Un aperçu de ce document publié par la CIA lors de la seconde guerre mondiale et comment ces conseils de sabotage se retrouvent aujourd'hui dans les organisations
 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/), de Charlotte Hu, publié dans le journal [Scientific American](https://www.scientificamerican.com/page/about-scientific-american/)
 - [The Two Edged Sword](https://www.cs.tufts.edu/~nr/cs257/archive/jim-gettys/X.html), de [Jimmy Getty](https://gettys.wordpress.com/), co auteur du système [X Windows](https://en.wikipedia.org/wiki/X_Window_System) et a travaillé sur la spécification [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc2068.txt) avec Roy Fielding à l'[IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)
 - [Queueing : An interactive study of queueing strategies](https://encore.dev/blog/queueing), de Sam Rose. Un excellent article interactif pour comprendre les différentes techniques de file
-- [Understanding MySQL CPU Usage: Tools and Techniques ](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a), de Roman Agabekov
+- [Understanding MySQL CPU Usage: Tools and Techniques](https://dev.to/drupaladmin/understanding-mysql-cpu-usage-tools-and-techniques-4b2a), de Roman Agabekov
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator), de Ryan Fleury. Sur la gestion de la mémoire en C
 - [Cognitive load is what matters](https://zakirullin.md/cognitive), de [Artem Zakirullin](https://zakirullin.md/)
 - [Le piège JavaScript](https://www.gnu.org/philosophy/javascript-trap.html), de Richard Stallman
 
-
 ### Papiers
 
+- [Boids : Background and Update](https://www.red3d.com/cwr/boids/), de Craig Reynolds, le site sur le travail fondateur sur le modèle de boids pour simuler les systèmes de flocking (déplacement coordoné)
 - [Out of the Tar Pit, Moseley & Marks](http://curtclifton.net/papers/MoseleyMarks06a.pdf), papier fondateur sur l'émergence et la gestion de la complexité dans le logiciel et la construction de systèmes d'information. **LP++**
 - [How Do People Organize Their Desks? Implications for the Design of Office Information Systems, Malone](https://www.researchgate.net/publication/220515815_Malone_T_How_Do_People_Organize_Their_Desks_Implications_for_the_Design_of_Office_Information_Systems_ACM_Transactions_on_Office_Information_Systems_11_99-112), analyse du rôle de la spatialisation/localisation spatiale dans le processus de recherche et de l'accès à la mémoire
 - [How did Dennis Ritchie Produce his PhD Thesis? A Typographical Mystery](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf), un papier de Brian Kernighan sur la thèse perdue de Dennis Ritchie et comment a-t-il pu la mettre en page étant donné sa complexité typographique et les programmes de préparation de document de l'époque
 - [Document preparation archeology](https://www.cs.princeton.edu/~bwk/202/index.html), Brian Kernighan explore les premiers travaux et programmes dédiés à la préparation de document et à la typographie informatique
 - [Programming language semantics:It’s easy as 1,2,3](https://t.co/GbsQMnAyKZ), par GRAHAM HUTTON
-- [RRB-Trees: Efficient Immutable Vectors ](https://infoscience.epfl.ch/record/169879?ln=en), apprendre comment fonctionne et comment implémenter des vecteurs immutables pour la programmation fonctionnelle
+- [RRB-Trees: Efficient Immutable Vectors](https://infoscience.epfl.ch/record/169879?ln=en), apprendre comment fonctionne et comment implémenter des vecteurs immutables pour la programmation fonctionnelle
 - [MapReduce: Simplified Data Processing on Large Clusters](https://t.co/uOCCUyxsC5), de Jeffrey Dean and Sanjay Ghemawat (Google) sur la procédure MapReduce pour gérer et générer des grands volumes de données
 - [TAO: Facebook’s Distributed Data Store for the Social Graph](https://t.co/mjoQTRjk7c), de Nathan Bronson, Zach Amsden, George Cabrera, Prasad Chakka, Peter Dimov, Hui Ding, Jack Ferris, Anthony Giardullo, Sachin Kulkarni, Harry Li, Mark Marchukov
 Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Modèle de données et d'API pour la gestion de graphes représentant des réseaux sociaux
@@ -1691,6 +1680,7 @@ Dmitri Petrov, Lovro Puzar, Yee Jiun Song, Venkat Venkataramani (Facebook). Mod�
 
 Le *coeur* (ou l'âme ?) du web :
 
+- [Luke’s Wild Website](https://www.lkhrs.com/), blog de Luke Harris, developpeur et designeur
 - [Arpit Bhayani](https://arpitbhayani.me/blogs), le blog d'Arpit Bhayani (software, architecture systèmes, protocoles, base de données)
 - [Cybercultural](https://cybercultural.com/), des chroniques sur l'histoire d'internet et du web
 - [Kent Beck (substack)](https://substack.com/@kentbeck/posts), ses posts
@@ -1699,7 +1689,7 @@ Le *coeur* (ou l'âme ?) du web :
 - [Simon Willison’s Weblog](https://simonwillison.net/), le blog de Simon Willison, co-créateur du framework Django, développeur open source. Excellente curation et ligne éditoriale
 - [Kev Quirk (en)](https://kevq.uk/), Kev Quirk travaille dans la sécurité informatique et tient un petit blog passionant
 - [Tiny Projects (en)](https://tinyprojects.dev/), l'auteur y parler de tout un tas de petits projets qu'il tente, documente et essaie parfois de mettre en production. Assez passionant
-- [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets) 
+- [Filina consulting (en)](https://afilina.com/), [Anna Filina](https://twitter.com/afilina?s=20&t=hsMUOt5TRY3Tl4bjrh43mA) est développeuse, consultante et intervient sur du legacy code. Elle est spécialisée dans la maintenance de projets et le développements de tests. Elle propose sur son site un tas de ressources (tutoriels, conferences, billets)
 - [David A. Wheeler’s Personal Home Page](https://dwheeler.com), le site de David A. Wheeler, un daron du logiciel open-source, de la sécurité logicielle etc. Nombreux articles et livres accessibles gratuitement.
 - [joearms.github.io](https://joearms.github.io/index.html#Index), blog de Joe Armstrong, *Erlang and other stuff*
 - [jwz.org](https://www.jwz.org), le site de [Jamie Zwinski](https://fr.wikipedia.org/wiki/Jamie_Zawinski). Un des cofondateurs de Netscape et de Mozilla.org. Voir son [blog ici](https://www.jwz.org/bloh) ou ses [articles techniques là](https://www.jwz.org/doc/)
@@ -1720,7 +1710,7 @@ Le *coeur* (ou l'âme ?) du web :
 - [gingerBill](https://www.gingerbill.org/), le blog du créateur du langage [Odin](https://odin-lang.org/)
 - [The stateless blog](https://blog.stateless.co/), de [Mike Kelly](https://blog.stateless.co/about)
 
-Listes : 
+Listes :
 
 - [Tech Blogs, une liste filtrée de blogs techs (en)](https://tech-blogs.dev/)
 - [blogroll (en)](https://blogroll.org/), un blog qui liste des bons blogs
@@ -1737,8 +1727,7 @@ Listes :
 - [L’actualité de la Tech à travers 49 podcasts francophones](https://blog.link-value.fr/actualite-tech-podcasts-9b327345e3af), liste de podcasts web, mobile, ops, etc. francophones
 - [Radio Devops](https://shows.acast.com/radio-devops), le podcast des Compagnons du DevOps
 
-
-### Cours 
+### Cours
 
 - [Litterature as data](https://www.hum307.com/), cours de [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) et [Meredith Martin](https://english.princeton.edu/people/meredith-martin), un cours d'introduction à la manipulation de textes littéraires et de données en général (*Digital Humanities*)
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/), un cours de Brian "Beej" Hall continuellement mis à jour depuis 1995 sur la programmation et les protocoles réseau. Exemples initialement en C, une nouvelle version est éditée en s'appuyant sur le langage Python. [Voir la version C](https://beej.us/guide/bgnet/html/split/). [Voir le site de Brian Hall](https://beej.us/guide/)
@@ -1763,7 +1752,7 @@ Listes :
 - [Are we there yet ?](https://youtu.be/ScEPu1cs4l0), Rich Hickey
 - [Hammock Driven Development](https://youtu.be/f84n5oFoZBc), Rich Hickey
 - [Is Software Engineering Still an Oxymoron?](https://www.youtube.com/watch?v=D43PlUr1x_E), conférence organique et transdisciplinaire d'Alan Key (GOTO 2021), le lien entre le développement informatique, l'ingénieurie et la science.
-- [Rethinking CS Education | Alan Kay, CrossRoads 2015 ](https://www.youtube.com/watch?v=N9c7_8Gp7gI), conférence d'Alan Key sur le système éducatif et la manière de former au développement informatique avec beaucoup de recul
+- [Rethinking CS Education | Alan Kay, CrossRoads 2015](https://www.youtube.com/watch?v=N9c7_8Gp7gI), conférence d'Alan Key sur le système éducatif et la manière de former au développement informatique avec beaucoup de recul
 - [The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY),  Alan Kay at OOPSLA 1997, toujours très transversal, sur les origines de l'OOP et ses ambitions initiales (produire des sytèmes à grande échelle)
 - [Same-origin policy: The core of web security, OWASP Wellington](https://youtu.be/zul8TtVS-64), la Same Origin Policy (*SOP*) merveilleusement bien expliquée. La vidéo de **référence sur le sujet**. Une spécification implémentée par les navigateurs, à connaître (au moins vaguement) pour tous les développeur·ses web
 - [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8), Linus Torvalds présente Git chez Google. Un classique.
@@ -1783,7 +1772,7 @@ Listes :
 - [*Microservices*](https://www.youtube.com/watch?v=y8OnoxKotPQ), de Krazam
 - [*Positive Affirmations for Site Reliability Engineers*](https://www.youtube.com/watch?v=ia8Q51ouA_s), de Krazam. Et [SRENITY ONLINE, le site web pour trouver la sérénité](https://www.srenity.online/)
 - [*Interview with Senior JS Developer in 2022*, de [Kai Lentit (Programmers are also human)](https://www.youtube.com/@programmersarealsohuman5909/videos)
-](https://youtu.be/Uo3cL4nrGOk)
+](<https://youtu.be/Uo3cL4nrGOk>)
 - [Wat](https://www.destroyallsoftware.com/talks/wat), de Gary Bernhardt. Exploration des arcanes de l'implémentation de différents langages
 - [ServerlessHorrors](https://serverlesshorrors.com/), une compilation d'histoires d'horreur d'utilisateurs de services *serverless*
 - [xkcd](https://xkcd.com/)
@@ -1805,6 +1794,8 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 ### Chaînes YouTube
 
+- [À la découverte des graphes](https://www.youtube.com/@a_la_decouverte_des_graphes?app=desktop), excellente chaîne française entièrement dédiée aux graphes (théorie et pratique)
+- [Asianometry](https://www.youtube.com/@Asianometry), excellent travail d'archive sur les technologies informatiques et les périodes majeures de l'IT
 - [Krazam (en)](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A), un humour tech de niche unique au monde
 - [ici Amy Plant (fr)](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng), cherchez pas cette meuf produit du contenu unique
 - [The Coding Train (fr)](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), l'innénarable Daniel Shiffman. Apprendre plein de trucs en codant des petits projets dans le fun
@@ -1818,7 +1809,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 ### Playlists
 
 - [Engineering Blogs Dissections](https://www.youtube.com/playlist?app=desktop&list=PLsdq-3Z1EPT0RrDebPvBNlmuXDfT6Qs2T), d'[Arpit Bhayani](https://arpitbhayani.me/). Série de vidéos qui *review* des articles techniques présentant la solution trouvée à des problèmes pratiques de design et de systèmes
-- [MIT Course : Structure and Interpretation of computer programs, 1986 ](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
+- [MIT Course : Structure and Interpretation of computer programs, 1986](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 - [Playlist de conférences et vidéos informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
 - [JavaScript Objects and Prototypes In-depth](https://youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u), excellente série de vidéos détaillées pour bien comprendre les specs de JS et de son système de prototypes
 - [Le tribunal des bureaux](https://www.youtube.com/watch?v=YglE-FnSd3g&list=PLDN-m4HWH8MBKJLYIK-80qJBBkVJbPo9p), cette série est un ovni qui n'a rien à envier aux Monty Ptython. Sous couvert d'humour (on est là avant tout pour se marrer) [ackboo](https://twitter.com/ackboo), journaliste chez Canard PC et détenteur de la chaire de bureaulogie au Collège de France, livre ici une prestation de santé publique qui devrait être financée par la sécu. Vous ne regarderez plus jamais votre bureau et celui des autres de la même manière. Il est peut-être temps de changer votre bureau pour vous respectez davantage et éspérer vivre plus longtemps en bonne santé. Pour les passioné·es de bureaulogie (tous niveaux confonfus). *La passion oui, le bordel non !*
@@ -1831,12 +1822,11 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 - [suckless.org](https://suckless.org/philosophy/), manifeste pour créer du meilleur software
 - [*Publish On your Own Site, Syndicate Elsewhere*(POSSE)](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité, et garder le contrôle sur votre contenu
-- [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente 
+- [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente
 - [mother fucking websites](https://duckduckgo.com/?q=motherfuckung+website+&t=fpas&ia=web), les forks de l'original qui surencherissent avec humour
 - [The Rise of ``Worse is Better'' (en)](https://www.jwz.org/doc/worse-is-better.html)
 - [Hypermedia Systems](https://hypermedia.systems/), retour aux idées fondamentales du web pour designer des sites web pilotés par les hypermedia et les contraintes REST. [Accesible en ligne gratuitement](https://hypermedia.systems/book/contents/)
 - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/), [d'Oskar Wickström](https://wickstrom.tech/). Une exploration légèrement provocatrice d'un design minimaliste du web basé sur des fonts monospace.
-
 
 ## Contribuer à des projets open-source
 
@@ -1844,6 +1834,7 @@ Par où commencer ? Comment faire ?
 
 - [first timers only](https://www.firsttimersonly.com/), un guide pour rentrer dans la contribution à l'open-source
 - [Producing Open Source Software](https://producingoss.com/en/index.html), un guide pour bien démarrer un projet open-source
+- [Open Source Guides](https://opensource.guide/), Open source software is made by people just like you. Learn how to launch and grow your project.
 
 ## Rester informé·e
 
@@ -1852,7 +1843,6 @@ Par où commencer ? Comment faire ?
 - [Le Journal du Net](https://www.journaldunet.com/)
 - [w3techs](https://w3techs.com/), des études sur l'usage des différentes technologies du web
 - [La newsletter de developpez.com](https://www.developpez.com/newsletter/)
-
 
 ## Prendre soin de soi
 
@@ -1878,9 +1868,10 @@ Des heuristiques à la volée :
 - [Stacer](https://github.com/oguzhaninan/Stacer), optimisation et monitoring de votre machine linux, avec une interface graphique sympa
 - [backup-manager](https://github.com/sukria/Backup-Manager), un programme [configurable](https://doc.ubuntu-fr.org/backup-manager), scriptable, simple et puissant pour faire des backups automatiques ou manuels, complets/incrémentaux, de vos données et vos bases de données. Que vous utilisiez ce logiciel ou un autre, peu importe, la première sécurité c'est de ne pas perdre vos données. *Tape is cheap, and `rm` is forever*.
 
-
 ## Géométrie, art génératif, algorithmes, procédural
 
+- [Euler and Verlet Integration for Particle Physics](https://www.gorillasun.de/blog/euler-and-verlet-integration-for-particle-physics/), sur l'excellent site [Gorilla Sun](https://www.gorillasun.de/)
+- [strudel repl](https://strudel.cc/), une plateforme web pour coder de la musique dynamique sous la forme d'un *repl* (*read eval print loop*)
 - [cables](https://cables.gl/), un toolkit pour générer du contenu interactif
 - [Red Blob Games](https://www.redblobgames.com/), le site d'Amit Patel. **Un bijou de pédagogie** sur les structures de données, algorithmes, la génération procédurale etc. Une vrai référence notamment sur [la manipulation des grilles hexagonales](https://www.redblobgames.com/grids/hexagons/) et les algorithmes de *pathfinding*. Chaque article est garni de démos interactives, révisé sans arrêt. Contenu de très grande qualité. **++**
 - [3DMATH.XYZ](https://endesga.xyz/), un site web pédagogigque sur les mathématiques de la 3D
@@ -1900,8 +1891,8 @@ Des heuristiques à la volée :
 - [André jouette: dictionnaire d'orthographe et d'expression ecrite](https://www.amazon.fr/Dictionnaire-dorthographe-dexpression-%C3%A9crite-Jouette/dp/2850362247)
 - [ACLF](https://www.associationdescorrecteurs.fr/), Association des Correcteurs de la Langue Française. Vous y trouverez notamment les liens vers [les outils indispensables](https://www.associationdescorrecteurs.fr/outils/les-indispensables/) reconnus comme tels par toute la profession
 - [Voir l'entrée sur `wwb`](#boîte-à-outils)
+- [La typographie française](https://www.debian.org/international/french/typographie), les bases, publié sur le site de debian.org
   
-
 ## Dépôts
 
 D'autres dépôts comme celui-ci.
@@ -1939,7 +1930,7 @@ D'autres dépôts comme celui-ci.
 - [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks), une liste de ressources de qualité pour les développeurs frontend
 - [css-protips](https://github.com/AllThingsSmitty/css-protips), un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui
 - [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist), liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
-- [Frontend stuff](https://github.com/moklick/frontend-stuff), liste de tous les frameworks et libs côté client (CSS et JS surtout) 
+- [Frontend stuff](https://github.com/moklick/frontend-stuff), liste de tous les frameworks et libs côté client (CSS et JS surtout)
 
 ### Développement de jeux vidéos
 
@@ -1950,7 +1941,6 @@ D'autres dépôts comme celui-ci.
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/), un classique de Glenn Fiedler sur son site [Gaffer On Games](https://gafferongames.com/)
 - [Twine](https://twinery.org/), outil open-source pour développer des jeux narratifs interactifs
 - [Leaving Rust gamedev after 3 years](https://loglog.games/blog/leaving-rust-gamedev/)
-
 
 ### Applications web et réseaux à héberger *soi-même*
 
@@ -1975,7 +1965,7 @@ D'autres dépôts comme celui-ci.
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php), une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php), des principes de clean code appliqués à PHP
-- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP 
+- [awesome PHP security](https://github.com/guardrailsio/awesome-php-security), une liste organisée de ressources pour la sécurité des applications PHP
 
 #### Java
 
@@ -2019,7 +2009,7 @@ D'autres dépôts comme celui-ci.
 
 - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
 - [The design system primer](https://github.com/donnemartin/system-design-primer), dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet 
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning), une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
 - [professional-programming](https://github.com/charlax/professional-programming), collection de ressources pour apprendre sur tout un tas de sujets liés aux webs
@@ -2068,10 +2058,9 @@ Les livres ça coute cher. Heureusement on en trouve plein en ligne gratuitement
 
 Pour cela on peut trouver pas mal de vieux livres mais qui restent toujours pertinent sur [recyclelivre.com](https://www.recyclivre.com/shop/11600-), une recyclerie de livres en ligne. On peut facilement repartir avec des livres de qualité pour quelques euro. En plus recyclelivre fait de la réinsertion sociale et verse une partie de ses bénéfices à des associations écolos.
 
-Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly. 
+Certaines villes ont peut être encore la chance d'avoir des *Librairies médicales et scientifiques*, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly.
 
 Si vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement [dès qu'on s'éloigne de la capitale](https://www.chienlit.com/librairies-paris-litterature-informatique/)...
-
 
 ## Vivre de son travail
 
@@ -2111,5 +2100,3 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 - [homajob](https://homajob.com/)
 - [remoteok](https://remoteok.com/)
 - [remotive](https://remotive.com/)
-
-
