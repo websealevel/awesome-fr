@@ -276,9 +276,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Lecture : articles, livres techniques (informatique, mathématiques)](#lecture--articles-livres-techniques-informatique-mathématiques)
 	- [Trouver des livres techniques d'occasion pas cher](#trouver-des-livres-techniques-doccasion-pas-cher)
 	- [Vivre de son travail](#vivre-de-son-travail)
-		- [Vendre des templates](#vendre-des-templates)
-		- [Vendre des articles](#vendre-des-articles)
-		- [Trouver du boulot à distance (*remote*)](#trouver-du-boulot-à-distance-remote)
+		- [Écrire des articles](#écrire-des-articles)
 
 ## Comme évaluer la *santé* d'un dépôt ?
 
@@ -1551,6 +1549,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### IA génératives, LLMs : reflexions et ressources utiles
 
+- [From Technical Debt to Cognitive and Intent Debt Rethinking software health in the age of AI](https://queue.acm.org/detail.cfm?id=3807966Link), de Margaret-Anne Storey. [Sous forme de présentation (slides)](https://speakerdeck.com/margaretstorey/from-technical-debt-to-cognitive-and-intent-debt-rethinking-software-health-in-the-age-of-ai)
 - [The Future Of Refactoring, Part 1 : Meta-Dialog with AI](https://alexbunardzic.substack.com/p/the-future-of-refactoring-part-1), d'Alex Bunardzic
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay), de Charity Majors
 - [Quick but worthwhile links](https://martinfowler.com/articles/20250806-links.html), compilation d'articles sur l'usage de l'IA en informatique, Martin Fowler
@@ -2064,19 +2063,7 @@ Si vous avez des adresses de librairies physiques pour des livres techniques en 
 
 ## Vivre de son travail
 
-### Vendre des templates
-
-Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
-
-- [themeforest.net](https://themeforest.net/)
-- [monsterone.com](https://monsterone.com/)
-- [codester.com](https://www.codester.com/)
-- [creativemarket.com](https://creativemarket.com/)
-- [designhill.com](https://www.designhill.com/)
-- [templatemonster.com](https://www.templatemonster.com/)
-- [mojomarketplace.com](https://www.mojomarketplace.com/)
-
-### Vendre des articles
+### Écrire des articles
 
 - [CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms), une liste de sites/éditeurs à qui vous pouvez soumettre des articles techniques contre rémunération
 - [digitalocean](https://www.digitalocean.com/community/pages/write-for-digitalocean), proposer des articles sur l'administration et l'écosystème linux, Docker ou la sécurité informatique. Seuls des articles portant sur des logiciels open-source sont acceptés. En voici une liste non exhaustive, pour en voir davantage [rendez-vous sur ce dépôt](https://github.com/malgamves/CommunityWriterPrograms).
@@ -2089,14 +2076,3 @@ Vendre des templates HTML/CSS/JS, plugins, graphismes etc. :
 - [draft.dev](https://draft.dev/write)
 - [honeybadger](https://www.honeybadger.io/blog/write-for-us/), php, ruby, python
 - [linode](https://www.linode.com/lp/write-for-linode/)
-
-### Trouver du boulot à distance (*remote*)
-
-- [AngelListTalent](https://angel.co/)
-- [REMOTE.CO](https://remote.co/)
-- [We Work Remotely](https://weworkremotely.com/)
-- [flexjobs](https://www.flexjobs.com/)
-- [authentic jobs](https://authenticjobs.com/)
-- [homajob](https://homajob.com/)
-- [remoteok](https://remoteok.com/)
-- [remotive](https://remotive.com/)
