@@ -749,6 +749,8 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [Neocities](https://neocities.org/), [Neocities](https://fr.wikipedia.org/wiki/Neocities) est un hébergeur web ayant pour objectif de faciliter la création de sites internet personnels afin d'offrir une alternative aux réseaux sociaux. Il s'inscrit dans la continuité du légendaire [Geocities](https://www.lemonde.fr/technologies/article/2010/11/02/la-memoire-de-geocities-compilee-en-un-fichier_1434450_651865.html), un ancien service d'hébergement web gratuit fondé en 1994, fermé en 2009
 - [GitHub Pages](https://pages.github.com/), GitHub offre la possibilité d'héberger un site statique
+- [Mini-Tools upload](https://mini-tools.uk/upload), téléverser une image et obtenir une URL directe partageable sans compte. Propose également une suite d'outils navigateur ([consulter le dépôt Github](https://github.com/knsjd25/nxcmms) du projet)
+
 
 ## Mots de passe
 
