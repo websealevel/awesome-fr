@@ -1806,6 +1806,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 - [DesignerUP (en)](https://www.youtube.com/DesignerUp), améliorez votre savoir-faire en UI/UX et design produit
 - [ParfaitementWeb (fr)](https://www.youtube.com/c/ParfaitementWeb), une chaîne très appréciable qui est *content first*, va a l'essentiel et dont le contenu est de qualité sans chercher à capitaliser sur les tendances et montre un état des lieux honnête du développement web
 - [Galileo51 Galilei (fr)](https://www.youtube.com/channel/UCXdBefIuCkeLl2IYJaZyMdQ), conférences sous-titrées en français sur la physique ou l'informatique/logiciel (oui c'est la chaine de l'auteur principal, un peu d'auto-promotion mais impartiale et objective)
+- [we want code (fr)](https://wewantcode.com/), chaîne et plateforme de tutos vidéo gratuits sur un large panel de technos web et système (HTML5, JS, React, Angular, Java, C#, Docker, AWS, SQL...), organisés en cours structurés sur le site
 
 ### Playlists
 
