@@ -193,7 +193,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 	- [Langages/technos à découvrir](#langagestechnos-à-découvrir)
 		- [Du bruit au bruit](#du-bruit-au-bruit)
 		- [SmallTalk](#smalltalk)
-		- [Assembleur](#assembleur)
+		- [Erlang](#erlang)
 		- [Prolog](#prolog)
 		- [Scheme (Lisp dialect)](#scheme-lisp-dialect)
 			- [Installtion](#installtion)
@@ -777,6 +777,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 > "DevOps is a meaningful term"
 
 - [Pourquoi notre workflow Devops est le plus efficace et rentable que vous puissiez trouver aujourd'hui (1ère partie)](https://bearstech.com/societe/blog/pourquoi-mettre-en-oeuvre-un-workflow-devops), de [bearstech](https://bearstech.com/)
+- [Devops exercises](https://github.com/bregman-arie/devops-exercises), une collection d'exercices et de corrigés sur de nombreux sujets et technologies
 
 ## Tests
 
@@ -1324,7 +1325,9 @@ Ce dépôt n'échappe pas à la règle et ajoute du *bruit au bruit*. Cela repr�
 - [Byte Magazine (1981)](https://archive.org/details/byte-magazine-1981-08/mode/2up), célèbre édition de Byte Magazine couvrant le langage SmallTalk
 - [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html), liste de lives gratuits à télécharger sur SmallTalk, de [Stéphane Ducasse (INRIA)](http://stephane.ducasse.free.fr/index.html)
 
-### Assembleur
+### Erlang
+
+- [Learn You Some Erlang for great good!](https://learnyousomeerlang.com/), un classique de Fred Hébert pour s'initier à Erlang. [Livre consultable en ligne](https://learnyousomeerlang.com/content)
 
 ### Prolog
 
@@ -1551,6 +1554,7 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 
 #### IA génératives, LLMs : reflexions et ressources utiles
 
+- [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html), de Martin Fowler, principes fondamentaux du pattern MVC
 - [From Technical Debt to Cognitive and Intent Debt Rethinking software health in the age of AI](https://queue.acm.org/detail.cfm?id=3807966Link), de Margaret-Anne Storey. [Sous forme de présentation (slides)](https://speakerdeck.com/margaretstorey/from-technical-debt-to-cognitive-and-intent-debt-rethinking-software-health-in-the-age-of-ai)
 - [The Future Of Refactoring, Part 1 : Meta-Dialog with AI](https://alexbunardzic.substack.com/p/the-future-of-refactoring-part-1), d'Alex Bunardzic
 - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay), de Charity Majors
@@ -1822,6 +1826,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 ## Fondamentaux, radical
 
+- [Local first software](https://www.inkandswitch.com/local-first-software/), ensemble de principes pour designer des applications fonctionnant sans connexion et respectant la vie privée des utilisateurs
 - [suckless.org](https://suckless.org/philosophy/), manifeste pour créer du meilleur software
 - [*Publish On your Own Site, Syndicate Elsewhere*(POSSE)](https://indieweb.org/POSSE), publier votre propre site, la pratique de publier son contenu d'abord sur son site avant de partager des liens sur les réseaux sociaux pour que les utilisateurs interagissent directement avec vous et votre contenu en priorité, et garder le contrôle sur votre contenu
 - [motherfuckingwebsite](https://motherfuckingwebsite.com/) : les qualités du web 1.0 par l'exemple et *à coup de batte*. Mais la question de fond est plus que légitime et pertinente
