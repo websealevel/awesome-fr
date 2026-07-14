@@ -476,6 +476,7 @@ Des icônes, des icônes et encore des icônes. Faites votre choix :
 - [clip path maker](https://bennettfeely.com/clippy/), créer des svg de manière interactive
 - [fancy border radius](https://9elements.github.io/fancy-border-radius/full-control.html)
 - [haeiki](https://haikei.app/), générer des assets svg
+- [creer-qr-code.fr](https://creer-qr-code.fr) - générer de QR codes au format svg et png
 
 ### Motifs
 
