@@ -579,6 +579,7 @@ Expérimenter et créer des animations CSS
 ### UI/UX
 
 - [figma](https://www.figma.com/), actuellement le meilleur éditeur de design (webapp/desktop) gratuit
+- [App Doodler](https://doodler.copymyui.com/), un outil libre et gratuit pour créer des captures App Store multilingues à partir de mises en page et de traductions réutilisables
 - [TextFaker](https://textfaker.com/), un outil libre pour créer des captures réalistes de conversations iPhone destinées aux maquettes, démonstrations et supports pédagogiques
 - [checklistdesing](https://www.checklist.design/), une collection des meilleures pratiques de design web
 - [laws of UX](https://lawsofux.com/), une autre collection des meilleures pratiques en design web, très bien faite, avec un résumé de ce qu'il faut retenir sur chaque post
