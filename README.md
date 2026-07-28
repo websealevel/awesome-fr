@@ -1288,6 +1288,8 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 
 Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.
 
+- [8ma Quick Transfer](https://t.8ma.co/fr/?from=github-awesome-fr) : service gratuit de transfert pair-à-pair de fichiers et dossiers dans le navigateur, sans compte ni installation. Sur Chrome et Edge pour ordinateur, un fichier peut atteindre 200 Go et un dossier 20 000 fichiers. L'émetteur et le destinataire doivent garder la page ouverte pendant le transfert.
+
 #### Convertir des documents, éditer des pdf
 
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
