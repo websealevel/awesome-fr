@@ -835,6 +835,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 - [Shrink my video!](https://acailly.github.io/shrink-my-video/), un outil en ligne pour compresser facilement vos vidéos (préférer handbrake pour faire tout le travail en local si possible)
 - [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), un très bon logiciel, simple et complet, de capture vidéo de son écran et du son, parfait pour enregistrer des screencasts et des tutos.
 - [OBS Studio](https://obsproject.com/fr), logiciel libre d'enregistremetn vidéo et de streaming en direct multiplateforme
+- [LiveFaceSwap AI](https://livefaceswap.ai/), outil de transformation vidéo en temps réel (échange de visages, changement de tenue et restylisation) disponible sur le web et sous Windows. Les comptes éligibles bénéficient de jusqu’à 180 secondes d’essai selon le modèle ; la caméra virtuelle a été testée avec OBS
 
 ## Principes généraux et fondamentaux
 
