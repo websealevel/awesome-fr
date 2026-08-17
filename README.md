@@ -1292,6 +1292,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 #### Convertir des documents, éditer des pdf
 
 - [pandoc](https://pandoc.org/index.html) : convertisseur de document universel (par exemple markdown vers pdf). Très puissant, facile à scripter et automatiser
+- [gottrix](https://gottrix.app/), plus de 500 outils pour convertir et manipuler des PDF, images, fichiers audio/vidéo et modèles 3D, entièrement dans le navigateur via WebAssembly : rien n'est envoyé sur un serveur, tout reste en local (y compris hors ligne après la première visite). Gratuit, sans compte, disponible en plus de 25 langues. Code source fermé, mais aucune limite d'usage
 - [ImageMagick](https://imagemagick.org/index.php), L'éditeur d'images par excellence. Exemple, convertir une image en pdf au format A4 `convert input.jpg -page a4 output.pdf`
 - [pdftk (the pdf toolkit)](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/): concaténer/découper des pdf. Par exemple `pdftk input1.pdf input2.pdf output.pdf`
 
