@@ -1228,6 +1228,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 - [marpit](https://marpit.marp.app/), framework minimal pour créer des présentations en Markdown.
 - [Mark Doc](https://markdoc.io/), superset et framework Markdown, open-source, orienté publication de contenu. L'outil a été développé par Stripe, pour développer et maintenir sa documentation structurée, complexe et de qualité.
 - [Babel Mark 3](https://babelmark.github.io/), la spécification originale de Markdown (proposée par John Gruber) n'étant pas complète, de nombreuses implémentations de Markdown existent avec leurs spécificités. Babel Mark 3 vous permet de comparer le résultat (HTML) de nombreuses implémentations de Markdown  
+- [Markstream](https://github.com/Simon-He95/markstream-vue), bibliothèque open source pour afficher du Markdown en flux continu dans les interfaces de chat IA ; compatible avec Vue/Nuxt, React, Svelte, Angular et Vue 2, avec Mermaid, KaTeX et coloration syntaxique.
 
 ## Présentations (slides) avec Markdown
 
