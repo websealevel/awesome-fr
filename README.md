@@ -916,6 +916,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 - Une [sélection de livres](https://sgbd.developpez.com/livres/) par les membres de developpez.com
 - [Other MySQL Documentation](https://dev.mysql.com/doc/index-other.html), documentation de MySQL sur des aspects plus avancés ainsi que **des liens pour télécharger des bases de données avec des grand volumes de données** pour pratiquer sa compréhension du standard, de MySQL et des performances
 
+- [DarkMoon](https://github.com/ASCIT31/Dark-Moon), plateforme open source française de test d'intrusion autonome pilotée par IA et hébergée sur votre propre infrastructure. Elle couvre le web, les API, l'Active Directory et Kubernetes via un serveur MCP. Éditée en France par ASC IT.
 ### Sécurité des applications web / Audit
 
 - [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste et classifie l'ensemble de risques reconnus comme critiques pour les applications web
