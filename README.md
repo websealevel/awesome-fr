@@ -504,6 +504,7 @@ Expérimenter et créer des animations CSS
 - [web code tools](https://webcode.tools/), des outils clés en mains pour le développement web
 - [code my ui](https://codemyui.com/), inspirations et code snippets pour le web design/ui
 - [cssui](https://www.cssui.dev/), composants interactifs en CSS (sans JS)
+- [Hyperiux Vault](https://vault.hyperiux.com/), effets d'animation et composants interactifs pour Next.js, installables via une CLI qui copie le code source directement dans votre projet (effets gratuits disponibles)
 
 ### Gradients
 
