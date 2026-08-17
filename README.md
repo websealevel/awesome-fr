@@ -1090,6 +1090,8 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 ## Gestion de projet, gestion de l'apprentissage et des connaissances d'équipe
 
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_fr&utm_content=project_pricing_scope), boîte à outils gratuite dans le navigateur pour estimer les projets freelance, cadrer les changements de périmètre et préparer une réponse client. Fonctionne sans compte ni téléversement.
+
 - [Philippe Bourgau's XP Coaching Blog](https://philippe.bourgau.net/), des articles sur la gestion de projets et de la veille en pratique (comment travailler en accord avec les principes de l'extrem programmaing, gérer du code legacy, organisation des équipes, apprentissage et veille, etc.), par Philippe Bourgau versé dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
 - [Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading), des articles sur l'extrem reading et comment le mettre en pratique, par [Yoan Thirion](https://www.yoan-thirion.com/#home) versé aussi dans l'[eXtrem Programming (XP)](https://fr.wikipedia.org/wiki/Extreme_programming)
 
