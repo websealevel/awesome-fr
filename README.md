@@ -785,6 +785,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 ## Tests
 
+- [Agent QA](https://github.com/vostride/agent-qa), outil de QA au code source disponible et sans frais logiciels pour écrire et exécuter des tests web et mobiles en langage naturel (les services externes configurés peuvent être payants)
 - [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934), de Kent Beck;
 - [Test Desiderata](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3), de Kent Beck
 
