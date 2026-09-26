@@ -421,6 +421,8 @@ Quelques lectures utiles sur des aspects techniques de la typographie :
 - [colorspectrum](https://colorspectrum.design/generator.html)
 - [randomally](https://randoma11y.com/), générateur de combinaisons de couleurs
 
+> [Voir aussi la section consacrée à l'accessibilité](#accessibilité)
+
 ### Pack d’icônes/favicons
 
 Des icônes, des icônes et encore des icônes. Faites votre choix :
