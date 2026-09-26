@@ -72,7 +72,7 @@ Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](
 		- [Typographies/Fonts](#typographiesfonts)
 		- [Palettes de couleurs](#palettes-de-couleurs)
 		- [Pack d’icônes/favicons](#pack-dicônesfavicons)
-		- [Classic gif](#classic-gif)
+		- [Gif](#gif)
 		- [Images: photos, illustrations, svg](#images-photos-illustrations-svg)
 		- [Générateurs/Templates CSS](#générateurstemplates-css)
 		- [Générateur d'assets au format SVG](#générateur-dassets-au-format-svg)
@@ -437,7 +437,7 @@ Des icônes, des icônes et encore des icônes. Faites votre choix :
 - [icons8](https://icons8.com/)
 - [pixelarticons](https://pixelarticons.com/), des icônes en pixelart
 
-### Classic gif
+### Gif
 
 - [The 88x31 GIF Collection: Part 1](https://cyber.dabamos.de/88x31/index.html), des vieux gifs des années 90/2000
 
@@ -638,6 +638,7 @@ Expérimenter et créer des animations CSS
 - [Design and Develop Overview](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes souffrant de handicap
 - [Sensible Forms: A Form Usability Checklist](https://alistapart.com/article/sensibleforms/), améliorer l'accessibilité des formulaires HTML
+- [Good Background Colors for Readers: A Study of People with and without Dyslexia](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf), de Luz Rello et Jeffrey P. Bigham, Carnegie Mellon University. Une étude scientifique sur les meilleurs couleurs de fond à utiliser pour améliorer la lisibilité d'un texte sur moniteur
 
 #### Perfs et config
 
