@@ -786,6 +786,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [Pourquoi notre workflow Devops est le plus efficace et rentable que vous puissiez trouver aujourd'hui (1ère partie)](https://bearstech.com/societe/blog/pourquoi-mettre-en-oeuvre-un-workflow-devops), de [bearstech](https://bearstech.com/)
 - [Devops exercises](https://github.com/bregman-arie/devops-exercises), une collection d'exercices et de corrigés sur de nombreux sujets et technologies
+- [SolidPing](https://github.com/fclairamb/solidping), supervision de disponibilité et monitoring synthétique open source, avec pages de statut et alertes. Auto-hébergeable (binaire Go ou Docker)
 
 ## Tests
 
