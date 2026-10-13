@@ -1313,6 +1313,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 
 ## IA Génératives
 
+- [aigeneratornsfw.com](https://aigeneratornsfw.com/nsfw-ai-image-generator), création et retouche d’images non explicites pour adultes (18+), avec 10 crédits image quotidiens après inscription ; fonctions vidéo payantes.
 - [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/), une collection documentée de patterns dont s'inspirer dans un workflow basé sur l'interaction/intégration d'un LLM, guide/retex initialement écrit par [Lada Kesseler](https://github.com/lexler/augmented-coding-patterns);
 
 ## Androïd
