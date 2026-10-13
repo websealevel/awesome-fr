@@ -446,6 +446,7 @@ Des icônes, des icônes et encore des icônes. Faites votre choix :
 
 ### Images: photos, illustrations, svg
 
+- [PicCollages](https://piccollages.com/), créer gratuitement des collages photo dans le navigateur avec grilles, bordures réglables, texte, autocollants et téléchargement direct.
 - [unsplash](https://unsplash.com/)
 - [pexels](https://www.pexels.com/fr-fr/)
 - [drawkit](https://drawkit.com/)
