@@ -643,6 +643,8 @@ Expérimenter et créer des animations CSS
 - [Sensible Forms: A Form Usability Checklist](https://alistapart.com/article/sensibleforms/), améliorer l'accessibilité des formulaires HTML
 - [Good Background Colors for Readers: A Study of People with and without Dyslexia](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf), de Luz Rello et Jeffrey P. Bigham, Carnegie Mellon University. Une étude scientifique sur les meilleurs couleurs de fond à utiliser pour améliorer la lisibilité d'un texte sur moniteur
 
+- [Describe Image](https://describeimage.io/), générer des brouillons de texte alternatif et extraire du texte d’images ; deux générations gratuites par jour sans connexion, résultats à vérifier avant publication
+
 #### Perfs et config
 
 - [pingdom](https://tools.pingdom.com), tester le temps de chartement d'une page et obtenir un diagnostic
