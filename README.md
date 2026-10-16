@@ -342,6 +342,7 @@ Aller sur le dépôt puis :
 - [open library API](https://openlibrary.org/developers/api), l'API d'[Open Library](https://openlibrary.org/), un projet d'[Internet Archive](https://archive.org/), pour travailler sur les livres, auteurs, couvertures de livres, etc.
 - [the Keanu Reeves Whoa API](whoa.onrender.com), une API JSON très complète pour chaque "whoa" prononcé par l'acteur Keanu Reeves dans ses films
 - [Wadifa Info API](https://www.wadifa-info.com/developpeurs), une API JSON gratuite et sans clé sur l'emploi public au Maroc : concours ouverts, salaires de la fonction publique par grade, jours fériés et vacances scolaires (données CC BY 4.0)
+- [CurlShot](https://curlshot.com/), une API de captures d'écran : une requête GET transforme l'adresse d'une page web en image PNG, JPEG, WebP ou en PDF (page entière, mobile, mode sombre), formule gratuite de 100 captures par mois sans carte bancaire
 
 ### Opendata/France
 
