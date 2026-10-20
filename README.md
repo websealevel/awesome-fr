@@ -1314,6 +1314,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 ## IA Génératives
 
 - [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/), une collection documentée de patterns dont s'inspirer dans un workflow basé sur l'interaction/intégration d'un LLM, guide/retex initialement écrit par [Lada Kesseler](https://github.com/lexler/augmented-coding-patterns);
+- [yylo](https://github.com/yylo-dev/yylo), orchestrateur en ligne de commande pour agents de codage IA : kanban, gestion des tâches et boucles de validation/fusion dans des worktrees Git, open source et gratuit (MIT);
 
 ## Androïd
 
