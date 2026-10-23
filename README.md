@@ -786,6 +786,7 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 - [Pourquoi notre workflow Devops est le plus efficace et rentable que vous puissiez trouver aujourd'hui (1ère partie)](https://bearstech.com/societe/blog/pourquoi-mettre-en-oeuvre-un-workflow-devops), de [bearstech](https://bearstech.com/)
 - [Devops exercises](https://github.com/bregman-arie/devops-exercises), une collection d'exercices et de corrigés sur de nombreux sujets et technologies
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark), script Bash sous licence MIT qui mesure en une minute environ les performances d'un serveur Linux (CPU et mémoire avec sysbench, IOPS en lecture et écriture aléatoires 4k avec fio). Demande avant d'installer sysbench ou fio et n'envoie rien sans jeton d'envoi
 
 ## Tests
 
