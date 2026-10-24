@@ -642,6 +642,7 @@ Expérimenter et créer des animations CSS
 - [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes souffrant de handicap
 - [Sensible Forms: A Form Usability Checklist](https://alistapart.com/article/sensibleforms/), améliorer l'accessibilité des formulaires HTML
 - [Good Background Colors for Readers: A Study of People with and without Dyslexia](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2017/colors.pdf), de Luz Rello et Jeffrey P. Bigham, Carnegie Mellon University. Une étude scientifique sur les meilleurs couleurs de fond à utiliser pour améliorer la lisibilité d'un texte sur moniteur
+- [Relevé d'accessibilité gratuit](https://claren.fr/outils/tester-accessibilite-site/), dix points d'accessibilité de la page d'accueil d'un site, en quelques secondes et sans inscription ; ne remplace pas un audit RGAA
 
 #### Perfs et config
 
